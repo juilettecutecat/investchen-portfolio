@@ -1,0 +1,201 @@
+{
+  "inception_date": "2026-05-06",
+  "last_updated": "2026-05-11",
+  "currency": "GBP",
+  "initial_capital_gbp": 5000,
+  "cash_gbp": 1200.00,
+  "fx_rate_gbpusd": 1.363,
+  "positions": {
+    "MU": {
+      "shares": 1.2939,
+      "avg_cost_gbp": 750.00,
+      "avg_cost_usd": 790.00,
+      "current_price_usd": 790.00,
+      "entry_date": "2026-05-11",
+      "strategy": "value_investor_follow+momentum",
+      "confidence": 5,
+      "thesis": "Tepper +200% MU position; HBM sold out through 2026; AI memory supercycle; Samsung strike tightening supply; FY2025 revenue +48.85% YoY earnings +997%",
+      "stop_loss_usd": null,
+      "hold_type": "investor_follow"
+    },
+    "LITE": {
+      "shares": 1.1340,
+      "avg_cost_gbp": 750.00,
+      "avg_cost_usd": 901.50,
+      "current_price_usd": 901.50,
+      "entry_date": "2026-05-11",
+      "strategy": "catalyst+value_investor_follow",
+      "confidence": 5,
+      "thesis": "Aschenbrenner #2 position 8.7%; Nasdaq-100 inclusion May 18 forces passive buying; Q3 revenue +90.1% YoY to $808M; optical interconnects are AI data center backbone",
+      "stop_loss_usd": null,
+      "hold_type": "investor_follow"
+    },
+    "AMZN": {
+      "shares": 3.0854,
+      "avg_cost_gbp": 600.00,
+      "avg_cost_usd": 265.06,
+      "current_price_usd": 265.06,
+      "entry_date": "2026-05-11",
+      "strategy": "value_investor_follow",
+      "confidence": 4,
+      "thesis": "3-style investor confluence: Druckenmiller new position + Ackman +65% + Coatue +$275M; AWS +28% YoY fastest 15 quarters; $200B AI capex 2026",
+      "stop_loss_usd": null,
+      "hold_type": "investor_follow"
+    },
+    "CEG": {
+      "shares": 2.2344,
+      "avg_cost_gbp": 500.00,
+      "avg_cost_usd": 305.00,
+      "current_price_usd": 305.00,
+      "entry_date": "2026-05-11",
+      "strategy": "sector_rotation+catalyst",
+      "confidence": 4,
+      "thesis": "Largest US private nuclear power producer post-Calpine; 20-yr PPAs Microsoft+Meta; AI power demand structural; Q1 2026 revenue beat $11.12B; oil spike elevates clean energy premium",
+      "stop_loss_usd": 289.75,
+      "hold_type": "sector_rotation"
+    },
+    "VRT": {
+      "shares": 1.9924,
+      "avg_cost_gbp": 500.00,
+      "avg_cost_usd": 341.99,
+      "current_price_usd": 341.99,
+      "entry_date": "2026-05-11",
+      "strategy": "sector_rotation+value_investor_follow",
+      "confidence": 4,
+      "thesis": "AI data center liquid cooling dominant; $15B backlog; Q1 +30% YoY beat; Coatue new position; 51% EPS growth guided 2026; cooling market 5x by 2033",
+      "stop_loss_usd": null,
+      "hold_type": "investor_follow"
+    },
+    "CRWV": {
+      "shares": 4.7909,
+      "avg_cost_gbp": 400.00,
+      "avg_cost_usd": 113.80,
+      "current_price_usd": 113.80,
+      "entry_date": "2026-05-11",
+      "strategy": "value_investor_follow+momentum",
+      "confidence": 4,
+      "thesis": "Aschenbrenner +672% calls Q4 2025; $100B revenue backlog record; AI GPU cloud; Wells Fargo $155 PT; 10% dip from guidance miss is entry opportunity",
+      "stop_loss_usd": null,
+      "hold_type": "investor_follow"
+    },
+    "MRNA": {
+      "shares": 7.2606,
+      "avg_cost_gbp": 300.00,
+      "avg_cost_usd": 56.32,
+      "current_price_usd": 56.32,
+      "entry_date": "2026-05-11",
+      "strategy": "catalyst",
+      "confidence": 3,
+      "thesis": "Hantavirus cruise ship outbreak catalyst +12% premarket; mRNA platform rapid deployment; Coatue new position Q4 2025; US health dept alert creates near-term vaccine demand",
+      "stop_loss_usd": 53.50,
+      "hold_type": "short_term"
+    }
+  },
+  "trade_history": [
+    {
+      "date": "2026-05-11",
+      "ticker": "MU",
+      "action": "BUY",
+      "shares": 1.2939,
+      "price_usd": 790.00,
+      "amount_gbp": 750.00,
+      "fx_rate": 1.363,
+      "strategy": "value_investor_follow+momentum",
+      "confidence": 5,
+      "thesis": "Tepper 200% add; HBM sold out 2026; AI memory supercycle; Samsung supply risk"
+    },
+    {
+      "date": "2026-05-11",
+      "ticker": "LITE",
+      "action": "BUY",
+      "shares": 1.1340,
+      "price_usd": 901.50,
+      "amount_gbp": 750.00,
+      "fx_rate": 1.363,
+      "strategy": "catalyst+value_investor_follow",
+      "confidence": 5,
+      "thesis": "Aschenbrenner 8.7% position; Nasdaq-100 inclusion May 18 passive buying; revenue +90% YoY"
+    },
+    {
+      "date": "2026-05-11",
+      "ticker": "AMZN",
+      "action": "BUY",
+      "shares": 3.0854,
+      "price_usd": 265.06,
+      "amount_gbp": 600.00,
+      "fx_rate": 1.363,
+      "strategy": "value_investor_follow",
+      "confidence": 4,
+      "thesis": "3-style investor confluence: Druckenmiller+Ackman+Coatue; AWS 28% YoY acceleration"
+    },
+    {
+      "date": "2026-05-11",
+      "ticker": "CEG",
+      "action": "BUY",
+      "shares": 2.2344,
+      "price_usd": 305.00,
+      "amount_gbp": 500.00,
+      "fx_rate": 1.363,
+      "strategy": "sector_rotation+catalyst",
+      "confidence": 4,
+      "thesis": "Nuclear AI power play; Calpine acquisition; Q1 earnings beat; oil spike cleanenergy premium"
+    },
+    {
+      "date": "2026-05-11",
+      "ticker": "VRT",
+      "action": "BUY",
+      "shares": 1.9924,
+      "price_usd": 341.99,
+      "amount_gbp": 500.00,
+      "fx_rate": 1.363,
+      "strategy": "sector_rotation+value_investor_follow",
+      "confidence": 4,
+      "thesis": "AI liquid cooling dominant; Coatue new position; $15B backlog; 30% YoY revenue growth"
+    },
+    {
+      "date": "2026-05-11",
+      "ticker": "CRWV",
+      "action": "BUY",
+      "shares": 4.7909,
+      "price_usd": 113.80,
+      "amount_gbp": 400.00,
+      "fx_rate": 1.363,
+      "strategy": "value_investor_follow+momentum",
+      "confidence": 4,
+      "thesis": "Aschenbrenner +672% call options; $100B backlog; guidance miss dip is entry; WF $155 PT"
+    },
+    {
+      "date": "2026-05-11",
+      "ticker": "MRNA",
+      "action": "BUY",
+      "shares": 7.2606,
+      "price_usd": 56.32,
+      "amount_gbp": 300.00,
+      "fx_rate": 1.363,
+      "strategy": "catalyst",
+      "confidence": 3,
+      "thesis": "Hantavirus catalyst +12% premarket; mRNA platform; Coatue new position; stop $53.50"
+    }
+  ],
+  "cumulative_return_pct": 0.0,
+  "weekly_returns": [],
+  "strategy_stats": {
+    "momentum": {"trades": 0, "wins": 0},
+    "catalyst": {"trades": 1, "wins": 0},
+    "value_investor_follow": {"trades": 4, "wins": 0},
+    "macro": {"trades": 0, "wins": 0},
+    "sector_rotation": {"trades": 2, "wins": 0}
+  },
+  "risk_mode": "NORMAL",
+  "notes": "Inception day 2026-05-11. 7 positions opened. Cash 24% (above 10-20% target) due to elevated geopolitical risk: US-Iran conflict, oil surging to $97.89/bbl WTI. Stop losses on short-term catalyst plays only (CEG $289.75, MRNA $53.50). Investor-follow positions held without stop per IC rules. INTC excluded despite +239% catalyst (>200% YTD screen). Watchlist: BE (Aschenbrenner #1 hold), GOOGL (Tepper buy), META (Ackman 10%).",
+  "investor_watchlists": {
+    "aschenbrenner": ["BE", "LITE", "CRWV", "INTC", "SNDK", "CORZ", "COHR", "TSEM"],
+    "tepper": ["MU", "GOOGL", "META", "BABA"],
+    "druckenmiller": ["AMZN", "XLF"],
+    "ackman": ["META", "AMZN", "PSUS"],
+    "coatue": ["NFLX", "AMAT", "VRT", "MRNA", "AMZN", "TSM", "DASH", "SPOT"],
+    "wood": ["TSLA", "CRSP", "AMD"],
+    "buffett": ["CB", "DPZ", "CVX", "NYT", "AXP"],
+    "burry": ["PLTR", "PFE", "HAL"]
+  }
+}
