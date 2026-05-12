@@ -1,16 +1,21 @@
 {
   "inception_date": "2026-05-06",
-  "last_updated": "2026-05-11",
+  "last_updated": "2026-05-12",
   "currency": "GBP",
   "initial_capital_gbp": 5000,
-  "cash_gbp": 1200.00,
-  "fx_rate_gbpusd": 1.363,
+  "cash_gbp": 683.96,
+  "fx_rate_gbpusd": 1.3519,
+  "total_value_gbp": 5183.28,
+  "cumulative_return_pct": 3.67,
   "positions": {
     "MU": {
       "shares": 1.2939,
       "avg_cost_gbp": 750.00,
       "avg_cost_usd": 790.00,
-      "current_price_usd": 790.00,
+      "current_price_usd": 795.00,
+      "current_value_gbp": 761.02,
+      "unrealized_pnl_gbp": 11.02,
+      "unrealized_pnl_pct": 1.47,
       "entry_date": "2026-05-11",
       "strategy": "value_investor_follow+momentum",
       "confidence": 5,
@@ -22,7 +27,10 @@
       "shares": 1.1340,
       "avg_cost_gbp": 750.00,
       "avg_cost_usd": 901.50,
-      "current_price_usd": 901.50,
+      "current_price_usd": 1053.09,
+      "current_value_gbp": 883.31,
+      "unrealized_pnl_gbp": 133.31,
+      "unrealized_pnl_pct": 17.77,
       "entry_date": "2026-05-11",
       "strategy": "catalyst+value_investor_follow",
       "confidence": 5,
@@ -34,7 +42,10 @@
       "shares": 3.0854,
       "avg_cost_gbp": 600.00,
       "avg_cost_usd": 265.06,
-      "current_price_usd": 265.06,
+      "current_price_usd": 271.00,
+      "current_value_gbp": 618.14,
+      "unrealized_pnl_gbp": 18.14,
+      "unrealized_pnl_pct": 3.02,
       "entry_date": "2026-05-11",
       "strategy": "value_investor_follow",
       "confidence": 4,
@@ -46,7 +57,10 @@
       "shares": 2.2344,
       "avg_cost_gbp": 500.00,
       "avg_cost_usd": 305.00,
-      "current_price_usd": 305.00,
+      "current_price_usd": 303.63,
+      "current_value_gbp": 501.72,
+      "unrealized_pnl_gbp": 1.72,
+      "unrealized_pnl_pct": 0.34,
       "entry_date": "2026-05-11",
       "strategy": "sector_rotation+catalyst",
       "confidence": 4,
@@ -58,7 +72,10 @@
       "shares": 1.9924,
       "avg_cost_gbp": 500.00,
       "avg_cost_usd": 341.99,
-      "current_price_usd": 341.99,
+      "current_price_usd": 360.00,
+      "current_value_gbp": 530.58,
+      "unrealized_pnl_gbp": 30.58,
+      "unrealized_pnl_pct": 6.12,
       "entry_date": "2026-05-11",
       "strategy": "sector_rotation+value_investor_follow",
       "confidence": 4,
@@ -67,28 +84,52 @@
       "hold_type": "investor_follow"
     },
     "CRWV": {
-      "shares": 4.7909,
-      "avg_cost_gbp": 400.00,
-      "avg_cost_usd": 113.80,
-      "current_price_usd": 113.80,
+      "shares": 8.344,
+      "avg_cost_gbp": 700.00,
+      "avg_cost_usd": 113.94,
+      "current_price_usd": 114.15,
+      "current_value_gbp": 704.55,
+      "unrealized_pnl_gbp": 4.55,
+      "unrealized_pnl_pct": 0.65,
       "entry_date": "2026-05-11",
+      "last_add_date": "2026-05-12",
       "strategy": "value_investor_follow+momentum",
       "confidence": 4,
-      "thesis": "Aschenbrenner +672% calls Q4 2025; $100B revenue backlog record; AI GPU cloud; Wells Fargo $155 PT; 10% dip from guidance miss is entry opportunity",
-      "stop_loss_usd": null,
+      "thesis": "Aschenbrenner +672% calls Q4 2025; $100B revenue backlog record; AI GPU cloud; BofA/DB targets $135-140; added at $114.15 — -39% from ATH $187",
+      "stop_loss_usd": 108.44,
       "hold_type": "investor_follow"
     },
+    "GOOGL": {
+      "shares": 1.739,
+      "avg_cost_gbp": 500.00,
+      "avg_cost_usd": 388.64,
+      "current_price_usd": 388.64,
+      "current_value_gbp": 499.96,
+      "unrealized_pnl_gbp": 0.00,
+      "unrealized_pnl_pct": 0.0,
+      "entry_date": "2026-05-12",
+      "strategy": "value_investor_follow",
+      "confidence": 4,
+      "thesis": "TRIPLE INVESTOR CONVERGENCE: Ackman (new $2B stake), Tepper (+29%), Druckenmiller (new 102K shares). Down 3% today on hot CPI = entry on dip. P/E 29.65 at $4.69T. AI search+Gemini+cloud.",
+      "stop_loss_usd": null,
+      "hold_type": "investor_follow",
+      "hold_min_date": "2026-08-12"
+    }
+  },
+  "closed_positions": {
     "MRNA": {
       "shares": 7.2606,
-      "avg_cost_gbp": 300.00,
-      "avg_cost_usd": 56.32,
-      "current_price_usd": 56.32,
       "entry_date": "2026-05-11",
+      "exit_date": "2026-05-12",
+      "entry_price_usd": 56.32,
+      "exit_price_usd": 52.88,
+      "cost_basis_gbp": 300.00,
+      "exit_value_gbp": 283.96,
+      "realized_pnl_gbp": -16.04,
+      "realized_pnl_pct": -5.35,
+      "exit_reason": "stop_loss_triggered",
       "strategy": "catalyst",
-      "confidence": 3,
-      "thesis": "Hantavirus cruise ship outbreak catalyst +12% premarket; mRNA platform rapid deployment; Coatue new position Q4 2025; US health dept alert creates near-term vaccine demand",
-      "stop_loss_usd": 53.50,
-      "hold_type": "short_term"
+      "notes": "Hantavirus catalyst played out; stop $53.50 triggered at $52.88. HIMS -14% biotech drag. Hot CPI = risk-off; cut weakest name."
     }
   },
   "trade_history": [
@@ -138,7 +179,7 @@
       "fx_rate": 1.363,
       "strategy": "sector_rotation+catalyst",
       "confidence": 4,
-      "thesis": "Nuclear AI power play; Calpine acquisition; Q1 earnings beat; oil spike cleanenergy premium"
+      "thesis": "Nuclear AI power play; Calpine acquisition; Q1 earnings beat; oil spike clean energy premium"
     },
     {
       "date": "2026-05-11",
@@ -175,25 +216,101 @@
       "strategy": "catalyst",
       "confidence": 3,
       "thesis": "Hantavirus catalyst +12% premarket; mRNA platform; Coatue new position; stop $53.50"
+    },
+    {
+      "date": "2026-05-12",
+      "ticker": "MRNA",
+      "action": "SELL",
+      "shares": 7.2606,
+      "price_usd": 52.88,
+      "amount_gbp": 283.96,
+      "fx_rate": 1.3519,
+      "strategy": "catalyst",
+      "confidence": 3,
+      "realized_pnl_gbp": -16.04,
+      "exit_reason": "stop_loss_triggered",
+      "thesis": "Stop $53.50 breached at $52.88. HIMS -14% biotech drag; hot CPI risk-off. Catalyst expired."
+    },
+    {
+      "date": "2026-05-12",
+      "ticker": "CRWV",
+      "action": "BUY",
+      "shares": 3.553,
+      "price_usd": 114.15,
+      "amount_gbp": 300.00,
+      "fx_rate": 1.3519,
+      "strategy": "value_investor_follow+momentum",
+      "confidence": 4,
+      "thesis": "Adding to conviction; BofA $140 / DB $135 targets; -39% from ATH; Aschenbrenner primary infrastructure bet"
+    },
+    {
+      "date": "2026-05-12",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "shares": 1.739,
+      "price_usd": 388.64,
+      "amount_gbp": 500.00,
+      "fx_rate": 1.3519,
+      "strategy": "value_investor_follow",
+      "confidence": 4,
+      "thesis": "TRIPLE CONVERGENCE: Ackman+Tepper+Druckenmiller all buyers. Down 3% on CPI = entry. Hold 3+ months."
     }
   ],
-  "cumulative_return_pct": 0.0,
+  "cumulative_return_pct": 3.67,
   "weekly_returns": [],
+  "daily_pnl": [
+    {
+      "date": "2026-05-11",
+      "pnl_gbp": 0.00,
+      "pnl_pct": 0.00,
+      "note": "Inception day — positions opened at market open"
+    },
+    {
+      "date": "2026-05-12",
+      "pnl_gbp": 183.28,
+      "pnl_pct": 3.67,
+      "note": "LITE +17.8%, VRT +6.1%, AMZN +3.0%, MU +1.5%, CEG +0.3%, CRWV +0.7%. MRNA stopped -5.4%. Net +£183.28."
+    }
+  ],
   "strategy_stats": {
     "momentum": {"trades": 0, "wins": 0},
     "catalyst": {"trades": 1, "wins": 0},
-    "value_investor_follow": {"trades": 4, "wins": 0},
+    "value_investor_follow": {"trades": 7, "wins": 0},
     "macro": {"trades": 0, "wins": 0},
     "sector_rotation": {"trades": 2, "wins": 0}
   },
   "risk_mode": "NORMAL",
-  "notes": "Inception day 2026-05-11. 7 positions opened. Cash 24% (above 10-20% target) due to elevated geopolitical risk: US-Iran conflict, oil surging to $97.89/bbl WTI. Stop losses on short-term catalyst plays only (CEG $289.75, MRNA $53.50). Investor-follow positions held without stop per IC rules. INTC excluded despite +239% catalyst (>200% YTD screen). Watchlist: BE (Aschenbrenner #1 hold), GOOGL (Tepper buy), META (Ackman 10%).",
+  "macro_context": {
+    "date": "2026-05-12",
+    "cpi_april_yoy": "3.8% vs 3.7% expected — hotter than forecast",
+    "oil_wti": "$101/barrel — US-Iran tensions escalating",
+    "fed_outlook": "Rate cuts pushed further out",
+    "spx_futures": "-0.4%",
+    "ndx_futures": "-0.8%",
+    "gbp_usd": 1.3519,
+    "sentiment": "BEARISH — inflation + geopolitical headwinds"
+  },
+  "notes": "Day 2 (2026-05-12). MRNA stop triggered at $52.88 (<$53.50 stop), realised -£16. LITE surged +17.8% on Nasdaq-100 inclusion May 18 catalyst. VRT +8.2% on Q1 beat. Added to CRWV at $114 (below BofA/DB targets $135-140). Initiated GOOGL on triple investor convergence during 3% CPI dip. Cash 13.2% — above 10% floor. All remaining 7 positions are structural AI/nuclear/tech, not rate-sensitive.",
+  "watchlist_tomorrow": [
+    {
+      "ticker": "LITE",
+      "note": "HOLD firm — Nasdaq-100 inclusion May 18 passive buying imminent. Up 17.8%, do NOT sell ahead of index event."
+    },
+    {
+      "ticker": "PLTR",
+      "note": "Buy target ~$130. Burry 66% conviction. DoD Maven $2.3B contract. Pentagon $1.5T budget proposal. Iran = defense premium."
+    },
+    {
+      "ticker": "META",
+      "note": "Ackman $2B + Tepper dual convergence. Entry below $700 preferred. Monitor earnings/guidance."
+    }
+  ],
   "investor_watchlists": {
     "aschenbrenner": ["BE", "LITE", "CRWV", "INTC", "SNDK", "CORZ", "COHR", "TSEM"],
     "tepper": ["MU", "GOOGL", "META", "BABA"],
-    "druckenmiller": ["AMZN", "XLF"],
-    "ackman": ["META", "AMZN", "PSUS"],
-    "coatue": ["NFLX", "AMAT", "VRT", "MRNA", "AMZN", "TSM", "DASH", "SPOT"],
+    "druckenmiller": ["AMZN", "GOOGL", "XLF"],
+    "ackman": ["META", "AMZN", "GOOGL", "PSUS"],
+    "coatue": ["NFLX", "AMAT", "VRT", "AMZN", "TSM", "DASH", "SPOT"],
     "wood": ["TSLA", "CRSP", "AMD"],
     "buffett": ["CB", "DPZ", "CVX", "NYT", "AXP"],
     "burry": ["PLTR", "PFE", "HAL"]
