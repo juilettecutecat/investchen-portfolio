@@ -1,0 +1,74 @@
+name: Send IC Weekly Report Email
+
+on:
+  push:
+    paths:
+      - 'weekly_reports/**.md'
+
+jobs:
+  send-email:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Find new report file
+        id: report
+        run: |
+          FILE=$(git diff --name-only HEAD~1 HEAD | grep 'weekly_reports/' | head -1)
+          if [ -z "$FILE" ]; then
+            FILE=$(ls weekly_reports/*.md 2>/dev/null | sort | tail -1)
+          fi
+          DATE=$(basename "$FILE" .md)
+          echo "file=$FILE" >> $GITHUB_OUTPUT
+          echo "date=$DATE" >> $GITHUB_OUTPUT
+
+      - name: Extract portfolio stats
+        id: stats
+        run: |
+          PORT_VAL=$(python3 -c "import json; p=json.load(open('portfolio.json')); print(f\"{p.get('total_value_gbp',p.get('cash_gbp',5000)):,.2f}\")" 2>/dev/null || echo "5,000.00")
+          WEEKLY=$(python3 -c "import json; p=json.load(open('portfolio.json')); wr=p.get('weekly_returns',[]); r=wr[-1]['return_pct'] if wr else 0; print(f'+{r:.2f}%' if r>=0 else f'{r:.2f}%')" 2>/dev/null || echo "0.00%")
+          CUM=$(python3 -c "import json; p=json.load(open('portfolio.json')); c=p.get('cumulative_return_pct',0); print(f'+{c:.2f}%' if c>=0 else f'{c:.2f}%')" 2>/dev/null || echo "0.00%")
+          echo "port_val=$PORT_VAL" >> $GITHUB_OUTPUT
+          echo "weekly=$WEEKLY" >> $GITHUB_OUTPUT
+          echo "cum=$CUM" >> $GITHUB_OUTPUT
+
+      - name: Send email via Resend
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          REPORT_FILE: ${{ steps.report.outputs.file }}
+          REPORT_DATE: ${{ steps.report.outputs.date }}
+          PORT_VAL: ${{ steps.stats.outputs.port_val }}
+          WEEKLY_RET: ${{ steps.stats.outputs.weekly }}
+          CUM_RET: ${{ steps.stats.outputs.cum }}
+        run: |
+          python3 << 'PYEOF'
+          import json, subprocess, os
+          report_file = os.environ['REPORT_FILE']
+          date = os.environ['REPORT_DATE']
+          port_val = os.environ['PORT_VAL']
+          weekly = os.environ['WEEKLY_RET']
+          cum = os.environ['CUM_RET']
+          api_key = os.environ['RESEND_API_KEY']
+          with open(report_file) as f:
+              body = f.read()
+          subject = f"IC Weekly Report {date} | £{port_val} ({weekly}) | Cumulative {cum}"
+          payload = json.dumps({
+              "from": "InvestChen IC <onboarding@resend.dev>",
+              "to": ["cyjei2023@gmail.com"],
+              "subject": subject,
+              "text": body
+          })
+          result = subprocess.run([
+              "curl", "-s", "-X", "POST", "https://api.resend.com/emails",
+              "-H", f"Authorization: Bearer {api_key}",
+              "-H", "Content-Type: application/json",
+              "-d", payload
+          ], capture_output=True, text=True)
+          print("Resend response:", result.stdout)
+          if '"id"' in result.stdout:
+              print(f"✅ Email sent: {subject}")
+          else:
+              raise SystemExit(f"❌ Email failed: {result.stdout}")
+          PYEOF
