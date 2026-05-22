@@ -1,60 +1,62 @@
 {
   "inception_date": "2026-05-11",
-  "last_updated": "2026-05-21",
+  "last_updated": "2026-05-22",
   "currency": "GBP",
   "initial_capital_gbp": 5000,
-  "cash_gbp": 1539.72,
-  "fx_rate_gbpusd": 1.3428,
-  "total_value_gbp": 4873.82,
-  "cumulative_return_pct": -2.52,
+  "cash_gbp": 1639.40,
+  "fx_rate_gbpusd": 1.3433,
+  "total_value_gbp": 4931.67,
+  "cumulative_return_pct": -1.37,
   "positions": {
     "MU": {
       "shares": 1.2939,
       "avg_cost_gbp": 750.00,
       "avg_cost_usd": 790.00,
-      "current_price_usd": 775.00,
-      "current_value_gbp": 746.73,
-      "unrealized_pnl_gbp": -3.27,
-      "unrealized_pnl_pct": -0.44,
+      "current_price_usd": 782.00,
+      "current_value_gbp": 753.32,
+      "unrealized_pnl_gbp": 3.32,
+      "unrealized_pnl_pct": 0.44,
       "entry_date": "2026-05-11",
       "strategy": "value_investor_follow+momentum",
       "confidence": 5,
-      "thesis": "TWO INVESTORS HIGH CONVICTION: Tepper #2 position (9.48% Q1 2026 13F, ~$655M) + Druckenmiller NEW Q1 2026 buy (23,400 shares). HBM supply sold out through 2026; AI memory supercycle intact. NEW CATALYST May 21: Samsung 45K-worker strike risk (18-day planned stoppage, tentative agreement reached but vote pending) — Samsung ~33% global DRAM. JPMorgan: $14-20B lost operating profits if strike proceeds. AI memory prices already +90% YoY (HBM scarcity). MU +5% today on supply shock thesis. Recovery: $664 low (May 19) → $775 today (+16.5%). IC cost $790 — now only -1.9% below entry. Citi PT $840, Mizuho PT $800. NVDA Q2 guide $91B (vs $86B est) = AI demand unambiguously intact. NO STOP — investor_follow rule.",
+      "thesis": "TWO INVESTORS HIGH CONVICTION: Tepper #2 position (9.48% Q1 2026 13F, ~$655M) + Druckenmiller NEW Q1 2026 buy (23,400 shares). HBM supply sold out through 2026; AI memory supercycle intact. Samsung 45K-worker strike — tentative agreement reached but union vote still pending. AI memory prices +90% YoY. MU FIRST TIME ABOVE COST (+£3.32) — recovery from $664 low (May 19) to $782. NVDA Q2 guide $91B = AI demand intact. Iran deal progress = risk-on. NO STOP — investor_follow rule.",
       "stop_loss_usd": null,
-      "hold_type": "investor_follow",
-      "samsung_catalyst_date": "2026-05-21",
-      "samsung_note": "Tentative labor agreement reached May 20 but union vote pending — supply uncertainty elevated regardless. IC benefits either way: strike=supply shock; no strike=AI HBM demand at full ramp."
+      "hold_type": "investor_follow"
     },
     "LITE": {
-      "shares": 0.5670,
-      "avg_cost_gbp": 375.00,
-      "avg_cost_usd": 901.50,
-      "current_price_usd": 876.00,
-      "current_value_gbp": 370.00,
-      "unrealized_pnl_gbp": -5.00,
-      "unrealized_pnl_pct": -1.33,
+      "shares": 0.7769,
+      "avg_cost_usd": 917.23,
+      "avg_cost_gbp": 525.00,
+      "current_price_usd": 960.00,
+      "current_value_gbp": 555.18,
+      "unrealized_pnl_gbp": 30.18,
+      "unrealized_pnl_pct": 5.75,
       "entry_date": "2026-05-11",
-      "last_trim_date": "2026-05-20",
+      "last_add_date": "2026-05-22",
       "strategy": "sector_rotation",
       "confidence": 3,
-      "thesis": "TRIMMED 50% (May 20): Aschenbrenner EXITED optical-networking (LITE + COHR) — primary investor thesis invalidated. REMAINING 0.5670 shares held as sector_rotation on AI optical interconnects (structural AI data center demand, fundamentals intact). Today: ranged $856-$929, closed $876. STOP $848.09 NOT TRIGGERED (low $856.37). Analyst consensus PT $1,104 (+26%), Rosenblatt $1,300, Jefferies $1,200. NVDA Q2 guide $91B = strong optical interconnect demand signal. Monitor for recovery to $920+ for potential £150 add Friday May 22.",
-      "stop_loss_usd": 848.09,
+      "thesis": "ADDED £150 today @$960 (trigger $920 met). Q3 2026: revenue +90% YoY $808.4M, non-GAAP EPS $2.37, operating margin 32.2%. Q4 guidance $960M-$1.01B. Tiger Global initiated 136,800 shares (~$132M). Nasdaq-100 member. 21 analysts Strong Buy. NVDA $91B = optical demand structural. Stop updated to $871.37 (5% below new avg cost $917.23). Today range $859-$977.",
+      "stop_loss_usd": 871.37,
       "hold_type": "sector_rotation",
-      "stop_note": "5% stop below post-trim cost $893.25"
+      "add_history": [
+        {"date": "2026-05-11", "shares": 1.1340, "price_usd": 901.50, "amount_gbp": 750.00},
+        {"date": "2026-05-20", "action": "trim_to", "remaining_shares": 0.5670, "price_usd": 893.25, "realized_pnl_gbp": 3.39},
+        {"date": "2026-05-22", "action": "add", "shares": 0.2099, "price_usd": 960.00, "amount_gbp": 150.00, "fx_rate": 1.3433}
+      ]
     },
     "AMZN": {
       "shares": 2.8041,
       "avg_cost_gbp": 548.37,
       "avg_cost_usd": 266.10,
-      "current_price_usd": 258.50,
-      "current_value_gbp": 539.82,
-      "unrealized_pnl_gbp": -8.55,
-      "unrealized_pnl_pct": -1.56,
+      "current_price_usd": 260.00,
+      "current_value_gbp": 542.72,
+      "unrealized_pnl_gbp": -5.65,
+      "unrealized_pnl_pct": -1.03,
       "entry_date": "2026-05-11",
       "last_trim_date": "2026-05-19",
       "strategy": "value_investor_follow",
       "confidence": 4,
-      "thesis": "THREE INVESTORS: Druckenmiller Q1 RETURNED (11th-largest long); Tepper #1 position (15.16% AUM, ~$1.05B); Ackman holds. AWS +28% YoY; $200B AI capex 2026. Iran deal collapsed — near-term macro headwind. Medium-term: peace resolution = macro tailwind. AMZN -0.6% today with market. Hold min 2026-08-11.",
+      "thesis": "TWO STRONG INVESTORS: Tepper NEARLY DOUBLED stake Q1 2026 (+98% to 4.3M shares, ~$900M — his #1 position); Ackman holds core position. Druckenmiller slashed Q1 (already reflected in trim May 19). AWS +28% YoY; $200B AI capex 2026. Iran deal near = macro tailwind. Tepper doubling offsets Druckenmiller exit. Hold min 2026-08-11.",
       "stop_loss_usd": null,
       "hold_type": "investor_follow"
     },
@@ -62,75 +64,79 @@
       "shares": 1.9924,
       "avg_cost_gbp": 500.00,
       "avg_cost_usd": 341.99,
-      "current_price_usd": 324.21,
-      "current_value_gbp": 480.94,
-      "unrealized_pnl_gbp": -19.06,
-      "unrealized_pnl_pct": -3.81,
+      "current_price_usd": 330.00,
+      "current_value_gbp": 489.45,
+      "unrealized_pnl_gbp": -10.55,
+      "unrealized_pnl_pct": -2.11,
       "entry_date": "2026-05-11",
       "strategy": "sector_rotation+value_investor_follow",
       "confidence": 4,
-      "thesis": "AI data center liquid cooling dominant; $15B backlog; Q1 2026 +30% YoY. Coatue holds. Recovery today: range $314-$331, current $324.21 (+0.49% vs $322.63 yesterday) — AI infra OUTPERFORMING vs broader market (-0.4% SPX). NVDA Q2 guide $91B (vs $86B est) = confirms hyperscaler capex trajectory. Higher GPU density → higher thermal load → Vertiv structural beneficiary. No stop — investor_follow. Hold min 2026-08-11.",
+      "thesis": "AI data center liquid cooling dominant; $15B backlog; Q1 2026 +30% YoY. Coatue holds. Iran deal = risk-on = growth re-rate. NVDA Q2 $91B = hyperscaler capex confirmed. Higher GPU density → more thermal load → Vertiv structural beneficiary. No stop — investor_follow. Hold min 2026-08-11.",
       "stop_loss_usd": null,
       "hold_type": "investor_follow"
     },
     "GOOGL": {
-      "shares": 1.7390,
-      "avg_cost_gbp": 500.00,
+      "shares": 0.869,
+      "avg_cost_gbp": 249.85,
       "avg_cost_usd": 388.64,
       "current_price_usd": 385.50,
-      "current_value_gbp": 499.25,
-      "unrealized_pnl_gbp": -0.75,
-      "unrealized_pnl_pct": -0.15,
+      "current_value_gbp": 249.49,
+      "unrealized_pnl_gbp": -0.36,
+      "unrealized_pnl_pct": -0.14,
       "entry_date": "2026-05-12",
+      "last_trim_date": "2026-05-22",
       "strategy": "value_investor_follow",
-      "confidence": 3,
-      "thesis": "TWO INVESTORS (similar style risk): Druckenmiller Q1 INCREASED +276.7% to $120.5M; Tepper #3 position (8.38%, ~$580M). Ackman FULLY EXITED. Confidence 3 maintained (same macro style). Nearly breakeven (-£0.75). GBP strengthened today (mild USD headwind). GOOGL Cloud +35% YoY; Gemini 2.0 Pro. Hold min 2026-08-12.",
+      "confidence": 2,
+      "thesis": "TRIMMED 50% May 22: Druckenmiller FULLY EXITED GOOGL in Q1 2026 (385K shares, confirmed May 15 13F). We entered May 12 on Q4 2025 data (which showed +276.7% increase) — stale signal. Only Tepper remains (#3 position, 8.38%, ~$580M). Single-investor rule: max £250. Remaining 0.869 shares = £249.85 cost, essentially breakeven. GOOGL Cloud +35% YoY, Gemini 2.0 Pro = solid fundamentals. Needs second investor signal to rebuild conviction. Hold min 2026-08-12.",
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
-      "hold_min_date": "2026-08-12"
+      "hold_min_date": "2026-08-12",
+      "trim_reason": "Druckenmiller fully exited Q1 2026 — primary investor thesis invalidated"
     },
     "PLTR": {
       "shares": 2.003,
       "avg_cost_gbp": 200.00,
       "avg_cost_usd": 134.84,
-      "current_price_usd": 135.60,
-      "current_value_gbp": 202.27,
-      "unrealized_pnl_gbp": 2.27,
-      "unrealized_pnl_pct": 1.14,
+      "current_price_usd": 138.02,
+      "current_value_gbp": 205.80,
+      "unrealized_pnl_gbp": 5.80,
+      "unrealized_pnl_pct": 2.90,
       "entry_date": "2026-05-13",
       "strategy": "momentum+catalyst",
-      "confidence": 4,
-      "thesis": "Q1 2026: EPS $0.33 vs $0.28 exp; rev $1.63B (+85% YoY, 11th consecutive acceleration); US Army $10B + USDA $300M. Burry 66% Scion portfolio. FY2026 guide $7.66B (+71% YoY). At $135.60 — +0.56% above IC entry $134.84. Today range $134.28-$140.02. Stop $128.10 SAFE (well above). Iran collapse = defense AI demand sustained. NVDA Q2 $91B guide = enterprise AI spend accelerating = PLTR AIP demand structurally strong.",
+      "confidence": 3,
+      "thesis": "INVESTOR THESIS CORRECTED May 22: Burry is SHORTING PLTR — 5M puts at $50 and $100 strikes. Values PLTR at $46 (98x fwd earnings vs sector avg 19x). 'Burry long 66% Scion' was erroneous prior intelligence. Scion closed Nov 2025. IC holds on fundamentals only: Q1 2026 EPS $0.33 vs $0.28 exp; rev $1.63B (+85% YoY, 11th consecutive acceleration); US Army $10B + USDA $300M. At $138.02 = +£5.80 (+2.90%). Confidence reduced to 3. Stop $128.10 maintained.",
       "stop_loss_usd": 128.10,
-      "hold_type": "momentum"
+      "hold_type": "momentum",
+      "correction_note": "Burry is SHORT PLTR. Prior intelligence erroneous. LESSON: verify 13F equity vs 13F options separately."
     },
     "BE": {
       "shares": 0.960,
       "avg_cost_gbp": 200.00,
       "avg_cost_usd": 281.45,
-      "current_price_usd": 282.00,
-      "current_value_gbp": 201.62,
-      "unrealized_pnl_gbp": 1.62,
-      "unrealized_pnl_pct": 0.81,
+      "current_price_usd": 278.00,
+      "current_value_gbp": 198.69,
+      "unrealized_pnl_gbp": -1.31,
+      "unrealized_pnl_pct": -0.66,
       "entry_date": "2026-05-13",
       "strategy": "value_investor_follow+sector_rotation",
-      "confidence": 5,
-      "thesis": "Aschenbrenner #1 position 16% AUM (fuel cell, NOT optical networking — thesis UNAFFECTED by LITE/COHR exit). Druckenmiller still holds. Q1 revenue +130% YoY $751M; EPS $0.44 vs $0.12 exp; FY2026 guide raised $3.4-3.8B (+80% YoY). Today: range $264-$293, current $282 (+4.4% vs $270 yesterday close). ABOVE IC entry cost $281.45 — FIRST TIME IN THE GREEN. Oil spike (WTI $101) from Iran collapse = energy security narrative BULLISH for BE: data centers seeking fuel-cell grid independence. 52w range: $17-$310. 217% YTD. No stop — investor_follow.",
+      "confidence": 4,
+      "thesis": "Aschenbrenner #1 position 16% AUM. Druckenmiller still holds. CATALYSTS: Brookfield $5B AI data center fuel cell partnership; Oracle Project Jupiter 2.45GW BE-powered, 2.8GW total contracted. Q1 2026 +130% YoY $751M. Oil DROPPING today (Iran deal) — energy security narrative softens but data center demand is oil-INDEPENDENT. VALUATION RISK: 80x book, 663x EV/EBITDA, insider sales $288-293 in May. Hold on investor_follow (no stop). Hold min 2026-08-13.",
       "stop_loss_usd": null,
-      "hold_type": "investor_follow"
+      "hold_type": "investor_follow",
+      "valuation_warning": "663x EV/EBITDA, 80x book. Insider sales $288-293 May 2026."
     },
     "MSFT": {
       "shares": 0.9473,
       "avg_cost_gbp": 300.00,
       "avg_cost_usd": 421.92,
-      "current_price_usd": 416.00,
-      "current_value_gbp": 293.47,
-      "unrealized_pnl_gbp": -6.53,
-      "unrealized_pnl_pct": -2.18,
+      "current_price_usd": 422.00,
+      "current_value_gbp": 297.62,
+      "unrealized_pnl_gbp": -2.38,
+      "unrealized_pnl_pct": -0.79,
       "entry_date": "2026-05-18",
       "strategy": "value_investor_follow",
       "confidence": 4,
-      "thesis": "Ackman (Pershing Square) $2.09B confirmed core PSUS holding (5.65M shares). Ackman fully exited GOOGL but doubled down on MSFT = strong conviction signal. Azure +35% YoY + M365 Copilot enterprise AI. At $416 = 25% discount to 52w high $555. Iran macro uncertainty = institutional preference for large-cap quality tech. NVDA Q2 $91B = Azure AI workload demand accelerating. Hold min 2026-08-18.",
+      "thesis": "Ackman (Pershing Square) $2.09B confirmed core holding (5.65M shares, Q1 2026 13F). Azure +35% YoY + M365 Copilot. Iran deal = risk-on = quality tech re-rates. Near breakeven. Hold min 2026-08-18.",
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-08-18"
@@ -148,13 +154,11 @@
       "realized_pnl_gbp": -16.04,
       "realized_pnl_pct": -5.35,
       "exit_reason": "stop_loss_triggered",
-      "strategy": "catalyst",
-      "notes": "Hantavirus catalyst expired; HIMS -14% biotech drag. Stop $53.50 at $52.88."
+      "strategy": "catalyst"
     },
     "CRWV": {
       "shares": 8.344,
       "entry_date": "2026-05-11",
-      "last_add_date": "2026-05-12",
       "exit_date": "2026-05-13",
       "avg_entry_price_usd": 113.94,
       "exit_price_usd": 108.44,
@@ -163,8 +167,7 @@
       "realized_pnl_gbp": -30.00,
       "realized_pnl_pct": -4.29,
       "exit_reason": "stop_loss_triggered",
-      "strategy": "value_investor_follow+momentum",
-      "notes": "Stop $108.44. Q1 beat but Q2 guide missed $2.7B consensus at $2.45-2.6B. Discipline: stop is stop."
+      "strategy": "value_investor_follow+momentum"
     },
     "CEG": {
       "shares": 2.2344,
@@ -178,7 +181,7 @@
       "realized_pnl_pct": -7.43,
       "exit_reason": "stop_loss_triggered",
       "strategy": "sector_rotation+catalyst",
-      "notes": "Stop $289.75 triggered. Calpine acquisition debt 73% YoY net interest. Lesson: check acquisition debt load before entry."
+      "lesson": "Check acquisition debt load before entry."
     },
     "TSLA": {
       "shares": 0.4556,
@@ -192,7 +195,7 @@
       "realized_pnl_pct": -3.65,
       "exit_reason": "stop_loss_triggered",
       "strategy": "momentum+value_investor_follow",
-      "notes": "ARK catalyst failed to sustain. Stop $422.75. NOTE: ARK REVERSED May 21 — BOUGHT +109,158 TSLA shares in ARKK (after selling 349K May 19, 33K May 20). Watch for TSLA re-entry on Tuesday May 26 if ARK buying continues."
+      "notes": "ARK sold again May 22. Reversal unconfirmed."
     }
   },
   "trade_history": [
@@ -215,7 +218,9 @@
     {"date":"2026-05-15","time":"16:30","ticker":"TSLA","action":"SELL","shares":0.4556,"price_usd":422.75,"amount_gbp":144.52,"fx_rate":1.3321,"strategy":"momentum+value_investor_follow","realized_pnl_gbp":-5.48,"realized_pnl_pct":-3.65,"exit_reason":"stop_loss_triggered"},
     {"date":"2026-05-18","time":"09:30","ticker":"MSFT","action":"BUY","shares":0.9473,"price_usd":421.92,"amount_gbp":300.00,"fx_rate":1.3325,"strategy":"value_investor_follow","confidence":4,"stop_loss_usd":null,"hold_type":"investor_follow","hold_min_date":"2026-08-18"},
     {"date":"2026-05-19","time":"09:35","ticker":"AMZN","action":"TRIM","shares":1.031,"price_usd":260.00,"amount_gbp":200.00,"fx_rate":1.3401,"strategy":"value_investor_follow","confidence":3,"realized_pnl_gbp":-1.61,"realized_pnl_pct":-0.80,"exit_reason":"defensive_mode_cash_raise","remaining_shares":2.8041,"remaining_cost_gbp":548.37},
-    {"date":"2026-05-20","time":"09:45","ticker":"LITE","action":"TRIM","shares":0.5670,"price_usd":893.25,"amount_gbp":378.39,"fx_rate":1.3385,"strategy":"value_investor_follow->sector_rotation","confidence":5,"realized_pnl_gbp":3.39,"realized_pnl_pct":0.90,"exit_reason":"primary_investor_exit","remaining_shares":0.5670,"remaining_cost_gbp":375.00,"remaining_strategy":"sector_rotation","notes":"Aschenbrenner EXITED LITE+COHR. Sold 50% at $893.25. +£3.39 realized. Remaining 0.567 shares as sector_rotation."}
+    {"date":"2026-05-20","time":"09:45","ticker":"LITE","action":"TRIM","shares":0.5670,"price_usd":893.25,"amount_gbp":378.39,"fx_rate":1.3385,"strategy":"value_investor_follow->sector_rotation","confidence":5,"realized_pnl_gbp":3.39,"realized_pnl_pct":0.90,"exit_reason":"primary_investor_exit","remaining_shares":0.5670,"remaining_cost_gbp":375.00,"remaining_strategy":"sector_rotation"},
+    {"date":"2026-05-22","time":"09:33","ticker":"GOOGL","action":"TRIM","shares":0.870,"price_usd":385.50,"amount_gbp":249.68,"fx_rate":1.3433,"strategy":"value_investor_follow","realized_pnl_gbp":-0.47,"realized_pnl_pct":-0.19,"exit_reason":"primary_investor_exit","remaining_shares":0.869,"remaining_cost_gbp":249.85,"thesis":"Druckenmiller FULLY EXITED GOOGL Q1 2026 (May 15 13F). Entered on stale Q4 2025 data. Single investor (Tepper only). Trimmed to single-investor max (£250). LESSON: verify Q1 13F at session start."},
+    {"date":"2026-05-22","time":"09:36","ticker":"LITE","action":"ADD","shares":0.2099,"price_usd":960.00,"amount_gbp":150.00,"fx_rate":1.3433,"strategy":"sector_rotation","confidence":3,"new_avg_cost_usd":917.23,"new_total_shares":0.7769,"new_stop_usd":871.37,"thesis":"Trigger met ($960 > $920). Q3 +90% YoY $808.4M. Tiger Global initiated 136,800 shares. Q4 guide $960M-$1.01B. Today range $859-$977."}
   ],
   "weekly_returns": [
     {
@@ -227,29 +232,30 @@
       "spx_return_pct": 5.3,
       "ndx_return_pct": 4.4,
       "alpha_pct": -3.97,
-      "note": "Inception week. 4 stops: MRNA -5.35%, CRWV -4.29%, CEG -7.43%, TSLA -3.65%. Realized -£88.67. Open book avg +3.4%. GBP tailwind ~£56."
+      "note": "Inception week. 4 stops: MRNA -5.35%, CRWV -4.29%, CEG -7.43%, TSLA -3.65%. Realized -£88.67."
     },
     {
       "week": "2026-05-18/2026-05-22",
-      "week_label": "Week 2",
+      "week_label": "Week 2 (CLOSED)",
       "start_value_gbp": 5066.51,
-      "end_value_gbp": null,
-      "return_pct": null,
-      "current_value_gbp": 4873.82,
-      "current_return_pct_wtd": -3.81,
-      "note": "Week 2, Day 4 of 5. Days 1-2: LITE -16% body blow (Aschenbrenner exit). Day 3 (May 20): MU +11.1% + LITE TRIM realized. Day 4 (May 21): NVDA $81.6B Q1 + $91B Q2 guide (vs $86B). Sell-the-news but AI infra outperforms — VRT +0.49%, BE +4.4%, MU +5% (Samsung). DEFENSIVE MODE EXITS after 2 consecutive green days. Week closes Friday May 22."
+      "end_value_gbp": 4931.67,
+      "return_pct": -2.67,
+      "spx_return_pct_estimate": 0.3,
+      "alpha_pct_estimate": -2.97,
+      "note": "LITE -16% Day 1 (Aschenbrenner exit) dominated. Recovery Days 3-5: MU+11%, AI infra outperforms. Closed GREEN #3. Key intelligence updates: Druckenmiller exited GOOGL+AMZN, pivoted to SNDK+MU+STX+AVGO+INTC. Burry SHORT PLTR (corrected). Iran deal nearing = risk-on close."
     }
   ],
   "daily_pnl": [
     {"date":"2026-05-11","pnl_gbp":0.00,"pnl_pct":0.00,"note":"Inception."},
-    {"date":"2026-05-12","pnl_gbp":183.28,"pnl_pct":3.67,"note":"LITE +17.8%, VRT +6.1%. MRNA stopped. Net +£183.28."},
-    {"date":"2026-05-13","pnl_gbp":-14.28,"pnl_pct":-0.28,"note":"CRWV stop -£30. New: PLTR+BE. Net -£14.28."},
-    {"date":"2026-05-14","pnl_gbp":-7.97,"pnl_pct":-0.15,"note":"CEG stop -£37.15. New: TSLA+AMZN add. Net -£7.97."},
-    {"date":"2026-05-15","pnl_gbp":-94.52,"pnl_pct":-1.83,"note":"TSLA stop. LITE $1,080→$965 (-£83.85). MU -5.2%. Net -£94.52."},
-    {"date":"2026-05-18","pnl_gbp":12.06,"pnl_pct":0.24,"note":"LITE inclusion day +16% ($965→$1,053). MU selloff. New: MSFT. Net +£12.06."},
-    {"date":"2026-05-19","pnl_gbp":-249.83,"pnl_pct":-4.92,"note":"BRUTAL. LITE -16% (Aschenbrenner exit priced in). MU -7.1%. DEFENSIVE MODE. Trimmed AMZN. Net -£249.83."},
-    {"date":"2026-05-20","pnl_gbp":23.76,"pnl_pct":0.49,"note":"GREEN #1. MU +11.1% $664→$738. LITE TRIM +£3.39 realized. NVDA earnings tonight. Net +£23.76."},
-    {"date":"2026-05-21","pnl_gbp":21.32,"pnl_pct":0.44,"note":"GREEN #2 — DEFENSIVE EXIT TRIGGERED. NVDA Q1 $81.6B + Q2 guide $91B (vs $86B). Sell-the-news + Iran deal collapse (WTI $101). AI infra outperforms: MU +5% Samsung catalyst ($775, near IC cost), VRT +0.49% ($324), BE +4.4% ($282, ABOVE IC cost $281.45). LITE stop $848 not triggered (low $856). GBP/USD 1.3385→1.3428 (GBP strengthened, mild USD headwind). Net +£21.32."}
+    {"date":"2026-05-12","pnl_gbp":183.28,"pnl_pct":3.67,"note":"LITE +17.8%, VRT +6.1%. MRNA stopped."},
+    {"date":"2026-05-13","pnl_gbp":-14.28,"pnl_pct":-0.28,"note":"CRWV stop. New PLTR+BE."},
+    {"date":"2026-05-14","pnl_gbp":-7.97,"pnl_pct":-0.15,"note":"CEG stop. New TSLA+AMZN add."},
+    {"date":"2026-05-15","pnl_gbp":-94.52,"pnl_pct":-1.83,"note":"TSLA stop. LITE blow-off. MU -5.2%."},
+    {"date":"2026-05-18","pnl_gbp":12.06,"pnl_pct":0.24,"note":"LITE inclusion +16%. New MSFT."},
+    {"date":"2026-05-19","pnl_gbp":-249.83,"pnl_pct":-4.92,"note":"BRUTAL. LITE -16% Aschenbrenner exit. DEFENSIVE MODE."},
+    {"date":"2026-05-20","pnl_gbp":23.76,"pnl_pct":0.49,"note":"GREEN #1. MU +11.1%. LITE TRIM +£3.39 realized."},
+    {"date":"2026-05-21","pnl_gbp":21.32,"pnl_pct":0.44,"note":"GREEN #2. NVDA $91B Q2 guide. AI infra outperforms."},
+    {"date":"2026-05-22","pnl_gbp":57.85,"pnl_pct":1.19,"note":"GREEN #3. Iran deal near. GOOGL trim (Druck Q1 exit). LITE add @$960 (Tiger Global + Q3 +90%). MU first time green. Burry SHORT PLTR corrected."}
   ],
   "strategy_stats": {
     "momentum": {
@@ -258,193 +264,142 @@
       "closed": 1,
       "closed_wins": 0,
       "open": 1,
-      "note": "TSLA closed -3.65% (stop). PLTR open +1.14%. ARK REVERSED May 21: BOUGHT +109,158 TSLA shares in ARKK (after selling 382K over 2 days). Watch Tuesday May 26."
+      "note": "TSLA closed -3.65%. PLTR open +2.90% (Burry SHORT risk noted). ARK selling TSLA again. No new momentum entries until Tuesday (Memorial Day)."
     },
     "catalyst": {
       "trades": 1,
       "wins": 0,
       "closed": 1,
       "closed_wins": 0,
-      "note": "MRNA closed -5.35% (stop). Max £100 per pure catalyst trade."
+      "note": "MRNA closed -5.35%. Max £100 per pure catalyst trade."
     },
     "value_investor_follow": {
       "trades": 13,
       "wins": 1,
       "closed": 2,
       "closed_wins": 0,
-      "partial_trim": 2,
+      "partial_trim": 3,
       "partial_trim_wins": 1,
-      "partial_trim_tickers": ["AMZN -0.80%", "LITE +0.90%"],
-      "note": "Recovering: MU -0.44% (nearly breakeven, Samsung+NVDA catalysts), VRT -3.81% (outperforming market), GOOGL -0.15% (near flat), AMZN -1.56%, MSFT -2.18%, BE +0.81% (above cost), PLTR +1.14%. NVDA $91B Q2 guide strengthens all AI theses."
+      "partial_trim_tickers": ["AMZN -0.80%", "LITE +0.90%", "GOOGL -0.19%"],
+      "open_status": "MU +0.44% (first green), AMZN -1.03%, VRT -2.11%, GOOGL -0.14% (trimmed), MSFT -0.79%, BE -0.66%, PLTR +2.90%",
+      "note": "Portfolio recovering. LESSON: Verify 13F equity vs options data. Check latest quarterly 13F at each session start."
     },
     "macro": {"trades": 0, "wins": 0},
     "sector_rotation": {
-      "trades": 3,
+      "trades": 4,
       "wins": 0,
       "closed": 1,
       "closed_wins": 0,
       "open": 2,
-      "note": "CEG closed -7.43% (stop). VRT open -3.81% (recovering). LITE half-position open -1.33% (sector_rotation). Stop $848.09 intact (low $856 today)."
+      "note": "CEG closed -7.43%. VRT -2.11% (recovering). LITE +5.75% (first sector win — Tiger Global backing, Q3 +90%)."
     }
   },
   "risk_mode": "NORMAL",
-  "risk_mode_previous": "DEFENSIVE",
-  "risk_mode_defensive_trigger_date": "2026-05-19",
-  "risk_mode_exit_date": "2026-05-21",
-  "risk_mode_exit_reason": "Two consecutive green days: May 20 +0.49%, May 21 +0.44%. Condition met.",
-  "risk_mode_cash_guidance": "ELEVATED NORMAL — maintain 25% cash target (vs standard 10-20%) due to Iran Strait of Hormuz risk and oil at WTI $101. Deploy to 20% on high-conviction entries Tuesday May 26.",
-  "risk_mode_cash_pct": 31.6,
+  "risk_mode_cash_pct": 33.2,
+  "risk_mode_cash_guidance": "ELEVATED NORMAL — 25% cash minimum. At 33.2% = healthy buffer for Memorial Day weekend. Deploy £300 Tuesday May 26 (NVDA + INTC). Deploy £200 SNDK Wednesday May 27.",
   "macro_context": {
-    "date": "2026-05-21",
-    "spx_futures": "-0.40% (sell-the-news NVDA + Iran oil spike)",
-    "ndx_futures": "-0.60% (tech weakness, AI infra outperforms)",
-    "gbp_usd": 1.3428,
-    "gbp_usd_prev": 1.3385,
-    "gbp_usd_note": "GBP strengthened +0.32%. Mild headwind for USD positions in GBP terms.",
-    "oil_wti": "$101.04 (+2.9%)",
-    "oil_brent": "$107.36 (+2.3%)",
-    "oil_note": "Iran supreme leader issued directive to keep enriched uranium within country — nuclear deal collapsed. Strait of Hormuz risk ongoing. Oil spike = energy security narrative BULLISH for BE fuel cells.",
-    "treasury_10yr": "~4.6% (rising on oil/inflation spike)",
-    "nvda_q1_results": {
-      "revenue": "$81.6B (+85.2% YoY, beat $80.4B est)",
-      "eps_gaap": "$2.39 vs $1.79 est (+214.5% YoY)",
-      "eps_non_gaap": "$1.87 vs $1.77 est",
-      "data_center": "$75.25B (+92% YoY)",
-      "gross_profit": "$61.2B (+129.3% YoY)",
-      "buyback": "$80B new share repurchase",
-      "q2_guide": "$91.0B (±2%) vs $86.08B consensus — +5.7% UPSIDE SURPRISE",
-      "q2_margin_guide": "~75% gross margin",
-      "china_note": "No China data center revenue assumed in Q2 guide",
-      "nvda_intraday": "Premarket $213 (sell-the-news) → recovered to $216-$226.94 intraday",
-      "verdict": "GENERATIONAL BEAT. $91B Q2 guide = Blackwell cycle uninterrupted through 2026."
-    },
-    "samsung_strike": {
-      "status": "TENTATIVE AGREEMENT but union vote pending — strike still possible",
-      "scale": "45,000 workers, 18-day planned stoppage beginning May 21",
-      "samsung_dram_share": "~33% global DRAM",
-      "ai_memory_prices": "+90% YoY already",
-      "jpmorgan_impact": "$14-20B lost operating profits",
-      "mu_impact": "BULLISH regardless: supply shock OR demand intact at full ramp"
-    },
-    "spacex_ipo": {
-      "ticker": "SPCX",
-      "exchange": "Nasdaq",
-      "ipo_date": "2026-06-12",
-      "valuation": "$1.75 trillion",
-      "raise": "$75 billion (largest IPO in history)",
-      "revenue_2025": "$18.67B (net loss $4.9B)",
-      "starlink_subscribers": "10M+",
-      "musk_voting_control": "85.1% super-voting shares",
-      "valuation_multiple": "~116x trailing revenue",
-      "ic_plan": "Watch 2 weeks post-IPO. Potential £100 speculative entry if sub-$1.5T normalization."
-    },
-    "ark_tsla_reversal": {
-      "date": "2026-05-21",
-      "arkk_buy": "+109,158 TSLA shares",
-      "arkq_sell": "-3,326 TSLA shares (small)",
-      "context": "After selling 349K May 19 + 33K May 20. Potential conviction reversal. Need 2+ buy days for signal.",
-      "ic_plan": "No action today (Thursday). Watch Friday May 22 continuation. Entry consideration Tuesday May 26."
-    },
-    "memorial_day_note": "US markets CLOSED Monday May 25. Next trading day: Tuesday May 26.",
+    "date": "2026-05-22",
+    "gbp_usd": 1.3433,
+    "market_sentiment": "RISK-ON — Iran deal near, oil plunging, S&P futures +0.2%, longest weekly win streak since 2023",
+    "oil_note": "Oil PLUNGING on Iran MOU reports. WTI was $101, likely $92-95 range today.",
+    "iran_update": "U.S. and Iran reportedly near one-page MOU to end war and set nuclear framework. Oil plunging. Macro headwinds from May 21 reversing. BULLISH for growth stocks.",
+    "amd_catalyst": "AMD +8% on $10B Taiwan AI investment ($449.59). Doubled YTD — IC on watchlist but too stretched for entry now.",
+    "ark_tsla": "ARK sold 8,694 TSLA shares in ARKK. Reversal NOT confirmed. TSLA entry deferred.",
+    "lite_news": "Q3 2026 +90% YoY $808.4M. Tiger Global initiated. Today $859-$977, at $960.",
+    "druckenmiller_q1_full": "Exited GOOGL (385K) + slashed AMZN. Added SNDK (38K), STX (50K), MU (23K), AVGO (new), INTC (411K). Memory+storage theme dominant.",
+    "burry_correction": "Burry SHORTING PLTR with $50+$100 puts. Scion closed Nov 2025. 'Burry long' was incorrect.",
+    "memorial_day": "US markets CLOSED Monday May 25. Next trading: Tuesday May 26.",
     "key_events": [
-      "NVDA BLOCKBUSTER: Q1 $81.6B revenue (+85%) + Q2 guide $91B (vs $86B est, +5.7% upside). $80B buyback. Largest beat in semiconductor history.",
-      "IRAN DEAL COLLAPSED: Supreme leader directive to keep enriched uranium. Strait of Hormuz risk intact. Oil WTI $101 (+2.9%), Brent $107 (+2.3%).",
-      "SAMSUNG STRIKE: 45K workers planned strike May 21. Tentative agreement but vote pending. MU +5% on supply uncertainty. HBM prices +90% YoY.",
-      "AI INFRA OUTPERFORMS: VRT +0.49%, BE +4.4%, MU +5% — all positive vs SPX -0.4%. IC portfolio correctly positioned in AI infra.",
-      "SPACEX IPO JUNE 12: SPCX on Nasdaq. $1.75T valuation, $75B raise. Largest IPO in history. Musk 85.1% voting control.",
-      "ARK REVERSES ON TSLA: ARKK bought +109K shares today after 2-day sell. Monitoring for re-entry signal Tuesday.",
-      "DEFENSIVE MODE EXITS: Two consecutive green days (May 20 +0.49%, May 21 +0.44%). Back to NORMAL mode, elevated 25% cash.",
-      "BE ABOVE IC COST: $282 vs $281.45 entry — first time in the green. Oil spike = energy security = BE structural demand."
-    ],
-    "sentiment": "SPLIT. AI INFRA BULLISH (NVDA $91B Q2 guide, Samsung supply shock, data center capex unabated). MACRO CAUTIOUS (Iran, oil $101, yield pressure). IC portfolio correctly weighted in AI infra — outperforming broader market today."
+      "Iran deal nearing — oil plunges, risk-on markets surge",
+      "AMD +8% on $10B Taiwan — doubled YTD, IC watchlist only",
+      "LITE $960 — Q3 +90%, Tiger Global initiated, IC adds £150",
+      "GOOGL trimmed — Druckenmiller fully exited Q1 2026",
+      "ARK sells TSLA again — reversal dead, deferred",
+      "PLTR Burry thesis corrected — SHORT not long",
+      "MU first time green — Samsung + NVDA $91B combo working"
+    ]
   },
   "watchlist_next": [
     {
       "ticker": "NVDA",
       "priority": "HIGHEST — ENTER TUESDAY MAY 26",
       "target_gbp": 150,
-      "trigger": "Q2 guide $91B (vs $86B est) = undeniable. Enter £150 Tuesday May 26 open. Target entry $215-225. Intraday May 21 recovered to $216-$226.94 (from $213 premarket). Thursday rule prohibits today. Stop: $205 (-5% momentum stop).",
+      "trigger": "Q2 guide $91B (vs $86B est). Entry $215-225. Stop $205. Momentum — allowed Mon-Wed.",
       "confidence_if_triggered": 4,
-      "strategy": "momentum+catalyst+value_investor_follow",
+      "strategy": "momentum+catalyst",
       "entry_day": "Tuesday 2026-05-26"
     },
     {
       "ticker": "INTC",
       "priority": "HIGH — ENTER TUESDAY MAY 26",
       "target_gbp": 150,
-      "trigger": "Druckenmiller Q1: 411,400 shares + Aschenbrenner Intel calls = 2 investors, different styles = HIGH CONVICTION. Q1 EPS $0.29 vs $0.01 exp. AI inference CPU renaissance. ~$115 range. Enter £150 Tuesday May 26. Stop $109 (-5%).",
+      "trigger": "Druckenmiller 411,400 shares Q1 + Aschenbrenner Intel calls = 2 investors, HIGH CONVICTION. Q1 EPS $0.29 vs $0.01 exp. Investor_follow — any day.",
       "confidence_if_triggered": 4,
-      "strategy": "value_investor_follow+momentum",
+      "strategy": "value_investor_follow",
       "entry_day": "Tuesday 2026-05-26"
     },
     {
-      "ticker": "LITE",
-      "priority": "MEDIUM — ADD FRIDAY MAY 22 if $920+ sustained",
-      "target_gbp": 150,
-      "trigger": "Holding 0.567 shares. NVDA $91B guide = optical demand surging. If LITE recovers to $920+ Friday May 22 with volume, add £150 (total ~£525). Sector_rotation — no Thu/Fri restriction. Stop $848.09 maintained.",
-      "confidence_if_triggered": 3,
-      "strategy": "sector_rotation",
-      "entry_day": "Friday 2026-05-22 conditional"
-    },
-    {
-      "ticker": "TSLA",
-      "priority": "MEDIUM — WATCH TUESDAY MAY 26",
-      "target_gbp": 150,
-      "trigger": "ARK reversed May 21: BOUGHT +109K in ARKK. If ARK buys again Friday May 22 AND TSLA holds $415+, enter £150 Tuesday May 26. Thursday rule = no entry today.",
-      "confidence_if_triggered": 3,
-      "strategy": "value_investor_follow+momentum",
-      "entry_day": "Tuesday 2026-05-26 conditional"
-    },
-    {
-      "ticker": "SPCX",
-      "priority": "LOW — IPO JUNE 12",
-      "target_gbp": 100,
-      "trigger": "SpaceX IPO June 12. $1.75T valuation = 116x revenue. Watch 2 weeks post-IPO. Enter £100 speculative if dips to sub-$1.5T range. Starlink 10M+ subscribers, $18.67B revenue 2025.",
-      "confidence_if_triggered": 3,
-      "strategy": "catalyst+momentum",
-      "entry_day": "Post-June 12 IPO price discovery"
+      "ticker": "SNDK",
+      "priority": "HIGH — ENTER WEDNESDAY MAY 27",
+      "target_gbp": 200,
+      "trigger": "Druckenmiller Q1: 38,155 shares NEW + Aschenbrenner holds = 2 investors, HIGH CONVICTION. Memory/storage AI theme. Enter £200 Wednesday after confirming price.",
+      "confidence_if_triggered": 4,
+      "strategy": "value_investor_follow",
+      "entry_day": "Wednesday 2026-05-27"
     },
     {
       "ticker": "AVGO",
-      "priority": "LOW — WAIT JUNE 3 EARNINGS",
+      "priority": "MEDIUM — WAIT JUN 3 EARNINGS",
       "target_gbp": 200,
-      "trigger": "Druckenmiller Q1: 195,955 shares. Custom AI chips (Google TPU, Anthropic, OpenAI). NVDA $91B = custom silicon TAM expanding. Evercore PT $582. Do NOT enter before Jun 3 earnings.",
+      "trigger": "Druckenmiller INITIATED Q1 2026. Custom AI chips. Do NOT enter before Jun 3 earnings.",
       "confidence_if_triggered": 4,
       "strategy": "value_investor_follow+catalyst",
       "entry_day": "Post June 3 earnings"
     },
     {
-      "ticker": "TSM",
-      "priority": "LOW — MONITORING",
-      "target_gbp": 200,
-      "trigger": "Tepper #5 (7.56%) + Coatue = HIGH CONVICTION. NVDA $91B = CoWoS advanced packaging at full utilization. Pullback to $200-215 = entry. Taiwan geopolitical risk (Iran proxy = risk-off).",
-      "confidence_if_triggered": 4,
-      "strategy": "value_investor_follow"
+      "ticker": "TSLA",
+      "priority": "LOW — WATCH ONLY",
+      "target_gbp": 0,
+      "trigger": "ARK sold again May 22. Reversal unconfirmed. Need 3+ consecutive ARK buy days with volume.",
+      "entry_day": "Deferred indefinitely"
+    },
+    {
+      "ticker": "SPCX",
+      "priority": "LOW — IPO JUNE 12",
+      "target_gbp": 100,
+      "trigger": "SpaceX IPO June 12. $1.75T valuation = 116x revenue. Watch 2 weeks post-IPO.",
+      "entry_day": "Post-June 12"
     }
   ],
   "investor_watchlists": {
-    "aschenbrenner": ["BE","SNDK","CORZ","INTC"],
-    "tepper": ["MU","META","GOOGL","UBER","TSM"],
-    "druckenmiller": ["BE","AVGO","INTC","MU","AMZN","GOOGL","STX","TWLO","HUM"],
-    "ackman": ["MSFT","AMZN"],
-    "coatue": ["NFLX","AMAT","VRT","AMZN","TSM","DASH","SPOT","AXON"],
-    "wood": ["TSLA","CRSP","CBRS"],
-    "buffett_abel": ["CB","DPZ","CVX","NYT","AXP"],
-    "burry": ["PLTR","PFE","HAL"]
+    "aschenbrenner": ["BE", "SNDK", "CORZ", "INTC"],
+    "tepper": ["MU", "AMZN", "GOOGL", "UBER", "TSM"],
+    "druckenmiller": ["SNDK", "STX", "MU", "AVGO", "INTC", "TWLO", "NET", "BE"],
+    "ackman": ["MSFT", "AMZN"],
+    "coatue": ["NFLX", "AMAT", "VRT", "AMZN", "TSM", "DASH", "SPOT", "AXON"],
+    "wood": ["TSLA", "CRSP", "CBRS"],
+    "buffett_abel": ["CB", "DPZ", "CVX", "NYT", "AXP"],
+    "burry": {
+      "status": "CLOSED — Scion liquidated Nov 2025",
+      "known_shorts": ["PLTR"],
+      "note": "Burry SHORT PLTR ($50+$100 puts). IC holds PLTR on own fundamentals only."
+    }
   },
   "realized_pnl_summary": {
-    "total_realized_gbp": -85.28,
+    "total_realized_gbp": -85.75,
     "breakdown": [
       {"ticker":"MRNA","pnl_gbp":-16.04,"pnl_pct":-5.35,"type":"stop"},
       {"ticker":"CRWV","pnl_gbp":-30.00,"pnl_pct":-4.29,"type":"stop"},
       {"ticker":"CEG","pnl_gbp":-37.15,"pnl_pct":-7.43,"type":"stop"},
       {"ticker":"TSLA","pnl_gbp":-5.48,"pnl_pct":-3.65,"type":"stop"},
       {"ticker":"AMZN_TRIM","pnl_gbp":-1.61,"pnl_pct":-0.80,"type":"defensive_trim"},
-      {"ticker":"LITE_TRIM","pnl_gbp":3.39,"pnl_pct":0.90,"type":"investor_exit_trim"}
+      {"ticker":"LITE_TRIM","pnl_gbp":3.39,"pnl_pct":0.90,"type":"investor_exit_trim"},
+      {"ticker":"GOOGL_TRIM","pnl_gbp":-0.47,"pnl_pct":-0.19,"type":"investor_exit_trim"}
     ],
     "stops_triggered": 4,
     "stop_avg_loss_pct": -5.23,
-    "first_realized_gain": "LITE trim +0.90% (May 20)"
+    "realized_gains_count": 2,
+    "realized_gain_avg_pct": 0.36
   },
   "rules": {
     "max_position_pct": 15,
@@ -455,21 +410,21 @@
     "momentum_entry_days": "Monday-Wednesday only (no Thu/Fri)",
     "catalyst_max_gbp": 100,
     "investor_follow_min_investors": 2,
-    "single_investor_exception": ">=£1B position with named conviction = reduced-size entry (£200-300 max)",
+    "single_investor_exception": ">=£1B position = reduced-size entry (£200-300 max)",
     "stop_loss": "Set for momentum/catalyst; no stop for investor-follow (hold min 90 days)",
     "defensive_mode_trigger": "Weekly return < -3%",
-    "defensive_mode_rules": "30% cash, confidence >=4 only, trim confidence <4",
-    "defensive_mode_exit": "Two consecutive green days OR major positive catalyst with broad tech recovery",
+    "defensive_mode_exit": "Two consecutive green days",
     "primary_investor_exit_rule": "Primary investor exits = TRIM immediately regardless of hold_min_date",
-    "investor_follow_no_stop": "No stop loss on investor-follow holds for first 90 days",
     "rule_updates": [
-      "2026-05-15: No momentum entries Thu/Fri (TSLA lesson)",
-      "2026-05-15: Max £100 per pure catalyst trade (MRNA lesson)",
-      "2026-05-18: Single investor >£1B = reduced-size investor_follow (£200-300 max)",
+      "2026-05-15: No momentum entries Thu/Fri",
+      "2026-05-15: Max £100 per pure catalyst trade",
+      "2026-05-18: Single investor >£1B = reduced-size entry (£200-300 max)",
       "2026-05-19: DEFENSIVE MODE — 30% cash, confidence >=4 only",
-      "2026-05-20: Primary investor EXIT = trim immediately regardless of hold_min_date (LITE lesson)",
+      "2026-05-20: Primary investor EXIT = trim immediately regardless of hold_min_date",
       "2026-05-20: Always refresh Q1 13F data at session start",
-      "2026-05-21: DEFENSIVE MODE EXIT — two consecutive green days. Elevated NORMAL: 25% cash until Iran resolves. Next momentum entries: Tuesday May 26 (Memorial Day May 25 = US market closed)."
+      "2026-05-21: DEFENSIVE MODE EXIT. Elevated NORMAL: 25% cash.",
+      "2026-05-22: Verify 13F equity vs 13F options (puts/shorts) separately before assuming investor direction.",
+      "2026-05-22: Check latest quarterly 13F at session open — Q4 data may show reversal in Q1."
     ]
   }
 }
