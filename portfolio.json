@@ -918,5 +918,89 @@
       "2026-05-23: NON-AI ALLOCATION \u2014 Target 25-30% non-AI exposure. UBER (Ackman+Tepper dual confirm), NTRA (Druckenmiller #1), VST (Tepper doubled).",
       "2026-05-23: SNDK demoted \u2014 Druckenmiller sold in Q1 2026. Single investor (Tepper only). Max \u00a3300 explore."
     ]
+  },
+  "forecast_log": [
+    {
+      "week": "2026-05-18/2026-05-22",
+      "predictions": {
+        "portfolio_return_pct": {
+          "low": -1.0,
+          "high": 2.0
+        },
+        "spx_return_pct": {
+          "low": 0.0,
+          "high": 1.5
+        },
+        "planned_trades": [
+          "MSFT BUY",
+          "LITE trim on <920"
+        ],
+        "position_calls": {
+          "LITE": {
+            "call": "hold if >1020, trim if <920",
+            "outcome": "LITE hit 859 intraday, Aschenbrenner exit invalidated thesis"
+          },
+          "BE": {
+            "call": "hold, dual-confirmed",
+            "outcome": "CORRECT \u2014 BE +8.32%"
+          },
+          "VRT": {
+            "call": "hold, AI cooling thesis",
+            "outcome": "MISS \u2014 VRT -3.7%, no catalyst"
+          }
+        }
+      },
+      "actuals": {
+        "portfolio_return_pct": -2.36,
+        "spx_return_pct": 0.3,
+        "error_pct": null
+      },
+      "accuracy_notes": "LITE thesis invalidated by Q1 13F not checked. BE correct. VRT missed. 13F staleness was root cause.",
+      "forecast_score": 2
+    }
+  ],
+  "forecast_accuracy": {
+    "total_weeks": 1,
+    "return_predictions": [
+      {
+        "week": "2026-05-18/2026-05-22",
+        "predicted_mid": 0.5,
+        "actual": -2.36,
+        "error": 2.86
+      }
+    ],
+    "mean_absolute_error_pct": 2.86,
+    "investor_signal_accuracy": {
+      "aschenbrenner": {
+        "correct": 1,
+        "total": 2,
+        "notes": "LITE exit correct; BE hold correct"
+      },
+      "druckenmiller": {
+        "correct": 1,
+        "total": 1,
+        "notes": "MU recovery call correct"
+      },
+      "ackman": {
+        "correct": 2,
+        "total": 2,
+        "notes": "MSFT entry correct, GOOGL exit vindicated"
+      },
+      "tepper": {
+        "correct": 1,
+        "total": 1,
+        "notes": "MU thesis intact"
+      },
+      "ark": {
+        "correct": 0,
+        "total": 1,
+        "notes": "TSLA ARK signal failed to sustain"
+      },
+      "burry": {
+        "correct": 0,
+        "total": 1,
+        "notes": "PLTR hold \u2014 now shorting, was wrong to hold"
+      }
+    }
   }
 }
