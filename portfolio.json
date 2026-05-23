@@ -853,6 +853,23 @@
     "realized_gain_avg_pct": 0.36
   },
   "rules": {
+    "position_tiers": {
+      "core": {
+        "condition": "2+ investors from different styles, BOTH confirmed in their most recent 13F filing (Q1 2026 or later)",
+        "max_gbp": 750,
+        "stop_loss": "None \u2014 hold min 90 days (investor_follow rule)"
+      },
+      "explore": {
+        "condition": "1 investor with >=8% AUM conviction in their most recent 13F, OR 2 investors but only Q4 2025 data available (unverified)",
+        "max_gbp": 300,
+        "stop_loss": "Set at -7% for explore positions"
+      },
+      "blocked": {
+        "condition": "Any supporting investor latest 13F shows full exit of that position",
+        "max_gbp": 0,
+        "action": "Do not enter. If already held, demote to explore tier and set stop."
+      }
+    },
     "max_position_pct": 15,
     "max_position_gbp": 750,
     "min_cash_pct": 15,
@@ -860,26 +877,46 @@
     "elevated_normal_cash_pct": 25,
     "momentum_entry_days": "Monday-Wednesday only (no Thu/Fri)",
     "catalyst_max_gbp": 100,
-    "investor_follow_min_investors": 2,
-    "single_investor_exception": ">=\u00a31B position = reduced-size entry (\u00a3200-300 max)",
-    "stop_loss": "Set for momentum/catalyst; no stop for investor-follow (hold min 90 days)",
+    "stop_loss": "Set for momentum/catalyst/explore; no stop for core investor-follow (hold min 90 days)",
     "defensive_mode_trigger": "Weekly return < -3%",
     "defensive_mode_exit": "Two consecutive green days",
-    "primary_investor_exit_rule": "Primary investor exits = TRIM immediately regardless of hold_min_date",
+    "primary_investor_exit_rule": "Primary investor latest 13F shows exit = immediately demote to explore or exit",
+    "13f_recency_rule": {
+      "description": "Before ANY entry or hold decision, verify investor 13F recency",
+      "current_threshold": "Q1 2026 13F (filed by mid-May 2026) = current and trusted",
+      "stale_threshold": "Q4 2025 13F only = UNVERIFIED \u2014 treat as explore tier max \u00a3300",
+      "verification_steps": [
+        "Search SEC EDGAR for investor latest 13F filing date",
+        "Confirm the target stock appears in that filing",
+        "If stock absent from latest filing \u2192 blocked tier",
+        "If only older filing available \u2192 downgrade to explore tier"
+      ],
+      "realtime_supplement": [
+        "Search: [investor] [ticker] bought sold 2026",
+        "Search: [investor] interview portfolio 2026",
+        "Check for public letters, conference appearances, Bloomberg interviews",
+        "Any credible news of exit since 13F date overrides 13F (apply blocked rule)"
+      ]
+    },
+    "non_ai_allocation_target": "25-30% of portfolio in non-AI sectors for risk diversification",
     "rule_updates": [
       "2026-05-15: No momentum entries Thu/Fri",
       "2026-05-15: Max \u00a3100 per pure catalyst trade",
-      "2026-05-18: Single investor >\u00a31B = reduced-size entry (\u00a3200-300 max)",
+      "2026-05-18: Single investor >=\u00a31B position = reduced-size entry (\u00a3200-300 max)",
       "2026-05-19: DEFENSIVE MODE \u2014 30% cash, confidence >=4 only",
       "2026-05-20: Primary investor EXIT = trim immediately regardless of hold_min_date",
       "2026-05-20: Always refresh Q1 13F data at session start",
       "2026-05-21: DEFENSIVE MODE EXIT. Elevated NORMAL: 25% cash.",
       "2026-05-22: Verify 13F equity vs 13F options (puts/shorts) separately before assuming investor direction.",
-      "2026-05-22: Check latest quarterly 13F at session open \u2014 Q4 data may show reversal in Q1.",
       "2026-05-22: INTC watchlist SUSPENDED \u2014 Aschenbrenner exited calls. Single investor only.",
       "2026-05-22: Monitor investor 13F filing calendar at start of each reporting quarter.",
       "2026-05-22: Semiconductor put hedges by any investor = caution flag, not thesis invalidation.",
-      "2026-05-22: BE soft alert at $279 (5% below avg cost $281.45) \u2014 review but no hard stop per investor_follow rule."
+      "2026-05-22: BE soft alert at  (5% below avg cost) \u2014 review but no hard stop per investor_follow rule.",
+      "2026-05-23: THREE-TIER POSITION RULE \u2014 Core (2 investors, latest 13F confirmed) \u00a3750; Explore (1 investor or stale data) \u00a3300; Blocked (investor exited in latest 13F) \u00a30.",
+      "2026-05-23: 13F RECENCY MANDATORY \u2014 Verify latest 13F filing date via SEC EDGAR before ANY entry. Q4 2025 data = unverified = explore tier only.",
+      "2026-05-23: REAL-TIME SUPPLEMENT \u2014 Search investor news/interviews to detect position changes between 13F filings.",
+      "2026-05-23: NON-AI ALLOCATION \u2014 Target 25-30% non-AI exposure. UBER (Ackman+Tepper dual confirm), NTRA (Druckenmiller #1), VST (Tepper doubled).",
+      "2026-05-23: SNDK demoted \u2014 Druckenmiller sold in Q1 2026. Single investor (Tepper only). Max \u00a3300 explore."
     ]
   }
 }
