@@ -916,8 +916,39 @@
       "2026-05-23: 13F RECENCY MANDATORY \u2014 Verify latest 13F filing date via SEC EDGAR before ANY entry. Q4 2025 data = unverified = explore tier only.",
       "2026-05-23: REAL-TIME SUPPLEMENT \u2014 Search investor news/interviews to detect position changes between 13F filings.",
       "2026-05-23: NON-AI ALLOCATION \u2014 Target 25-30% non-AI exposure. UBER (Ackman+Tepper dual confirm), NTRA (Druckenmiller #1), VST (Tepper doubled).",
-      "2026-05-23: SNDK demoted \u2014 Druckenmiller sold in Q1 2026. Single investor (Tepper only). Max \u00a3300 explore."
-    ]
+      "2026-05-23: SNDK demoted \u2014 Druckenmiller sold in Q1 2026. Single investor (Tepper only). Max \u00a3300 explore.",
+      "2026-05-26: INVESTOR EXIT CLASSIFICATION \u2014 distinguish profit-taking (>100% gain at exit, near ATH) from thesis-invalidation (exit while flat/down, public negative comment). Profit-taking exit does NOT trigger BLOCKED tier. SNDK lesson applied.",
+      "2026-05-26: SIGNAL CONFLICT RESOLUTION \u2014 1 investor exits (profit-taking) + 1 investor new entry = EXPLORE tier \u00a3200-300 with stop. Do not cancel entirely.",
+      "2026-05-26: INVESTOR ENTRY COST TRACKING \u2014 when possible, estimate investor entry price. Exit after >100% gain = likely profit-taking. Exit after <20% gain = likely thesis concern."
+    ],
+    "investor_exit_classification": {
+      "description": "Distinguish profit-taking exits from thesis-invalidation exits before applying tier rules",
+      "profit_taking_exit": {
+        "conditions": [
+          "Stock price has risen >100% since estimated investor entry date",
+          "Investor exits near all-time high or recent peak",
+          "No public negative commentary from investor about the stock",
+          "Other investors simultaneously entering or holding"
+        ],
+        "action": "Do NOT treat as BLOCKED. Maintain EXPLORE tier if >=1 other investor still holds. Enter \u00a3200-300 with stop.",
+        "example": "Druckenmiller sold SNDK at ,400 after ~400% gain from ~ entry = profit-taking. Tepper simultaneously entering = EXPLORE confirmed."
+      },
+      "thesis_invalidation_exit": {
+        "conditions": [
+          "Stock price flat or down when investor exits",
+          "Investor exits within 90 days of entry (short hold = thesis changed quickly)",
+          "Investor makes public negative comment about the company",
+          "Multiple investors exit simultaneously"
+        ],
+        "action": "Apply BLOCKED tier. Exit IC position if held.",
+        "example": "Aschenbrenner sold LITE after it underperformed = thesis change. IC should have trimmed immediately."
+      },
+      "conflict_resolution": {
+        "description": "When investors diverge (1 exits, 1 enters same week)",
+        "rule": "Check exit type first. If profit-taking exit + new entry = EXPLORE \u00a3200-300 with -7% stop. If thesis-invalidation exit + new entry = wait for clarity, do not enter.",
+        "sndk_lesson": "Druckenmiller profit-taking + Tepper new entry = should have been EXPLORE \u00a3200-300, not cancelled."
+      }
+    }
   },
   "forecast_log": [
     {
