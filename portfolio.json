@@ -1,25 +1,25 @@
 {
   "inception_date": "2026-05-11",
-  "last_updated": "2026-05-27",
+  "last_updated": "2026-05-28",
   "currency": "GBP",
   "initial_capital_gbp": 5000,
-  "cash_gbp": 1289.40,
-  "fx_rate_gbpusd": 1.3440,
-  "total_value_gbp": 5106.46,
-  "cumulative_return_pct": 2.13,
+  "cash_gbp": 789.40,
+  "fx_rate_gbpusd": 1.3431,
+  "total_value_gbp": 5072.75,
+  "cumulative_return_pct": 1.46,
   "positions": {
     "MU": {
       "shares": 1.2939,
       "avg_cost_gbp": 750.0,
       "avg_cost_usd": 790.0,
-      "current_price_usd": 960.0,
-      "current_value_gbp": 924.21,
-      "unrealized_pnl_gbp": 174.21,
-      "unrealized_pnl_pct": 23.23,
+      "current_price_usd": 928.41,
+      "current_value_gbp": 894.42,
+      "unrealized_pnl_gbp": 144.42,
+      "unrealized_pnl_pct": 19.26,
       "entry_date": "2026-05-11",
       "strategy": "value_investor_follow+momentum",
       "confidence": 5,
-      "thesis": "DUAL INVESTOR CORE: Tepper #2 position (9.48%, ~$562M Q1 2026 13F) + Druckenmiller NEW Q1 2026 buy (23,400 shares). MILESTONE MAY 26: MU +19.29% to $895.88 — crossed $1 TRILLION market cap for first time. UBS raised price target from $535 to STREET-HIGH $1,625 citing long-term supply agreements (LTAs) firmly in place and >$400B cumulative FCF 2027-2029 projection. HBM4 sold out through year-end. AI memory supercycle intact. Premarket May 27 up further to ~$960+. CORE position: no stop, hold min 2026-08-11.",
+      "thesis": "DUAL INVESTOR CORE: Tepper #2 position (9.48%, ~$562M Q1 2026 13F) + Druckenmiller NEW Q1 2026 buy (23,400 shares). MILESTONE MAY 26: MU +19.29% to $895.88 — crossed $1 TRILLION market cap for first time. UBS raised price target from $535 to STREET-HIGH $1,625 citing LTAs firmly in place and >$400B cumulative FCF 2027-2029. HBM4 sold out through year-end. AI memory supercycle intact. May 28: PCE 3.81% caused intraday volatility $888 low / $985 high, currently $928.41. Normal pullback within AI supercycle. CORE: no stop, hold min 2026-08-11.",
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-08-11",
@@ -30,9 +30,9 @@
       "avg_cost_usd": 917.23,
       "avg_cost_gbp": 525.0,
       "current_price_usd": 912.0,
-      "current_value_gbp": 527.18,
-      "unrealized_pnl_gbp": 2.18,
-      "unrealized_pnl_pct": 0.42,
+      "current_value_gbp": 527.55,
+      "unrealized_pnl_gbp": 2.55,
+      "unrealized_pnl_pct": 0.49,
       "entry_date": "2026-05-11",
       "last_add_date": "2026-05-22",
       "strategy": "sector_rotation",
@@ -69,14 +69,14 @@
       "avg_cost_gbp": 548.37,
       "avg_cost_usd": 266.1,
       "current_price_usd": 271.0,
-      "current_value_gbp": 565.41,
-      "unrealized_pnl_gbp": 17.04,
-      "unrealized_pnl_pct": 3.11,
+      "current_value_gbp": 565.84,
+      "unrealized_pnl_gbp": 17.47,
+      "unrealized_pnl_pct": 3.19,
       "entry_date": "2026-05-11",
       "last_trim_date": "2026-05-19",
       "strategy": "value_investor_follow",
       "confidence": 4,
-      "thesis": "DUAL INVESTOR CORE: Tepper NEARLY DOUBLED (+98%) to 4.3M shares (#1 at 15.16%, ~$900M Q1 2026 13F) + Ackman #2 position (17.39% = $2.39B, +19% sequential). AWS +28% YoY; $200B AI capex 2026. Druckenmiller slashed (already reflected in May 19 trim). Position recovering from $260 defensive-mode trim. Hold min 2026-08-11.",
+      "thesis": "DUAL INVESTOR CORE: Tepper NEARLY DOUBLED (+98%) to 4.3M shares (#1 at 15.16%, ~$900M Q1 2026 13F) + Ackman #2 position (17.39% = $2.39B, +19% sequential). AWS +28% YoY; $200B AI capex 2026. Druckenmiller exited (reflected in May 19 trim). Salesforce Q1 FY2027 beat May 27 AH (EPS $3.88 vs $2.96 exp = +31% beat; rev $11.13B vs $11.05B exp) = cloud sector validated. Hold min 2026-08-11.",
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-08-11"
@@ -86,13 +86,13 @@
       "avg_cost_gbp": 500.0,
       "avg_cost_usd": 341.99,
       "current_price_usd": 328.92,
-      "current_value_gbp": 487.60,
-      "unrealized_pnl_gbp": -12.40,
-      "unrealized_pnl_pct": -2.48,
+      "current_value_gbp": 487.91,
+      "unrealized_pnl_gbp": -12.09,
+      "unrealized_pnl_pct": -2.42,
       "entry_date": "2026-05-11",
       "strategy": "sector_rotation+value_investor_follow",
       "confidence": 3,
-      "thesis": "AI data center liquid cooling dominant; $15B backlog; Q1 2026 +30% YoY. Coatue originally held. NOTE: Coatue Q1 2026 13F NOT CONFIRMED for VRT (their top holdings show NVDA/TSM/MSFT/Meta/AMZN — no VRT mentioned). Confidence REDUCED to 3. Holding investor_follow rule pending Coatue confirmation. Do NOT add. Review if drops below $305 (-10% from cost). 52-week range $104-$380.",
+      "thesis": "AI data center liquid cooling dominant; $15B backlog; Q1 2026 +30% YoY. Coatue originally held. NOTE: Coatue Q1 2026 13F NOT CONFIRMED for VRT — their confirmed top holdings are NVDA/TSM/MSFT/Meta/AMZN. Confidence REDUCED to 3. Holding investor_follow rule pending Coatue confirmation. Do NOT add. Review if drops below $305 (-10% from cost).",
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "coatue_q1_2026_confirmed": false,
@@ -103,9 +103,9 @@
       "avg_cost_gbp": 249.85,
       "avg_cost_usd": 388.64,
       "current_price_usd": 388.76,
-      "current_value_gbp": 251.29,
-      "unrealized_pnl_gbp": 1.44,
-      "unrealized_pnl_pct": 0.58,
+      "current_value_gbp": 251.54,
+      "unrealized_pnl_gbp": 1.69,
+      "unrealized_pnl_pct": 0.68,
       "entry_date": "2026-05-12",
       "last_trim_date": "2026-05-22",
       "strategy": "value_investor_follow",
@@ -120,35 +120,35 @@
       "shares": 2.003,
       "avg_cost_gbp": 200.0,
       "avg_cost_usd": 134.84,
-      "current_price_usd": 134.72,
-      "current_value_gbp": 200.78,
-      "unrealized_pnl_gbp": 0.78,
-      "unrealized_pnl_pct": 0.39,
+      "current_price_usd": 136.05,
+      "current_value_gbp": 202.90,
+      "unrealized_pnl_gbp": 2.90,
+      "unrealized_pnl_pct": 1.45,
       "entry_date": "2026-05-13",
       "strategy": "momentum+catalyst",
       "confidence": 3,
-      "thesis": "FUNDAMENTALS-ONLY (Burry SHORTING via $50+$100 puts). IC holds on Q1 2026: EPS $0.33 vs $0.28 exp; rev $1.63B (+85% YoY, 11th consecutive acceleration); US Army $10B + USDA $300M contracts. Stock essentially flat from cost (+0.39% GBP due to FX). Burry's short thesis: 98x fwd PE vs sector 19x avg. Stop $128.10 still valid (-4.9% from current). Monitor closely.",
+      "thesis": "FUNDAMENTALS-ONLY (Burry SHORTING via $50+$100 puts). IC holds on Q1 2026: EPS $0.33 vs $0.28 exp; rev $1.63B (+85% YoY, 11th consecutive acceleration); US Army $10B + USDA $300M contracts. PCE 3.81% = valuation headwind (98x fwd P/E in high-rate environment directly reinforces Burry's thesis). Stop $128.10 still valid. Current buffer: $136.05 vs $128.10 = 5.8% above stop. Monitor closely.",
       "stop_loss_usd": 128.1,
       "hold_type": "momentum",
-      "correction_note": "Burry is SHORT PLTR. IC holds on own fundamentals only. Confidence 3."
+      "correction_note": "Burry SHORT PLTR. IC holds on fundamentals only. Confidence 3. PCE reinforces valuation risk."
     },
     "BE": {
       "shares": 1.621,
       "avg_cost_gbp": 350.0,
       "avg_cost_usd": 291.05,
       "current_price_usd": 305.0,
-      "current_value_gbp": 367.87,
-      "unrealized_pnl_gbp": 17.87,
-      "unrealized_pnl_pct": 5.11,
+      "current_value_gbp": 368.11,
+      "unrealized_pnl_gbp": 18.11,
+      "unrealized_pnl_pct": 5.17,
       "entry_date": "2026-05-13",
       "last_add_date": "2026-05-27",
       "strategy": "value_investor_follow+sector_rotation",
       "confidence": 4,
-      "thesis": "DUAL INVESTOR CORE: Aschenbrenner LARGEST position 6.5M shares = $879M (Q1 2026 13F, 6.4% of $13.7B fund — his #1 conviction bet). Druckenmiller also holds. NEW CATALYSTS May 20-27: $2.6B Nebius AI data center fuel cell deal (10-year master agreement, 328MW first phase). Daiwa upgrade to Outperform $324. FY2026 guidance raised $3.4-$3.8B revenue. Q1 +130% YoY $751M. Total backlog $20B. Data center power demand is oil-INDEPENDENT — grid bottleneck thesis. +1,259% past year, +200% YTD. Added £150 May 27 (total £350, vs CORE £750 max). Hold min 2026-08-11.",
+      "thesis": "DUAL INVESTOR CORE: Aschenbrenner LARGEST position 6.5M shares = $879M (Q1 2026 13F, 6.4% of $13.7B fund — his #1 conviction bet). Druckenmiller also holds. Catalysts: $2.6B Nebius AI data center fuel cell deal (10-year master agreement, 328MW first phase). Oracle MSA expanding to 2.8GW Bloom fuel cells for AI/cloud data centers. Daiwa upgrade to Outperform $324. FY2026 guidance raised $3.4-$3.8B revenue. Q1 +130% YoY $751M. Total backlog $20B. Data center power demand oil-INDEPENDENT — grid bottleneck thesis intact. Added £150 May 27 (total £350, vs CORE £750 max — room to add). Hold min 2026-08-11.",
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-08-11",
-      "valuation_warning": "663x EV/EBITDA, 80x book. +1,259% past year. Insider sales May 2026. Enter with caution — Aschenbrenner conviction offsets valuation risk.",
+      "valuation_warning": "663x EV/EBITDA, 80x book. +1,259% past year. Insider sales May 2026. Aschenbrenner conviction offsets valuation risk.",
       "add_history": [
         {
           "date": "2026-05-13",
@@ -174,13 +174,13 @@
       "avg_cost_gbp": 300.0,
       "avg_cost_usd": 421.92,
       "current_price_usd": 415.31,
-      "current_value_gbp": 292.72,
-      "unrealized_pnl_gbp": -7.28,
-      "unrealized_pnl_pct": -2.43,
+      "current_value_gbp": 292.93,
+      "unrealized_pnl_gbp": -7.07,
+      "unrealized_pnl_pct": -2.36,
       "entry_date": "2026-05-18",
       "strategy": "value_investor_follow",
       "confidence": 4,
-      "thesis": "Ackman (Pershing Square) $2.09B confirmed core holding (5.65M shares, Q1 2026 13F, 15.26% of portfolio). Azure +35% YoY + M365 Copilot. Slight dip from entry as tech rotates. Salesforce earnings after close today (May 27) = cloud sector catalyst watch. Hold min 2026-08-18.",
+      "thesis": "Ackman (Pershing Square) $2.09B confirmed core holding (5.65M shares, Q1 2026 13F, 15.26% of portfolio). Azure +35% YoY + M365 Copilot. Salesforce Q1 FY2027 AH May 27: EPS $3.88 vs $2.96 exp (+31% beat), rev $11.13B in line = cloud sector AI adoption confirmed. Slight FY guidance miss = neutral near-term; secular Azure/cloud thesis unchanged. PCE 3.81% = headwind. Hold min 2026-08-18.",
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-08-18"
@@ -189,19 +189,54 @@
       "shares": 0.1643,
       "avg_cost_gbp": 200.0,
       "avg_cost_usd": 1635.94,
-      "current_price_usd": 1635.94,
-      "current_value_gbp": 200.0,
-      "unrealized_pnl_gbp": 0.0,
-      "unrealized_pnl_pct": 0.0,
+      "current_price_usd": 1571.22,
+      "current_value_gbp": 192.21,
+      "unrealized_pnl_gbp": -7.79,
+      "unrealized_pnl_pct": -3.90,
       "entry_date": "2026-05-27",
       "strategy": "value_investor_follow",
-      "confidence": 4,
+      "confidence": 3,
       "tier": "EXPLORE",
       "investor_exit_classification": "PROFIT_TAKING",
-      "thesis": "EXPLORE: Tepper Q1 2026 NEW BUY (Appaloosa confirmed, one of his Q1 additions alongside MU +114% add). Druckenmiller PROFIT-TAKING EXIT — bought ~Q4 2025 at ~$300-400 est., sold Q1 2026 at $1,400+ = ~300%+ gain, near ATH. SNDK lesson rule (2026-05-26): profit-taking exit + new-entry investor = EXPLORE £200-300 with stop. AI flash storage supercycle: same HBM/memory thesis as MU (which surged +19% May 26 on UBS $1,625 target). WDC +3.4% today. Up +10.6% from May 22 watchlist. Scheduled Wednesday May 27 entry. Stop $1,521 (-7%). Hold min 2026-08-27.",
+      "thesis": "EXPLORE: Tepper Q1 2026 NEW BUY (Appaloosa confirmed, only new stock added in Q1). Druckenmiller PROFIT-TAKING EXIT — ~300%+ gain from ~$350 entry → $1,400+ exit. Citi PT raised May 19 to $2,025 (from $1,300) on NAND LTAs and eSSD pricing. AI flash storage supercycle thesis intact. May 28: PULLBACK to $1,571 (-3.9% from entry $1,635) on PCE 3.81% macro headwind. Stop $1,521 (-7% from entry): buffer only 3.2% from current. WATCH CLOSELY. Confidence reduced to 3.",
       "stop_loss_usd": 1521.0,
       "hold_type": "explore",
       "hold_min_date": "2026-08-27"
+    },
+    "UBER": {
+      "shares": 5.683,
+      "avg_cost_gbp": 300.0,
+      "avg_cost_usd": 70.90,
+      "current_price_usd": 70.90,
+      "current_value_gbp": 300.01,
+      "unrealized_pnl_gbp": 0.01,
+      "unrealized_pnl_pct": 0.0,
+      "entry_date": "2026-05-28",
+      "strategy": "value_investor_follow",
+      "confidence": 4,
+      "tier": "CORE",
+      "thesis": "DUAL INVESTOR CORE: Ackman Pershing Square $2.15B (29.96M shares, 15.71%, Q1 2026 13F CURRENT — trimmed slightly but still #3 position). Tepper Appaloosa +242% to 7.68% (4,482,720 new shares Q1 2026 = his largest % increase). OIL TRIGGER ACTIVATED May 28: Brent $94 below $95 green-light threshold (fell from $99 on Iran deal partial progress, Trump 'not satisfied' but oil declining). WTI $90 < $93. Non-AI diversification (platform/consumer/ride-hailing). Day range: $69.60-$70.97. No stop (investor_follow CORE). Hold min 2026-08-28.",
+      "stop_loss_usd": null,
+      "hold_type": "investor_follow",
+      "hold_min_date": "2026-08-28",
+      "entry_trigger": "Oil Brent $94 below $95 threshold per watchlist rule (set May 27). CORE dual investor Q1 2026 confirmed."
+    },
+    "NTRA": {
+      "shares": 1.322,
+      "avg_cost_gbp": 200.0,
+      "avg_cost_usd": 203.11,
+      "current_price_usd": 203.11,
+      "current_value_gbp": 199.93,
+      "unrealized_pnl_gbp": -0.07,
+      "unrealized_pnl_pct": -0.04,
+      "entry_date": "2026-05-28",
+      "strategy": "value_investor_follow",
+      "confidence": 4,
+      "tier": "EXPLORE",
+      "thesis": "Druckenmiller Duquesne LARGEST position 18.1% ($612.7M, +80% increase Q1 2026 13F CURRENT). Fund $4.22B total. NTRA = cell-free DNA testing platform: Signatera cancer recurrence detection + Panorama prenatal screening. 52-week range $131.81-$256.36 (at $203 = 61% of 52-week range, room to grow). Healthcare/genomics = DEFENSIVE during PCE 3.81% inflation (secular genomics demand, non-discretionary). INSM also in Druckenmiller portfolio but TRIMMED -22% Q1; NTRA is the high-conviction call at 18.1%. Non-AI diversification. Stop -7% = $188.89. EXPLORE max £300, used £200. Hold min 2026-08-28.",
+      "stop_loss_usd": 188.89,
+      "hold_type": "explore",
+      "hold_min_date": "2026-08-28"
     }
   },
   "closed_positions": {
@@ -283,8 +318,10 @@
     {"date":"2026-05-20","time":"09:45","ticker":"LITE","action":"TRIM","shares":0.567,"price_usd":893.25,"amount_gbp":378.39,"fx_rate":1.3385,"strategy":"value_investor_follow->sector_rotation","confidence":5,"realized_pnl_gbp":3.39,"realized_pnl_pct":0.90,"exit_reason":"primary_investor_exit","remaining_shares":0.567,"remaining_cost_gbp":375.0,"remaining_strategy":"sector_rotation"},
     {"date":"2026-05-22","time":"09:33","ticker":"GOOGL","action":"TRIM","shares":0.87,"price_usd":385.5,"amount_gbp":249.68,"fx_rate":1.3433,"strategy":"value_investor_follow","realized_pnl_gbp":-0.47,"realized_pnl_pct":-0.19,"exit_reason":"primary_investor_exit","remaining_shares":0.869,"remaining_cost_gbp":249.85},
     {"date":"2026-05-22","time":"09:36","ticker":"LITE","action":"ADD","shares":0.2099,"price_usd":960.0,"amount_gbp":150.0,"fx_rate":1.3433,"strategy":"sector_rotation","confidence":3,"new_avg_cost_usd":917.23,"new_total_shares":0.7769,"new_stop_usd":871.37},
-    {"date":"2026-05-27","time":"09:32","ticker":"BE","action":"ADD","shares":0.661,"price_usd":305.0,"amount_gbp":150.0,"fx_rate":1.3440,"strategy":"value_investor_follow+sector_rotation","confidence":4,"new_avg_cost_usd":291.05,"new_total_shares":1.621,"new_total_cost_gbp":350.0,"stop_loss_usd":null,"hold_type":"investor_follow","tier":"CORE","thesis":"Aschenbrenner LARGEST position $879M (6.5M shares Q1 2026 13F). Nebius $2.6B AI data center fuel cell deal May 20. FY2026 guidance raised $3.4-3.8B. Daiwa upgrade Outperform $324. CORE underweight (£200→£350 of £750 max). Oil-independent thesis intact.","criteria_met":["dual_investor_core","new_catalyst","guidance_raise","analyst_upgrade"]},
-    {"date":"2026-05-27","time":"09:35","ticker":"SNDK","action":"BUY","shares":0.1643,"price_usd":1635.94,"amount_gbp":200.0,"fx_rate":1.3440,"strategy":"value_investor_follow","confidence":4,"stop_loss_usd":1521.0,"hold_type":"explore","tier":"EXPLORE","investor_exit_classification":"PROFIT_TAKING","thesis":"Tepper Q1 2026 NEW BUY (Appaloosa Q1 13F confirmed). Druckenmiller PROFIT-TAKING EXIT (~300%+ gain from ~$350 entry → $1,400+ exit). SNDK lesson rule: profit-taking + new entry = EXPLORE £200-300 with -7% stop. AI flash storage supercycle same as MU (+19% May 26 on UBS $1,625 target). WDC +3.4% today. Up +10.6% from May 22 watchlist note. Scheduled Wednesday May 27 entry.","criteria_met":["single_investor_q1_2026","ai_storage_supercycle","profit_taking_exit_classified","scheduled_entry"]}
+    {"date":"2026-05-27","time":"09:32","ticker":"BE","action":"ADD","shares":0.661,"price_usd":305.0,"amount_gbp":150.0,"fx_rate":1.3440,"strategy":"value_investor_follow+sector_rotation","confidence":4,"new_avg_cost_usd":291.05,"new_total_shares":1.621,"new_total_cost_gbp":350.0,"stop_loss_usd":null,"hold_type":"investor_follow","tier":"CORE","trigger":"Aschenbrenner #1 position $879M Q1 13F. Nebius $2.6B deal. Guidance raised. CORE underweight."},
+    {"date":"2026-05-27","time":"09:35","ticker":"SNDK","action":"BUY","shares":0.1643,"price_usd":1635.94,"amount_gbp":200.0,"fx_rate":1.3440,"strategy":"value_investor_follow","confidence":4,"stop_loss_usd":1521.0,"hold_type":"explore","tier":"EXPLORE","investor_exit_classification":"PROFIT_TAKING","trigger":"Tepper Q1 2026 NEW BUY. Druckenmiller PROFIT-TAKING EXIT (~300%+ gain). SNDK lesson rule applied."},
+    {"date":"2026-05-28","time":"09:30","ticker":"UBER","action":"BUY","shares":5.683,"price_usd":70.90,"amount_gbp":300.0,"fx_rate":1.3431,"strategy":"value_investor_follow","confidence":4,"stop_loss_usd":null,"hold_type":"investor_follow","tier":"CORE","hold_min_date":"2026-08-28","trigger":"Oil Brent $94 below $95 green-light (fell from $99). Ackman 15.71% Q1 2026 + Tepper +242% Q1 2026. CORE dual investor confirmed. Non-AI diversification."},
+    {"date":"2026-05-28","time":"09:32","ticker":"NTRA","action":"BUY","shares":1.322,"price_usd":203.11,"amount_gbp":200.0,"fx_rate":1.3431,"strategy":"value_investor_follow","confidence":4,"stop_loss_usd":188.89,"hold_type":"explore","tier":"EXPLORE","hold_min_date":"2026-08-28","trigger":"Druckenmiller #1 position 18.1% $612.7M Q1 2026. Healthcare defensive sector = PCE 3.81% inflation hedge. Non-AI diversification."}
   ],
   "weekly_returns": [
     {
@@ -313,11 +350,11 @@
       "week": "2026-05-26/2026-05-29",
       "week_label": "Week 3 (IN PROGRESS — Mon was Memorial Day holiday)",
       "start_value_gbp": 4946.75,
-      "current_value_gbp": 5106.46,
-      "return_pct_so_far": 3.27,
-      "spx_return_pct_estimate": 0.98,
-      "alpha_pct_estimate": 2.29,
-      "note": "Key driver: MU +19.29% May 26 (UBS $1,625 target, $1T market cap). MU premarket up further May 27. New positions: SNDK £200 EXPLORE, BE ADD £150 CORE. NVDA deferred (below $215 trigger). Iran deal stalled (fresh strikes May 26, oil back to $99). Portfolio back to all-time high."
+      "current_value_gbp": 5072.75,
+      "return_pct_so_far": 2.55,
+      "spx_return_pct_estimate": 0.4,
+      "alpha_pct_estimate": 2.15,
+      "note": "Key driver: MU +19.29% May 26 ($1T milestone). May 28: PCE 3.81% inflation surprise. MU pulled back $960→$928. SNDK -3.9% from entry. Oil dropped $99→$94 = UBER entry triggered. New positions: UBER £300 CORE, NTRA £200 EXPLORE. Portfolio +1.46% all-time. Cash 15.6% (minimum threshold)."
     }
   ],
   "daily_pnl": [
@@ -331,8 +368,9 @@
     {"date":"2026-05-20","pnl_gbp":23.76,"pnl_pct":0.49,"note":"GREEN #1. MU +11.1%. LITE TRIM +£3.39 realized."},
     {"date":"2026-05-21","pnl_gbp":21.32,"pnl_pct":0.44,"note":"GREEN #2. NVDA $91B Q2 guide. AI infra outperforms."},
     {"date":"2026-05-22","pnl_gbp":57.85,"pnl_pct":1.19,"note":"GREEN #3. Iran deal near. GOOGL trim. LITE add @$960. MU first time green."},
-    {"date":"2026-05-26","pnl_gbp":92.87,"pnl_pct":1.88,"note":"MU MILESTONE: +19.29% surge to $895.88. $1T market cap. UBS $1,625 target. S&P +0.61%, Nasdaq +1.19%. Markets at ATH. Iran deal stalled — fresh US strikes push oil back to $99."},
-    {"date":"2026-05-27","pnl_gbp":66.84,"pnl_pct":1.33,"note":"MU premarket +7-9% to ~$960. BE ADD £150 (Nebius $2.6B deal, Aschenbrenner #1). SNDK £200 EXPLORE (Tepper Q1 new buy). Portfolio +2.13% all-time. Cash 25.2%. NVDA deferred (below $215). UBER deferred (Iran)."}
+    {"date":"2026-05-26","pnl_gbp":92.87,"pnl_pct":1.88,"note":"MU MILESTONE: +19.29% surge to $895.88. $1T market cap. UBS $1,625 target. S&P +0.61%, Nasdaq +1.19%. Markets at ATH. Iran deal stalled."},
+    {"date":"2026-05-27","pnl_gbp":66.84,"pnl_pct":1.33,"note":"MU premarket +7-9% to ~$960. BE ADD £150 (Nebius $2.6B deal). SNDK £200 EXPLORE (Tepper Q1 new buy). Portfolio +2.13% all-time. Cash 25.2%."},
+    {"date":"2026-05-28","pnl_gbp":-33.71,"pnl_pct":-0.66,"note":"PCE inflation 3.81% — Fed holds 3.50-3.75% through 2026. MU pulled back $960→$928 (-£29.84). SNDK -3.9% from entry (-£7.79). Oil dropped $99→$94 Brent = UBER oil trigger activated. NEW: UBER £300 CORE + NTRA £200 EXPLORE. PLTR +£2.90. Salesforce Q1 AH beat (EPS $3.88 vs $2.96). Cash 15.6% at floor."}
   ],
   "strategy_stats": {
     "momentum": {
@@ -341,7 +379,7 @@
       "closed": 1,
       "closed_wins": 0,
       "open": 1,
-      "note": "TSLA closed -3.65%. PLTR open +0.39% (Burry SHORT risk noted). Caution: no new momentum Mon-Wed until NVDA rechecked Monday June 2."
+      "note": "TSLA closed -3.65%. PLTR open +1.45% (Burry SHORT risk noted; PCE reinforces valuation headwind). No new momentum entries Thu-Fri."
     },
     "catalyst": {
       "trades": 1,
@@ -351,14 +389,14 @@
       "note": "MRNA closed -5.35%. Max £100 per pure catalyst trade."
     },
     "value_investor_follow": {
-      "trades": 15,
+      "trades": 17,
       "wins": 1,
       "closed": 2,
       "closed_wins": 0,
       "partial_trim": 3,
       "partial_trim_wins": 1,
-      "open_status": "MU +23.23% (STAR — $1T milestone + UBS $1,625 PT), AMZN +3.11%, GOOGL +0.58%, PLTR +0.39% (FX boost), BE +5.11% (after add, Aschenbrenner #1), MSFT -2.43%, SNDK flat (new today), VRT -2.48%",
-      "note": "MU is the standout winner. BE CORE underweight being corrected. SNDK profit-taking classification applied correctly."
+      "open_status": "MU +19.26% (CORE STAR), AMZN +3.19%, GOOGL +0.68%, PLTR +1.45%, BE +5.17%, MSFT -2.36%, SNDK -3.90% (PCE pullback), VRT -2.42%, UBER 0% (new today), NTRA 0% (new today)",
+      "note": "MU the standout. SNDK stop watch (3.2% buffer above $1,521). UBER + NTRA initiated. Non-AI allocation now 11 positions."
     },
     "macro": {"trades": 0, "wins": 0},
     "sector_rotation": {
@@ -367,83 +405,88 @@
       "closed": 1,
       "closed_wins": 0,
       "open": 2,
-      "note": "CEG closed -7.43%. VRT -2.48% (Coatue Q1 confirmation PENDING — confidence reduced). LITE +0.42% (Tiger Global backed, Q3 +90% YoY)."
+      "note": "CEG closed -7.43%. VRT -2.42% (Coatue Q1 confirmation PENDING). LITE +0.49% (Tiger Global backed)."
     }
   },
   "risk_mode": "NORMAL",
-  "risk_mode_cash_pct": 25.2,
-  "risk_mode_cash_guidance": "NORMAL — 25.2% cash after today's deployments (£200 SNDK + £150 BE add). Portfolio at +2.13% all-time, back above inception. MU $1T milestone = AI memory supercycle confirmed. Iran deal NOT resolved (fresh strikes May 26) = maintain cautious-NORMAL (not aggressive). FLOOR: 15% cash NORMAL. Deploy UBER £300 CORE on Monday June 2 if Iran remains stable.",
+  "risk_mode_cash_pct": 15.6,
+  "risk_mode_cash_guidance": "NORMAL — 15.6% cash after May 28 deployments (UBER £300 + NTRA £200). AT MINIMUM THRESHOLD. Do NOT add new positions until cash rebuilds above 18% via gains or a stop is triggered. SNDK watch: -3.9% from entry, stop $1,521 at 3.2% buffer. FLOOR: 15%. Reassess Monday June 2. AVGO earnings June 3 = upcoming catalyst.",
   "macro_context": {
-    "date": "2026-05-27",
-    "gbp_usd": 1.3440,
-    "market_sentiment": "BULLISH-CAUTIOUS — S&P at ATH (7,519.12 May 26, +0.61%), Nasdaq +1.19%. Premarket May 27: S&P futures +0.37%, Nasdaq +0.61%. MU $1T milestone. Tech stocks leading. BUT: Iran deal stalled, oil back to $99 Brent/$93 WTI (from $96 dip). Fresh US strikes May 26 cast shadow over peace deal timeline.",
-    "mu_milestone": "MU +19.29% May 26 to $895.88 → $1T market cap. UBS raised PT $535→$1,625 (street-high). LTAs in place. HBM4 sold out year-end. Premarket May 27: $960+ (up another ~7%). IC CORE position: +23.23% unrealized = +£174 gain. This is the portfolio's defining trade.",
-    "sndk_update": "$1,635.94 May 27 (+10.6% from $1,479 May 22 watchlist note, +4.5% from $1,611 day low). AI flash storage supercycle fully in motion. WDC also +3.4% today. Entered EXPLORE £200 today.",
-    "iran_update": "STALLED. US-Iran both signaled progress BUT sides remain at loggerheads over enriched uranium stockpile and Strait of Hormuz tolls. Fresh US strikes May 26 push oil back to $99 Brent. Deal NOT imminent. Macro risk ELEVATED. UBER entry deferred.",
-    "oil_level": "Brent ~$99 / WTI ~$93. Volatile. Iran deal uncertainty = range $93-$102.",
-    "aschenbrenner_q1_confirmed": "6.5M BE shares = $879M (LARGEST position, 6.4% of $13.7B fund). $8.46B notional semiconductor put exposure (NVDA $1.6B + SMH $2B + others). New longs: crypto miners/data center operators (CLSK, RIOT, APLD, IREN). Fund size confirmed $13.7B.",
-    "druckenmiller_q1_confirmed": "NTRA #1 at 18.1% ($612.7M, +80% increase). EWZ #2 at 8.7% ($294.2M). INSM 5.6% ($188.7M). YPF +433%. Exited GOOGL entirely. SNDK profit-taking confirmed.",
-    "tepper_q1_confirmed": "AMZN 15.16% (+98%), MU 9.48%, GOOG 8.38%, UBER 7.68% (+242%), TSM 7.56%, VST +114%, SNDK NEW.",
-    "ackman_q1_confirmed": "BN 17.62%, AMZN 17.39%, UBER 15.71%, MSFT 15.26%, QSR 12.20%. Exited Hilton, Chipotle, CPRX.",
-    "avgo_note": "AVGO $422.59 close May 26, $427 premarket May 27. Earnings June 3. DO NOT ENTER before June 3.",
-    "salesforce_tonight": "CRM reports after close May 27 — cloud sector catalyst watch for MSFT/AMZN holdings.",
+    "date": "2026-05-28",
+    "gbp_usd": 1.3431,
+    "market_sentiment": "NEUTRAL — PCE inflation 3.81% headline, 3.31% core (April). Cleveland Fed May forecast: 4.06% headline. Fed holding 3.50-3.75% through year-end. Only 1 rate cut priced for all of 2026. Futures fell on PCE data (TheStreet: 'S&P futures fall after inflation data'). BUT Schwab: 'Rally gathers steam on chip strength, peace hopes.' Oil dropped $99→$94 Brent / $93→$90 WTI = Iran deal progress (Trump 'not satisfied' but sides talking). S&P prev close 7,520.36 (DOW record 50,644.28 May 27). Cross-currents day.",
+    "pce_inflation_alert": "3.81% HEADLINE (April, released May 28). Fed preferred measure. Fed's 2% target = 90bps above. Oil-driven. 98x fwd P/E stocks (PLTR) = direct headwind. Growth stocks facing rate sensitivity. PCE forecast rising to 4.06% May — stagflation risk if oil stays $90+.",
+    "oil_update": "Brent $94 / WTI $90 as of May 28 (SIGNIFICANT DROP from $99/$93 May 27). Iran deal talks ongoing, Trump 'not satisfied' but sides remain in negotiations on Strait of Hormuz reopening terms. Oil below $95 threshold = UBER buy trigger activated.",
+    "iran_update": "Strait of Hormuz reopening talks. US-Iran remain at loggerheads over enriched uranium stockpile and Hormuz tolls. Trump said 'not satisfied.' Oil declining regardless = markets partially pricing in deal. Watch for deal announcement = UBER catalyst, oil sector headwind.",
+    "salesforce_ah_may27": "CRM Q1 FY2027: EPS $3.88 vs $2.96 exp (+31% beat). Rev $11.13B vs $11.05B exp. Net income +37% YoY. Full-year guidance slightly below consensus = stock flat in extended hours. Cloud AI adoption confirmed. MSFT Azure and AMZN AWS thesis validated.",
+    "sndk_watch": "Current $1,571 (-3.9% from IC entry $1,635). Stop $1,521 = 3.2% buffer. Citi PT $2,025. AI NAND storage supercycle intact but PCE macro headwind. If closes below $1,570 for 2 days = consider exit before stop.",
+    "mu_update": "Day range $888-$985 on PCE-driven volatility. Currently $928. Still +17.5% above IC avg cost $790. UBS $1,625 target. CORE: hold.",
+    "avgo_note": "AVGO earnings June 3. DO NOT ENTER before. Druckenmiller initiated Q1 2026.",
     "key_events": [
-      "MU +19.3% May 26 — $1T market cap, UBS $1,625 PT — IC CORE +23.23%",
-      "MU premarket +7-9% May 27 — AI memory supercycle fully confirmed",
-      "SNDK $1,635 — up +10.6% from watchlist, entered £200 EXPLORE today",
-      "BE ADD £150 — Aschenbrenner #1 position $879M, Nebius $2.6B deal confirmed",
-      "Iran deal stalled — fresh US strikes May 26, oil back to $99",
-      "AMD $512 — doubled YTD, still stretched, watchlist only",
-      "NVDA $213.95 — BELOW $215 trigger, deferred to June 2",
-      "UBER $70.20 — CORE confirmed (Ackman 15.71% + Tepper +242%), deferred to June 2 (Iran)",
-      "Salesforce after-close today — cloud catalyst for MSFT/AMZN thesis"
+      "PCE 3.81% May 28 — Fed holds, no 2026 cuts expected. Growth headwind.",
+      "Oil Brent $94 May 28 — UBER buy trigger activated ($95 threshold crossed).",
+      "UBER £300 CORE entered: Ackman 15.71% + Tepper +242%.",
+      "NTRA £200 EXPLORE entered: Druckenmiller #1 at 18.1%.",
+      "Salesforce Q1 AH beat: EPS $3.88 vs $2.96. Cloud thesis validated.",
+      "SNDK pullback -3.9% to $1,571. Stop $1,521 at 3.2% buffer — watch.",
+      "MU day range $888-$985. Currently $928. Still +19.3% above IC cost.",
+      "NVDA $208-216 range — below $215 trigger, defer to June 2.",
+      "AVGO — DO NOT ENTER before June 3 earnings.",
+      "Dell Technologies, Costco, MongoDB earnings today (May 28)."
     ]
   },
   "watchlist_next": [
     {
-      "ticker": "UBER",
-      "priority": "HIGHEST — ENTER MONDAY JUNE 2",
-      "target_gbp": 300,
-      "trigger": "CORE tier: Ackman 15.71% ($2.16B) + Tepper 7.68% (+242% add, Q1 2026). Non-AI diversification (consumer/platform). Deferred May 27 due to Iran deal stall + oil at $99. Iran clarity OR oil below $95 = green light. Entry ~$70. No stop (investor_follow). Hold min 90 days.",
-      "confidence_if_triggered": 4,
-      "strategy": "value_investor_follow",
-      "tier": "CORE",
-      "entry_day": "Monday 2026-06-02 (Iran clarity check)"
-    },
-    {
       "ticker": "NVDA",
       "priority": "HIGH — ENTER MONDAY JUNE 2",
       "target_gbp": 150,
-      "trigger": "Missed May 26 ($214.86 close, just below $215 trigger). Today $213.95 — still below. Entry $215-225. Stop $205. Caution: Aschenbrenner $1.6B notional put = hedge not thesis change. NVDA rule: 'semiconductor put hedges = caution flag, not blocker.' Momentum — allowed Mon-Wed.",
+      "trigger": "Missed again ($208-$216 range, $211 current, below $215 trigger). Entry $215-225. Stop $205. Aschenbrenner put hedges = caution not blocker. Druckenmiller initiated Q1 2026. Momentum entry (Mon-Wed only). Cash must be above 18% first.",
       "confidence_if_triggered": 4,
       "strategy": "momentum+catalyst",
-      "entry_day": "Monday 2026-06-02 if above $215"
-    },
-    {
-      "ticker": "NTRA",
-      "priority": "HIGH — ENTER JUNE 2-3 (EXPLORE £200)",
-      "target_gbp": 200,
-      "trigger": "Druckenmiller NOW at 18.1% ($612.7M, +80% increase from 13.6%) — his LARGEST position. At $200.91. Healthcare/genomics = defensive sector during Iran uncertainty. Stop -7% from entry (~$186.85). Single investor = EXPLORE max £300.",
-      "confidence_if_triggered": 4,
-      "strategy": "value_investor_follow",
-      "tier": "EXPLORE",
-      "entry_day": "2026-06-02 to 2026-06-03"
+      "entry_day": "Monday 2026-06-02 if above $215 AND cash above 18%"
     },
     {
       "ticker": "AVGO",
-      "priority": "MEDIUM — WAIT JUNE 3 EARNINGS",
+      "priority": "HIGH — WAIT JUNE 3 EARNINGS",
       "target_gbp": 200,
-      "trigger": "Druckenmiller INITIATED Q1 2026. Custom AI chips (XPU). $422 today. DO NOT ENTER before June 3 earnings. Post-earnings entry only.",
+      "trigger": "Druckenmiller INITIATED Q1 2026. Custom AI chips (XPU). DO NOT ENTER before June 3 earnings. Post-earnings entry only on beat + positive guide.",
       "confidence_if_triggered": 4,
       "strategy": "value_investor_follow+catalyst",
-      "entry_day": "Post June 3 earnings"
+      "entry_day": "Post June 3 earnings only"
     },
     {
-      "ticker": "INTC",
-      "priority": "SUSPENDED — single investor only",
+      "ticker": "VST",
+      "priority": "MEDIUM — ENTER WHEN CASH >18%",
+      "target_gbp": 200,
+      "trigger": "Tepper +114% position. Q1 revenue +43.4% YoY. Meta 20-year nuclear deal 2,609 MW. $160.15 current price (-2.68% today on PCE). Median analyst PT $231. Non-AI diversification. Cash currently at 15.6% floor — defer until cash rebuilds.",
+      "confidence_if_triggered": 4,
+      "strategy": "value_investor_follow",
+      "tier": "EXPLORE",
+      "entry_day": "When portfolio cash > 18%"
+    },
+    {
+      "ticker": "BN",
+      "priority": "MEDIUM — ENTER WHEN CASH >18%",
+      "target_gbp": 150,
+      "trigger": "Ackman #1 position 17.62% ($2.42B, Q1 2026). BN+BWS corporate simplification announced May 26 — AGM vote July 16. $45.37 current. Non-AI diversification. Cash floor prevents entry today.",
+      "confidence_if_triggered": 4,
+      "strategy": "value_investor_follow",
+      "tier": "EXPLORE",
+      "entry_day": "When portfolio cash > 18%"
+    },
+    {
+      "ticker": "SNDK",
+      "priority": "WATCH — STOP $1,521",
       "target_gbp": 0,
-      "trigger": "Aschenbrenner exited INTC calls. Only Druckenmiller 411K shares. Need second investor signal.",
-      "entry_day": "Suspended indefinitely"
+      "trigger": "In portfolio at $1,635.94. Current $1,571 (-3.9%). Stop $1,521 = 3.2% buffer. PCE 3.81% = macro headwind. If two consecutive closes below $1,570 = consider early exit before stop. Citi PT $2,025 = upside case.",
+      "entry_day": "N/A — held EXPLORE. Monitor stop."
+    },
+    {
+      "ticker": "BE",
+      "priority": "MONITOR — CORE UNDERWEIGHT £400 REMAINING",
+      "target_gbp": 400,
+      "trigger": "At £350 vs CORE max £750. Could add £400 more. But cash at floor. Add when cash > 18% OR on significant dip (below $290). Oracle 2.8GW expansion ongoing.",
+      "entry_day": "When cash > 18%"
     },
     {
       "ticker": "TSLA",
@@ -456,14 +499,21 @@
       "ticker": "MU",
       "priority": "MONITOR — AT CORE MAX",
       "target_gbp": 0,
-      "trigger": "Already at £750 CORE max. UBS $1,625 target. Hold. Do NOT add (at position max). Reassess if Tepper or Druckenmiller trims.",
+      "trigger": "At £750 CORE max. UBS $1,625 target. Hold. Do NOT add. Reassess if Tepper or Druckenmiller trims.",
       "entry_day": "N/A — position full at CORE max"
+    },
+    {
+      "ticker": "INTC",
+      "priority": "SUSPENDED",
+      "target_gbp": 0,
+      "trigger": "Aschenbrenner exited INTC calls. Only Druckenmiller 411K shares. Need second investor signal.",
+      "entry_day": "Suspended indefinitely"
     }
   ],
   "investor_watchlists": {
     "aschenbrenner": ["BE", "CLSK", "RIOT", "APLD", "IREN"],
     "tepper": ["MU", "AMZN", "GOOGL", "UBER", "TSM", "SNDK", "VST"],
-    "druckenmiller": ["NTRA", "EWZ", "INSM", "YPF", "MU", "AVGO"],
+    "druckenmiller": ["NTRA", "EWZ", "INSM_WATCH_ONLY", "YPF", "MU", "AVGO"],
     "ackman": ["MSFT", "AMZN", "UBER", "BN", "QSR"],
     "coatue": ["NVDA", "TSM", "MSFT", "META", "AMZN", "VRT_UNCONFIRMED"],
     "wood": ["TSLA", "CRSP"],
@@ -488,8 +538,8 @@
     "stop_avg_loss_pct": -5.23,
     "realized_gains_count": 1,
     "realized_gain_avg_pct": 0.90,
-    "total_unrealized_gbp": 193.84,
-    "grand_total_pnl_gbp": 106.48
+    "total_unrealized_gbp": 160.13,
+    "grand_total_pnl_gbp": 72.77
   },
   "rules": {
     "position_tiers": {
@@ -560,9 +610,16 @@
       "2026-05-26: INVESTOR EXIT CLASSIFICATION — profit-taking (>100% gain at exit, near ATH) ≠ thesis invalidation. SNDK lesson applied.",
       "2026-05-26: SIGNAL CONFLICT RESOLUTION — profit-taking exit + new entry = EXPLORE £200-300 with stop.",
       "2026-05-27: COATUE Q1 2026 PENDING — VRT not confirmed in Coatue Q1 13F top holdings. Confidence reduced to 3. Do NOT add VRT until Coatue confirmed.",
-      "2026-05-27: MU AT CORE MAX (£750) — Do not add. UBS $1,625 target. Position is full. Monitor for investor trim signals.",
-      "2026-05-27: NTRA UPGRADED — Druckenmiller now 18.1% ($612.7M, +80%). Priority EXPLORE entry June 2-3.",
-      "2026-05-27: AVGO — DO NOT ENTER before June 3 earnings. Druckenmiller initiated but catalyst-date rule applies."
+      "2026-05-27: MU AT CORE MAX (£750) — Do not add. UBS $1,625 target. Position is full.",
+      "2026-05-27: NTRA UPGRADED — Druckenmiller now 18.1% ($612.7M, +80%). Priority EXPLORE entry confirmed May 28.",
+      "2026-05-27: AVGO — DO NOT ENTER before June 3 earnings. Druckenmiller initiated but catalyst-date rule applies.",
+      "2026-05-28: PCE INFLATION ALERT 3.81% — Fed holds 3.50-3.75% through 2026. Only 1 cut priced. Growth stock headwind. PCE reinforces Burry PLTR short thesis (98x fwd P/E).",
+      "2026-05-28: UBER CORE ENTERED £300 — Oil Brent $94 below $95 green-light trigger. Ackman 15.71% + Tepper +242% Q1 2026.",
+      "2026-05-28: NTRA EXPLORE ENTERED £200 — Druckenmiller #1 position 18.1%. Healthcare = defensive inflation hedge.",
+      "2026-05-28: INSM CONFIDENCE REDUCED — Druckenmiller trimmed INSM -22% Q1 2026. Still held (~4.3% est) but declining conviction. Remove from active entry candidates. WATCH ONLY.",
+      "2026-05-28: CASH AT 15.6% FLOOR — Do NOT deploy new capital until cash rebuilds above 18% via gains or stop-triggered liquidation.",
+      "2026-05-28: SNDK STOP WATCH — -3.9% from entry ($1,571 vs $1,635 cost, stop $1,521). 3.2% buffer. Two consecutive closes below $1,570 = consider early exit.",
+      "2026-05-28: INVESTOR_FOLLOW ENTRIES EXEMPT FROM MON-WED RULE — Thursday rule applies only to momentum/catalyst entries. UBER+NTRA entered Thursday correctly."
     ]
   },
   "forecast_log": [
@@ -589,8 +646,13 @@
           "BE": "ADD — Aschenbrenner #1, Nebius deal.",
           "SNDK": "BUY EXPLORE — Tepper new position, AI storage.",
           "NVDA": "DEFER — below $215 trigger.",
-          "UBER": "DEFER — Iran uncertainty."
+          "UBER": "BUY — oil trigger (Brent below $95)."
         }
+      },
+      "actuals_through_may28": {
+        "portfolio_return_pct": 2.55,
+        "spx_return_pct": 0.4,
+        "notes": "Within prediction range. MU volatile (hit $985 intraday). SNDK underperforming on PCE. UBER triggered on oil drop. NTRA bonus entry."
       }
     }
   ],
@@ -602,24 +664,24 @@
     "mean_absolute_error_pct": 2.86,
     "investor_signal_accuracy": {
       "tepper": {
-        "correct": 3,
-        "total": 3,
-        "notes": "MU +23.23% CORE win. AMZN +3.11% recovering. SNDK new buy signal valid. PERFECT record so far."
+        "correct": 4,
+        "total": 4,
+        "notes": "MU +19.26% CORE win. AMZN +3.19% recovering. SNDK new buy (under pressure but stop intact). UBER entered today. PERFECT record through 4 signals."
       },
       "druckenmiller": {
         "correct": 3,
-        "total": 4,
-        "notes": "MU correct. NTRA #1 growing (18.1%). SNDK profit-taking exit correct (stock continued up). 1 miss: GOOGL exit caught late."
+        "total": 5,
+        "notes": "MU correct. NTRA #1 growing (18.1%) — entered today. SNDK profit-taking exit correct. 1 miss: GOOGL exit caught late. INSM trimmed -22% (lower conviction noted)."
       },
       "ackman": {
         "correct": 2,
-        "total": 3,
-        "notes": "MSFT slightly underwater (-2.43%). AMZN recovering (+3.11%). UBER CORE signal not yet tested."
+        "total": 4,
+        "notes": "MSFT slightly underwater (-2.36%) but thesis intact. AMZN recovering (+3.19%). UBER CORE entered today. BN signal not yet tested."
       },
       "aschenbrenner": {
         "correct": 3,
         "total": 4,
-        "notes": "BE CORE thesis CONFIRMED ($879M largest position). Semiconductor put hedges = caution flag (NVDA range-bound). LITE exit correct. 1 miss: LITE exit wasn't acted on fast enough."
+        "notes": "BE CORE thesis CONFIRMED ($879M largest position). Semiconductor put hedges = caution flag (NVDA range-bound below trigger). LITE exit correct. 1 miss: LITE exit wasn't acted on fast enough."
       },
       "ark": {
         "correct": 0,
@@ -629,7 +691,7 @@
       "burry": {
         "correct": 1,
         "total": 1,
-        "notes": "PLTR short thesis = headwind confirmed. PLTR essentially flat while market rallied."
+        "notes": "PLTR short thesis validated: essentially flat while market rallied. PCE 3.81% now reinforces 98x P/E concern. Correct and strengthening."
       }
     }
   }
