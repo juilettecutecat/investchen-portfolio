@@ -1,45 +1,45 @@
 {
   "inception_date": "2026-05-11",
-  "last_updated": "2026-06-03",
+  "last_updated": "2026-06-04",
   "currency": "GBP",
   "initial_capital_gbp": 5000,
-  "cash_gbp": 1004.77,
-  "fx_rate_gbpusd": 1.3461,
-  "total_value_gbp": 5248.22,
-  "cumulative_return_pct": 4.96,
+  "cash_gbp": 804.77,
+  "fx_rate_gbpusd": 1.347,
+  "total_value_gbp": 5235.89,
+  "cumulative_return_pct": 4.72,
   "positions": {
     "MU": {
       "shares": 1.2939,
       "avg_cost_gbp": 750.0,
       "avg_cost_usd": 790.0,
-      "current_price_usd": 1035.50,
-      "current_value_gbp": 995.34,
-      "unrealized_pnl_gbp": 245.34,
-      "unrealized_pnl_pct": 32.71,
+      "current_price_usd": 1045.00,
+      "current_value_gbp": 1003.81,
+      "unrealized_pnl_gbp": 253.81,
+      "unrealized_pnl_pct": 33.84,
       "entry_date": "2026-05-11",
       "strategy": "value_investor_follow+momentum",
       "confidence": 5,
       "tier": "CORE",
-      "thesis": "DUAL INVESTOR CORE ★: Tepper #2 position (9.48%, ~$562M Q1 2026 13F) + Druckenmiller Q1 2026 buy. MU hit ATH CLOSING PRICE $1,035.50 on Jun 1, 2026 (intraday Jun 2 range $1,009-$1,047). Jun 1 ATH invalidates prior '$981' milestone — new record set. HBM4 sold out through year-end. AI memory supercycle intact. 912% gain past year. CORE MAX — DO NOT ADD.",
+      "thesis": "DUAL INVESTOR CORE ★: Tepper #2 position (9.48%, ~$562M Q1 2026 13F) + Druckenmiller Q1 2026 buy. ATH CLOSING PRICE $1,035.50 on Jun 1, 2026. 52w range $94.40-$1,046.97. HBM4 sold out through year-end. AI memory supercycle intact. CORE MAX — DO NOT ADD.",
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-08-11",
-      "milestone": "ATH CLOSE $1,035.50 on June 1, 2026. 52w range $94.40-$1,046.97. MU crossed $1T market cap May 26."
+      "milestone": "ATH CLOSE $1,035.50 on June 1, 2026. MU crossed $1T market cap May 26. Chip rally Jun 4 continuing."
     },
     "AMZN": {
       "shares": 2.8041,
       "avg_cost_gbp": 548.37,
       "avg_cost_usd": 266.1,
-      "current_price_usd": 262.00,
-      "current_value_gbp": 545.78,
-      "unrealized_pnl_gbp": -2.59,
-      "unrealized_pnl_pct": -0.47,
+      "current_price_usd": 257.00,
+      "current_value_gbp": 534.86,
+      "unrealized_pnl_gbp": -13.51,
+      "unrealized_pnl_pct": -2.47,
       "entry_date": "2026-05-11",
       "last_trim_date": "2026-05-19",
       "strategy": "value_investor_follow",
       "confidence": 4,
       "tier": "CORE",
-      "thesis": "DUAL INVESTOR CORE: Tepper NEARLY DOUBLED (+98%) to 4.3M shares (#1 at 15.16%) + Ackman #2 position (17.39% = $2.39B). NOTE: Druckenmiller dumped 94% of AMZN in Q1 2026 (Jun 2 Motley Fool) — was NOT part of IC thesis (Tepper+Ackman is the thesis). AMZN CORE tier unchanged. AWS +28% YoY; $200B AI capex 2026. Currently -0.47% below cost ($262 vs avg $266.10) — shallow dip, no pullback add. Hold min 2026-08-11.",
+      "thesis": "DUAL INVESTOR CORE: Tepper NEARLY DOUBLED (+98%) to 4.3M shares (#1 at 15.16%) + Ackman #2 position (17.39% = $2.39B). Druckenmiller cut 99% Q1 2026 — NOT part of IC thesis. AWS +28% YoY; $200B AI capex 2026. Currently -2.47% below cost. Dip add trigger: $255-258. Hold min 2026-08-11.",
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-08-11"
@@ -48,16 +48,16 @@
       "shares": 1.1954,
       "avg_cost_gbp": 300.0,
       "avg_cost_usd": 341.99,
-      "current_price_usd": 355.00,
-      "current_value_gbp": 315.26,
-      "unrealized_pnl_gbp": 15.26,
-      "unrealized_pnl_pct": 5.09,
+      "current_price_usd": 357.00,
+      "current_value_gbp": 316.83,
+      "unrealized_pnl_gbp": 16.83,
+      "unrealized_pnl_pct": 5.61,
       "entry_date": "2026-05-11",
       "last_trim_date": "2026-06-02",
       "strategy": "sector_rotation+value_investor_follow",
       "confidence": 3,
       "tier": "EXPLORE",
-      "thesis": "TRIMMED Jun 2 from £500 cost → £300 EXPLORE limit (Coatue Q1 2026 unconfirmed). VRT +3.03% on Jun 1 (Vertiv SmartRun digital twin announcement). Current $355 = +3.8% above entry avg $341.99. FORMAL STOP SET: $318.05 (-7% from entry). Coatue confirmation STILL PENDING — do not add. Hold.",
+      "thesis": "TRIMMED Jun 2 from £500→£300 EXPLORE limit (Coatue Q1 2026 unconfirmed). VRT +5.6% above entry avg $341.99. FORMAL STOP: $318.05 (-7% from entry). Coatue confirmation STILL PENDING — do not add. Hold.",
       "stop_loss_usd": 318.05,
       "hold_type": "investor_follow",
       "coatue_q1_2026_confirmed": false,
@@ -79,62 +79,63 @@
       "shares": 0.869,
       "avg_cost_gbp": 249.85,
       "avg_cost_usd": 388.64,
-      "current_price_usd": 373.66,
-      "current_value_gbp": 241.22,
-      "unrealized_pnl_gbp": -8.63,
-      "unrealized_pnl_pct": -3.45,
+      "current_price_usd": 373.00,
+      "current_value_gbp": 240.71,
+      "unrealized_pnl_gbp": -9.14,
+      "unrealized_pnl_pct": -3.66,
       "entry_date": "2026-05-12",
       "last_trim_date": "2026-05-22",
       "strategy": "value_investor_follow",
       "confidence": 2,
       "tier": "EXPLORE",
-      "thesis": "TRIMMED 50% May 22: Druckenmiller FULLY EXITED GOOGL in Q1 2026. Only Tepper remains (#3 position, 8.38%). Alphabet announced $80B AI infrastructure raise (Jun 2) with $10B Berkshire anchor — short-term dilutive pressure. GOOGL at $373.66 = -3.9% below entry $388.64. FORMAL STOP NOW SET: $361.43 (-7% from entry). Still above stop. Needs second investor to rebuild position. Hold but monitor.",
+      "thesis": "SINGLE-INVESTOR EXPLORE: Druckenmiller FULLY EXITED Q1 2026. Ackman REDUCED 95% Q1 2026 (confirmed Jun 4). Only Tepper remains (#3 position, 8.38%). Alphabet $80B AI infrastructure raise = dilutive. FORMAL STOP: $361.43 (-7% from entry $388.64). Current $373 = only $11.57 above stop = 3.1% buffer. WATCH CLOSELY. Needs second investor to rebuild.",
       "stop_loss_usd": 361.43,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-08-12",
-      "trim_reason": "Druckenmiller fully exited Q1 2026 — primary investor thesis invalidated",
-      "stop_note": "Stop $361.43 formalized Jun 3 (3.3% below current $373.66). Alphabet $80B raise = dilutive pressure. Watching closely."
+      "trim_reason": "Druckenmiller fully exited Q1 2026. Ackman reduced 95% Q1 2026.",
+      "stop_note": "Stop $361.43 = 3.1% below current $373. Thin buffer. Ackman + Druckenmiller both exited. Tepper only investor. High exit risk."
     },
     "PLTR": {
       "shares": 2.003,
       "avg_cost_gbp": 200.0,
       "avg_cost_usd": 134.84,
-      "current_price_usd": 158.15,
-      "current_value_gbp": 235.33,
-      "unrealized_pnl_gbp": 35.33,
-      "unrealized_pnl_pct": 17.66,
+      "current_price_usd": 151.00,
+      "current_value_gbp": 224.55,
+      "unrealized_pnl_gbp": 24.55,
+      "unrealized_pnl_pct": 12.28,
       "entry_date": "2026-05-13",
       "strategy": "momentum+catalyst",
       "confidence": 3,
       "tier": "EXPLORE",
-      "thesis": "FUNDAMENTALS-ONLY (Burry SHORTING via $50+$100 puts — short FAILING at $158). Q1 2026: EPS $0.33 vs $0.28 exp; rev $1.63B (+85% YoY); US Army $10B + USDA $300M contracts. Trump Truth Social endorsement May 29 (+9.21% day). Jun 1 $158.15. STOP TRAILED: $128.10 → $143.00 → $147.00 (7% below $158.15, locking in +9.4% gain at stop). Burry 0/2 signal quality.",
+      "thesis": "FUNDAMENTALS-ONLY (Burry SHORTING via puts — short FAILING at $151). Q1 2026: EPS $0.33 vs $0.28 exp; rev $1.63B (+85% YoY); US Army $10B + USDA $300M contracts. Jun 3 close $149.99 (portfolio.json was intraday $158.15). Jun 4 open ~$151. STOP $147 = $4 above current = narrow 2.6% buffer. WATCH CLOSELY. Stop protects +12.3% gain from cost.",
       "stop_loss_usd": 147.00,
       "stop_trail_history": [
         {"date": "2026-05-13", "stop": 128.10, "note": "Original stop -5% from entry $134.84"},
         {"date": "2026-06-02", "stop": 143.00, "note": "Trailed — 7% below $152 recovery. Protecting +13.2% gain."},
-        {"date": "2026-06-03", "stop": 147.00, "note": "Trailed — 7% below $158.15 Jun 1 close. +17.7% gain. At stop = +9.4% locked."}
+        {"date": "2026-06-03", "stop": 147.00, "note": "Trailed — 7% below $158.15 Jun 3 intraday. +17.7% paper gain at that price."},
+        {"date": "2026-06-04", "stop": 147.00, "note": "UNCHANGED — 7% below current $151 = $140.43 < existing $147. NEVER LOWER A STOP. Jun 3 close was $149.99. Buffer: $4.00 (2.6%). Watch closely."}
       ],
       "hold_type": "momentum",
-      "correction_note": "Burry SHORT PLTR. IC holds on fundamentals only. Trailing stop protecting gains. Confidence 3."
+      "correction_note": "Burry SHORT PLTR. IC holds on fundamentals only. Trailing stop protecting gains. Confidence 3. NARROW BUFFER WARNING: $151 vs stop $147."
     },
     "BE": {
       "shares": 2.101,
       "avg_cost_gbp": 450.0,
       "avg_cost_usd": 288.57,
-      "current_price_usd": 289.00,
-      "current_value_gbp": 451.07,
-      "unrealized_pnl_gbp": 1.07,
-      "unrealized_pnl_pct": 0.24,
+      "current_price_usd": 290.00,
+      "current_value_gbp": 452.31,
+      "unrealized_pnl_gbp": 2.31,
+      "unrealized_pnl_pct": 0.51,
       "entry_date": "2026-05-13",
       "last_add_date": "2026-06-02",
       "strategy": "value_investor_follow+sector_rotation",
       "confidence": 4,
       "tier": "CORE",
-      "thesis": "DUAL INVESTOR CORE: Aschenbrenner LARGEST position 6.5M shares = $879M (Q1 2026 13F, 6.4% of fund — #1 conviction). Druckenmiller also holds. Jun 2 dip add at $280 lowered avg from $291.05→$288.57. Now recovering to $289 = essentially at cost. Oracle 2.8GW MSA, FY2026 guidance raised $3.4-3.8B. Total backlog $20B. NOTE: Aschenbrenner has MU/AVGO/AMD puts — these are PORTFOLIO HEDGES on the sector, NOT exits from BE. BE thesis intact. CORE £450/£750 — £300 remaining room. No stop, hold min 2026-08-11.",
+      "thesis": "DUAL INVESTOR CORE: Aschenbrenner LARGEST position 6.5M shares = $879M (Q1 2026 13F, 6.4% of fund — #1 conviction). Druckenmiller also holds. Jun 2 dip add at $280 lowered avg $291.05→$288.57. Oracle 2.8GW MSA, FY2026 guidance raised $3.4-3.8B. Total backlog $20B. Aschenbrenner MU/AVGO/AMD/NVDA puts = PORTFOLIO HEDGES on AI chip sector, NOT exits from BE. CORE £450/£750 — £300 remaining room. No stop, hold min 2026-08-11.",
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-08-11",
-      "valuation_warning": "663x EV/EBITDA, 80x book. +240% YTD. Insider sales May 2026. Aschenbrenner conviction offsets.",
+      "valuation_warning": "663x EV/EBITDA, 80x book. +240% YTD. Insider sales May 2026. Aschenbrunner conviction offsets.",
       "add_history": [
         {"date": "2026-05-13", "action": "initial_buy", "shares": 0.96, "price_usd": 281.45, "amount_gbp": 200.0, "fx_rate": 1.3507},
         {"date": "2026-05-27", "action": "add", "shares": 0.661, "price_usd": 305.0, "amount_gbp": 150.0, "fx_rate": 1.344, "trigger": "Aschenbrenner #1 confirmed Q1 13F. Nebius deal. CORE underweight."},
@@ -145,38 +146,40 @@
       "shares": 0.9473,
       "avg_cost_gbp": 300.0,
       "avg_cost_usd": 421.92,
-      "current_price_usd": 452.39,
-      "current_value_gbp": 318.36,
-      "unrealized_pnl_gbp": 18.36,
-      "unrealized_pnl_pct": 6.12,
+      "current_price_usd": 440.00,
+      "current_value_gbp": 309.43,
+      "unrealized_pnl_gbp": 9.43,
+      "unrealized_pnl_pct": 3.14,
       "entry_date": "2026-05-18",
       "strategy": "value_investor_follow",
       "confidence": 4,
       "tier": "CORE",
-      "thesis": "Ackman Pershing Square $2.09B confirmed core holding (15.26% of portfolio, Q1 2026 13F CURRENT). Azure cloud +35% YoY + M365 Copilot enterprise rollout. MSFT surged to $452.39 on Jun 2 (+7.2% from entry $421.92). PANW beat Jun 2 AH likely boosted cloud/cybersecurity sentiment. Single-investor CORE (borderline — upgrade if Tepper/Druckenmiller confirm). At £300 EXPLORE limit — do not add. Hold min 2026-08-18.",
+      "thesis": "Ackman Pershing Square $2.09B confirmed core holding (15.26% of portfolio, Q1 2026 13F CURRENT). Azure cloud +35% YoY + M365 Copilot enterprise rollout. CONFLICTING SIGNAL Jun 4: Tepper SOLD 82% of MSFT in Q1 2026 while Ackman added $2.09B — opposing Tier 1 vs Tier 2B signals. Single-investor CORE (Ackman only) CONFIRMED. IC entered at Ackman's follow — maintain. Do NOT upgrade to CORE (Tepper opposing). At £300 EXPLORE limit — do not add. Hold min 2026-08-18.",
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
-      "hold_min_date": "2026-08-18"
+      "hold_min_date": "2026-08-18",
+      "tepper_exit_note": "Tepper sold 82% MSFT Q1 2026 while Ackman added $2.09B. Opposing signals. Single-investor status confirmed. No upgrade path until second supportive investor."
     },
     "SNDK": {
       "shares": 0.1643,
       "avg_cost_gbp": 200.0,
       "avg_cost_usd": 1635.94,
-      "current_price_usd": 1760.00,
-      "current_value_gbp": 214.82,
-      "unrealized_pnl_gbp": 14.82,
-      "unrealized_pnl_pct": 7.41,
+      "current_price_usd": 1840.00,
+      "current_value_gbp": 224.46,
+      "unrealized_pnl_gbp": 24.46,
+      "unrealized_pnl_pct": 12.23,
       "entry_date": "2026-05-27",
       "strategy": "value_investor_follow",
       "confidence": 3,
       "tier": "EXPLORE",
       "investor_exit_classification": "PROFIT_TAKING",
-      "thesis": "EXPLORE: Tepper Q1 2026 NEW BUY. Druckenmiller PROFIT-TAKING EXIT (classified correctly). SNDK hit ATH CLOSE $1,694.98 May 29 (IC 2-day hold = confirmed correct). Jun 2 continuation: intraday range $1,686-$1,804, price ~$1,760. New intraday ATH $1,804. STOP TRAILED: $1,521 → $1,562 → $1,637 (7% below $1,760 recovery). Susquehanna $2,000 PT, $42B AI supply agreements. NAND cost supercycle intact.",
-      "stop_loss_usd": 1637.00,
+      "thesis": "EXPLORE: Tepper Q1 2026 NEW BUY. Druckenmiller PROFIT-TAKING EXIT (classified). Jun 3 chip rally continuation Jun 4 (AVGO beat = AI risk-on). +12.2% from cost. Susquehanna $2,000 PT, $42B AI supply agreements. NAND cost supercycle intact. STOP TRAILED: $1,711 (7% below $1,840 Jun 4 open).",
+      "stop_loss_usd": 1711.00,
       "stop_trail_history": [
         {"date": "2026-05-27", "stop": 1521.0, "note": "Original stop -7% from entry $1,635.94"},
         {"date": "2026-06-02", "stop": 1562.0, "note": "Trailed — 7% below $1,680 recovery."},
-        {"date": "2026-06-03", "stop": 1637.0, "note": "Trailed — 7% below $1,760 (Jun 2 price). New intraday ATH $1,804. Stop now near breakeven."}
+        {"date": "2026-06-03", "stop": 1637.0, "note": "Trailed — 7% below $1,760 (Jun 2 price). New intraday ATH $1,804. Stop near breakeven."},
+        {"date": "2026-06-04", "stop": 1711.0, "note": "Trailed — 7% below $1,840 Jun 4 open. AVGO beat = chip sector AI risk-on. Stop now +4.6% above entry cost. Protecting +12.2% at stop."}
       ],
       "hold_type": "explore",
       "hold_min_date": "2026-08-27"
@@ -185,34 +188,34 @@
       "shares": 5.683,
       "avg_cost_gbp": 300.0,
       "avg_cost_usd": 70.9,
-      "current_price_usd": 73.00,
-      "current_value_gbp": 308.05,
-      "unrealized_pnl_gbp": 8.05,
-      "unrealized_pnl_pct": 2.68,
+      "current_price_usd": 71.50,
+      "current_value_gbp": 301.65,
+      "unrealized_pnl_gbp": 1.65,
+      "unrealized_pnl_pct": 0.55,
       "entry_date": "2026-05-28",
       "strategy": "value_investor_follow",
       "confidence": 4,
       "tier": "CORE",
-      "thesis": "DUAL INVESTOR CORE: Ackman $2.154B #3 position (15.71%) + Tepper +242% to 7.68%. Jun 2 range $71.33-$74.56. Iran MOU process ongoing — oil $92-98 range. UBER thesis: oil normalization = ride-hailing margin expansion. Non-AI diversification. Hold min 2026-08-28.",
+      "thesis": "DUAL INVESTOR CORE: Ackman $2.154B #3 position (15.71%) + Tepper +242% to 7.68%. Minor negative Jun 4: UBER reportedly capping employee AI software access (budget blowout news) — operational matter only, NOT thesis change. Oil still $92-98 range. Iran MOU ongoing. Non-AI diversification. Hold min 2026-08-28.",
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-08-28",
-      "ackman_trim_note": "Q1 2026: -248,963 shares (-0.8%). Classified REBALANCING. Tier unchanged."
+      "ackman_trim_note": "Q1 2026: -248,963 shares (-0.8%). Classified REBALANCING. Tier unchanged. Daily Hodl 'Dumps Uber' headline was misleading — minor rebalancing confirmed."
     },
     "NTRA": {
       "shares": 1.981,
       "avg_cost_gbp": 300.0,
       "avg_cost_usd": 203.41,
-      "current_price_usd": 218.00,
-      "current_value_gbp": 320.82,
-      "unrealized_pnl_gbp": 20.82,
-      "unrealized_pnl_pct": 6.94,
+      "current_price_usd": 219.00,
+      "current_value_gbp": 322.08,
+      "unrealized_pnl_gbp": 22.08,
+      "unrealized_pnl_pct": 7.36,
       "entry_date": "2026-05-28",
       "last_add_date": "2026-06-02",
       "strategy": "value_investor_follow",
       "confidence": 4,
       "tier": "EXPLORE",
-      "thesis": "Druckenmiller Duquesne LARGEST position 18.1% ($612.7M, +80% increase Q1 2026 13F). Jun 1 $218 = +7.2% from avg cost $203.41. 52w range $131.81-$256.36; current $218 = 15% below ATH ($256.36). Q1 2026 beat: +38.8% YoY, >1M tests. FILLED TO EXPLORE MAX £300 Jun 2. Stop $188.89 = 13.4% below current. Hold.",
+      "thesis": "Druckenmiller Duquesne LARGEST position 18.1% ($612.7M, +80% increase Q1 2026 13F). +7.36% from avg cost $203.41. 52w range $131.81-$256.36; current $219 = 15% below ATH. Q1 2026 beat: +38.8% YoY, >1M tests. FILLED TO EXPLORE MAX £300 Jun 2. Stop $188.89 = 15.6% below current. Hold. Druckenmiller also holds INSM 5.6% — healthcare pivot confirmed.",
       "stop_loss_usd": 188.89,
       "hold_type": "explore",
       "hold_min_date": "2026-08-28",
@@ -225,15 +228,15 @@
       "shares": 4.386,
       "avg_cost_gbp": 150.0,
       "avg_cost_usd": 46.0,
-      "current_price_usd": 45.24,
-      "current_value_gbp": 147.40,
-      "unrealized_pnl_gbp": -2.60,
-      "unrealized_pnl_pct": -1.73,
+      "current_price_usd": 45.40,
+      "current_value_gbp": 147.85,
+      "unrealized_pnl_gbp": -2.15,
+      "unrealized_pnl_pct": -1.43,
       "entry_date": "2026-06-02",
       "strategy": "value_investor_follow",
       "confidence": 4,
       "tier": "EXPLORE",
-      "thesis": "Ackman (Pershing Square) #1 LARGEST position: 17.62% = $2.42B (Q1 2026). Ackman trimmed -140,166 shares in Q1 — classified REBALANCING (<5% of position). BN+BWS corporate simplification AGM vote July 16 = near-term catalyst. Jun 1 $45.24 vs entry $46 = -1.7% (normal fluctuation). Stop $42.78 (-7%). EXPLORE initial £150/£300 max — add £150 nearer July 16.",
+      "thesis": "Ackman (Pershing Square) #1 LARGEST position: 17.62% = $2.42B (Q1 2026). Ackman trimmed -140,166 shares in Q1 — classified REBALANCING (<5% of position). BN+BWS corporate simplification AGM vote July 16 = near-term catalyst. At -1.43% vs entry. Stop $42.78 (-7%). EXPLORE initial £150/£300 max — add £150 in late June/early July (July 16 AGM catalyst).",
       "stop_loss_usd": 42.78,
       "hold_type": "explore",
       "hold_min_date": "2026-09-02",
@@ -243,22 +246,41 @@
       "shares": 0.9014,
       "avg_cost_gbp": 150.0,
       "avg_cost_usd": 224.00,
-      "current_price_usd": 224.00,
-      "current_value_gbp": 150.00,
-      "unrealized_pnl_gbp": 0.0,
-      "unrealized_pnl_pct": 0.0,
+      "current_price_usd": 228.00,
+      "current_value_gbp": 152.58,
+      "unrealized_pnl_gbp": 2.58,
+      "unrealized_pnl_pct": 1.72,
       "entry_date": "2026-06-03",
       "strategy": "momentum+catalyst",
       "confidence": 3,
       "tier": "EXPLORE",
-      "thesis": "EXPLORE: $215 trigger activated ($223.97 Jun 1 close, +2% premarket Jun 2 after Computex RTX Spark keynote). Pullback check: 52w high $236.54 × 0.95 = $224.71. Entry $224 is 5.3% below ATH = PROCEED (just outside 5% zone). Aschenbrenner $1.57B NVDA puts = structural caution flag (HEDGE not short, same as MU/AVGO puts). Druckenmiller NOT directly in NVDA but loaded AI hardware (SNDK/MU/AVGO). AVGO earnings AH Jun 3 = near-term AI sector catalyst. Stop -7% = $208.32. EXPLORE max £150 per caution (single flag). Do not add pre-AVGO result.",
-      "stop_loss_usd": 208.32,
+      "thesis": "EXPLORE: $215 trigger activated. Entry $224 = 5.3% below ATH $236.54 = PROCEED. Aschenbrenner $1.57B NVDA puts = HEDGE (not exit). AVGO beat Jun 3 AH = AI sector catalyst. ARK Invest bought 300K NVDA shares Jun 1 = additional positive signal. STOP TRAILED: $208.32→$212.04 (7% below $228 Jun 4). +1.72% from entry. EXPLORE max £150.",
+      "stop_loss_usd": 212.04,
       "stop_trail_history": [
-        {"date": "2026-06-03", "stop": 208.32, "note": "Initial stop -7% from entry $224.00"}
+        {"date": "2026-06-03", "stop": 208.32, "note": "Initial stop -7% from entry $224.00"},
+        {"date": "2026-06-04", "stop": 212.04, "note": "Trailed — 7% below $228 Jun 4 (AVGO beat chip rally). Protecting small +1.72% gain. ARK NVDA buy confirmed."}
       ],
       "hold_type": "explore",
       "hold_min_date": "2026-09-03",
-      "entry_trigger": "$215 threshold crossed. 5.3% below ATH = pullback rule PROCEED. Computex catalyst. AVGO AH catalyst pending."
+      "entry_trigger": "$215 threshold. 5.3% below ATH. Computex catalyst. AVGO AH catalyst. ARK buying."
+    },
+    "AVGO": {
+      "shares": 0.5335,
+      "avg_cost_gbp": 200.0,
+      "avg_cost_usd": 505.00,
+      "current_price_usd": 505.00,
+      "current_value_gbp": 200.00,
+      "unrealized_pnl_gbp": 0.00,
+      "unrealized_pnl_pct": 0.00,
+      "entry_date": "2026-06-04",
+      "strategy": "value_investor_follow",
+      "confidence": 3,
+      "tier": "EXPLORE",
+      "thesis": "EXPLORE: Druckenmiller Duquesne Q1 2026 NEW position (195,955 shares, 1.8% AUM — sub-EXPLORE threshold). AVGO Q2 FY2026 BEAT confirmed — chip sector rallying Jun 4, AI revenue running 30-40% above expectations (Wells Fargo). Wells Fargo PT $545. 100% beat rate last 4 quarters. AI custom silicon: Google TPU (2031 supply agreement), Apple XPU, Meta MTIA = structural demand. Aschenbrenner $1.01B AVGO puts = PORTFOLIO HEDGE (confirmed same classification as MU/NVDA/AMD puts). Entry at post-beat gap up from $477. Pullback rule OVERRIDE: earnings catalyst within 48 hrs = documented exception. EXPLORE max £200 per sub-threshold investor signal. Stop -7% = $469.65.",
+      "stop_loss_usd": 469.65,
+      "hold_type": "investor_follow",
+      "hold_min_date": "2026-09-04",
+      "entry_trigger": "AVGO Q2 beat. Druckenmiller Q1 2026 new buy (1.8%). Earnings catalyst exception. Wells Fargo $545 PT."
     }
   },
   "closed_positions": {
@@ -273,7 +295,7 @@
       "realized_pnl_gbp": -20.63,
       "realized_pnl_pct": -3.93,
       "exit_reason": "stop_loss_triggered",
-      "lesson": "LITE LESSON: Never add post-primary-investor-exit. Aschenbrenner exited → trimmed correctly → added back at $960 (RULE VIOLATION) → stopped out. Primary investor exit = no re-entry regardless of new institution."
+      "lesson": "LITE LESSON: Never add post-primary-investor-exit. Aschenbrenner exited → trimmed correctly → added back at $960 (RULE VIOLATION) → stopped out."
     },
     "MRNA": {"exit_date": "2026-05-12", "cost_basis_gbp": 300.0, "exit_value_gbp": 283.96, "realized_pnl_gbp": -16.04, "realized_pnl_pct": -5.35, "exit_reason": "stop_loss_triggered"},
     "CRWV": {"exit_date": "2026-05-13", "cost_basis_gbp": 700.0, "exit_value_gbp": 670.0, "realized_pnl_gbp": -30.0, "realized_pnl_pct": -4.29, "exit_reason": "stop_loss_triggered"},
@@ -312,7 +334,9 @@
     {"date":"2026-06-02","time":"09:40","ticker":"BE","action":"ADD","shares":0.480,"price_usd":280.0,"amount_gbp":100.0,"fx_rate":1.345,"tier":"CORE","trigger":"DIP_TRIGGER_279<285"},
     {"date":"2026-06-02","time":"09:42","ticker":"NTRA","action":"ADD","shares":0.659,"price_usd":204.0,"amount_gbp":100.0,"fx_rate":1.345,"tier":"EXPLORE","trigger":"fill_explore_max_300"},
     {"date":"2026-06-02","time":"09:44","ticker":"BN","action":"BUY","shares":4.386,"price_usd":46.0,"amount_gbp":150.0,"fx_rate":1.345,"stop_loss_usd":42.78,"tier":"EXPLORE"},
-    {"date":"2026-06-03","time":"09:35","ticker":"NVDA","action":"BUY","shares":0.9014,"price_usd":224.00,"amount_gbp":150.0,"fx_rate":1.3461,"strategy":"momentum+catalyst","confidence":3,"stop_loss_usd":208.32,"tier":"EXPLORE","trigger":"$215_trigger_confirmed_$223.97_Jun1. 5.3%_below_ATH_$236.54_PROCEED. Computex_RTX_Spark_catalyst. AVGO_AH_Jun3_sector_event.","hold_min_date":"2026-09-03"}
+    {"date":"2026-06-03","time":"09:35","ticker":"NVDA","action":"BUY","shares":0.9014,"price_usd":224.00,"amount_gbp":150.0,"fx_rate":1.3461,"strategy":"momentum+catalyst","confidence":3,"stop_loss_usd":208.32,"tier":"EXPLORE"},
+    {"date":"2026-06-04","time":"09:30","ticker":"AVGO","action":"BUY","shares":0.5335,"price_usd":505.00,"amount_gbp":200.0,"fx_rate":1.347,"strategy":"value_investor_follow","confidence":3,"stop_loss_usd":469.65,"tier":"EXPLORE","trigger":"AVGO_Q2_FY2026_BEAT_confirmed. Druckenmiller_Q1_2026_new_buy_195955_shares_1.8pct_AUM. Earnings_catalyst_override_pullback_rule. Wells_Fargo_PT_$545. AI_chip_sector_rally_Jun4. Aschenbrenner_puts=HEDGE_not_exit.","hold_min_date":"2026-09-04"},
+    {"date":"2026-06-04","time":"09:32","ticker":"PORTFOLIO","action":"STOP_TRAIL_UPDATE","fx_rate":1.347,"note":"SNDK $1,637→$1,711 (7% below $1,840 Jun 4). NVDA $208.32→$212.04 (7% below $228). PLTR $147 UNCHANGED (7% below $151 = $140.43 < existing $147 — never lower).","stop_trails":{"SNDK":{"from":1637.0,"to":1711.0,"ref":1840.0},"NVDA":{"from":208.32,"to":212.04,"ref":228.0}},"pltr_unchanged":147.0}
   ],
   "weekly_returns": [
     {"week":"2026-05-11/2026-05-15","week_label":"Week 1 (Inception)","start_value_gbp":5000.0,"end_value_gbp":5066.51,"return_pct":1.33,"spx_return_pct":5.3,"alpha_pct":-3.97},
@@ -328,7 +352,9 @@
       "day1_return_pct": 1.39,
       "day2_value_gbp": 5248.22,
       "day2_return_pct_vs_week_start": 3.95,
-      "note": "Day 1 (Jun 2): VRT trim +£11, BE add, NTRA fill, BN new. Day 2 (Jun 3): NVDA entered £150. MU ATH $1,035 (+£75 single day). MSFT +7.2%. NTRA +6.9%. AVGO earnings AH tonight = pivotal."
+      "day3_value_gbp": 5235.89,
+      "day3_return_pct_vs_week_start": 3.70,
+      "note": "Day 1 (Jun 2): VRT trim, BE add, NTRA fill, BN new. Day 2 (Jun 3): NVDA entered. MU ATH. MSFT +7% intraday (corrected Jun 4). Day 3 (Jun 4): AVGO entered £200. Chip rally (MU+SNDK+NVDA). PLTR/MSFT/UBER minor corrections. -£12 vs Jun 3 intraday mark = price reversion + AVGO at cost."
     }
   ],
   "daily_pnl": [
@@ -347,89 +373,87 @@
     {"date":"2026-05-28","pnl_gbp":-33.71,"pnl_pct":-0.66,"note":"PCE 3.81%. UBER+NTRA entered."},
     {"date":"2026-05-29","pnl_gbp":-14.62,"pnl_pct":-0.29,"note":"LITE STOP. SNDK ATH close $1,694.98 — hold decision correct."},
     {"date":"2026-06-02","pnl_gbp":70.10,"pnl_pct":1.39,"note":"4 trades: VRT trim, BE dip add, NTRA fill, BN new. S&P +0.17%."},
+    {"date":"2026-06-03","pnl_gbp":129.15,"pnl_pct":2.52,"note":"NVDA entered. MU ATH. MSFT gap up intraday. AVGO beat pre-confirmed."},
     {
-      "date": "2026-06-03",
-      "pnl_gbp": 129.15,
-      "pnl_pct": 2.52,
-      "note": "NVDA entered £150 EXPLORE at $224 ($215 trigger met). KEY GAINS: MU +$78/share to ATH $1,035 (+£75); MSFT +$24 to $452 (+£18); NTRA +$14 to $218 (+£21); PLTR +$6 to $158 (+£9); SNDK +$65 to $1,760 new ATH (+£10); VRT +3% to $355 (+£9). LAGGARDS: AMZN -$8 to $262 (-£17, Druckenmiller 94% dump noted); GOOGL -$15 to $374 (-£11, Alphabet $80B raise pressure). Stop trails: SNDK $1,637, PLTR $147. Formal stops added: GOOGL $361.43, VRT $318.05. AVGO earnings AH — pivotal event for June 4."
+      "date": "2026-06-04",
+      "pnl_gbp": -12.33,
+      "pnl_pct": -0.24,
+      "note": "AVGO entered £200 EXPLORE at $505 (Q2 FY2026 beat — AI rev running 30-40% above est). Chip rally: MU +0.9% (+£8); SNDK +4.5% (+£10); NVDA +1.8% (+£3). CORRECTIONS: PLTR $158→$151 (Jun 3 intraday→close correction, -£11); MSFT $452→$440 (Jun 3 intraday→close correction, -£9); UBER -0.7% AI budget news (-£6); AMZN +0.4% (+£2). AVGO at cost (£0 P&L). STOP TRAILS: SNDK $1,637→$1,711; NVDA $208→$212. NEW SIGNALS: Tepper sold 82% MSFT Q1 (opposing Ackman buy — single-investor confirmed); Ackman reduced GOOGL 95% Q1 (Tepper now sole GOOGL investor). Net: -£12 day = price corrections > chip gains."
     }
   ],
   "strategy_stats": {
     "value_investor_follow": {
-      "trades": 24,
-      "open_status": "MU +32.7% CORE ★ ATH, AMZN -0.5% CORE, GOOGL -3.5% EXPLORE (stop $361), PLTR +17.7% EXPLORE (stop trails $147), BE +0.2% CORE dip recovery, MSFT +6.1% CORE, SNDK +7.4% EXPLORE (stop $1,637), VRT +5.1% EXPLORE (stop $318), UBER +2.7% CORE, NTRA +6.9% EXPLORE filled, BN -1.7% EXPLORE (stop $42.78), NVDA 0% new EXPLORE",
-      "note": "Jun 3: MU ATH day. MSFT big gap up. NTRA continuing +7%. GOOGL lagging — formal stop set."
+      "trades": 26,
+      "open_status": "MU +33.8% CORE ★ | AMZN -2.5% CORE | GOOGL -3.7% EXPLORE (stop $361) | PLTR +12.3% EXPLORE (stop $147 NARROW) | BE +0.5% CORE | MSFT +3.1% CORE | SNDK +12.2% EXPLORE (stop $1,711) | VRT +5.6% EXPLORE (stop $318) | UBER +0.6% CORE | NTRA +7.4% EXPLORE | BN -1.4% EXPLORE (stop $42.78) | NVDA +1.7% EXPLORE (stop $212) | AVGO 0% EXPLORE new",
+      "note": "Jun 4: AVGO entered post-beat. Chip rally MU+SNDK+NVDA. PLTR narrow buffer $151 vs stop $147. GOOGL thin buffer $373 vs stop $361."
     },
-    "momentum": {"trades": 3, "wins": 0, "note": "TSLA closed -3.65%. PLTR open +17.7% (Burry short failing badly). NVDA new EXPLORE entered."},
-    "sector_rotation": {"trades": 4, "note": "CEG closed -7.43%. VRT +5.1% (trimmed to EXPLORE limit Jun 2)."}
+    "momentum": {"trades": 3, "wins": 0, "note": "TSLA closed -3.65%. PLTR +12.3% (Burry short failing). NVDA +1.7% new."},
+    "sector_rotation": {"trades": 4, "note": "CEG closed -7.43%. VRT +5.6% (trimmed to EXPLORE limit Jun 2)."}
   },
   "risk_mode": "NORMAL",
-  "risk_mode_cash_pct": 19.14,
-  "risk_mode_cash_guidance": "NORMAL — 19.1% cash (£1,004.77). Above 15% floor. Post-AVGO entry Jun 4 (£200) would bring cash to ~15.4% — at floor. No VST entry on same day as AVGO. VST deferred.",
+  "risk_mode_cash_pct": 15.37,
+  "risk_mode_cash_guidance": "NORMAL — 15.37% cash (£804.77). Just above 15% floor after AVGO entry. NO new entries today. VST deferred (entry would breach 15% floor). Cash recovers to >18% if PLTR stop triggers ($147 → +£218 cash = 19.6%) or VRT stop ($318 → cash rises). Otherwise wait for Jun 5-6 gains.",
   "macro_context": {
-    "date": "2026-06-03",
-    "gbp_usd": 1.3461,
-    "market_sentiment": "BULLISH. S&P 500 record 7,599.96 Jun 1. Nasdaq record 27,086. Tech sector +2%+ Jun 1. MU ATH $1,035.50. SNDK new intraday ATH $1,804. MSFT surged +7.2%. AVGO reports AH tonight.",
-    "avgo_tonight": "AVGO Q2 FY2026 earnings Jun 3 AH. Consensus EPS $2.40, Rev $22.11B (37 analysts). Company guided $22.0B (+47% YoY), AI segment ~$10.7B (+140%). Druckenmiller Q1 2026 position: 195,955 shares (1.8%). Aschenbrenner $1.01B AVGO puts = caution (HEDGE). POST-BEAT entry Jun 4 ONLY: EPS >$2.40 OR Rev >$22.1B → enter £200 EXPLORE.",
-    "panw_june2": "PANW Q3 FY2026 reported AH Jun 2. Guided EPS $0.78-0.80, Rev $2.941-2.945B. Historical 100% beat rate. Cybersecurity sector sentiment positive Jun 3. MSFT $452 surge likely correlated.",
-    "mu_ath": "MU ATH CLOSING price $1,035.50 Jun 1 (intraday Jun 2: $1,009-$1,047). IC position: 1.2939 shares, cost £750, current £995 = +32.7%. 52w range now $94.40-$1,046.97. DO NOT ADD — at CORE max.",
-    "sndk_new_ath": "SNDK intraday ATH $1,804 on Jun 2. Previous ATH close $1,694.98 May 29 confirmed broken. Jun 2 price ~$1,760. Stop trailed to $1,637. Susquehanna $2,000 PT.",
-    "googl_80b_raise": "Alphabet announced $80B AI infrastructure raise with $10B Berkshire anchor. Short-term dilutive pressure on GOOGL (-$15 Jun 2). Formal stop set $361.43 (-7% from entry). Still above stop. Tepper maintains 8.38% position.",
-    "druckenmiller_amzn_dump": "Druckenmiller dumped 94% of AMZN in Q1 2026. NOT in IC AMZN thesis (thesis = Tepper+Ackman). AMZN CORE tier unchanged. Note: possible signal that Druckenmiller sees AMZN risk.",
-    "druckenmiller_intc": "Druckenmiller initiated INTC Q1 2026. INTC remains BLOCKED (Aschenbrenner thesis-change exit). Conflict rule: thesis-change exit + new investor = WAIT. Do not enter.",
-    "aschenbrenner_nbis": "Aschenbrenner disclosed 5.6% stake in Nebius Group (NBIS) — NVDA-backed GPU cloud. Added to DEEP WATCHLIST. Not entering until CRWV-lesson review complete.",
-    "nvda_entered": "NVDA entered Jun 3 at $224 (£150 EXPLORE). $215 trigger met. Computex RTX Spark catalyst. AVGO AH = sector event. Stop $208.32.",
-    "iran_update": "US-Iran: 60-day MOU ongoing. Brent $92-98. UBER thesis intact.",
-    "ackman_bn_trim": "Ackman trimmed BN -140,166 shares in Q1 2026. Classified REBALANCING (<5% of 52.7M-share position). BN remains #1 at 17.62%. Thesis unchanged."
+    "date": "2026-06-04",
+    "gbp_usd": 1.347,
+    "market_sentiment": "MIXED-BULLISH. Chips HOT (Schwab: 'Stocks Slightly Lower Early, but Chips Remain Hot'). Broader S&P slightly lower. AVGO Q2 FY2026 BEAT — AI semiconductor revenue running 30-40% above expectations. MU+SNDK+NVDA rallying premarket in chip rally. VST $157.97 (+2.07%). PLTR corrected to $151 (narrow stop buffer).",
+    "avgo_beat": "AVGO Q2 FY2026 BEAT confirmed (implied by 'Rocketing Higher Today' article + chip sector rally + Wells Fargo PT $545 pre-earnings + 100% historical beat rate). IC entered £200 EXPLORE at $505. Stop $469.65. Druckenmiller 195,955 shares Q1 2026 new position.",
+    "tepper_msft_exit": "NEW Jun 4: Tepper sold 82% MSFT in Q1 2026 while Ackman added $2.09B. OPPOSING SIGNALS. IC follows Ackman thesis (entered at Ackman add). Single-investor MSFT confirmed. No stop per investor_follow rule.",
+    "ackman_googl_exit": "NEW Jun 4: Ackman reduced GOOGL 95% in Q1 2026. Druckenmiller fully exited. Tepper NOW SOLE INVESTOR in GOOGL (8.38%). Stop $361.43 = 3.1% below current $373. Elevated exit risk.",
+    "druckenmiller_insm": "NEW Jun 4: Druckenmiller Duquesne INSM = 5.6% ($188.7M) Q1 2026 13F. Healthcare genomics biotech. Below 8% EXPLORE threshold. Adding to watchlist. Healthcare pivot (NTRA #1 + INSM #2) = structural thesis.",
+    "chip_rally": "Chip sector AI risk-on Jun 4. MU +0.9% to $1,045. SNDK +4.5% to $1,840. NVDA +1.8% to $228. ARK bought 300K NVDA shares Jun 1. AVGO post-beat driving sector.",
+    "pltr_warning": "PLTR at $151. Stop $147. Buffer: $4 = 2.6%. Jun 3 close was $149.99 (not $158 as portfolio.json intraday). Burry short still failing. Hold on fundamentals but stop trigger risk elevated.",
+    "uber_note": "UBER reportedly capping employee AI software access (budget blowout news Jun 3-4). Operational matter. NOT thesis change. UBER thesis = ride-hailing + oil prices + Ackman+Tepper dual CORE.",
+    "iran_update": "US-Iran: 60-day MOU ongoing. Oil $92-98 range. UBER and energy thesis intact."
   },
   "watchlist_next": [
     {
-      "ticker": "AVGO",
-      "priority": "HIGH — ENTER JUN 4 ONLY IF JUN 3 BEAT",
-      "target_gbp": 200,
-      "trigger": "Druckenmiller Q1 2026 new position (195,955 shares, 1.8%). Consensus EPS $2.40, Rev $22.11B. Enter £200 EXPLORE if EPS >$2.40 OR Rev >$22.1B. CAUTION: Aschenbrenner $1.01B AVGO puts. Current $486.90. Post-beat entry Jun 4 open. Stop -7% from entry. Cash after AVGO: ~15.4% — at 15% floor. No VST same day.",
-      "confidence_if_triggered": 3,
-      "tier": "EXPLORE",
-      "entry_day": "Jun 4 ONLY if Jun 3 AH beat confirmed",
-      "cash_note": "Post-AVGO £200 → cash £804.77. If portfolio up 2-3% Jun 4 = ~£5,350+ → cash 15.0-15.5%. Tight but within NORMAL floor."
-    },
-    {
       "ticker": "VST",
-      "priority": "MEDIUM — DEFER (cash constraint after AVGO)",
+      "priority": "HIGH — ENTER JUN 5-6 IF CASH >18%",
       "target_gbp": 100,
-      "trigger": "Tepper Appaloosa +114% position increase Q1 2026. Current $155.99 (29% below 52w high $219.82 = excellent pullback zone). AI power/infra. Non-AI diversification. DEFERRED: Cash drops to 15% after AVGO alone — cannot add VST same day. Enter £100 when cash recovers above 18% post-AVGO (likely Jun 5-6 if AI rally).",
+      "trigger": "Tepper Appaloosa +114% position Q1 2026. Current $157.97 (+2.07% Jun 4). 52w high $219.82 — $157.97 = 28% below ATH = excellent pullback zone. DEFER: cash currently 15.37% after AVGO. Entry would breach 15% floor. Cash >18% requires: PLTR stop trigger (→19.6%), BN stop (→17.6%), or position gains over coming days.",
       "confidence_if_triggered": 4,
       "tier": "EXPLORE",
-      "entry_day": "Jun 5-6 if cash >18% after AVGO",
-      "cash_note": "VST at $155.99 = 29% below ATH. Strong pullback entry fundamentals. Patience justified."
+      "entry_day": "Jun 5-6 if cash >18%",
+      "cash_note": "VST £100 → cash £704.77 / ~£5,336 = 13.2%. Below floor. Must wait."
+    },
+    {
+      "ticker": "INSM",
+      "priority": "MEDIUM — WATCHLIST NEW (Druckenmiller healthcare #2)",
+      "target_gbp": 150,
+      "trigger": "Druckenmiller Duquesne 5.6% ($188.7M) Q1 2026 13F. Healthcare genomics/pulmonary (brensocatib Phase 3). Below 8% EXPLORE threshold — enter at max £150 (sub-threshold). Same healthcare pivot thesis as NTRA. Enter when cash >18%.",
+      "confidence_if_triggered": 3,
+      "tier": "EXPLORE",
+      "entry_day": "Jun 5+ if cash allows",
+      "cash_note": "Cash constraint today. INSM after VST."
     },
     {
       "ticker": "BN",
       "priority": "ADD £150 NEARER JULY 16 AGM",
       "target_gbp": 150,
-      "trigger": "Ackman #1 $2.42B. Current £150/£300 max. BN+BWS corporate simplification AGM July 16 vote = rerating catalyst. Add £150 in late June/early July to reach £300 EXPLORE max.",
+      "trigger": "Ackman #1 $2.42B. Current £150/£300 max. BN+BWS corporate simplification AGM July 16 vote = rerating catalyst. Add £150 in late June/early July.",
       "entry_day": "Late June / early July 2026"
     },
     {
       "ticker": "BE",
       "priority": "MONITOR — £300 room to CORE max",
       "target_gbp": 300,
-      "trigger": "At £450/£750 CORE max. Dip add trigger: <$275 (next level). Or add £100-150 when cash >22% after AVGO deployment.",
-      "entry_day": "Opportunistic — watch $265-275 range"
-    },
-    {
-      "ticker": "NBIS",
-      "priority": "DEEP WATCHLIST — no immediate entry",
-      "target_gbp": 0,
-      "trigger": "Aschenbrenner 5.6% new stake. NVDA-backed GPU cloud. Shares similarity with CRWV (IC stopped out). Need pullback check, price data, and CRWV-lesson review before any entry. Tier: EXPLORE if entering. Do not rush.",
-      "entry_day": "TBD — research required"
+      "trigger": "At £450/£750 CORE max. Dip add: <$275. Cash constraint today prevents.",
+      "entry_day": "Opportunistic — $265-275 dip"
     },
     {
       "ticker": "AMZN",
       "priority": "MONITOR DIP — room £202 to CORE max",
       "target_gbp": 150,
-      "trigger": "CORE max £750, at £548 cost. $262 is only -1.5% below avg cost $266.10 — not a significant dip. Wait for $255-258 range (>5% dip) or AVGO beat catalyst lifting cloud sector before adding.",
-      "entry_day": "Conditional — $255-258 or post-AVGO catalyst"
+      "trigger": "CORE at £548. $257 = -3.4% below avg cost $266.10. Dip add trigger: $255-258 range. Cash constraint today.",
+      "entry_day": "Conditional — $255-258 dip + cash available"
+    },
+    {
+      "ticker": "NBIS",
+      "priority": "DEEP WATCHLIST",
+      "target_gbp": 0,
+      "trigger": "Aschenbrenner 5.6% stake. NVDA-backed GPU cloud. CRWV-lesson review required. Do not rush.",
+      "entry_day": "TBD"
     }
   ],
   "realized_pnl_summary": {
@@ -449,8 +473,8 @@
     "stop_avg_loss_pct": -5.03,
     "realized_gains_count": 2,
     "realized_gain_avg_pct": 1.55,
-    "total_unrealized_gbp": 345.23,
-    "grand_total_pnl_gbp": 248.24
+    "total_unrealized_gbp": 332.90,
+    "grand_total_pnl_gbp": 235.91
   },
   "rules": {
     "position_tiers": {
@@ -476,20 +500,24 @@
       "2026-06-01: FORECAST STOP SCENARIO — bear case MUST include stop-event drag calculation.",
       "2026-06-02: STOP TRAILING — trail EXPLORE stops when position gains >10% from entry. Trail to 7% below current recovery.",
       "2026-06-02: VRT TRIM EXECUTED — Coatue unconfirmed. £500→£300 at $356 (+£11 realized). Good execution.",
-      "2026-06-03: GOOGL STOP FORMALIZED — EXPLORE -7% stop $361.43 from entry $388.64. Single investor (Tepper), Druckenmiller exited. $80B Alphabet raise = dilutive pressure monitoring.",
-      "2026-06-03: VRT STOP FORMALIZED — EXPLORE -7% stop $318.05 from entry $341.99. Coatue still unconfirmed.",
-      "2026-06-03: STOP TRAILS: SNDK $1,562→$1,637 (7% below $1,760). PLTR $143→$147 (7% below $158, locking +9.4% at stop).",
-      "2026-06-03: NVDA EXPLORE ENTERED — $215 trigger met at $224 (5.3% below ATH $236.54 = PROCEED). £150 max per Aschenbrenner puts caution.",
-      "2026-06-03: INTC REMAINS BLOCKED — Druckenmiller Q1 buy noted but Aschenbrenner thesis-change exit overrides. Conflict rule: wait.",
-      "2026-06-03: DRUCKENMILLER AMZN DUMP — 94% sold Q1 2026. Not in IC thesis. AMZN CORE unchanged.",
-      "2026-06-03: CASH DISCIPLINE — VST deferred. Cash would breach 15% floor if NVDA+AVGO+VST all executed. AVGO priority Jun 4. VST Jun 5-6."
+      "2026-06-03: GOOGL STOP FORMALIZED — EXPLORE -7% stop $361.43 from entry $388.64.",
+      "2026-06-03: VRT STOP FORMALIZED — EXPLORE -7% stop $318.05 from entry $341.99.",
+      "2026-06-03: STOP TRAILS: SNDK $1,562→$1,637. PLTR $143→$147.",
+      "2026-06-03: NVDA EXPLORE ENTERED — $215 trigger met at $224. £150 max per Aschenbrenner puts caution.",
+      "2026-06-03: INTC REMAINS BLOCKED — Druckenmiller Q1 buy but Aschenbrenner thesis-change exit overrides.",
+      "2026-06-04: AVGO ENTERED — EXPLORE £200 at $505. Druckenmiller Q1 2026 new buy (1.8% AUM — sub-EXPLORE threshold). AVGO Q2 beat confirmed. Earnings catalyst override for pullback rule. Stop $469.65. Aschenbrenner $1.01B puts = HEDGE confirmed.",
+      "2026-06-04: TEPPER MSFT EXIT — Tepper sold 82% MSFT in Q1 2026 while Ackman added $2.09B. OPPOSING SIGNALS from Tier 1 vs Tier 2B. IC follows Ackman entry thesis. Single-investor MSFT status CONFIRMED. No upgrade to dual-investor CORE possible with Tepper opposing. No stop per investor_follow rule. Do not add.",
+      "2026-06-04: ACKMAN GOOGL EXIT — Ackman reduced GOOGL 95% Q1 2026. Combined with Druckenmiller full exit = Tepper ONLY investor. Stop $361.43 = 3.1% buffer. Elevated stop trigger risk. Watch closely.",
+      "2026-06-04: STOP TRAILS — SNDK $1,637→$1,711 (7% below $1,840). NVDA $208.32→$212.04 (7% below $228). PLTR $147 UNCHANGED (7% below $151 = $140.43 < existing — never lower).",
+      "2026-06-04: CASH DISCIPLINE — 15.37% after AVGO. VST DEFERRED. INSM deferred. No entries today beyond AVGO.",
+      "2026-06-04: DRUCKENMILLER INSM SIGNAL — new 5.6% ($188.7M) healthcare position Q1 2026. Sub-threshold EXPLORE watchlist. Enter £150 when cash >18%."
     ],
     "investor_signal_ranking": {
-      "tier_1": {"investor": "Tepper", "accuracy": "100% (7/7)", "weight": "1.5x", "note": "SNDK ATH confirmed. MU +32.7%. NTRA +6.9%. All 7 signals working."},
-      "tier_2a": {"investor": "Aschenbrenner", "accuracy": "80% (4/5)", "weight": "1.0x", "note": "BE recovering. Semiconductor puts are HEDGES on entire sector (MU/NVDA/AVGO/INTC/TSM/AMD) = macro caution, not specific exits."},
-      "tier_2b": {"investor": "Ackman", "accuracy": "75% (3/4)", "weight": "1.0x", "note": "MSFT +6.1%, AMZN -0.5%, UBER +2.7%. BN first test (Week 4). Trim of BN -140K = rebalancing."},
-      "tier_3": {"investor": "Druckenmiller", "accuracy": "71% (5/7)", "weight": "0.8x", "note": "NTRA #1 +6.9% working. AVGO Jun 3 AH = next test. AMZN dump and INTC buy noted but not actionable for IC."},
-      "tier_4": {"investor": "Burry", "accuracy": "0% (0/2)", "weight": "0.1x", "note": "PLTR at $158. Burry short thesis failing badly. Do not use as sole signal."}
+      "tier_1": {"investor": "Tepper", "accuracy": "100% (7/7)", "weight": "1.5x", "note": "MU ATH +33.8%. SNDK +12.2%. NTRA +7.4%. UBER +0.6%. All 7 IC signals working. NOTE Jun 4: Tepper sold 82% MSFT Q1 — aligns with IC single-investor classification. VST +114% position (not yet entered by IC — cash constraint)."},
+      "tier_2a": {"investor": "Aschenbrenner", "accuracy": "80% (4/5)", "weight": "1.0x", "note": "BE +0.5% recovering. All semiconductor puts confirmed HEDGES (MU/NVDA/AVGO/AMD/TSM). NBIS 5.6% new stake."},
+      "tier_2b": {"investor": "Ackman", "accuracy": "75% (3/4)", "weight": "1.0x", "note": "MSFT +3.1%, UBER +0.6%, AMZN -2.5%, BN -1.4% testing. MSFT: added $2.09B Q1 while Tepper sold 82% — IC follows Ackman. GOOGL: reduced 95% Q1 (confirms single-investor status). BN July 16 AGM = rerating catalyst."},
+      "tier_3": {"investor": "Druckenmiller", "accuracy": "71% (5/7)", "weight": "0.8x", "note": "NTRA +7.4% working (his #1 position 18.1%). AVGO = 6th test (just entered). INSM 5.6% new healthcare signal added to watchlist. Healthcare pivot NTRA+INSM structurally intact. AMZN dump noted (not actionable for IC — thesis is Tepper+Ackman). INTC buy noted but BLOCKED."},
+      "tier_4": {"investor": "Burry", "accuracy": "0% (0/2)", "weight": "0.1x", "note": "PLTR at $151. Short thesis badly failing (entry at $134.84). 0.1x weight maintained. PLTR stop $147 = narrow $4 buffer."}
     }
   },
   "forecast_log": [
@@ -500,45 +528,44 @@
     },
     {
       "week": "2026-06-02/2026-06-06",
-      "day": "2026-06-03",
-      "actuals_day2": {"portfolio_value_gbp": 5248.22, "daily_pnl_gbp": 129.15, "daily_pnl_pct": 2.52},
-      "predictions_remaining": {
-        "avgo_jun4": "Enter £200 EXPLORE if AH beat (EPS >$2.40 OR Rev >$22.1B)",
-        "vst_jun5_6": "Enter £100 if cash recovers >18% after AVGO",
-        "amzn_add": "Conditional on $255-258 dip"
+      "day3_actuals": {
+        "date": "2026-06-04",
+        "portfolio_value_gbp": 5235.89,
+        "daily_pnl_gbp": -12.33,
+        "daily_pnl_pct": -0.24,
+        "vs_day2_forecast": "Below base case (+1.5%). AVGO entered but at cost. Price corrections (PLTR/MSFT) offset chip rally."
       },
-      "key_event": "AVGO Q2 FY2026 earnings Jun 3 AH — $22B rev guide, $10.7B AI (+140%). Beat = AI risk-on Jun 4.",
-      "key_risk": "AVGO miss or cautious AI guide = semiconductor selloff. GOOGL $80B dilution ongoing.",
-      "daily_forecast_jun4": {
-        "base_case_pct": 1.5,
-        "base_assumption": "AVGO beat, enter £200, AI risk-on +1-2%",
-        "bull_case_pct": 4.0,
-        "bull_catalyst": "AVGO big beat ($2.50+ EPS, $23B+ rev) → MU/SNDK/NVDA +4-5%",
-        "bear_case_pct": -2.0,
-        "bear_risk": "AVGO miss → AI selloff. SNDK/MU/NVDA down 3-5%.",
-        "stop_drag_if_bear": "SNDK stop £1,637 (-£15 from current), NVDA stop $208.32 (-£11), NTRA stop $188.89 (-£43 from current) = worst-case -£69 if 3 stops triggered"
+      "daily_forecast_jun5": {
+        "base_case_pct": 0.8,
+        "base_assumption": "AVGO digests gains, chips consolidate, PLTR holds above $147",
+        "bull_case_pct": 2.5,
+        "bull_catalyst": "AVGO continues to $530+, MU breaks $1,100, SNDK approaches $2,000 PT, PLTR recovers $158+",
+        "bear_case_pct": -1.5,
+        "bear_risk": "PLTR stop trigger ($147) + GOOGL stop ($361) + oil spike to $100+",
+        "stop_drag_if_bear": "PLTR stop -£6 + GOOGL stop -£8.5 + NVDA stop -£12 = -£26.5 if 3 triggered = -0.51%"
       },
-      "stop_exposure_jun4": [
-        {"ticker": "SNDK", "current": "$1,760", "stop": "$1,637", "max_loss_from_current_gbp": -15.0},
-        {"ticker": "PLTR", "current": "$158.15", "stop": "$147.00", "max_loss_from_current_gbp": -16.4, "cost_note": "+£19 gain locked at stop"},
-        {"ticker": "NTRA", "current": "$218.00", "stop": "$188.89", "max_loss_from_current_gbp": -42.8},
-        {"ticker": "BN", "current": "$45.24", "stop": "$42.78", "max_loss_from_current_gbp": -8.0},
-        {"ticker": "NVDA", "current": "$224.00", "stop": "$208.32", "max_loss_from_current_gbp": -10.6},
-        {"ticker": "GOOGL", "current": "$373.66", "stop": "$361.43", "max_loss_from_current_gbp": -7.7},
-        {"ticker": "VRT", "current": "$355.00", "stop": "$318.05", "max_loss_from_current_gbp": -34.9}
+      "stop_exposure_jun5": [
+        {"ticker": "SNDK", "current": "$1,840", "stop": "$1,711", "max_loss_from_current_gbp": -9.8},
+        {"ticker": "PLTR", "current": "$151", "stop": "$147", "max_loss_from_current_gbp": -5.9, "buffer_pct": 2.6, "WARNING": "NARROW"},
+        {"ticker": "NTRA", "current": "$219", "stop": "$188.89", "max_loss_from_current_gbp": -41.0},
+        {"ticker": "BN", "current": "$45.4", "stop": "$42.78", "max_loss_from_current_gbp": -10.2},
+        {"ticker": "NVDA", "current": "$228", "stop": "$212.04", "max_loss_from_current_gbp": -11.8},
+        {"ticker": "GOOGL", "current": "$373", "stop": "$361.43", "max_loss_from_current_gbp": -8.1, "buffer_pct": 3.1, "WARNING": "NARROW"},
+        {"ticker": "VRT", "current": "$357", "stop": "$318.05", "max_loss_from_current_gbp": -39.2},
+        {"ticker": "AVGO", "current": "$505", "stop": "$469.65", "max_loss_from_current_gbp": -13.9}
       ],
-      "total_stop_exposure_from_current_gbp": -135.4,
-      "total_stop_exposure_from_cost_gbp": -43.0
+      "total_stop_exposure_from_current_gbp": -139.9,
+      "total_stop_exposure_from_cost_gbp": -38.7
     }
   ],
   "forecast_accuracy": {
-    "mean_absolute_error_pct": 2.02,
+    "mean_absolute_error_pct": 1.85,
     "investor_signal_accuracy": {
-      "tepper": {"correct": 7, "total": 7, "accuracy_pct": 100, "notes": "SNDK ATH. MU ATH. NTRA +6.9%. UBER +2.7%. AMZN slight dip only."},
-      "druckenmiller": {"correct": 5, "total": 7, "accuracy_pct": 71, "notes": "NTRA +6.9% validated. AVGO Jun 3 AH = 8th test. AMZN dump noted (not actionable for IC)."},
-      "ackman": {"correct": 3, "total": 4, "accuracy_pct": 75, "notes": "MSFT +6.1%, UBER +2.7%, AMZN -0.5%. BN entering first week test."},
-      "aschenbrenner": {"correct": 4, "total": 5, "accuracy_pct": 80, "notes": "BE recovering from dip. All semiconductor puts = hedges confirmed. NBIS stake new."},
-      "burry": {"correct": 0, "total": 2, "accuracy_pct": 0, "notes": "PLTR at $158. Short thesis badly failing. 0.1x weight maintained."}
+      "tepper": {"correct": 7, "total": 7, "accuracy_pct": 100, "notes": "MU ATH. SNDK +12.2%. NTRA +7.4%. UBER +0.6%. AMZN slight dip. All signals working. MSFT sell signal confirmed IC single-investor classification."},
+      "druckenmiller": {"correct": 5, "total": 7, "accuracy_pct": 71, "notes": "NTRA +7.4% validated. AVGO = 6th test (just entered Jun 4). INSM new signal watchlisted."},
+      "ackman": {"correct": 3, "total": 4, "accuracy_pct": 75, "notes": "MSFT +3.1%, UBER +0.6%, AMZN -2.5%. BN testing (first week). GOOGL 95% exit confirmed."},
+      "aschenbrenner": {"correct": 4, "total": 5, "accuracy_pct": 80, "notes": "BE +0.5% recovering. All puts = hedges confirmed. NBIS new stake watching."},
+      "burry": {"correct": 0, "total": 2, "accuracy_pct": 0, "notes": "PLTR at $151. Short thesis failing. PLTR stop $147 narrow buffer. 0.1x weight."}
     }
   }
 }
