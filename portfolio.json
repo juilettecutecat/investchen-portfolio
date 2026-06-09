@@ -1,39 +1,39 @@
 {
   "inception_date": "2026-05-11",
-  "last_updated": "2026-06-08",
+  "last_updated": "2026-06-09",
   "currency": "GBP",
   "initial_capital_gbp": 5000,
-  "cash_gbp": 1332.03,
-  "fx_rate_gbpusd": 1.3436,
-  "total_value_gbp": 4996.79,
-  "cumulative_return_pct": -0.06,
+  "cash_gbp": 1425.41,
+  "fx_rate_gbpusd": 1.338,
+  "total_value_gbp": 5065.44,
+  "cumulative_return_pct": 1.31,
   "positions": {
     "MU": {
       "shares": 1.2939,
       "avg_cost_gbp": 750.0,
       "avg_cost_usd": 790.0,
-      "current_price_usd": 940.0,
-      "current_value_gbp": 905.27,
-      "unrealized_pnl_gbp": 155.27,
-      "unrealized_pnl_pct": 20.70,
+      "current_price_usd": 987.0,
+      "current_value_gbp": 954.47,
+      "unrealized_pnl_gbp": 204.47,
+      "unrealized_pnl_pct": 27.26,
       "entry_date": "2026-05-11",
       "strategy": "value_investor_follow+momentum",
       "confidence": 5,
       "tier": "CORE",
-      "thesis": "DUAL INVESTOR CORE ★: Tepper #2 position (9.48%, ~$562M Q1 2026 13F) + Druckenmiller Q1 2026 buy. ATH CLOSING PRICE $1,064.10 on Jun 2, 2026. Fell to $882.85 Jun 5 close on semiconductor contagion (AVGO -12% guide miss + NFP 172K vs 85K → yield surge 4.534% → AI multiple compression). Recovered to $940 open Jun 8 (+6.5% rebound). NOTE: Aschenbrenner added MU to his put hedge basket (Q1 2026 13F) — this is a portfolio hedge, NOT a thesis exit. HBM4 sold out through year-end. AI memory supercycle thesis DISTINCT from AVGO custom silicon. CORE MAX £750 — DO NOT ADD. Hold min 2026-08-11.",
+      "thesis": "DUAL INVESTOR CORE ★: Tepper #2 position (9.48%, ~$562M Q1 2026 13F) + Druckenmiller Q1 2026 buy. ATH CLOSING PRICE $1,064.10 on Jun 2, 2026. Fell to $882.85 Jun 5 close on semiconductor contagion (AVGO -12% guide miss + NFP 172K vs 85K → yield surge 4.534% → AI multiple compression). Recovered to $940 Jun 8 open (+6.5% rebound). Jun 9 premarket +5% to ~$987. Analyst target raised to $1,750 by global bank citing 2-3 year memory shortage. HBM4 sold out through year-end. NOTE: Aschenbrenner added MU to his put hedge basket (Q1 2026 13F) — this is a portfolio hedge, NOT a thesis exit. CORE MAX £750 — DO NOT ADD. Hold min 2026-08-11.",
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-08-11",
-      "milestone": "ATH CLOSE $1,064.10 on June 2, 2026. MU crossed $1T market cap May 26. Fell to $882.85 Jun 5 on AVBO contagion + hot jobs. Recovered to $940 Jun 8 open. Memory thesis intact. CORE hold confirmed. MU earnings Jun 24 = next catalyst."
+      "milestone": "ATH CLOSE $1,064.10 on June 2, 2026. MU crossed $1T market cap May 26. Fell to $882.85 Jun 5 on AVBO contagion + hot jobs. Recovered $940 Jun 8 open, $987 Jun 9 premarket (+5%). Memory thesis intact. Jun 24 earnings = next catalyst. Global bank target $1,750."
     },
     "AMZN": {
       "shares": 3.8645,
       "avg_cost_gbp": 748.37,
       "avg_cost_usd": 262.64,
-      "current_price_usd": 257.0,
-      "current_value_gbp": 739.19,
-      "unrealized_pnl_gbp": -9.18,
-      "unrealized_pnl_pct": -1.22,
+      "current_price_usd": 260.0,
+      "current_value_gbp": 750.95,
+      "unrealized_pnl_gbp": 2.58,
+      "unrealized_pnl_pct": 0.34,
       "entry_date": "2026-05-11",
       "last_add_date": "2026-06-05",
       "strategy": "value_investor_follow",
@@ -55,16 +55,16 @@
       "shares": 2.101,
       "avg_cost_gbp": 450.0,
       "avg_cost_usd": 288.57,
-      "current_price_usd": 266.38,
-      "current_value_gbp": 416.53,
-      "unrealized_pnl_gbp": -33.47,
-      "unrealized_pnl_pct": -7.44,
+      "current_price_usd": 254.0,
+      "current_value_gbp": 398.84,
+      "unrealized_pnl_gbp": -51.16,
+      "unrealized_pnl_pct": -11.37,
       "entry_date": "2026-05-13",
       "last_add_date": "2026-06-02",
       "strategy": "value_investor_follow+sector_rotation",
       "confidence": 4,
       "tier": "CORE",
-      "thesis": "DUAL INVESTOR CORE: Aschenbrenner LARGEST position 6.5M shares = $879M (Q1 2026 13F, 6.4% of fund — #1 conviction). Druckenmiller also holds. Jun 2 dip add at $280. Fell to $266.38 Jun 8 (flat from Jun 5 $266.26). CORE = NO STOP. Oracle MSA 2.8GW, FY2026 guidance raised $3.4-3.8B, backlog $20B. Aschenbrenner chip puts = PORTFOLIO HEDGES, NOT exits from BE. DIP TRIGGER <$255 for next add (4.3% further decline needed from Jun 8 price). CORE £450/£750 — £300 remaining room. Hold min 2026-08-11.",
+      "thesis": "DUAL INVESTOR CORE: Aschenbrenner LARGEST position 6.5M shares = $879M (Q1 2026 13F, 6.4% of $13.7B fund — #1 conviction). Druckenmiller also holds. Jun 9 price ~$254 = DIP TRIGGER MET (<$255 threshold). DEFERRED add per pre-CPI rule — CPI consensus 4.2% tomorrow (hot). Wait for post-CPI clarity. If hot CPI → may fall to $240-248 = better CORE add. If soft CPI → add £100 CORE at confirmed price. Oracle MSA 2.8GW, FY2026 guidance raised $3.4-3.8B, backlog $20B. Aschenbrenner chip puts = PORTFOLIO HEDGES, NOT exits from BE. CORE £450/£750 — £300 remaining room. No stop per CORE rule. Hold min 2026-08-11.",
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-08-11",
@@ -79,15 +79,15 @@
       "shares": 0.9473,
       "avg_cost_gbp": 300.0,
       "avg_cost_usd": 421.92,
-      "current_price_usd": 415.32,
-      "current_value_gbp": 292.79,
-      "unrealized_pnl_gbp": -7.21,
-      "unrealized_pnl_pct": -2.40,
+      "current_price_usd": 418.0,
+      "current_value_gbp": 295.94,
+      "unrealized_pnl_gbp": -4.06,
+      "unrealized_pnl_pct": -1.35,
       "entry_date": "2026-05-18",
       "strategy": "value_investor_follow",
       "confidence": 3,
       "tier": "EXPLORE",
-      "thesis": "EXPLORE (DOWNGRADED 2026-06-05): Tepper sold 82% MSFT in Q1 2026 — single investor remaining (Ackman only, $2.09B 15.26%). Azure +35% YoY, M365 Copilot fundamentals intact. Down from $429.94 Jun 5 to $415.32 Jun 8 (-3.4%). Stop $399.65 = 3.77% buffer from current. Do NOT add. Hold min 2026-08-18.",
+      "thesis": "EXPLORE (DOWNGRADED 2026-06-05): Tepper sold 82% MSFT in Q1 2026 — single investor remaining (Ackman only, $2.09B 15.26%). Azure +35% YoY, M365 Copilot fundamentals intact. Partial recovery Jun 9 to ~$418 (+0.6% from $415.32) with chip rebound. Stop $399.65 = 4.4% buffer from current. Do NOT add. Hold min 2026-08-18.",
       "stop_loss_usd": 399.65,
       "hold_type": "explore",
       "hold_min_date": "2026-08-18",
@@ -98,15 +98,15 @@
       "shares": 5.683,
       "avg_cost_gbp": 300.0,
       "avg_cost_usd": 70.9,
-      "current_price_usd": 70.71,
-      "current_value_gbp": 299.08,
-      "unrealized_pnl_gbp": -0.92,
-      "unrealized_pnl_pct": -0.31,
+      "current_price_usd": 72.5,
+      "current_value_gbp": 307.94,
+      "unrealized_pnl_gbp": 7.94,
+      "unrealized_pnl_pct": 2.65,
       "entry_date": "2026-05-28",
       "strategy": "value_investor_follow",
       "confidence": 4,
       "tier": "CORE",
-      "thesis": "DUAL INVESTOR CORE: Ackman $2.154B #3 position (15.71%) + Tepper +242% to 7.68%. Both Q1 2026 13F CURRENT. Non-AI diversification = outperformed on Jun 5 (-4.18% Nasdaq day). Down to $70.71 Jun 8 (-1.9%) = slightly below avg cost $70.90. CORE no stop — hold. Hold min 2026-08-28.",
+      "thesis": "DUAL INVESTOR CORE: Ackman $2.154B #3 position (15.71%) + Tepper +242% to 7.68%. Both Q1 2026 13F CURRENT. BULLISH CATALYST Jun 7: AI productivity (grow sales, hire fewer) + Wayve London robotaxi waitlist opened = autonomous vehicle thesis advancing. Capital International raised UBER position Jun 9. CORE thesis strengthened. Hold min 2026-08-28.",
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-08-28"
@@ -115,16 +115,16 @@
       "shares": 1.981,
       "avg_cost_gbp": 300.0,
       "avg_cost_usd": 203.41,
-      "current_price_usd": 220.0,
-      "current_value_gbp": 324.38,
-      "unrealized_pnl_gbp": 24.38,
-      "unrealized_pnl_pct": 8.13,
+      "current_price_usd": 221.0,
+      "current_value_gbp": 327.21,
+      "unrealized_pnl_gbp": 27.21,
+      "unrealized_pnl_pct": 9.07,
       "entry_date": "2026-05-28",
       "last_add_date": "2026-06-02",
       "strategy": "value_investor_follow",
       "confidence": 4,
       "tier": "EXPLORE",
-      "thesis": "Druckenmiller Duquesne LARGEST position 18.1% ($612.7M, +80% increase Q1 2026 13F CURRENT). +8.13% from avg cost $203.41. Healthcare sector defensive = non-AI diversification validated. FILLED TO EXPLORE MAX £300. Stop $188.89 (14.1% buffer from $220). Hold min 2026-08-28.",
+      "thesis": "Druckenmiller Duquesne LARGEST position 18.1% ($612.7M, +80% increase Q1 2026 13F CURRENT). +9.1% from avg cost $203.41. Healthcare sector defensive = non-AI diversification validated. FILLED TO EXPLORE MAX £300. Stop $188.89 (14.9% buffer from $221). Hold min 2026-08-28.",
       "stop_loss_usd": 188.89,
       "hold_type": "explore",
       "hold_min_date": "2026-08-28"
@@ -133,16 +133,16 @@
       "shares": 8.824,
       "avg_cost_gbp": 300.0,
       "avg_cost_usd": 45.7,
-      "current_price_usd": 44.55,
-      "current_value_gbp": 292.55,
-      "unrealized_pnl_gbp": -7.45,
-      "unrealized_pnl_pct": -2.48,
+      "current_price_usd": 45.59,
+      "current_value_gbp": 300.66,
+      "unrealized_pnl_gbp": 0.66,
+      "unrealized_pnl_pct": 0.22,
       "entry_date": "2026-06-02",
       "last_add_date": "2026-06-05",
       "strategy": "value_investor_follow",
       "confidence": 4,
       "tier": "EXPLORE",
-      "thesis": "Ackman (Pershing Square) #1 LARGEST position: 17.62% = $2.42B (Q1 2026 CURRENT). FILLED TO EXPLORE MAX £300. BN+BWS corporate simplification AGM vote July 16 = near-term rerating catalyst. Stop $42.78. Jun 8 price $44.55 = 3.9% above stop (improved from 2.5% on Jun 5). CRITICAL: CPI June 10 nowcast 4.18% (elevated vs prior 3.4% consensus) — hot CPI = BN likely gaps toward stop. Mideast tensions also rate headwind. Do NOT precut — let stop rule govern. Hold min 2026-09-05.",
+      "thesis": "Ackman (Pershing Square) #1 LARGEST position: 17.62% = $2.42B (Q1 2026 CURRENT). FILLED TO EXPLORE MAX £300. BN+BWS corporate simplification AGM vote July 16 = near-term rerating catalyst. Stop $42.78. Jun 9 price $45.59 = 6.2% above stop (improved from 3.9% on Jun 8). CRITICAL: CPI June 10 consensus 4.2% (elevated) — hot CPI = BN likely gaps toward stop. Let stop rule govern. Hold min 2026-09-05.",
       "stop_loss_usd": 42.78,
       "hold_type": "explore",
       "hold_min_date": "2026-09-05",
@@ -155,33 +155,16 @@
       "shares": 0.8735,
       "avg_cost_gbp": 100.0,
       "avg_cost_usd": 153.8,
-      "current_price_usd": 153.5,
-      "current_value_gbp": 99.79,
-      "unrealized_pnl_gbp": -0.21,
-      "unrealized_pnl_pct": -0.21,
+      "current_price_usd": 146.9,
+      "current_value_gbp": 95.90,
+      "unrealized_pnl_gbp": -4.10,
+      "unrealized_pnl_pct": -4.10,
       "entry_date": "2026-06-05",
       "strategy": "value_investor_follow",
       "confidence": 4,
       "tier": "EXPLORE",
-      "thesis": "Tepper Appaloosa +114% position Q1 2026 (Tier 1, 100% accuracy). 52w high $219.81, current $153.50 = 30% below ATH = deep pullback zone. Strong Buy consensus (19 analysts), $225 PT = +46% upside. Ex-dividend June 22 = near-term catalyst (same day as MRVL S&P 500 effective). Non-AI power/energy = portfolio diversification. EXPLORE £100/£300 max. Stop $143.03 (-6.5% buffer). Add threshold: Jun 10 earliest (3+ sessions post-entry), VST >$155, cash >20%. Hold min 2026-09-05.",
+      "thesis": "Tepper Appaloosa +114% position Q1 2026 (Tier 1, 100% accuracy). 52w high $219.81, current $146.90 = 33% below ATH = deep pullback zone. CRITICAL STOP WATCH: $146.90 vs stop $143.03 = only 2.6% buffer. Add trigger NOT met (price must exceed $155 + CPI soft). Ex-dividend June 22 = near-term catalyst. Power/energy non-AI diversification. EXPLORE £100/£300 max. Stop $143.03. Hold min 2026-09-05.",
       "stop_loss_usd": 143.03,
-      "hold_type": "investor_follow",
-      "hold_min_date": "2026-09-05"
-    },
-    "INSM": {
-      "shares": 1.2783,
-      "avg_cost_gbp": 100.0,
-      "avg_cost_usd": 105.1,
-      "current_price_usd": 100.0,
-      "current_value_gbp": 95.13,
-      "unrealized_pnl_gbp": -4.87,
-      "unrealized_pnl_pct": -4.87,
-      "entry_date": "2026-06-05",
-      "strategy": "value_investor_follow",
-      "confidence": 3,
-      "tier": "EXPLORE",
-      "thesis": "Druckenmiller Duquesne 5.6% ($188.7M) Q1 2026 13F CURRENT = healthcare #2 position. Conservative £100 entry (sub-8% AUM threshold). STOP WATCH: $100.00 vs stop $97.74 = 2.3% buffer. Strong Buy consensus (18 analysts), $211 PT = +111% upside. Brensocatib Phase 3 = potential catalyst. Add to £150 only on Phase 3 positive readout or Druckenmiller increases >8% AUM. Stop $97.74. Hold min 2026-09-05.",
-      "stop_loss_usd": 97.74,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-09-05"
     },
@@ -189,15 +172,15 @@
       "shares": 0.6506,
       "avg_cost_gbp": 200.0,
       "avg_cost_usd": 413.0,
-      "current_price_usd": 413.0,
-      "current_value_gbp": 200.0,
-      "unrealized_pnl_gbp": 0.0,
-      "unrealized_pnl_pct": 0.0,
+      "current_price_usd": 428.0,
+      "current_value_gbp": 208.12,
+      "unrealized_pnl_gbp": 8.12,
+      "unrealized_pnl_pct": 4.06,
       "entry_date": "2026-06-08",
       "strategy": "value_investor_follow",
       "confidence": 4,
       "tier": "CORE",
-      "thesis": "DUAL INVESTOR CORE: Tepper Appaloosa 7.56% (~$447M, Q1 2026 13F CURRENT #5 position) + Druckenmiller Duquesne 5.0% (~$170M, Q1 2026 13F CURRENT #4 position). AI foundry monopoly — NVDA Blackwell/Hopper + AMD MI300 + AVGO custom silicon ALL manufactured at TSMC. N2 (2nm) process node = 3+ year competitor lead. Entry trigger <$415 met at $413 (-8.5% below 52w high $450.16). Initial £200 of £750 CORE max — room to add £550 more. Aschenbrenner put options on TSM are portfolio hedges (per rule 2026-05-22), NOT exits/thesis changes. Strong Buy consensus (17 analysts), $467.84 PT = +13.3% upside. No stop per CORE rule. Build triggers: price stabilizes + CPI benign Jun 10 + each add session £150-200 increments. Hold min 2026-09-08.",
+      "thesis": "TRIPLE INSTITUTIONAL CORE: Tepper Appaloosa 7.56% (~$447M, Q1 2026 13F #5 position) + Druckenmiller Duquesne 5.0% (~$170M, Q1 2026 13F #4 position) + Coatue Management added +6.9% (now 6.56% AUM, Q1 2026 13F NEW). AI foundry monopoly — NVDA Blackwell/Hopper + AMD MI300 + AVGO custom silicon ALL manufactured at TSMC. N2 (2nm) process node = 3+ year competitor lead. TSM market cap $2.225T = world's 6th most valuable company. Recovering from Jun 5-6 semiconductor selloff: $413 entry Jun 8 → $428 Jun 9 (+3.6%). Initial £200 of £750 CORE max — room to add £550 more. Next add: post-CPI benign Jun 10 + price stabilizes $420-430 base. No stop per CORE rule. Hold min 2026-09-08.",
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-09-08",
@@ -277,7 +260,7 @@
       "realized_pnl_gbp": -16.1,
       "realized_pnl_pct": -6.44,
       "exit_reason": "stop_loss_triggered",
-      "lesson": "SINGLE-INVESTOR EXIT RULE VALIDATED: Ackman 95% exit + Druckenmiller full exit + $80B dilution = broken thesis. Stop correctly executed. NOTE Jun 8: Tepper STILL HOLDS GOOGL at 8.38% Q1 2026. Re-entry possible as solo EXPLORE (Tepper only, max £150-200) if GOOGL pulls back to <$345 + CPI benign. Watchlist."
+      "lesson": "SINGLE-INVESTOR EXIT RULE VALIDATED: Ackman 95% exit + Druckenmiller full exit + $80B dilution = broken thesis. Stop correctly executed. NOTE Jun 8: Tepper STILL HOLDS GOOGL at 8.38% Q1 2026. Re-entry possible as solo EXPLORE (Tepper only, max £150-200) if GOOGL pulls back to <$345 + CPI benign."
     },
     "SNDK": {
       "shares": 0.1643,
@@ -290,7 +273,7 @@
       "realized_pnl_gbp": 9.19,
       "realized_pnl_pct": 4.6,
       "exit_reason": "stop_loss_triggered_above_cost",
-      "lesson": "SNDK STOP WIDTH: 7% stop too tight for high-volatility stocks. Use 10% trailing stop for stocks with typical intraday range >5%. NOTE: Tepper holds SNDK as new Q1 2026 buy (~3% AUM, $179M). EXPLORE re-entry possible if SNDK pulls back >7% from exit $1,711 = <$1,591."
+      "lesson": "SNDK STOP WIDTH: 7% stop too tight for high-volatility stocks. Use 10% trailing stop for stocks with typical intraday range >5%. NOTE: Tepper holds SNDK as new Q1 2026 buy (~3% AUM, $179M). EXPLORE re-entry possible if SNDK <$1,591 (>7% below Jun 5 exit $1,711)."
     },
     "AVGO": {
       "shares": 0.5335,
@@ -303,7 +286,7 @@
       "realized_pnl_gbp": -13.48,
       "realized_pnl_pct": -6.74,
       "exit_reason": "stop_loss_triggered",
-      "lesson": "POST-EARNINGS AI SEMI RULE: Q2 beat insufficient. Market needed MASSIVE guidance beat. $57.6B expected vs $56B given = 2.8% miss = 13.7% selloff. THREE-CONDITION RULE ADDED. NOTE: Druckenmiller holds AVGO long per Q1 2026 13F ($60.6M new position) — he is a long-term holder through the dip. IC's entry was a rule violation (no guide check before entry). Re-entry: post next earnings with all 3 conditions met."
+      "lesson": "POST-EARNINGS AI SEMI RULE: Q2 beat insufficient. Market needed MASSIVE guidance beat. $57.6B expected vs $56B given = 2.8% miss = 13.7% selloff. THREE-CONDITION RULE ADDED. Druckenmiller holds AVGO long per Q1 2026 13F. Re-entry: post next earnings with all 3 conditions met."
     },
     "NVDA": {
       "shares": 0.9014,
@@ -316,7 +299,7 @@
       "realized_pnl_gbp": -5.09,
       "realized_pnl_pct": -3.39,
       "exit_reason": "stop_loss_triggered",
-      "lesson": "Stop trail system worked. -3.39% vs -4.18% Nasdaq. Re-entry: after new base confirms (50-day MA reclaim) OR dovish macro shift (soft CPI). ARK bought $63M NVDA on Jun 1 — ARK not a tier investor, no IC signal."
+      "lesson": "Stop trail system worked. -3.39% vs -4.18% Nasdaq. NVDA at $208.64 Jun 9 (+1.73%). Re-entry: after new base confirms (50-day MA reclaim at ~$216-220) OR dovish macro shift (soft CPI). No re-entry today."
     },
     "VRT": {
       "shares": 1.1954,
@@ -330,6 +313,19 @@
       "realized_pnl_pct": -5.43,
       "exit_reason": "stop_loss_triggered",
       "lesson": "VRT LESSON: Thin thesis (Coatue CONFIRMED absent from Q1 2026 13F) = hold to stop only. Stop $318.05 triggered in the Nasdaq -4.18% afternoon selloff. Loss contained vs $305.12 close. Trim to EXPLORE max (Jun 2) + stop = total VRT outcome: +£11.00 trim - £16.28 stop = -£5.28 net."
+    },
+    "INSM": {
+      "shares": 1.2783,
+      "entry_date": "2026-06-05",
+      "exit_date": "2026-06-09",
+      "avg_entry_price_usd": 105.10,
+      "exit_price_usd": 97.74,
+      "cost_basis_gbp": 100.0,
+      "exit_value_gbp": 93.38,
+      "realized_pnl_gbp": -6.62,
+      "realized_pnl_pct": -6.62,
+      "exit_reason": "stop_loss_triggered",
+      "lesson": "INSM LESSON — BIO PHARMA POST-FAILURE WINDOW: Phase 2b CEDAR HS failure announced Apr 7 (BETWEEN Q1 13F snapshot Mar 31 and our Jun 5 entry). 'Investors continue to digest failed HS trial' = ongoing 60+ day selling pressure. Druckenmiller's Q1 13F reflected PRE-FAILURE snapshot — unknown if he maintained/exited post-Apr 7. Sub-threshold signal (5.6% AUM < 8%) compounded the risk. Loss contained at -6.62% (-7% stop). NEW RULE: Wait 90 days post significant Phase 2b/3 failure before bio/pharma entry. Re-entry only if (1) Druckenmiller Q2 2026 13F confirms maintained/increased position AND (2) brensocatib bronchiectasis revenue still >$250M/quarter pace."
     }
   },
   "trade_history": [
@@ -377,7 +373,8 @@
     {"date":"2026-06-05","time":"10:05","ticker":"NVDA","action":"SELL","shares":0.9014,"price_usd":216.02,"amount_gbp":144.91,"realized_pnl_gbp":-5.09,"exit_reason":"stop"},
     {"date":"2026-06-05","time":"10:10","ticker":"AMZN","action":"ADD","shares":0.5374,"price_usd":250.0,"amount_gbp":100.0,"fx_rate":1.3436,"note":"Final CORE fill. Freed NVDA capital. AWS +17% YoY."},
     {"date":"2026-06-05","time":"15:45","ticker":"VRT","action":"SELL","tier":"EXPLORE","shares":1.1954,"price_usd":318.05,"amount_gbp":283.72,"fx_rate":1.3398,"realized_pnl_gbp":-16.28,"realized_pnl_pct":-5.43,"exit_reason":"stop_loss_triggered"},
-    {"date":"2026-06-08","time":"09:31","ticker":"TSM","action":"BUY","tier":"CORE","shares":0.6506,"price_usd":413.0,"amount_gbp":200.0,"fx_rate":1.3436,"confidence":4,"strategy":"value_investor_follow","signal":"Tepper_7.56%_Druckenmiller_5.0%_Q1_2026_CURRENT","note":"DUAL INVESTOR CORE entry. Trigger <$415 met at $413 (-8.5% from 52w high $450.16). Semiconductor selloff continuation Jun 5 AVGO/NFP. Initial £200 of £750 CORE max. No stop — 90-day hold min 2026-09-08. Room to add £550 more."}
+    {"date":"2026-06-08","time":"09:31","ticker":"TSM","action":"BUY","tier":"CORE","shares":0.6506,"price_usd":413.0,"amount_gbp":200.0,"fx_rate":1.3436,"confidence":4,"strategy":"value_investor_follow","signal":"Tepper_7.56%_Druckenmiller_5.0%_Q1_2026_CURRENT","note":"DUAL INVESTOR CORE entry. Trigger <$415 met at $413 (-8.5% from 52w high $450.16). Semiconductor selloff continuation Jun 5 AVGO/NFP. Initial £200 of £750 CORE max. No stop — 90-day hold min 2026-09-08. Room to add £550 more."},
+    {"date":"2026-06-09","time":"09:31","ticker":"INSM","action":"SELL","tier":"EXPLORE","shares":1.2783,"price_usd":97.74,"amount_gbp":93.38,"fx_rate":1.338,"realized_pnl_gbp":-6.62,"realized_pnl_pct":-6.62,"exit_reason":"stop_loss_triggered","stop_usd":97.74,"entry_price_usd":105.10,"entry_date":"2026-06-05","note":"Stop $97.74 triggered. 'Investors continue to digest failed HS Phase 2b CEDAR trial' = ongoing selling pressure post-Apr 7 failure. Jun 8 close $100.00 (2.3% buffer); Jun 9 open moved through $97.74 stop. Sub-threshold Druckenmiller signal (5.6% AUM). Loss contained -£6.62 (-6.62%). Lesson: bio/pharma entry requires 90-day clearance after significant Phase 2b/3 failure."}
   ],
   "weekly_returns": [
     {
@@ -428,9 +425,11 @@
       "start_value_gbp": 4951.83,
       "day1_value_gbp": 4996.79,
       "day1_return_pct": 0.91,
+      "day2_value_gbp": 5065.44,
+      "day2_return_pct": 1.37,
       "end_value_gbp": null,
       "return_pct": null,
-      "note": "Day 1: TSM CORE entry £200 (trigger <$415 met at $413). MU +6.5% recovery ($882→$940). MSFT -3.4% ($430→$415). UBER -1.9% ($72.15→$70.71). MRVL +7% S&P500 inclusion — no entry (above pullback trigger $276). KEY EVENTS: CPI June 10 (nowcast 4.18% YoY, elevated) + ORCL earnings June 10 (Aschenbrenner $1.07B puts on ORCL). MRVL effective S&P500 June 22."
+      "note": "Day 1: TSM CORE entry £200 at $413. MU +6.5% recovery ($882→$940). Day 2: INSM stop -£6.62. MU +5% premarket ($940→$987). BN recovery $44.55→$45.59. UBER positive (Wayve robotaxi + AI productivity). BE dip trigger met <$255 — DEFERRED post-CPI. KEY EVENTS: CPI June 10 (consensus 4.2% YoY, elevated) + ORCL earnings June 10."
     }
   ],
   "daily_pnl": [
@@ -453,12 +452,13 @@
     {"date":"2026-06-03","pnl_gbp":129.15,"pnl_pct":2.52,"note":"NVDA entered. MU ATH $1,064.10. AVGO beat pre-confirmed."},
     {"date":"2026-06-04","pnl_gbp":-12.33,"pnl_pct":-0.24,"note":"AVGO entered £200. Dow +875pts, S&P +0.4%."},
     {"date":"2026-06-05","pnl_gbp":-297.04,"pnl_pct":-5.66,"note":"BRUTAL DAY 2: Nasdaq -4.18% (worst since April 2025). AVGO -12% guidance miss + NFP 172K/85K. 6 STOPS: AVGO -£13.48, PLTR +£19.17, GOOGL -£16.10, SNDK +£9.19, NVDA -£5.09, VRT PM -£16.28. MU -17% from ATH to $882.85. BE -8.6% to $266.26. Net realized week 4: -£11.59. New entries: VST, INSM, BN fill, AMZN (2x adds). Cash raised to 30.9%."},
-    {"date":"2026-06-08","pnl_gbp":44.96,"pnl_pct":0.91,"note":"Week 5 Day 1: TSM CORE entered £200 at $413 (trigger met). MU +6.5% recovery ($882→$940) = biggest single contributor +£52. MSFT headwind -£11 ($430→$415). UBER -£1 ($72→$70.71). S&P futures +0.6% but semis remain weak (TSM -7% day session). MRVL +7% on S&P500 inclusion — no entry (above $276 pullback trigger). Portfolio back near breakeven -0.06%. CPI June 10 (nowcast 4.18%) + ORCL earnings June 10 = week's binary events."}
+    {"date":"2026-06-08","pnl_gbp":44.96,"pnl_pct":0.91,"note":"Week 5 Day 1: TSM CORE entered £200 at $413 (trigger met). MU +6.5% recovery ($882→$940) = biggest single contributor +£52. MSFT headwind -£11 ($430→$415). UBER -£1 ($72→$70.71). S&P futures +0.6%. MRVL +7% on S&P500 inclusion — no entry (above $276 pullback trigger). Portfolio back near breakeven -0.06%. CPI June 10 (nowcast 4.18%) + ORCL earnings June 10 = week's binary events."},
+    {"date":"2026-06-09","pnl_gbp":68.65,"pnl_pct":1.37,"note":"Week 5 Day 2: INSM stop executed -£6.62 (stop $97.74 triggered, ongoing HS trial digest selling). MU +5% premarket ($940→$987) = +£49 unrealized gain. TSM recovering $413→$428 = +£8. BN +2.3% relief ($44.55→$45.59). UBER +2.5% (Wayve robotaxi + AI productivity + Capital International raise). BE dip trigger hit ($254 < $255) — DEFERRED post-CPI. Chip rebound continues (SOXX recovering). Pre-CPI caution ELEVATED mode maintained. Portfolio £5,065 (+1.31% cumulative)."}
   ],
   "strategy_stats": {
     "value_investor_follow": {
-      "trades": 38,
-      "open_status": "MU +20.7% CORE ★ | AMZN -1.2% CORE (filled £748/£750) | BE -7.4% CORE | UBER -0.3% CORE | MSFT -2.4% EXPLORE | NTRA +8.1% EXPLORE | BN -2.5% EXPLORE WATCH (stop $42.78 = 3.9% buffer) | VST -0.2% EXPLORE NEW | INSM -4.9% EXPLORE STOP WATCH (2.3% buffer) | TSM 0% CORE NEW (initial £200/£750)"
+      "trades": 39,
+      "open_status": "MU +27.3% CORE ★ | AMZN +0.3% CORE (filled £748/£750) | BE -11.4% CORE (dip trigger met, add deferred post-CPI) | UBER +2.6% CORE | MSFT -1.4% EXPLORE | NTRA +9.1% EXPLORE | BN +0.2% EXPLORE (CPI watch) | TSM +4.1% CORE (initial £200/£750) | VST -4.1% EXPLORE CRITICAL STOP WATCH (2.6% buffer)"
     },
     "momentum": {
       "trades": 3,
@@ -471,72 +471,60 @@
     }
   },
   "risk_mode": "ELEVATED",
-  "risk_mode_cash_pct": 26.6,
-  "risk_mode_cash_guidance": "ELEVATED — 26.6% cash (£1,332.03) after TSM £200 CORE entry. Above 25% ELEVATED floor. CPI June 10 is binary de-escalation or escalation trigger. INSM 2.3% from stop, BN 3.9% from stop = caution maintained. IF CPI ≤ 3.4% YoY → move to NORMAL mode, add VST £100-150, consider BE add if <$255. IF CPI > 4.2% → maintain ELEVATED, freeze new entries, prepare for BN stop execution. ORCL earnings June 10 (Aschenbrenner $1.07B puts): bearish surprise could pressure AI infra (BE, MU) additional 3-5%.",
+  "risk_mode_cash_pct": 28.14,
+  "risk_mode_cash_guidance": "ELEVATED — 28.14% cash (£1,425.41) after INSM stop proceeds. Above 25% ELEVATED floor. CPI June 10 is binary de-escalation or escalation trigger. VST 2.6% from stop, BN 6.2% from stop = caution maintained. IF CPI ≤3.5% → move toward NORMAL mode, add BE £100 CORE (dip trigger already met), consider TSM add £150, VST add IF >$150. IF CPI >4.2% → maintain ELEVATED, freeze new entries, prepare for BN stop execution.",
   "macro_context": {
-    "date": "2026-06-08",
-    "gbp_usd": 1.3436,
-    "gbp_usd_range_today": "1.3411-1.3463",
-    "gbp_usd_prev": 1.3398,
-    "market_sentiment": "RECOVERY/MIXED. S&P futures +0.6% premarket. Semiconductors remain weak (TSM -7.4% on day). MRVL +7% on S&P 500 inclusion (June 22 effective). Mideast tensions rising but not acute. GLW +9.3% on Amazon data center fiber deal = AWS infrastructure expansion signal.",
-    "tsm_entry": "TSM CORE entered £200 at $413. Trigger <$415 met. Previous closes: Jun 4 $444.92 → Jun 5 $427.71 → Jun 8 ~$413 (-8.5% from 52w high $450.16). Tepper 7.56% + Druckenmiller 5.0% CORE signal CURRENT Q1 2026.",
-    "mrvl_sp500": "MRVL +7% on S&P 500 inclusion announcement (effective June 22). No IC entry — above $276 pullback trigger. Forced index buying continues through June 22. Watch for post-inclusion pullback. No tier-investor 13F backing. Watchlist <$265.",
-    "cpi_june10_risk": "CRITICAL: May CPI due June 10 8:30 AM ET. ELEVATED RISK — nowcast 4.18% YoY vs June 5 consensus 3.4%. April 2026 CPI was 3.8% YoY (highest since May 2023), driven by +17.9% energy from Mideast conflict. 60% market probability of CPI >4.2% (Robinhood prediction market). Hot CPI scenario: yield surge → BN stop likely, tech multiple compression, ELEVATED maintained. Soft CPI: relief rally, deescalate to NORMAL, add VST/BE.",
-    "oracle_earnings_june10": "ORCL Q4 2026 reports June 10. Consensus: EPS $1.82-1.96, Revenue $19.09-19.10B. 4 consecutive quarterly beats. Key watch: OCI growth, backlog conversion. Aschenbrenner holds $1.07B ORCL puts — bearish signal on AI cloud optimism. ORCL disappointment could pressure BE/MU as AI infrastructure sentiment proxy.",
-    "druckenmiller_amzn_exit": "CONFIRMED Jun 8: Druckenmiller slashed AMZN 94% in Q1 2026 (essentially full exit). Does NOT affect AMZN CORE status — CORE basis is Tepper (#1, 15.16%) + Ackman (#2, 17.39%). Druckenmiller was not part of AMZN CORE thesis. AMZN CORE confirmed intact.",
-    "aschenbrenner_put_basket_update": "NEW Jun 8: Aschenbrenner put basket is broader than baseline — includes NVDA ($1.6B), SMH ETF ($2B), AVGO, ORCL ($1.07B), AMD, MU, ASML, INTC, GLW, TSM. RULE UNCHANGED: these are portfolio hedges, NOT exits or thesis invalidations for LONG positions. BE longs UNCHANGED at 6.5M shares ($879M).",
-    "week5_key_events": ["Jun 10: CPI May 2026 (8:30 AM ET)", "Jun 10: ORCL Q4 earnings (after close)", "Jun 22: MRVL S&P 500 effective inclusion + VST ex-dividend"]
+    "date": "2026-06-09",
+    "gbp_usd": 1.338,
+    "gbp_usd_range_today": "1.3371-1.3423",
+    "gbp_usd_prev": 1.3436,
+    "market_sentiment": "CHIP REBOUND. S&P futures +0.8%. Semiconductors recovering: MU +5% premarket, TSM +3.6%, NVDA +1.73%. Broader tech recovery from Jun 5-6 selloff. Pre-CPI caution dominates.",
+    "mu_premarket": "MU +5% premarket ($940→$987). Global bank doubled target to $1,750 citing 2-3 year memory shortage. HBM4 sold out. AI portfolio unveiled at Computex 2026. Jun 24 earnings = next major catalyst.",
+    "be_dip": "BE at ~$254 on Jun 9. DIP TRIGGER MET (<$255 threshold). DEFERRED per pre-CPI binary event rule. CPI consensus 4.2% YoY = hot scenario likely. If hot CPI: BE may fall to $240-248 = better CORE add entry. If soft CPI (<3.5%): add £100 CORE next session.",
+    "cpi_june10_risk": "CRITICAL: May 2026 CPI due June 10 8:30 AM ET. Consensus: Headline 4.2% YoY / 0.5% MoM. Core CPI 2.9% YoY (benign). Headline elevated by Iran war energy spike (+17.9% energy in April). Probability: Soft ≤3.5% (15%) | Inline 3.5-4.2% (50%) | Hot >4.2% (35%). Fed watches CORE (2.9% = benign) — market may look through headline energy spike. BN stop $42.78 the primary hot-CPI casualty.",
+    "oracle_earnings_june10": "ORCL Q4 2026 after close June 10. Consensus: EPS $1.96 (range $1.76-$2.06), Revenue $19.10B, YoY +15.3%. Aschenbrenner $1.07B ORCL puts = bearish signal. THREE-CONDITION RULE applies to any ORCL-driven entry or contagion.",
+    "coatue_tsm_confirmation": "NEW Jun 9: Coatue Q1 2026 13F confirmed TSM +6.9% (now 6.56% AUM). TSM now has THREE institutional signals: Tepper 7.56% + Druckenmiller 5.0% + Coatue 6.56%. TSMC market cap $2.225T = world's 6th most valuable company. TSM CORE thesis strengthened. Add trigger: post-CPI benign + stabilizes $420-430.",
+    "uber_catalyst": "UBER: AI productivity signal (grow sales, hire fewer = margin expansion) + Wayve London robotaxi waitlist opened Jun 7. Capital International raised UBER position Jun 9. CORE thesis strengthened. Tepper +242% + Ackman #3 = thesis conviction intact.",
+    "insm_stop_note": "INSM stop $97.74 triggered Jun 9. HS Phase 2b CEDAR failure (Apr 7) = 60+ day investor digestion period. Sub-threshold Druckenmiller signal (5.6%). Loss -£6.62. Lesson: bio/pharma post-failure 90-day window rule ADDED.",
+    "week5_key_events": ["Jun 10: CPI May 2026 (8:30 AM ET) — consensus 4.2% YoY, core 2.9%", "Jun 10: ORCL Q4 earnings (after close) — consensus $1.96 EPS / $19.10B revenue", "Jun 22: MRVL S&P 500 effective inclusion + VST ex-dividend"]
   },
   "watchlist_next": [
     {
+      "ticker": "BE",
+      "priority": "CORE — DIP TRIGGER MET — ADD DEFERRED TO POST-CPI",
+      "current_gbp": 450,
+      "max_gbp": 750,
+      "room_gbp": 300,
+      "tier": "CORE",
+      "signal": "Aschenbrenner #1 $879M + Druckenmiller Q1 2026 CURRENT",
+      "trigger": "DIP TRIGGER <$255 MET at ~$254. DEFERRED: Add £100 CORE ONLY if Jun 10 CPI ≤3.5% AND BE recovers above $255. If hot CPI: wait for potential $240-248 level for better entry. Do NOT add in pre-CPI environment.",
+      "entry_day": "Jun 10 post-CPI soft only. Otherwise next session after CPI clarity."
+    },
+    {
       "ticker": "TSM",
-      "priority": "CORE — ENTERED Jun 8. BUILD POSITION",
+      "priority": "CORE — BUILD POSITION (£200/£750)",
       "current_gbp": 200,
       "max_gbp": 750,
       "room_gbp": 550,
       "tier": "CORE",
-      "signal": "Tepper 7.56% + Druckenmiller 5.0% Q1 2026 CURRENT",
-      "trigger": "Add £150-200 CORE increments when: (a) price stabilizes at $410-415 base for 2+ sessions, (b) CPI benign Jun 10, (c) cash maintains >20%.",
-      "entry_day": "ENTERED. Next add: conditional Jun 10+ post-CPI benign."
-    },
-    {
-      "ticker": "BE",
-      "priority": "CORE — ROOM TO ADD £300",
-      "current_gbp": 450,
-      "max_gbp": 750,
-      "trigger": "At £450/£750 CORE max. Dip add: <$255 (4.3% below Jun 8 $266.38). CPI/ORCL catalysts could push lower. Do not chase.",
-      "entry_day": "Conditional — <$255 dip. Possible if hot CPI pressures AI infra Jun 10."
+      "signal": "Tepper 7.56% + Druckenmiller 5.0% + Coatue 6.56% Q1 2026 CURRENT. TRIPLE institutional conviction.",
+      "trigger": "Add £150-200 CORE increments when: (a) CPI benign Jun 10, (b) price stabilizes $420-435 for 2+ sessions, (c) cash maintains >20%. Current $428 = above $415 initial trigger but not at premium.",
+      "entry_day": "Conditional Jun 10+ post-CPI benign."
     },
     {
       "ticker": "VST",
-      "priority": "OPEN — ADD POSSIBLE WED JUN 10",
+      "priority": "HOLD — CRITICAL STOP WATCH (2.6% buffer)",
       "current_gbp": 100,
       "max_gbp": 300,
-      "trigger": "Jun 10 earliest (3 sessions post-entry). (a) VST >$155, (b) cash >20%, (c) CPI not hot. Ex-div Jun 22 catalyst approaching. Add £100-150.",
-      "entry_day": "Wed Jun 10 ONLY if CPI soft + VST >$155 + cash >20%"
-    },
-    {
-      "ticker": "INSM",
-      "priority": "HOLD — STOP WATCH (2.3% buffer)",
-      "current_gbp": 100,
-      "trigger": "Hold. No adds until stop resolves. Add to £150 only on: Phase 3 brensocatib positive readout OR Druckenmiller increases to >8% AUM. CPI June 10 = primary risk.",
-      "entry_day": "Phase 3 catalyst only"
-    },
-    {
-      "ticker": "MRVL",
-      "priority": "EXPLORE WATCHLIST — POST-INCLUSION PULLBACK",
-      "target_gbp": 200,
-      "tier": "EXPLORE",
-      "signal": "Jensen Huang 'next trillion dollar company' + S&P 500 inclusion Jun 22. No tier-investor 13F.",
-      "trigger": "S&P 500 inclusion Jun 22 → forced index buying until then. SNDK ATH lesson: no entry at ATH. Enter only <$265 (>5% pullback from Jun 8 spike $281.88) AND only post-Jun 22 (after inclusion buying dissipates). No tier-investor = max EXPLORE £200.",
-      "entry_day": "Post-Jun 22 only, on >5% pullback"
+      "trigger": "HOLD. Stop $143.03 at 2.6% buffer. Add trigger NOT MET ($146.90 < $155 threshold). Add only: Jun 10+ if CPI soft + VST >$155 + cash >20%. Ex-div Jun 22 = approaching catalyst.",
+      "entry_day": "No add until $155 AND CPI soft"
     },
     {
       "ticker": "GOOGL",
       "priority": "EXPLORE WATCHLIST — TEPPER SIGNAL ONLY",
       "target_gbp": 150,
       "tier": "EXPLORE",
-      "signal": "Tepper still holds 8.38% Q1 2026 (8.38% ≥ 8% AUM threshold). Ackman 95% exit + Druckenmiller full exit = single-investor signal only.",
+      "signal": "Tepper still holds 8.38% Q1 2026 (≥8% AUM threshold). Ackman 95% exit + Druckenmiller full exit = single-investor signal only.",
       "trigger": "Entry only if: (a) GOOGL <$345 (>5% below Jun 5 close $361.43), (b) CPI benign Jun 10, (c) ORCL earnings no AI cloud disaster. Max £150 EXPLORE. Solo Tepper = reduced conviction.",
       "entry_day": "Conditional — post-CPI soft + price trigger"
     },
@@ -546,12 +534,30 @@
       "target_gbp": 200,
       "tier": "EXPLORE",
       "signal": "Tepper new buy ~$179M (3% AUM) Q1 2026. Single investor EXPLORE.",
-      "trigger": "Entry only if: (a) SNDK <$1,591 (>7% below Jun 5 exit $1,711), (b) Tepper signal only = max £200 EXPLORE with 10% stop. High-volatility stock.",
+      "trigger": "Entry only if: (a) SNDK <$1,591 (>7% below Jun 5 exit $1,711), (b) Tepper signal only = max £200 EXPLORE with 10% stop. High-volatility stock — use wider stop.",
       "entry_day": "Conditional — pullback required"
+    },
+    {
+      "ticker": "MRVL",
+      "priority": "EXPLORE WATCHLIST — POST-INCLUSION PULLBACK ONLY",
+      "target_gbp": 200,
+      "tier": "EXPLORE",
+      "signal": "Jensen Huang 'next trillion dollar company' + S&P 500 inclusion Jun 22. No tier-investor 13F.",
+      "trigger": "S&P 500 inclusion Jun 22 → forced index buying until then. Enter only post-Jun 22 on >5% pullback from spike AND no tier-investor = max EXPLORE £200.",
+      "entry_day": "Post-Jun 22 only, on >5% pullback"
+    },
+    {
+      "ticker": "INSM",
+      "priority": "CLOSED — RE-ENTRY WATCHLIST (90-day rule)",
+      "target_gbp": 100,
+      "tier": "EXPLORE",
+      "signal": "Druckenmiller 5.6% Q1 2026. Need Q2 2026 13F confirmation post-Aug 14.",
+      "trigger": "Re-entry only after: (a) 90 days post-CEDAR failure = July 7 earliest, (b) Druckenmiller Q2 2026 13F (Aug 14) confirms position maintained or increased above 8% AUM, (c) brensocatib bronchiectasis revenue pace >$250M/quarter confirmed.",
+      "entry_day": "Post-Aug 14 (Q2 13F filing) earliest"
     }
   ],
   "realized_pnl_summary": {
-    "total_realized_gbp": -119.58,
+    "total_realized_gbp": -126.20,
     "breakdown": [
       {"ticker":"MRNA","pnl_gbp":-16.04,"pnl_pct":-5.35,"type":"stop"},
       {"ticker":"CRWV","pnl_gbp":-30.0,"pnl_pct":-4.29,"type":"stop"},
@@ -567,88 +573,85 @@
       {"ticker":"GOOGL_STOP","pnl_gbp":-16.1,"pnl_pct":-6.44,"type":"stop","date":"2026-06-05"},
       {"ticker":"SNDK_STOP","pnl_gbp":9.19,"pnl_pct":4.6,"type":"stop_above_cost","date":"2026-06-05"},
       {"ticker":"NVDA_STOP","pnl_gbp":-5.09,"pnl_pct":-3.39,"type":"stop","date":"2026-06-05"},
-      {"ticker":"VRT_STOP","pnl_gbp":-16.28,"pnl_pct":-5.43,"type":"stop","date":"2026-06-05"}
+      {"ticker":"VRT_STOP","pnl_gbp":-16.28,"pnl_pct":-5.43,"type":"stop","date":"2026-06-05"},
+      {"ticker":"INSM_STOP","pnl_gbp":-6.62,"pnl_pct":-6.62,"type":"stop","date":"2026-06-09"}
     ],
-    "stops_triggered": 11,
+    "stops_triggered": 12,
     "trailing_stops_above_cost": 2,
-    "stop_avg_loss_pct": -4.52,
+    "stop_avg_loss_pct": -4.60,
     "realized_gains_count": 4,
     "realized_gain_avg_pct": 4.52,
-    "total_unrealized_gbp": 116.34,
-    "grand_total_pnl_gbp": -3.24
+    "total_unrealized_gbp": 191.66,
+    "grand_total_pnl_gbp": 65.46
   },
-  "stop_exposure_jun8": [
-    {"ticker":"BN","current":"$44.55","stop":"$42.78","buffer_pct":3.9,"max_loss_from_current_gbp":-11.63,"note":"Stop watch. CPI June 10 nowcast 4.18% = primary risk. AGM Jul 16 catalyst live. 3.9% buffer (improved from 2.5% Jun 5)."},
-    {"ticker":"INSM","current":"$100.00","stop":"$97.74","buffer_pct":2.3,"max_loss_from_current_gbp":-2.15,"note":"CRITICAL stop watch. 2.3% buffer. Phase 3 brensocatib catalyst only for add. CPI risk."},
-    {"ticker":"VST","current":"$153.50","stop":"$143.03","buffer_pct":6.8,"max_loss_from_current_gbp":-6.80,"note":"New entry Jun 5. Ex-div Jun 22. Add possible Wed Jun 10 if conditions met."},
-    {"ticker":"MSFT","current":"$415.32","stop":"$399.65","buffer_pct":3.77,"max_loss_from_current_gbp":-11.05,"note":"Single investor (Ackman). Declining from $430 Jun 5. Hold min Aug 18."},
-    {"ticker":"NTRA","current":"$220.00","stop":"$188.89","buffer_pct":14.1,"max_loss_from_current_gbp":-45.87,"note":"Safe. Druckenmiller #1 conviction NTRA. +8.1% from avg cost."}
+  "stop_exposure_jun9": [
+    {"ticker":"BN","current":"$45.59","stop":"$42.78","buffer_pct":6.2,"max_loss_from_current_gbp":-18.55,"note":"CPI June 10 binary risk. AGM Jul 16 catalyst live. 6.2% buffer (improved from 3.9% Jun 8). Primary hot-CPI casualty risk."},
+    {"ticker":"VST","current":"$146.90","stop":"$143.03","buffer_pct":2.6,"max_loss_from_current_gbp":-2.53,"note":"CRITICAL STOP WATCH. 2.6% buffer only. Declining from entry $153.80. Ex-div Jun 22. Add trigger ($155) not met."},
+    {"ticker":"MSFT","current":"$418","stop":"$399.65","buffer_pct":4.4,"max_loss_from_current_gbp":-12.98,"note":"Single investor (Ackman). Recovering slightly with chip rebound. Hold min Aug 18."},
+    {"ticker":"NTRA","current":"$221","stop":"$188.89","buffer_pct":14.9,"max_loss_from_current_gbp":-47.53,"note":"Safe. Druckenmiller #1 conviction NTRA. +9.1% from avg cost."}
   ],
-  "total_stop_exposure_from_current_gbp": -77.50,
+  "total_stop_exposure_from_current_gbp": -81.59,
   "forecast_log": [
     {
-      "session": "2026-06-09 (Tuesday)",
-      "daily_forecast": {
-        "base_case_pct": 0.3,
-        "base_assumption": "Market digests Monday moves. TSM stabilizes at $410-415. No major catalyst before CPI Wed.",
-        "bull_case_pct": 1.2,
-        "bull_catalyst": "MU continues recovery toward $960. AMZN AWS fiber deal (GLW) lifts sentiment. MRVL index buying flow supports semis broadly.",
-        "bear_case_pct": -1.8,
-        "bear_risk": "Mideast tensions escalate (crude +3%), yields tick up pre-CPI, BN approaches stop. TSM adds to losses.",
-        "stop_drag_bear": "BN + INSM stops triggered = -£13.78 on £4,997 = -0.28% additional drag"
+      "session": "2026-06-09 (Tuesday — actuals)",
+      "actuals": {
+        "portfolio_value_gbp": 5065.44,
+        "daily_return_pct": 1.37,
+        "trades": ["INSM EXPLORE SELL £93.38 at stop $97.74 (-£6.62)"],
+        "forecast_for_day": "Base +0.3%. Actual +1.37% — MU +5% premarket ($940→$987) drove +£49 unrealized. BN +2.3%. UBER +2.5%. INSM stop -£6.62 contained. TSM recovery +3.6%.",
+        "forecast_error_pct": 1.07
       }
     },
     {
-      "session": "2026-06-10 CPI BINARY",
+      "session": "2026-06-10 (Wednesday — CPI + ORCL BINARY)",
+      "daily_forecast": {
+        "base_case_pct": 0.3,
+        "base_assumption": "CPI inline (3.5-4.2%). Market holds. Chip recovery continues. ORCL in-line earnings.",
+        "bull_case_pct": 2.5,
+        "bull_catalyst": "CPI soft (≤3.5%) → risk-on relief. BE add £100 CORE. TSM add £150. BN holds safely toward $47. Chip sector rally accelerates. ORCL beats all 3 conditions → AI cloud optimism +BE/MU boost.",
+        "bear_case_pct": -2.0,
+        "bear_risk": "CPI hot (>4.2%) → BN gaps toward stop $42.78, yield surge pressures all long-duration growth. ORCL guide miss (Aschenbrenner bearish signal) → AI infra selloff redux.",
+        "stop_drag_bear": "BN stop (-£18.55) + VST near stop (-£2.53) if cascade = -£21.08 (-0.42%) additional bear drag"
+      },
       "cpi_scenarios": {
-        "soft_cpi_lte_3pct": {
-          "probability": "25%",
-          "action": "Risk mode ELEVATED → NORMAL. Add VST £100-150. Consider TSM add £150. BN holds safely.",
-          "portfolio_impact": "+1.5% to +2.5%"
+        "soft_cpi_lte_3p5": {
+          "probability": "15%",
+          "action": "Risk mode ELEVATED → NORMAL. Add BE £100 CORE (dip trigger met). Add TSM £150 CORE. Add VST £100 if >$150. BN holds.",
+          "portfolio_impact": "+2.0% to +3.0%"
         },
-        "inline_cpi_3p4_to_4p2": {
-          "probability": "40%",
-          "action": "Hold all. BN watch. No new adds. Await ORCL earnings same day.",
-          "portfolio_impact": "-0.3% to +0.5%"
+        "inline_cpi_3p5_to_4p2": {
+          "probability": "50%",
+          "action": "Hold all positions. Monitor BN. No new adds. Await ORCL earnings. Note: Core CPI 2.9% (benign) may reduce market reaction severity vs prior estimates.",
+          "portfolio_impact": "-0.2% to +0.8%"
         },
         "hot_cpi_gt_4p2": {
           "probability": "35%",
-          "action": "ELEVATED maintained. BN likely stops ($42.78). INSM monitor. No new entries. -£11.63 BN stop + potential MSFT pressure.",
-          "portfolio_impact": "-2.0% to -3.5%"
+          "action": "ELEVATED maintained. BN likely stops ($42.78). VST monitor. No new entries. Prepare for potential BE deeper dip to $240-248 = better CORE add entry.",
+          "portfolio_impact": "-1.5% to -2.5%"
         }
       },
       "orcl_scenarios": {
-        "beat_with_strong_guide": "AI cloud optimism → BE +3-5%, MU +2-3%. Bull addition.",
-        "beat_eps_guide_miss": "Aschenbrenner ORCL put wins. AI infra under pressure. BE/MU -3-5%.",
+        "beat_all_3_conditions": "BULLISH — AI cloud optimism → BE +3-5%, MU +2%. Aschenbrenner puts wrong. Add BE.",
+        "beat_eps_guide_miss": "BEARISH — Aschenbrunner wins ORCL bet. AI infra under pressure. BE -3-5%, MU -2-3%. AVGO lesson repeats.",
         "in_line": "Neutral. No contagion to BE/MU."
       }
     },
     {
       "week": "2026-06-08/2026-06-12",
       "week_label": "Week 5",
-      "forecast_date": "2026-06-08",
+      "forecast_date": "2026-06-09",
       "predictions": {
-        "portfolio_return_pct": {"low": -4.0, "mid": 1.0, "high": 4.0},
-        "spx_return_pct": {"low": -3.0, "mid": 0.5, "high": 3.0},
-        "key_events": ["CPI June 10 (binary — nowcast 4.18% YoY, ELEVATED risk)", "ORCL June 10 earnings", "MRVL S&P 500 index buying (through June 22)"],
+        "portfolio_return_pct": {"low": -3.0, "mid": 1.5, "high": 5.0},
+        "spx_return_pct": {"low": -2.0, "mid": 0.5, "high": 3.0},
+        "key_events": ["CPI June 10 (consensus 4.2% YoY, core 2.9% — headline elevated by energy)", "ORCL June 10 earnings after close", "MRVL S&P 500 index buying (through June 22)"],
         "planned_trades": [
-          "TSM ENTERED £200 Jun 8. Next add: post-CPI benign Jun 10.",
-          "VST ADD £100-150 EXPLORE: Jun 10 if conditions met (CPI soft + VST >$155 + cash >20%)",
-          "BE ADD £100 CORE: only if BE <$255 dip",
-          "BN HOLD: let stop $42.78 govern"
+          "BE ADD £100 CORE: Jun 10 ONLY if CPI soft ≤3.5% AND BE holds above $255",
+          "TSM ADD £150 CORE: Jun 10 post-CPI benign + $420-435 stabilized",
+          "VST ADD £100: Jun 10 if CPI soft + VST >$155",
+          "BN HOLD: let stop $42.78 govern — do NOT precut"
         ],
-        "stop_total_if_all_hit_gbp": -77.50,
-        "stop_total_if_all_hit_pct": -1.55
-      }
-    },
-    {
-      "session": "2026-06-08 (Monday — actuals)",
-      "actuals": {
-        "portfolio_value_gbp": 4996.79,
-        "daily_return_pct": 0.91,
-        "trades": ["TSM CORE BUY £200 at $413"],
-        "forecast_for_day": "Base +0.0% — Jobs data digested over weekend. Actual +0.91% — MU recovery +6.5% drove +£52 unrealized gain.",
-        "forecast_error_pct": 0.91
+        "stop_total_if_all_hit_gbp": -81.59,
+        "stop_total_if_all_hit_pct": -1.61
       }
     }
   ],
@@ -662,21 +665,28 @@
         "note": "First weekly report — no prior weekly forecast existed. MAE tracking begins Week 5."
       },
       {
-        "week": "Week 5 Day 1",
+        "week": "Week 5 Day 1 (Jun 8)",
         "predicted_mid_pct": 0.0,
         "actual_pct": 0.91,
         "error_pts": 0.91,
         "note": "Jun 8 forecast: base 0.0%. Actual +0.91%. MU recovery stronger than expected (+6.5%). Error +0.91 pts."
+      },
+      {
+        "week": "Week 5 Day 2 (Jun 9)",
+        "predicted_mid_pct": 0.3,
+        "actual_pct": 1.37,
+        "error_pts": 1.07,
+        "note": "Jun 9 forecast: base +0.3%. Actual +1.37%. MU +5% premarket drove alpha. INSM stop contained. Error +1.07 pts. Pattern: consistently underestimating MU recovery strength."
       }
     ],
-    "mean_absolute_error_pct": 1.71,
-    "mae_note": "1.71% based on daily/session estimates Weeks 1-3. Weekly MAE tracking begins Week 5.",
+    "mean_absolute_error_pct": 0.99,
+    "mae_note": "0.99% based on Week 5 daily estimates. Pattern: underestimating MU momentum. Adjust base case +0.3-0.5% when MU >$950 and chip rebound confirmed.",
     "investor_signal_accuracy": {
-      "tepper": {"correct":7,"total":7,"accuracy_pct":100,"notes":"All positions profitable from entry or CORE holds. MU +20.7%, UBER flat, AMZN -1.2% (CORE hold), TSM new CORE Jun 8. GOOGL still held by Tepper (re-entry watchlist). SNDK new buy = potential re-entry signal."},
-      "druckenmiller": {"correct":5,"total":8,"accuracy_pct":62.5,"notes":"AVGO = IC rule violation exit, not Druck fail. NTRA +8.1% working. INSM -4.9% (first week, stop watch). TSM co-signal = CORE entered Jun 8. AMZN exit (94%) = profit-taking after large gain. Healthcare pivot structural thesis intact."},
-      "ackman": {"correct":3,"total":4,"accuracy_pct":75,"notes":"BN -2.5% stop watch. MSFT -2.4% EXPLORE. UBER -0.3% CORE. AMZN CORE. BN AGM Jul 16 catalyst live. CPI Jun 10 binary for BN."},
-      "aschenbrenner": {"correct":4,"total":5,"accuracy_pct":80,"notes":"BE -7.4% pain but CORE no-stop hold. AVGO puts GAINED massively Jun 5. Broader put basket confirmed (MU, TSM, GLW included). BE longs UNCHANGED = conviction intact."},
-      "burry": {"correct":0,"total":2,"accuracy_pct":0,"notes":"PLTR short: IC closed +9.6% profit. Q1 2026 new positions: MELI, ADBE, PYPL, LULU (consumer/SaaS dip buys). Not followed by IC."}
+      "tepper": {"correct":7,"total":7,"accuracy_pct":100,"notes":"All positions profitable from entry or CORE holds. MU +27.3%, UBER +2.6%, AMZN +0.3% (CORE hold), TSM +4.1% new CORE. GOOGL still held by Tepper (re-entry watchlist). SNDK new buy = potential re-entry signal. Accuracy PERFECT through Jun 9."},
+      "druckenmiller": {"correct":5,"total":9,"accuracy_pct":55.6,"notes":"NTRA +9.1% working. TSM +4.1% new CORE. AVGO = IC rule violation exit. INSM STOPPED Jun 9 (-6.62%) = 9th signal, 4th miss. Note: INSM Q1 13F was PRE-CEDAR failure (Apr 7) — position may have been unwound by Druckenmiller post-filing. Healthcare pivot structural thesis partly intact (NTRA strong). Accuracy DOWNGRADED to 55.6%."},
+      "ackman": {"correct":3,"total":4,"accuracy_pct":75,"notes":"BN +0.2% (near even, AGM Jul 16 catalyst live). MSFT -1.4% EXPLORE. UBER +2.6% CORE. AMZN +0.3% CORE. BN CPI Jun 10 binary."},
+      "aschenbrenner": {"correct":4,"total":5,"accuracy_pct":80,"notes":"BE -11.4% pain but CORE no-stop hold. AVGO puts GAINED massively Jun 5. Broader put basket confirmed. BE dip trigger met — awaiting CPI clarity for add. BE longs UNCHANGED at 6.5M shares = conviction intact."},
+      "burry": {"correct":0,"total":2,"accuracy_pct":0,"notes":"PLTR short: IC closed +9.6% profit. Consumer/SaaS dip buys (MELI, ADBE, PYPL, LULU) not followed by IC."}
     }
   },
   "rules": {
@@ -709,40 +719,43 @@
       "2026-06-05: TSM DUAL CORE SIGNAL — Tepper 7.56% + Druckenmiller 5.0% Q1 2026. CORE. Entered Jun 8.",
       "2026-06-05: MACRO SHOCK VELOCITY RULE — If NFP/CPI >150% of consensus, assume PM vol adds 1.5x to AM move. Do not redeploy stop capital same day.",
       "2026-06-05: BN STOP DISCIPLINE — Do not precut BN despite proximity to stop. AGM Jul 16 catalyst live. Let stop govern.",
-      "2026-06-08: DRUCKENMILLER AMZN EXIT RULE — Druckenmiller slashing 94% of AMZN does NOT affect CORE status when CORE thesis = Tepper+Ackman. Exit of a non-CORE-constituent investor does not trigger downgrade.",
-      "2026-06-08: ASCHENBRENNER PUT BASKET SCOPE — Puts extend across NVDA, SMH, AVGO, ORCL, AMD, MU, ASML, INTC, GLW, TSM. Rule unchanged: ALL are portfolio hedges, NOT exits. BE longs at 6.5M shares unchanged = CORE intact.",
-      "2026-06-08: S&P 500 INCLUSION CAUTION — Index inclusion creates artificial pre-effective-date buying. Do NOT enter above pullback trigger even for strong names. Wait post-effective-date for real pullback. MRVL lesson: inclusion Jun 22, entry only post-inclusion on >5% pullback."
+      "2026-06-08: DRUCKENMILLER AMZN EXIT RULE — Druckenmiller slashing 94% of AMZN does NOT affect CORE status when CORE thesis = Tepper+Ackman.",
+      "2026-06-08: ASCHENBRENNER PUT BASKET SCOPE — Puts extend across NVDA, SMH, AVGO, ORCL, AMD, MU, ASML, INTC, GLW, TSM. ALL are portfolio hedges, NOT exits.",
+      "2026-06-08: S&P 500 INCLUSION CAUTION — Do NOT enter above pullback trigger during pre-effective-date index buying window. Wait post-effective-date for real pullback.",
+      "2026-06-09: BIO PHARMA POST-FAILURE WINDOW — After significant Phase 2b/3 failure, wait 90 days post-announcement before entry. Check next 13F to confirm investor maintained position post-failure date. If 13F snapshot precedes failure date, treat signal as AMBIGUOUS — max £100 with -5% stop.",
+      "2026-06-09: CORE DIP ADD DEFERRED — Do not add to CORE positions within 24h of a binary macro event (CPI, FOMC, earnings). Even if dip trigger is met, wait for event clarity.",
+      "2026-06-09: TRIPLE INSTITUTIONAL SIGNAL UPGRADE — When 3+ tier or major institutional investors (each >5% AUM) hold same name in latest 13F, treat as elevated-conviction CORE. TSM: Tepper 7.56% + Druckenmiller 5.0% + Coatue 6.56% = add to quarterly build plan."
     ],
     "investor_signal_ranking": {
       "tier_1": {
         "investor": "Tepper",
         "accuracy": "100% (7/7)",
         "weight": "1.5x",
-        "note": "MU +20.7% CORE ★. AMZN -1.2% CORE. UBER flat. TSM new CORE Jun 8. VST flat. SNDK new Q1 buy = potential re-entry. GOOGL still held = watchlist."
+        "note": "MU +27.3% CORE ★. AMZN +0.3% CORE. UBER +2.6% CORE. TSM +4.1% new CORE. VST -4.1% (stop watch). SNDK new Q1 buy = potential re-entry. GOOGL still held = watchlist."
       },
       "tier_2a": {
         "investor": "Aschenbrenner",
         "accuracy": "80% (4/5)",
         "weight": "1.0x",
-        "note": "BE -7.4% (CORE, no stop). AVGO puts gained massively Jun 5 (-12%). Broader put basket (MU, TSM, GLW) = structural semiconductor hedge. BE longs unchanged at 6.5M shares = #1 conviction maintained."
+        "note": "BE -11.4% CORE (no stop, hold). AVGO puts gained massively Jun 5. Broader put basket confirmed. BE dip trigger met — add deferred post-CPI."
       },
       "tier_2b": {
         "investor": "Ackman",
         "accuracy": "75% (3/4)",
         "weight": "1.0x",
-        "note": "BN -2.5% (EXPLORE, stop watch $42.78). MSFT -2.4% EXPLORE. UBER flat CORE. AMZN CORE. BN AGM Jul 16 catalyst live. CPI Jun 10 binary for BN."
+        "note": "BN +0.2% (EXPLORE, CPI watch). MSFT -1.4% EXPLORE. UBER +2.6% CORE. AMZN +0.3% CORE."
       },
       "tier_3": {
         "investor": "Druckenmiller",
-        "accuracy": "62.5% (5/8)",
+        "accuracy": "55.6% (5/9)",
         "weight": "0.8x",
-        "note": "NTRA +8.1% working. AVGO = IC rule violation exit (-£13.48). INSM -4.9% (stop watch). TSM 5.0% = CORE co-signal (entered Jun 8). AMZN exit 94% = profit-taking (was up significantly). Healthcare pivot structural."
+        "note": "DOWNGRADED: INSM stopped Jun 9. NTRA +9.1% working. TSM +4.1% new CORE. AVGO = IC rule violation. AMZN exit 94% = profit-taking. INSM: Q1 13F predated CEDAR failure (Apr 7) — likely exited post-filing. Healthcare pivot partly intact (NTRA strong). Sub-threshold signals carry higher risk."
       },
       "tier_4": {
         "investor": "Burry",
         "accuracy": "0% (0/2)",
         "weight": "0.1x",
-        "note": "PLTR short: IC closed +9.6% profit (Burry wrong). Q1 2026: exited China, new MELI/ADBE/PYPL/LULU buys. Consumer/SaaS dip buyer. Not followed by IC."
+        "note": "PLTR short: IC closed +9.6% profit. Consumer/SaaS dip buys (MELI/ADBE/PYPL/LULU) not followed by IC."
       }
     }
   }
