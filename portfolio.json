@@ -1,21 +1,21 @@
 {
   "inception_date": "2026-05-11",
-  "last_updated": "2026-06-13",
+  "last_updated": "2026-06-15",
   "currency": "GBP",
   "initial_capital_gbp": 5000,
   "cash_gbp": 1801.32,
-  "fx_rate_gbpusd": 1.34,
-  "total_value_gbp": 4964.03,
-  "cumulative_return_pct": -0.72,
+  "fx_rate_gbpusd": 1.3461,
+  "total_value_gbp": 5045.63,
+  "cumulative_return_pct": 0.91,
   "positions": {
     "MU": {
       "shares": 1.2939,
       "avg_cost_gbp": 750.0,
       "avg_cost_usd": 790.0,
-      "current_price_usd": 992.83,
-      "current_value_gbp": 958.79,
-      "unrealized_pnl_gbp": 208.79,
-      "unrealized_pnl_pct": 27.84,
+      "current_price_usd": 1063.02,
+      "current_value_gbp": 1021.79,
+      "unrealized_pnl_gbp": 271.79,
+      "unrealized_pnl_pct": 36.24,
       "entry_date": "2026-05-11",
       "strategy": "value_investor_follow+momentum",
       "confidence": 5,
@@ -31,9 +31,9 @@
       "avg_cost_gbp": 748.37,
       "avg_cost_usd": 262.64,
       "current_price_usd": 238.55,
-      "current_value_gbp": 687.81,
-      "unrealized_pnl_gbp": -60.56,
-      "unrealized_pnl_pct": -8.09,
+      "current_value_gbp": 684.82,
+      "unrealized_pnl_gbp": -63.55,
+      "unrealized_pnl_pct": -8.49,
       "entry_date": "2026-05-11",
       "last_add_date": "2026-06-05",
       "strategy": "value_investor_follow",
@@ -55,10 +55,10 @@
       "shares": 2.101,
       "avg_cost_gbp": 450.0,
       "avg_cost_usd": 288.57,
-      "current_price_usd": 258.77,
-      "current_value_gbp": 405.74,
-      "unrealized_pnl_gbp": -44.26,
-      "unrealized_pnl_pct": -9.84,
+      "current_price_usd": 262.50,
+      "current_value_gbp": 409.69,
+      "unrealized_pnl_gbp": -40.31,
+      "unrealized_pnl_pct": -8.96,
       "entry_date": "2026-05-13",
       "last_add_date": "2026-06-02",
       "strategy": "value_investor_follow+sector_rotation",
@@ -100,10 +100,10 @@
       "shares": 5.683,
       "avg_cost_gbp": 300.0,
       "avg_cost_usd": 70.9,
-      "current_price_usd": 68.48,
-      "current_value_gbp": 290.42,
-      "unrealized_pnl_gbp": -9.58,
-      "unrealized_pnl_pct": -3.19,
+      "current_price_usd": 69.64,
+      "current_value_gbp": 294.04,
+      "unrealized_pnl_gbp": -5.96,
+      "unrealized_pnl_pct": -1.99,
       "entry_date": "2026-05-28",
       "strategy": "value_investor_follow",
       "confidence": 4,
@@ -117,10 +117,10 @@
       "shares": 1.981,
       "avg_cost_gbp": 300.0,
       "avg_cost_usd": 203.41,
-      "current_price_usd": 217.75,
-      "current_value_gbp": 321.92,
-      "unrealized_pnl_gbp": 21.92,
-      "unrealized_pnl_pct": 7.31,
+      "current_price_usd": 218.98,
+      "current_value_gbp": 322.28,
+      "unrealized_pnl_gbp": 22.28,
+      "unrealized_pnl_pct": 7.43,
       "entry_date": "2026-05-28",
       "last_add_date": "2026-06-02",
       "strategy": "value_investor_follow",
@@ -135,10 +135,10 @@
       "shares": 8.824,
       "avg_cost_gbp": 300.0,
       "avg_cost_usd": 45.7,
-      "current_price_usd": 44.61,
-      "current_value_gbp": 293.69,
-      "unrealized_pnl_gbp": -6.31,
-      "unrealized_pnl_pct": -2.10,
+      "current_price_usd": 45.62,
+      "current_value_gbp": 299.01,
+      "unrealized_pnl_gbp": -0.99,
+      "unrealized_pnl_pct": -0.33,
       "entry_date": "2026-06-02",
       "last_add_date": "2026-06-05",
       "strategy": "value_investor_follow",
@@ -176,10 +176,10 @@
       "shares": 0.6506,
       "avg_cost_gbp": 200.0,
       "avg_cost_usd": 413.0,
-      "current_price_usd": 421.07,
-      "current_value_gbp": 204.44,
-      "unrealized_pnl_gbp": 4.44,
-      "unrealized_pnl_pct": 2.22,
+      "current_price_usd": 440.00,
+      "current_value_gbp": 212.68,
+      "unrealized_pnl_gbp": 12.68,
+      "unrealized_pnl_pct": 6.34,
       "entry_date": "2026-06-08",
       "strategy": "value_investor_follow",
       "confidence": 4,
@@ -470,13 +470,17 @@
       "note": "ORCL CAPEX CONTAGION WEEK. CPI May 2026 printed 4.2% (inline, energy-led). Oracle beat all 3 earnings conditions but announced $40B new capital raise → ORCL -12% Jun 11 → contagion to MSFT -8.6% (stop triggered $399.65), AMZN -8.2% (CORE hold, no stop), VST stopped Jun 10 ($137.91 intraday low on CPI energy shock). Mid-week peak £5,065 erased. Two stops: MSFT -£17.33 + VST -£6.76. BRIGHT SPOTS: BE +1.9% (ORCL capex = more fuel cell demand), MU +0.6% (flat, holding above $987), SpaceX IPO Jun 13 lifted sentiment. IC +0.25% vs S&P +0.5% = -0.25% alpha. Cumulative: -0.72% from £5,000."
     },
     {
-      "week": "2026-06-16/2026-06-20",
-      "week_label": "Week 6 (FORECAST)",
+      "week": "2026-06-15/2026-06-20",
+      "week_label": "Week 6",
       "start_value_gbp": 4964.03,
+      "day1_date": "2026-06-15",
+      "day1_value_gbp": 5045.63,
+      "day1_return_pct": 1.64,
+      "day1_note": "IRAN PEACE DEAL — massive risk-on. S&P +2.5%, Nasdaq +3.5%. MU near ATH. No trades pre-FOMC.",
       "end_value_gbp": null,
       "return_pct": null,
-      "forecast_return_pct": {"base": 1.75, "bull": 4.0, "bear": -3.0},
-      "note": "FOMC binary week. Jun 17 rate decision = key catalyst. Juneteenth Jun 19 = 4-day week. MU Jun 24 earnings approaching. Planned: BE add £100 post-FOMC neutral, TSM add £150-200, GOOGL EXPLORE if <$345."
+      "forecast_return_pct": {"base": 2.5, "bull": 5.0, "bear": -2.0},
+      "note": "Week 6 RUNNING. Day 1 +1.64% (Iran deal). FOMC Jun 16-17 = HOLD expected. Trading days: Jun 15 ✓, Jun 16 (FOMC Day 1), Jun 17 (FOMC decision + BE/TSM adds), Jun 19 CLOSED (Juneteenth), Jun 20. MU Jun 24 earnings approaching — massive beat expected (+263% YoY). Post-FOMC plan: BE add £100 CORE, TSM add £150 CORE. GOOGL still above $345 trigger ($363.82) — no entry."
     }
   ],
   "daily_pnl": [
@@ -500,12 +504,13 @@
     {"date":"2026-06-04","pnl_gbp":-12.33,"pnl_pct":-0.24,"note":"AVGO entered £200. Dow +875pts, S&P +0.4%."},
     {"date":"2026-06-05","pnl_gbp":-297.04,"pnl_pct":-5.66,"note":"BRUTAL DAY 2: Nasdaq -4.18% (worst since April 2025). AVGO -12% guidance miss + NFP 172K/85K. 6 STOPS: AVGO -£13.48, PLTR +£19.17, GOOGL -£16.10, SNDK +£9.19, NVDA -£5.09, VRT PM -£16.28. MU -17% from ATH to $882.85. BE -8.6% to $266.26. Net realized week 4: -£11.59. New entries: VST, INSM, BN fill, AMZN (2x adds). Cash raised to 30.9%."},
     {"date":"2026-06-08","pnl_gbp":44.96,"pnl_pct":0.91,"note":"Week 5 Day 1: TSM CORE entered £200 at $413 (trigger met). MU +6.5% recovery ($882→$940) = biggest single contributor +£52. MSFT headwind -£11 ($430→$415). UBER -£1 ($72→$70.71). S&P futures +0.6%. MRVL +7% on S&P500 inclusion — no entry (above $276 pullback trigger). Portfolio back near breakeven -0.06%. CPI June 10 (nowcast 4.18%) + ORCL earnings June 10 = week's binary events."},
-    {"date":"2026-06-09","pnl_gbp":68.65,"pnl_pct":1.37,"note":"Week 5 Day 2: INSM stop executed -£6.62 (stop $97.74 triggered, ongoing HS trial digest selling). MU +5% premarket ($940→$987) = +£49 unrealized gain. TSM recovering $413→$428 = +£8. BN +2.3% relief ($44.55→$45.59). UBER +2.5% (Wayve robotaxi + AI productivity + Capital International raise). BE dip trigger hit ($254 < $255) — DEFERRED post-CPI. Chip rebound continues (SOXX recovering). Pre-CPI caution ELEVATED mode maintained. Portfolio £5,065 (+1.31% cumulative)."}
+    {"date":"2026-06-09","pnl_gbp":68.65,"pnl_pct":1.37,"note":"Week 5 Day 2: INSM stop executed -£6.62 (stop $97.74 triggered, ongoing HS trial digest selling). MU +5% premarket ($940→$987) = +£49 unrealized gain. TSM recovering $413→$428 = +£8. BN +2.3% relief ($44.55→$45.59). UBER +2.5% (Wayve robotaxi + AI productivity + Capital International raise). BE dip trigger hit ($254 < $255) — DEFERRED post-CPI. Chip rebound continues (SOXX recovering). Pre-CPI caution ELEVATED mode maintained. Portfolio £5,065 (+1.31% cumulative)."},
+    {"date":"2026-06-15","pnl_gbp":81.60,"pnl_pct":1.64,"note":"IRAN PEACE DEAL: US-Iran interim MOU to reopen Strait of Hormuz. S&P +2.5%, Nasdaq +3.5%. Oil Brent -4.7% to $83.25. MU near ATH ($1,063, prev ATH $1,064.10 Jun 2). TSM +3.5% with chip sector rally (~$440 est). BN ex-div Jun 15 ($0.07), closed $45.62. UBER $69.64 (low oil = margin tailwind). NTRA $218.98 defensive healthcare holds. BE $262.50 (not at dip trigger $255). AMZN $238.55 (-1.23% on day despite market rally — FTC/capex overhang). NO TRADES — pre-FOMC binary event rule (FOMC Jun 16-17). Portfolio crosses +1% cumulative for first time. Cash 35.7% ELEVATED."}
   ],
   "strategy_stats": {
     "value_investor_follow": {
       "trades": 39,
-      "open_status": "MU +27.3% CORE ★ | AMZN +0.3% CORE (filled £748/£750) | BE -11.4% CORE (dip trigger met, add deferred post-CPI) | UBER +2.6% CORE | MSFT -1.4% EXPLORE | NTRA +9.1% EXPLORE | BN +0.2% EXPLORE (CPI watch) | TSM +4.1% CORE (initial £200/£750) | VST -4.1% EXPLORE CRITICAL STOP WATCH (2.6% buffer)"
+      "open_status": "MU +36.2% CORE ★ (near ATH $1,063, earnings Jun 24) | AMZN -8.5% CORE (FTC/capex drag, no stop) | BE -9.0% CORE (£450/£750, add post-FOMC Jun 17) | UBER -2.0% CORE (Iran deal oil-down tailwind) | NTRA +7.4% EXPLORE | BN -0.3% EXPLORE (ex-div Jun 15, AGM Jul 16) | TSM +6.3% CORE (£200/£750, add post-FOMC Jun 17)"
     },
     "momentum": {
       "trades": 3,
@@ -518,88 +523,88 @@
     }
   },
   "risk_mode": "ELEVATED",
-  "risk_mode_cash_pct": 36.28,
-  "risk_mode_cash_guidance": "ELEVATED — 36.28% cash (£1,801.32) after MSFT stop (£282.67) + VST stop (£93.24) proceeds. Well above 25% ELEVATED floor. FOMC June 17 is the next binary de-escalation trigger. AMZN -8.09% from avg cost (no stop, CORE) = largest unrealized drag. BN 4.1% from stop = caution. De-escalation path: FOMC neutral Jun 17 → add BE £100 CORE + TSM £150 CORE → cash drops to ~27% → move toward NORMAL. Escalation path: FOMC hawkish + AMZN breaks $225 + BN approaches stop → DEFENSIVE mode (>35% cash, freeze all new entries).",
+  "risk_mode_cash_pct": 35.70,
+  "risk_mode_cash_guidance": "ELEVATED — 35.70% cash (£1,801.32 / £5,045.63). No cash change Jun 15 (no trades executed per pre-FOMC binary event rule). IRAN DEAL catalyst pushed portfolio to +£81.60 (green day +1.64%). Portfolio now +0.91% cumulative from inception. DE-ESCALATION IMMINENT: FOMC Jun 17 HOLD expected (market 96% priced in) → execute BE add £100 CORE + TSM add £150 CORE → cash drops to £1,551.32 / ~£5,095 ≈ 30.5% → ELEVATED maintained but building toward NORMAL. Full NORMAL trigger: cash <25% = after FOMC adds + BE/TSM recovery. Escalation path: FOMC hawkish surprise (4% odds) → hold all adds, maintain DEFENSIVE cash floor.",
   "macro_context": {
-    "date": "2026-06-13",
-    "gbp_usd": 1.34,
-    "gbp_usd_range_today": "1.3371-1.3423",
-    "gbp_usd_prev": 1.3436,
-    "market_sentiment": "CHIP REBOUND. S&P futures +0.8%. Semiconductors recovering: MU +5% premarket, TSM +3.6%, NVDA +1.73%. Broader tech recovery from Jun 5-6 selloff. Pre-CPI caution dominates.",
-    "mu_premarket": "MU +5% premarket ($940→$987). Global bank doubled target to $1,750 citing 2-3 year memory shortage. HBM4 sold out. AI portfolio unveiled at Computex 2026. Jun 24 earnings = next major catalyst.",
-    "be_dip": "BE at ~$254 on Jun 9. DIP TRIGGER MET (<$255 threshold). DEFERRED per pre-CPI binary event rule. CPI consensus 4.2% YoY = hot scenario likely. If hot CPI: BE may fall to $240-248 = better CORE add entry. If soft CPI (<3.5%): add £100 CORE next session.",
-    "cpi_june10_risk": "CRITICAL: May 2026 CPI due June 10 8:30 AM ET. Consensus: Headline 4.2% YoY / 0.5% MoM. Core CPI 2.9% YoY (benign). Headline elevated by Iran war energy spike (+17.9% energy in April). Probability: Soft ≤3.5% (15%) | Inline 3.5-4.2% (50%) | Hot >4.2% (35%). Fed watches CORE (2.9% = benign) — market may look through headline energy spike. BN stop $42.78 the primary hot-CPI casualty.",
-    "oracle_earnings_june10": "ORCL Q4 2026 after close June 10. Consensus: EPS $1.96 (range $1.76-$2.06), Revenue $19.10B, YoY +15.3%. Aschenbrenner $1.07B ORCL puts = bearish signal. THREE-CONDITION RULE applies to any ORCL-driven entry or contagion.",
-    "coatue_tsm_confirmation": "NEW Jun 9: Coatue Q1 2026 13F confirmed TSM +6.9% (now 6.56% AUM). TSM now has THREE institutional signals: Tepper 7.56% + Druckenmiller 5.0% + Coatue 6.56%. TSMC market cap $2.225T = world's 6th most valuable company. TSM CORE thesis strengthened. Add trigger: post-CPI benign + stabilizes $420-430.",
-    "uber_catalyst": "UBER: AI productivity signal (grow sales, hire fewer = margin expansion) + Wayve London robotaxi waitlist opened Jun 7. Capital International raised UBER position Jun 9. CORE thesis strengthened. Tepper +242% + Ackman #3 = thesis conviction intact.",
-    "insm_stop_note": "INSM stop $97.74 triggered Jun 9. HS Phase 2b CEDAR failure (Apr 7) = 60+ day investor digestion period. Sub-threshold Druckenmiller signal (5.6%). Loss -£6.62. Lesson: bio/pharma post-failure 90-day window rule ADDED.",
-    "week5_key_events": ["Jun 10: CPI May 2026 (8:30 AM ET) — consensus 4.2% YoY, core 2.9%", "Jun 10: ORCL Q4 earnings (after close) — consensus $1.96 EPS / $19.10B revenue", "Jun 22: MRVL S&P 500 effective inclusion + VST ex-dividend"]
+    "date": "2026-06-15",
+    "gbp_usd": 1.3461,
+    "gbp_usd_prev": 1.34,
+    "market_sentiment": "IRAN PEACE DEAL — RISK-ON. US-Iran interim deal to reopen Strait of Hormuz. S&P +2.5%, Nasdaq +3.5%. Oil: Brent -4.7% to $83.25, WTI -5.1% to $80.53 (3-month low). Gold +2.81% to $4,357. Wedbush: ceasefire = 'risk-on environment for tech stocks'. MU near ATH $1,063. UBER direct beneficiary (oil costs down → margin expansion). Juneteenth Jun 19 = market closed.",
+    "iran_deal_jun15": "US-Iran interim MOU to reopen Strait of Hormuz announced Jun 15. Trump: 'Ships of the World, start your engines.' Brent $83.25 (-4.7%), WTI $80.53 (-5.1%) — 3-month low. S&P +2.5%, Nasdaq +3.5%. Portfolio UBER directly benefits (fuel costs → lower driver costs → margin expansion). AI chip stocks (MU, TSM) surged on risk-on sentiment. MU near ATH $1,063.",
+    "fomc_jun17": "FOMC meeting June 16-17. Rates held at 3.5%-3.75% (confirmed HOLD). Market 96% priced for no change. Possible bias shift from easing to neutral/tightening language. NEUTRAL outcome = best case for IC CORE positions. Post-FOMC trigger: BE add £100 CORE + TSM add £150 CORE on Jun 17 after 2PM ET decision.",
+    "mu_earnings_jun24": "CRITICAL approaching. Street: $33.8B revenue (+263% YoY), EPS $19.74. Company guidance: $33.5B ± $750M, EPS $19.15, GM ~81%. Goldman forecasts $37.6B revenue, EPS $22.07 (significantly above consensus). HBM sold out through year-end. Pre-earnings momentum: MU $1,063 (Jun 15), approaching ATH $1,064.10 (Jun 2). HOLD position — DO NOT ADD (already at CORE max £750).",
+    "bn_exdiv_jun15": "BN ex-dividend date June 15, 2026. Quarterly dividend CA$0.10 (USD ~$0.07). Payment date June 30. Stock closed $45.62 (+2.3% from $44.61 Jun 13) net of ex-div, driven by Iran deal risk-on. AGM July 16 BN+BWS simplification vote = re-rating catalyst.",
+    "week6_key_events": ["Jun 15 (today): US-Iran peace deal. S&P +2.5%. BN ex-div $0.07. No trades (pre-FOMC rule).", "Jun 16: FOMC Day 1 (no decision)", "Jun 17: FOMC DECISION 2PM ET — HOLD 3.5-3.75% expected → trigger BE+TSM adds", "Jun 19: Juneteenth — US MARKETS CLOSED", "Jun 20: Post-FOMC reposition", "Jun 22: MRVL S&P 500 inclusion effective + VST ex-div ($0.75)", "Jun 24: MU EARNINGS — CORE ★ key event"]
   },
   "watchlist_next": [
     {
       "ticker": "BE",
-      "priority": "CORE — ADD DEFERRED TO POST-FOMC (Jun 17)",
+      "priority": "CORE — ADD £100 ON FOMC NEUTRAL (Jun 17)",
       "current_gbp": 450,
+      "current_price_usd": 262.50,
       "max_gbp": 750,
       "room_gbp": 300,
       "tier": "CORE",
-      "signal": "Aschenbrenner #1 $879M + Druckenmiller Q1 2026 CURRENT. ORCL PUTS PAID OFF = AI capex thesis validated. BE +1.9% vs broader tech -8% this week = outperformance confirms ORCL contracted demand thesis.",
-      "trigger": "CPI was inline 4.2% (not soft) — missed Jun 10 dip add at $254. BE recovered to $258.77. Add £100 CORE if: (a) Post-FOMC neutral Jun 17 + BE holds $250-265 OR (b) BE dips back to <$255 at any point. Do NOT add pre-FOMC. Total will be £550/£750.",
-      "entry_day": "Post-FOMC Jun 17 if neutral. Or next dip to <$255."
+      "signal": "Aschenbrenner #1 $879M (6.5M shares, Q1 2026 CURRENT) + Druckenmiller Q1 2026 CURRENT. Avg cost basis $85.73 = fund up >200% on BE. AI power/data center fuel cell thesis intact. Iran deal = no direct impact. ORCL capex adds to data center buildout = BE demand structural.",
+      "trigger": "FOMC neutral Jun 17 (confirmed from FOMC outcome: HOLD 3.5-3.75%) → Add £100 CORE at market price Jun 17 post-decision (targeting $255-270). No need for dip trigger if FOMC clear. Total will be £550/£750 — still £200 room for further CORE build.",
+      "entry_day": "June 17 post-FOMC decision (2PM ET)"
     },
     {
       "ticker": "TSM",
-      "priority": "CORE — BUILD POSITION (£200/£750)",
+      "priority": "CORE — ADD £150 ON FOMC NEUTRAL (Jun 17)",
       "current_gbp": 200,
+      "current_price_usd": 440.00,
       "max_gbp": 750,
       "room_gbp": 550,
       "tier": "CORE",
-      "signal": "Tepper 7.56% + Druckenmiller 5.0% + Coatue 6.56% Q1 2026 CURRENT. TRIPLE institutional conviction.",
-      "trigger": "Add £150-200 CORE increments when: (a) CPI benign Jun 10, (b) price stabilizes $420-435 for 2+ sessions, (c) cash maintains >20%. Current $428 = above $415 initial trigger but not at premium.",
-      "entry_day": "Conditional Jun 10+ post-CPI benign."
+      "signal": "Tepper 7.56% + Druckenmiller 5.0% + Coatue 6.56% Q1 2026 CURRENT. TRIPLE institutional conviction. Iran deal = tech risk-on = TSMC demand for AI chips structurally intact. Nasdaq +3.5% Jun 15 pushed TSM to ~$440.",
+      "trigger": "FOMC neutral Jun 17 → Add £150 CORE at market price. Target $430-450 zone. Entry $440 = +6.5% from initial £200 entry at $413. Still well below CORE max (£350/£750 after add, room for £400 more). No stop per CORE rule — 90-day hold.",
+      "entry_day": "June 17 post-FOMC decision (2PM ET)"
     },
     {
       "ticker": "VST",
-      "priority": "CLOSED — RE-ENTRY WATCHLIST (post-FOMC + ex-div Jun 22)",
+      "priority": "WATCHLIST — RE-ENTRY POST-FOMC + POST-EX-DIV (Jun 22)",
+      "current_price_usd": 148.02,
       "current_gbp": 0,
-      "max_gbp": 300,
-      "trigger": "VST STOPPED Jun 10 at $143.03 (-£6.76). Stock recovered $148.71 by Jun 13. RE-ENTRY CONDITIONS: (1) FOMC Jun 17 neutral/dovish, (2) VST >$155 (recovery above pre-stop level), (3) ex-div Jun 22 ($0.75/share) passed, (4) cash >20% post-BE/TSM adds. Tepper still holds VST (+114% in his Q1 2026 13F). Max £200 EXPLORE (not £300 — Tepper accuracy now 87.5%, reduced from 100%).",
-      "entry_day": "Post-FOMC Jun 17 + VST >$155 + ex-div Jun 22 cleared"
+      "max_gbp": 200,
+      "trigger": "VST $148 (Jun 12) → with Iran deal +2.5% market, Jun 15 likely ~$151. STILL BELOW $155 re-entry threshold. Full re-entry conditions: (1) FOMC neutral Jun 17 ✓ (confirmed), (2) VST >$155, (3) ex-div Jun 22 ($0.75/share) cleared, (4) cash >20% post-BE/TSM adds. EX-DIV TIMING: wait until Jun 23+ to avoid ex-div artificial price drop. Max £200 EXPLORE with -7% stop (Tepper accuracy 87.5%).",
+      "entry_day": "Post-Jun 22 ex-div + VST >$155 confirmed"
     },
     {
       "ticker": "GOOGL",
-      "priority": "EXPLORE WATCHLIST — TEPPER SIGNAL ONLY (UPGRADED URGENCY)",
+      "priority": "WATCHLIST — NOT TRIGGERED ($363.82 > $345)",
+      "current_price_usd": 363.82,
       "target_gbp": 150,
       "tier": "EXPLORE",
-      "signal": "Tepper still holds 8.38% Q1 2026 (≥8% AUM threshold). Ackman 95% exit + Druckenmiller full exit = single-investor signal only. AMZN -8% this week on AI capex concerns = GOOGL likely also sold off. Jun 5 exit $361.43. If GOOGL fell similarly (-8%), now ~$332 = below $345 trigger.",
-      "trigger": "Entry if: (a) GOOGL <$345 (confirm price), (b) FOMC neutral Jun 17, (c) No new GOOGL-specific negative catalyst (AI capex overhang OK if Tepper holding). Max £150 EXPLORE with -7% stop. Solo Tepper = reduced conviction but ≥8% threshold met.",
-      "entry_day": "Conditional Jun 17+ post-FOMC neutral + price <$345 confirmed"
-    },
-    {
-      "ticker": "SNDK",
-      "priority": "EXPLORE WATCHLIST — TEPPER NEW Q1 BUY",
-      "target_gbp": 200,
-      "tier": "EXPLORE",
-      "signal": "Tepper new buy ~$179M (3% AUM) Q1 2026. Single investor EXPLORE.",
-      "trigger": "Entry only if: (a) SNDK <$1,591 (>7% below Jun 5 exit $1,711), (b) Tepper signal only = max £200 EXPLORE with 10% stop. High-volatility stock — use wider stop.",
-      "entry_day": "Conditional — pullback required"
+      "signal": "Tepper still holds 8.38% Q1 2026 (≥8% AUM threshold). Ackman 95% exit + Druckenmiller full exit = single-investor signal only. Iran deal pushed GOOGL higher ($363.82 Jun 15 = above $345 EXPLORE trigger). Trigger NOT met.",
+      "trigger": "Entry only if: (a) GOOGL <$345 (pullback from $363.82 = -5.4% needed), (b) FOMC neutral ✓, (c) No GOOGL-specific negative catalyst. Max £150 EXPLORE with -7% stop. Market rallying on Iran deal makes near-term pullback to $345 unlikely unless GOOGL-specific news.",
+      "entry_day": "NOT imminent — requires $345 pullback. Monitor Jun 20+ for rotation."
     },
     {
       "ticker": "MRVL",
-      "priority": "EXPLORE WATCHLIST — POST-INCLUSION PULLBACK ONLY",
+      "priority": "WATCHLIST — DO NOT ENTER PRE-INCLUSION (Jun 22)",
       "target_gbp": 200,
       "tier": "EXPLORE",
-      "signal": "Jensen Huang 'next trillion dollar company' + S&P 500 inclusion Jun 22. No tier-investor 13F.",
-      "trigger": "S&P 500 inclusion Jun 22 → forced index buying until then. Enter only post-Jun 22 on >5% pullback from spike AND no tier-investor = max EXPLORE £200.",
-      "entry_day": "Post-Jun 22 only, on >5% pullback"
+      "signal": "S&P 500 inclusion effective Jun 22 = forced index buying until then creates artificial elevation. No tier-investor 13F. Iran deal + index buying = avoid entry until post-Jun 22.",
+      "trigger": "Enter only post-Jun 22 on >5% pullback from inclusion spike. Max EXPLORE £200. Monitor Jun 23+.",
+      "entry_day": "Post-Jun 22 only, on >5% pullback from spike"
+    },
+    {
+      "ticker": "SNDK",
+      "priority": "WATCHLIST — PULLBACK REQUIRED",
+      "target_gbp": 200,
+      "tier": "EXPLORE",
+      "signal": "Tepper new buy ~$179M (3% AUM) Q1 2026. Single investor, sub-standard threshold (3% < 8%). With market +3.5% Jun 15, SNDK likely above $1,711 (Jun 5 exit). NOT triggered.",
+      "trigger": "Entry only if SNDK <$1,591 (>7% below Jun 5 exit $1,711) AND pullback confirmed. Use 10% stop (high-vol rule). Not triggered in current rally.",
+      "entry_day": "Conditional — pullback required from current elevated levels"
     },
     {
       "ticker": "INSM",
-      "priority": "CLOSED — RE-ENTRY WATCHLIST (90-day rule)",
+      "priority": "WATCHLIST — 90-DAY RULE (earliest Jul 7)",
       "target_gbp": 100,
       "tier": "EXPLORE",
-      "signal": "Druckenmiller 5.6% Q1 2026. Need Q2 2026 13F confirmation post-Aug 14.",
-      "trigger": "Re-entry only after: (a) 90 days post-CEDAR failure = July 7 earliest, (b) Druckenmiller Q2 2026 13F (Aug 14) confirms position maintained or increased above 8% AUM, (c) brensocatib bronchiectasis revenue pace >$250M/quarter confirmed.",
+      "signal": "Druckenmiller 5.6% Q1 2026. CEDAR Phase 2b failure Apr 7. Bronchiectasis revenue ~$207.9M Q1.",
+      "trigger": "Re-entry only after: (a) 90 days post-CEDAR = Jul 7, (b) Druckenmiller Q2 2026 13F (Aug 14) confirms maintained/increased AND above 8% AUM threshold, (c) brensocatib bronchiectasis revenue >$250M/quarter.",
       "entry_day": "Post-Aug 14 (Q2 13F filing) earliest"
     }
   ],
@@ -630,14 +635,14 @@
     "stop_avg_loss_pct": -5.22,
     "realized_gains_count": 4,
     "realized_gain_avg_pct": 4.52,
-    "total_unrealized_gbp": 114.44,
-    "grand_total_pnl_gbp": -35.85
+    "total_unrealized_gbp": 195.93,
+    "grand_total_pnl_gbp": 45.64
   },
-  "stop_exposure_jun13": [
-    {"ticker":"BN","current":"$44.61","stop":"$42.78","buffer_pct":4.1,"max_loss_from_current_gbp":-12.05,"note":"AGM Jul 16 simplification catalyst. Ex-div Jun 15 ($0.07 = £0.46). FOMC Jun 17 = next binary risk. CPI inline = BN survived this week. 4.1% buffer adequate but monitor FOMC."},
-    {"ticker":"NTRA","current":"$217.75","stop":"$188.89","buffer_pct":13.2,"max_loss_from_current_gbp":-47.20,"note":"Safe. Druckenmiller #1 conviction NTRA. +7.31% from avg cost. Healthcare defensive hold."}
+  "stop_exposure_jun15": [
+    {"ticker":"BN","current":"$45.62","stop":"$42.78","buffer_pct":6.2,"max_loss_from_current_gbp":-18.62,"note":"EX-DIV Jun 15 ($0.07, dividend receivable Jun 30). Iran deal risk-on pushed BN to $45.62 despite ex-div adj. AGM Jul 16 simplification = re-rating catalyst. FOMC Jun 17 = next binary event. 6.2% buffer improved vs last week. Stop $42.78 safe."},
+    {"ticker":"NTRA","current":"$218.98","stop":"$188.89","buffer_pct":13.8,"max_loss_from_current_gbp":-44.28,"note":"Safe. Druckenmiller #1 conviction NTRA (18.1%, $612.7M Q1 2026). +7.43% from avg cost. Healthcare defensive. 13.8% buffer — no immediate risk."}
   ],
-  "total_stop_exposure_from_current_gbp": -59.25,
+  "total_stop_exposure_from_current_gbp": -62.90,
   "forecast_log": [
     {
       "session": "2026-06-09 (Tuesday — actuals)",
@@ -729,24 +734,36 @@
       }
     },
     {
-      "week": "2026-06-16/2026-06-20",
+      "session": "2026-06-15 (Monday — ACTUALS)",
+      "actuals": {
+        "portfolio_value_gbp": 5045.63,
+        "daily_return_pct": 1.64,
+        "trades": "NONE — pre-FOMC binary event rule",
+        "key_events": ["US-Iran peace deal: Strait of Hormuz reopened", "S&P +2.5%, Nasdaq +3.5%", "Oil Brent -4.7% to $83.25", "BN ex-div $0.07", "MU near ATH $1,063.02", "Portfolio crosses +1% cumulative first time"],
+        "forecast_vs_actual": "Week 6 base case was +1.75% for the week. Day 1 alone = +1.64% — Iran deal outperformed."
+      }
+    },
+    {
+      "week": "2026-06-15/2026-06-20",
       "week_label": "Week 6",
-      "forecast_date": "2026-06-13",
+      "forecast_date": "2026-06-15",
       "predictions": {
-        "portfolio_return_pct": {"low": -3.0, "mid": 1.75, "high": 4.0},
-        "spx_return_pct": {"low": -2.0, "mid": 0.75, "high": 3.0},
-        "key_events": ["FOMC June 17 rate decision","BN ex-div June 15 ($0.07)","Juneteenth June 19 closed","MU June 24 earnings approaching","MRVL inclusion effective June 22"],
+        "portfolio_return_pct": {"low": -2.0, "mid": 2.5, "high": 5.0},
+        "spx_return_pct": {"low": -1.5, "mid": 1.0, "high": 3.0},
+        "note": "Day 1 (Jun 15) already +1.64% from Iran deal. Starting from £5,045.63.",
+        "key_events": ["Jun 15 ✓: Iran peace deal +1.64% (done)", "Jun 16: FOMC Day 1 (no decision — muted session)", "Jun 17: FOMC HOLD 3.5-3.75% → BE add £100 + TSM add £150", "Jun 19: JUNETEENTH CLOSED", "Jun 20: Post-FOMC reposition. MRVL pre-inclusion watch."],
         "planned_trades": [
-          "BE ADD £100 CORE: Post-FOMC neutral (Jun 17) OR dip <$255",
-          "TSM ADD £150-200 CORE: Post-FOMC + stabilizes $415-435",
-          "GOOGL EXPLORE £150: If FOMC neutral AND GOOGL <$345",
-          "MU HOLD: Three-condition rule post Jun 24 earnings",
-          "AMZN MONITOR: No add, FTC overhang"
+          "BE ADD £100 CORE Jun 17: Post-FOMC neutral at market price ($255-270 zone). Total £550/£750.",
+          "TSM ADD £150 CORE Jun 17: Post-FOMC neutral at market price (~$430-450). Total £350/£750.",
+          "GOOGL EXPLORE £150: BLOCKED — $363.82 > $345 trigger. Defer.",
+          "MU HOLD ★: DO NOT ADD — at CORE max £750. Jun 24 earnings = next catalyst.",
+          "AMZN MONITOR: No add. FTC + AI capex overhang. CORE hold — no stop.",
+          "VST WATCHLIST: Re-entry requires >$155 AND post-Jun 22 ex-div. Not imminent."
         ],
         "scenarios": {
-          "base_case": {"return_pct": "+1.0% to +2.5%", "assumption": "FOMC hold neutral. MU pre-earnings momentum. BE/TSM adds executed. AMZN stabilizes."},
-          "bull_case": {"return_pct": "+3.0% to +5.0%", "catalyst": "FOMC neutral-to-dovish. MU pre-earnings surge. BE data center demand catalysts."},
-          "bear_case": {"return_pct": "-2.0% to -4.0%", "risk": "FOMC hawkish. AMZN breaks $225 thesis review. BN stop $42.78 triggered.", "stop_drag": "BN stop: -£18 (-0.36%) additional drag"}
+          "base_case": {"return_pct": "+1.5% to +3.0% for week", "assumption": "FOMC hold neutral Jun 17 → adds executed. MU holds near ATH pre-earnings. No new shocks."},
+          "bull_case": {"return_pct": "+3.5% to +5.5% for week", "catalyst": "FOMC neutral + dovish language. MU pre-earnings run to $1,100+. BE breaks $270 on AI data center contract news."},
+          "bear_case": {"return_pct": "-1.0% to -3.0% for week", "risk": "FOMC hawkish surprise OR MU pre-earnings profit-taking OR AMZN FTC ruling. BN approaches stop $42.78.", "stop_drag": "BN (-£18.62) + NTRA (-£44.28) if both hit = -£62.90 additional drag (-1.25%)"}
         }
       }
     }
@@ -785,7 +802,7 @@
     "mean_absolute_error_pct": 1.08,
     "mae_note": "1.08 pct pts (3 data points: 0.91, 1.07, 1.25). Pattern: IC base cases underestimate MU momentum early-week but get crushed by single-event shocks (AVGO Jun 5, ORCL Jun 11). SPX forecasting is more accurate than IC portfolio forecasting due to single-name concentration risk. Rule: for bear case, double the stop drag if any position has <5% stop buffer at forecast time.",
     "investor_signal_accuracy": {
-      "tepper": {"correct":7,"total":8,"accuracy_pct":87.5,"notes":"VST CONFIRMED MISS Jun 10 (stop $143.03 triggered, -6.76%). First Tepper miss in 8 signals. MU +27.84% CORE ★. AMZN -8.09% (CORE hold, no exit). UBER -3.19% (CORE, thesis intact). TSM +2.22% (building CORE). GOOGL still held by Tepper = watchlist re-entry. SNDK potential re-entry. Accuracy 87.5% (down from 100%). VST power/energy thesis not invalidated but stop correctly triggered on CPI energy shock."},
+      "tepper": {"correct":7,"total":8,"accuracy_pct":87.5,"notes":"VST CONFIRMED MISS Jun 10 (stop $143.03 triggered, -6.76%). First Tepper miss in 8 signals. MU +36.24% CORE ★ (near ATH, earnings Jun 24). AMZN -8.49% (CORE hold, no stop, Iran deal not helping AMZN specifically). UBER -2.0% (IRAN DEAL DIRECT WIN: oil -5% = margin expansion, Tepper +242% Q1). TSM +6.34% (Iran deal + Nasdaq rally). GOOGL still held 8.38% = watchlist re-entry if <$345. Accuracy 87.5% maintained."},
       "druckenmiller": {"correct":5,"total":9,"accuracy_pct":55.6,"notes":"Unchanged from Jun 9. NTRA +7.31% working. TSM +2.22% new CORE (positive open). AVGO = IC rule violation. INSM stopped Jun 9 (-6.62%) = 4th miss. 13F conflict: search suggests Aschenbrenner INTC calls 46% — conflicts with portfolio.json Q1 2026 (EXITED INTC, BE #1). Await Q2 2026 13F Aug 14 for clarification. Accuracy 55.6%."},
       "ackman": {"correct":3,"total":4,"accuracy_pct":75,"notes":"MSFT stop $399.65 triggered Jun 11 (-5.78%) = confirmed miss (was already counted as miss in 3/4). Accuracy unchanged 75%. AMZN -8.09% CORE concern (FTC + AI capex). BN -2.10% (holding, stop $42.78 intact). UBER -3.19% (CORE, thesis intact). MSFT: Tepper's 82% exit was the warning — Ackman alone was insufficient."},
       "aschenbrenner": {"correct":5,"total":5,"accuracy_pct":100,"notes":"ORCL PUTS MASSIVE WIN: ORCL -12% Jun 11 on capex/FCF. Aschenbrenner had ORCL puts in broader AI put basket. BE +1.9% vs broader tech -8% = BE thesis intact and outperforming. Chip put basket (AVGO Jun 5, now ORCL Jun 11) = Aschenbrenner's AI capex skepticism is VALIDATED. BE longs UNCHANGED at 6.5M shares. Counting ORCL puts as 5th verified signal = 5/5 = 100% accuracy. Most reliable investor in IC universe currently."},
@@ -832,7 +849,10 @@
       "2026-06-13: MEGA-INVESTOR EXIT TIGHTER STOP RULE — When a Tier-1 investor exits >75% of a position and IC downgrades to EXPLORE, set stop at -3% (not -7%). Tepper sold 82% MSFT → EXPLORE downgrade was correct but -7% stop too wide. MSFT ended the week -8.6%; tighter -3% stop would have limited loss to ~-1.4% and exited before ORCL contagion amplified the move.",
       "2026-06-13: AMZN FTC MONITORING RULE — If FTC antitrust trial commences AND judge signals structural remedy (AWS separation or equivalent), treat as THESIS CHANGE for AMZN: escalate to BLOCKED and exit all AMZN positions regardless of CORE status. Monitor FTC proceedings weekly.",
       "2026-06-13: ENERGY CPI STOP WATCH — During periods when energy CPI is >20% YoY, energy/utility stocks (VST type) within 5% of stop loss are at EXTREME RISK on CPI release days. Exit or temporarily raise stop 2% buffer before CPI day. VST lesson: $146.90 with $143.03 stop = 2.6% buffer, CPI energy +23.5% = VST intraday -5.8% below stop.",
-      "2026-06-13: ASCHENBRENNER ORCL PUT VALIDATION — Aschenbrenner's AI capex skepticism (ORCL puts, semiconductor puts, AVGO puts) is now 5/5 correct. When Aschenbrenner's put basket aligns with IC's tech positions, take it as a serious warning signal. Consider lighter sizing in any large-cap tech (AMZN, MSFT, GOOGL) until Aschenbrenner signals put basket unwinding."
+      "2026-06-13: ASCHENBRENNER ORCL PUT VALIDATION — Aschenbrenner's AI capex skepticism (ORCL puts, semiconductor puts, AVGO puts) is now 5/5 correct. When Aschenbrenner's put basket aligns with IC's tech positions, take it as a serious warning signal. Consider lighter sizing in any large-cap tech (AMZN, MSFT, GOOGL) until Aschenbrenner signals put basket unwinding.",
+      "2026-06-15: IRAN GEOPOLITICAL RESOLUTION RULE — When US-Iran peace deal causes oil to fall >4%: (1) UBER and platform/transport stocks are direct winners (margin expansion); (2) AI hardware/semiconductor stocks benefit from reduced geopolitical risk premium (TSM Taiwan risk discount partially reduced); (3) Energy stocks (VST) may paradoxically struggle short-term (oil/energy = lower power demand narrative). Classify oil -4%+ on peace deal as BULLISH signal for IC core portfolio.",
+      "2026-06-15: AMZN IRAN UNDERPERFORMANCE NOTE — AMZN -1.23% on Jun 15 despite Nasdaq +3.5%. AI capex overhang (FTC antitrust + $200B capex concern) creates specific headwind for AMZN independent of macro. Monitor: if AMZN consistently underperforms Nasdaq by >3% on risk-on days for 3+ sessions, this signals institutional rotation OUT of AMZN even amid strong market — potential CORE thesis review trigger.",
+      "2026-06-15: PRE-FOMC BINARY EVENT CLARIFICATION — FOMC binary event window = 24h before FOMC Day 1 (first day of 2-day meeting). Since FOMC Day 1 = Jun 16 and decision = Jun 17, NO CORE adds on Jun 15 or Jun 16. Execute BE+TSM adds ONLY Jun 17 after 2PM ET FOMC announcement. Do not front-run the decision even if outcome seems obvious."
     ],
     "investor_signal_ranking": {
       "tier_1": {
