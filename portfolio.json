@@ -1,39 +1,39 @@
 {
   "inception_date": "2026-05-11",
-  "last_updated": "2026-06-16",
+  "last_updated": "2026-06-17",
   "currency": "GBP",
   "initial_capital_gbp": 5000,
-  "cash_gbp": 1801.32,
-  "fx_rate_gbpusd": 1.34,
-  "total_value_gbp": 5092.70,
-  "cumulative_return_pct": 1.85,
+  "cash_gbp": 1551.32,
+  "fx_rate_gbpusd": 1.3426,
+  "total_value_gbp": 5059.77,
+  "cumulative_return_pct": 1.20,
   "positions": {
     "MU": {
       "shares": 1.2939,
       "avg_cost_gbp": 750.0,
       "avg_cost_usd": 790.0,
-      "current_price_usd": 1063.02,
-      "current_value_gbp": 1026.45,
-      "unrealized_pnl_gbp": 276.45,
-      "unrealized_pnl_pct": 36.86,
+      "current_price_usd": 1020.76,
+      "current_value_gbp": 984.02,
+      "unrealized_pnl_gbp": 234.02,
+      "unrealized_pnl_pct": 31.20,
       "entry_date": "2026-05-11",
       "strategy": "value_investor_follow+momentum",
       "confidence": 5,
       "tier": "CORE",
-      "thesis": "DUAL INVESTOR CORE ★: Tepper #2 position (9.48%, ~$562M Q1 2026 13F) + Druckenmiller Q1 2026 buy. ATH CLOSING PRICE $1,064.10 on Jun 2, 2026. Fell to $882.85 Jun 5 close on semiconductor contagion (AVGO -12% guide miss + NFP 172K vs 85K → yield surge 4.534% → AI multiple compression). Recovered to $940 Jun 8 open (+6.5% rebound). Jun 9 premarket +5% to ~$987. Analyst target raised to $1,750 by global bank citing 2-3 year memory shortage. HBM4 sold out through year-end. NOTE: Aschenbrenner added MU to his put hedge basket (Q1 2026 13F) — this is a portfolio hedge, NOT a thesis exit. CORE MAX £750 — DO NOT ADD. Hold min 2026-08-11.",
+      "thesis": "DUAL INVESTOR CORE ★: Tepper #2 position (9.48%, ~$562M Q1 2026 13F) + Druckenmiller Q1 2026 buy. NEW INTRADAY ATH $1,110.40 set Jun 17 (pre-FOMC, 7 days before earnings Jun 24). Pulled back to $1,020.76 on semiconductor profit-taking + Warsh hawkish FOMC caution. Previous ATH close $1,064.10 Jun 2 superseded. Stock up ~244% in 2026, crossed $1T mkt cap May 26. Street consensus: Rev $34.8B (+263% YoY), EPS $19.82; wide analyst range $33.7B-$40.9B. HBM4 sold out 2026. 81% gross margin = HBM pricing power signal. Goldman internal upside: $37.6B, EPS $22.07. CORE MAX £750 — DO NOT ADD. Hold min 2026-08-11. THREE-CONDITION RULE applies for post-earnings positioning decision. Aschenbrenner MU puts = portfolio hedge, NOT thesis exit.",
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-08-11",
-      "milestone": "ATH CLOSE $1,064.10 on June 2, 2026. MU crossed $1T market cap May 26. Fell to $882.85 Jun 5 on AVBO contagion + hot jobs. Recovered $940 Jun 8 open, $987 Jun 9 premarket (+5%). Memory thesis intact. Jun 24 earnings = next catalyst. Global bank target $1,750."
+      "milestone": "NEW ATH $1,110.40 INTRADAY Jun 17 (pre-FOMC, 7 days pre-earnings). Previous ATH close $1,064.10 Jun 2. MU crossed $1T market cap May 26. Stock up ~244% in 2026. Pulled back to $1,020.76 on profit-taking + Warsh hawkish caution. Jun 24 earnings = massive binary event (Rev $33.7B-$40.9B wide range). HBM sold out 2026. 81% GM. Global bank target $1,750."
     },
     "AMZN": {
       "shares": 3.8645,
       "avg_cost_gbp": 748.37,
       "avg_cost_usd": 262.64,
-      "current_price_usd": 246.15,
-      "current_value_gbp": 709.95,
-      "unrealized_pnl_gbp": -38.42,
-      "unrealized_pnl_pct": -5.13,
+      "current_price_usd": 246.00,
+      "current_value_gbp": 708.43,
+      "unrealized_pnl_gbp": -39.94,
+      "unrealized_pnl_pct": -5.34,
       "entry_date": "2026-05-11",
       "last_add_date": "2026-06-05",
       "strategy": "value_investor_follow",
@@ -52,15 +52,15 @@
       ]
     },
     "BE": {
-      "shares": 2.101,
-      "avg_cost_gbp": 450.0,
-      "avg_cost_usd": 288.57,
-      "current_price_usd": 262.30,
-      "current_value_gbp": 411.26,
-      "unrealized_pnl_gbp": -38.74,
-      "unrealized_pnl_pct": -8.61,
+      "shares": 2.5983,
+      "avg_cost_gbp": 550.0,
+      "avg_cost_usd": 285.09,
+      "current_price_usd": 270.00,
+      "current_value_gbp": 522.59,
+      "unrealized_pnl_gbp": -27.41,
+      "unrealized_pnl_pct": -4.98,
       "entry_date": "2026-05-13",
-      "last_add_date": "2026-06-02",
+      "last_add_date": "2026-06-17",
       "strategy": "value_investor_follow+sector_rotation",
       "confidence": 4,
       "tier": "CORE",
@@ -72,7 +72,8 @@
       "add_history": [
         {"date":"2026-05-13","action":"initial_buy","shares":0.96,"price_usd":281.45,"amount_gbp":200.0,"fx_rate":1.3507},
         {"date":"2026-05-27","action":"add","shares":0.661,"price_usd":305.0,"amount_gbp":150.0,"fx_rate":1.344},
-        {"date":"2026-06-02","action":"add","shares":0.48,"price_usd":280.0,"amount_gbp":100.0,"fx_rate":1.345,"trigger":"DIP_TRIGGER: $278.89 close Jun 1 < $285 threshold."}
+        {"date":"2026-06-02","action":"add","shares":0.48,"price_usd":280.0,"amount_gbp":100.0,"fx_rate":1.345,"trigger":"DIP_TRIGGER: $278.89 close Jun 1 < $285 threshold."},
+        {"date":"2026-06-17","action":"add","shares":0.4973,"price_usd":270.0,"amount_gbp":100.0,"fx_rate":1.3426,"trigger":"FOMC_HOLD_NEUTRAL Jun 17 — CORE add trigger met. Warsh holds 3.5-3.75%, hawkish press conference (neutral language, QT emphasis). Post-FOMC dip from $273 open to $270 = better fill. Total BE £550/£750 CORE."}
       ]
     },
     "MSFT": {
@@ -117,11 +118,11 @@
       "shares": 1.981,
       "avg_cost_gbp": 300.0,
       "avg_cost_usd": 203.41,
-      "current_price_usd": 218.98,
-      "current_value_gbp": 323.73,
-      "unrealized_pnl_gbp": 23.73,
-      "unrealized_pnl_pct": 7.91,
-      "price_data_quality_flag": "2026-06-16: Web search returned conflicting NTRA quotes ($191.96-$218.98 range) — held last-confirmed price ($218.98, Jun 15) rather than act on unverified data. Re-verify next session.",
+      "current_price_usd": 219.60,
+      "current_value_gbp": 323.97,
+      "unrealized_pnl_gbp": 23.97,
+      "unrealized_pnl_pct": 7.99,
+      "price_data_quality_flag": "2026-06-17 RESOLVED: $219.60 confirmed (Jun 15 $216.97 → Jun 16 close $220.11 → Jun 17 open $219.60). Price data quality FLAG CLEARED. Jun 16 conflicting quotes were short-term intraday noise. Confirmed safely above $188.89 stop (14.0% buffer).",
       "entry_date": "2026-05-28",
       "last_add_date": "2026-06-02",
       "strategy": "value_investor_follow",
@@ -174,13 +175,14 @@
       "closed": true
     },
     "TSM": {
-      "shares": 0.6506,
-      "avg_cost_gbp": 200.0,
-      "avg_cost_usd": 413.0,
-      "current_price_usd": 438.13,
-      "current_value_gbp": 212.72,
-      "unrealized_pnl_gbp": 12.72,
-      "unrealized_pnl_pct": 6.36,
+      "shares": 1.1083,
+      "avg_cost_gbp": 350.0,
+      "avg_cost_usd": 424.17,
+      "current_price_usd": 440.00,
+      "current_value_gbp": 363.19,
+      "unrealized_pnl_gbp": 13.19,
+      "unrealized_pnl_pct": 3.77,
+      "last_add_date": "2026-06-17",
       "entry_date": "2026-06-08",
       "strategy": "value_investor_follow",
       "confidence": 4,
@@ -190,7 +192,8 @@
       "hold_type": "investor_follow",
       "hold_min_date": "2026-09-08",
       "add_history": [
-        {"date":"2026-06-08","action":"initial_buy","shares":0.6506,"price_usd":413.0,"amount_gbp":200.0,"fx_rate":1.3436,"trigger":"Entry trigger <$415 met. Semiconductor selloff continuation from AVGO/NFP Jun 5. Dual CORE signal Tepper+Druckenmiller Q1 2026."}
+        {"date":"2026-06-08","action":"initial_buy","shares":0.6506,"price_usd":413.0,"amount_gbp":200.0,"fx_rate":1.3436,"trigger":"Entry trigger <$415 met. Semiconductor selloff continuation from AVGO/NFP Jun 5. Dual CORE signal Tepper+Druckenmiller Q1 2026."},
+        {"date":"2026-06-17","action":"add","shares":0.4577,"price_usd":440.0,"amount_gbp":150.0,"fx_rate":1.3426,"trigger":"FOMC_HOLD_NEUTRAL Jun 17 — CORE add trigger met. Warsh holds 3.5-3.75%, hawkish press conference (neutral language, QT). TSM at $440 in $430-450 target zone. Triple institutional: Tepper 7.56% + Druckenmiller 5.0% + Coatue 6.56% Q1 2026 CURRENT. Total TSM £350/£750. Room £400 more."}
       ]
     }
   },
@@ -407,7 +410,9 @@
     {"date":"2026-06-08","time":"09:31","ticker":"TSM","action":"BUY","tier":"CORE","shares":0.6506,"price_usd":413.0,"amount_gbp":200.0,"fx_rate":1.3436,"confidence":4,"strategy":"value_investor_follow","signal":"Tepper_7.56%_Druckenmiller_5.0%_Q1_2026_CURRENT","note":"DUAL INVESTOR CORE entry. Trigger <$415 met at $413 (-8.5% from 52w high $450.16). Semiconductor selloff continuation Jun 5 AVGO/NFP. Initial £200 of £750 CORE max. No stop — 90-day hold min 2026-09-08. Room to add £550 more."},
     {"date":"2026-06-09","time":"09:31","ticker":"INSM","action":"SELL","tier":"EXPLORE","shares":1.2783,"price_usd":97.74,"amount_gbp":93.38,"fx_rate":1.338,"realized_pnl_gbp":-6.62,"realized_pnl_pct":-6.62,"exit_reason":"stop_loss_triggered","stop_usd":97.74,"entry_price_usd":105.10,"entry_date":"2026-06-05","note":"Stop $97.74 triggered. 'Investors continue to digest failed HS Phase 2b CEDAR trial' = ongoing selling pressure post-Apr 7 failure. Loss contained -£6.62 (-6.62%)."},
     {"date":"2026-06-10","time":"~10:30","ticker":"VST","action":"SELL","tier":"EXPLORE","shares":0.8735,"price_usd":143.03,"amount_gbp":93.24,"fx_rate":1.340,"realized_pnl_gbp":-6.76,"realized_pnl_pct":-6.76,"exit_reason":"stop_loss_triggered","stop_usd":143.03,"entry_price_usd":153.80,"entry_date":"2026-06-05","note":"Stop $143.03 triggered intraday Jun 10. CPI May 2026 energy +23.5% YoY caused energy sector selloff. VST fell to $137.91 intraday. Stock recovered $148.71 by Jun 13. Stop-hunt but rules correct. Tepper accuracy: 7/8 = 87.5%."},
-    {"date":"2026-06-11","time":"~11:00","ticker":"MSFT","action":"SELL","tier":"EXPLORE","shares":0.9473,"price_usd":399.65,"amount_gbp":282.67,"fx_rate":1.339,"realized_pnl_gbp":-17.33,"realized_pnl_pct":-5.78,"exit_reason":"stop_loss_triggered","stop_usd":399.65,"entry_price_usd":421.92,"entry_date":"2026-05-18","note":"Stop $399.65 triggered Jun 11. ORCL -12% capex/FCF contagion spread to MSFT. MSFT -8.6% week. Tepper's 82% MSFT exit (Q4 2025) foreshadowed this. New rule: Tier-1 investor 75%+ exit → use -3% EXPLORE stop (not -7%)."}
+    {"date":"2026-06-11","time":"~11:00","ticker":"MSFT","action":"SELL","tier":"EXPLORE","shares":0.9473,"price_usd":399.65,"amount_gbp":282.67,"fx_rate":1.339,"realized_pnl_gbp":-17.33,"realized_pnl_pct":-5.78,"exit_reason":"stop_loss_triggered","stop_usd":399.65,"entry_price_usd":421.92,"entry_date":"2026-05-18","note":"Stop $399.65 triggered Jun 11. ORCL -12% capex/FCF contagion spread to MSFT. MSFT -8.6% week. Tepper's 82% MSFT exit (Q4 2025) foreshadowed this. New rule: Tier-1 investor 75%+ exit → use -3% EXPLORE stop (not -7%)."},
+    {"date":"2026-06-17","time":"14:15","ticker":"TSM","action":"ADD","tier":"CORE","shares":0.4577,"price_usd":440.0,"amount_gbp":150.0,"fx_rate":1.3426,"confidence":4,"strategy":"value_investor_follow","signal":"FOMC_HOLD_3.5-3.75%_Warsh_neutral_language_Jun17. Triple_CORE: Tepper_7.56%+Druckenmiller_5.0%+Coatue_6.56%_Q1_2026_CURRENT.","note":"CORE add trigger met post-FOMC. TSM $440 in $430-450 target zone. No stop — 90-day hold min 2026-09-08. Total TSM £350/£750, room for £400 more CORE. Warsh hawkish on balance sheet QT but AI foundry monopoly structural (NVDA Blackwell/AMD MI300/AVGO all manufactured at TSMC). Taiwan geopolitical risk discount partially reduced by Iran peace deal sentiment."},
+    {"date":"2026-06-17","time":"14:20","ticker":"BE","action":"ADD","tier":"CORE","shares":0.4973,"price_usd":270.0,"amount_gbp":100.0,"fx_rate":1.3426,"confidence":4,"strategy":"value_investor_follow","signal":"FOMC_HOLD_3.5-3.75%_Warsh_neutral_language_Jun17. Aschenbrunner_#1_6.5M_shares_$879M_Q1_2026_CURRENT.","note":"CORE add trigger met post-FOMC. Post-FOMC hawkish dip from $273 opening to $270 = better fill. Total BE £550/£750 — £200 remaining CORE room. AI data center fuel cell demand structural despite Warsh balance sheet QT. Oracle $40B capex plan = continued BE demand. Aschenbrenner chip put basket = macro hedge, NOT BE exit."}
   ],
   "weekly_returns": [
     {
@@ -482,6 +487,10 @@
       "day2_value_gbp": 5092.70,
       "day2_return_pct": 0.93,
       "day2_note": "FOMC Day 1 (no decision, muted/quiet session). Broad rally continuation: UBER +5.81% to $72.85 (oil-down tailwind), BE +5.45% to $262.30, AMZN +3.2% to $246.15, TSM +3.2% to $438.13. MU flat near ATH $1,063. NTRA price unverifiable (conflicting search data $191.96-$218.98) — held last-confirmed price, no action taken. No trades — pre-FOMC binary event rule holds (decision + BE/TSM adds scheduled Jun 17 2PM ET).",
+      "day3_date": "2026-06-17",
+      "day3_value_gbp": 5059.77,
+      "day3_return_pct": -0.65,
+      "day3_note": "FOMC DECISION — Kevin Warsh first press conference. Rate HOLD 3.5-3.75% confirmed (97.4% priced). Warsh hawkish: removed easing bias, neutral language, balance sheet QT emphasis = 'resets rate-cut bets.' MU hit NEW INTRADAY ATH $1,110.40 pre-FOMC then pulled back to $1,020.76 (-3.97%) = semiconductor profit-taking + FOMC caution. BE $272.99 open, post-FOMC slight dip. NTRA $219.60 CONFIRMED (price quality flag resolved). GOOGL $373.25 — above $345 trigger, no entry. Executed post-2PM: TSM +£150 CORE at $440 (total £350/£750), BE +£100 CORE at $270 (total £550/£750). Cash: £1,551.32 (30.7% ELEVATED). BN stop $42.78 intact (5.6% buffer — elevated Warsh risk). Jun 19 Juneteenth = MARKET CLOSED. Next session Jun 20.",
       "end_value_gbp": null,
       "return_pct": null,
       "forecast_return_pct": {"base": 2.5, "bull": 5.0, "bear": -2.0},
@@ -511,12 +520,13 @@
     {"date":"2026-06-08","pnl_gbp":44.96,"pnl_pct":0.91,"note":"Week 5 Day 1: TSM CORE entered £200 at $413 (trigger met). MU +6.5% recovery ($882→$940) = biggest single contributor +£52. MSFT headwind -£11 ($430→$415). UBER -£1 ($72→$70.71). S&P futures +0.6%. MRVL +7% on S&P500 inclusion — no entry (above $276 pullback trigger). Portfolio back near breakeven -0.06%. CPI June 10 (nowcast 4.18%) + ORCL earnings June 10 = week's binary events."},
     {"date":"2026-06-09","pnl_gbp":68.65,"pnl_pct":1.37,"note":"Week 5 Day 2: INSM stop executed -£6.62 (stop $97.74 triggered, ongoing HS trial digest selling). MU +5% premarket ($940→$987) = +£49 unrealized gain. TSM recovering $413→$428 = +£8. BN +2.3% relief ($44.55→$45.59). UBER +2.5% (Wayve robotaxi + AI productivity + Capital International raise). BE dip trigger hit ($254 < $255) — DEFERRED post-CPI. Chip rebound continues (SOXX recovering). Pre-CPI caution ELEVATED mode maintained. Portfolio £5,065 (+1.31% cumulative)."},
     {"date":"2026-06-15","pnl_gbp":81.60,"pnl_pct":1.64,"note":"IRAN PEACE DEAL: US-Iran interim MOU to reopen Strait of Hormuz. S&P +2.5%, Nasdaq +3.5%. Oil Brent -4.7% to $83.25. MU near ATH ($1,063, prev ATH $1,064.10 Jun 2). TSM +3.5% with chip sector rally (~$440 est). BN ex-div Jun 15 ($0.07), closed $45.62. UBER $69.64 (low oil = margin tailwind). NTRA $218.98 defensive healthcare holds. BE $262.50 (not at dip trigger $255). AMZN $238.55 (-1.23% on day despite market rally — FTC/capex overhang). NO TRADES — pre-FOMC binary event rule (FOMC Jun 16-17). Portfolio crosses +1% cumulative for first time. Cash 35.7% ELEVATED."},
-    {"date":"2026-06-16","pnl_gbp":47.07,"pnl_pct":0.93,"note":"FOMC DAY 1 (no decision — statement due Jun 17 2PM ET, market 99.6% priced for HOLD at 3.5-3.75%). Continued risk-on drift from Iran deal: UBER +5.81% to $72.85, BE +5.45% to $262.30, AMZN +3.2% to $246.15, TSM +3.2% to $438.13. MU flat near ATH $1,063.02. BN ~flat $45.30. NTRA price could not be reliably verified (conflicting sources $191.96 vs $218.98) — held last-confirmed price, flagged for next-session re-check; both readings remain above the $188.89 stop. No earnings today for any held tickers (MU reports Jun 24). SpaceX IPO continues to dominate market headlines/movers. NO TRADES — pre-FOMC binary event rule holds; BE £100 CORE add + TSM £150 CORE add scheduled for Jun 17 post-decision. Cash 35.4% ELEVATED."}
+    {"date":"2026-06-16","pnl_gbp":47.07,"pnl_pct":0.93,"note":"FOMC DAY 1 (no decision — statement due Jun 17 2PM ET, market 99.6% priced for HOLD at 3.5-3.75%). Continued risk-on drift from Iran deal: UBER +5.81% to $72.85, BE +5.45% to $262.30, AMZN +3.2% to $246.15, TSM +3.2% to $438.13. MU flat near ATH $1,063.02. BN ~flat $45.30. NTRA price could not be reliably verified (conflicting sources $191.96 vs $218.98) — held last-confirmed price, flagged for next-session re-check; both readings remain above the $188.89 stop. No earnings today for any held tickers (MU reports Jun 24). SpaceX IPO continues to dominate market headlines/movers. NO TRADES — pre-FOMC binary event rule holds; BE £100 CORE add + TSM £150 CORE add scheduled for Jun 17 post-decision. Cash 35.4% ELEVATED."},
+    {"date":"2026-06-17","pnl_gbp":-32.93,"pnl_pct":-0.65,"note":"FOMC DECISION — Kevin Warsh first press conference (hawkish: neutral language, removed easing bias, QT emphasis). MU set NEW INTRADAY ATH $1,110.40 pre-FOMC then sold off to $1,020.76 (-3.97%) = semiconductor profit-taking + Warsh caution. MU +29.2% from $790 entry. BE $273 open then post-FOMC dip to $270. NTRA $219.60 CONFIRMED (price quality flag resolved). BN ~$45.30 flat, stop $42.78 intact. AMZN $246 flat. UBER $72.85 flat. GOOGL $373.25 above $345 trigger. EXECUTED post-2PM: TSM +£150 CORE at $440 (total £350/£750 — Tepper+Druck+Coatue triple signal), BE +£100 CORE at $270 (total £550/£750 — Aschenbrenner #1 $879M). Cash: £1,551.32 (30.7% ELEVATED). MU Jun 24 earnings = 7 days. Jun 19 Juneteenth CLOSED. Next session Jun 20."}
   ],
   "strategy_stats": {
     "value_investor_follow": {
       "trades": 39,
-      "open_status": "MU +36.2% CORE ★ (near ATH $1,063, earnings Jun 24) | AMZN -8.5% CORE (FTC/capex drag, no stop) | BE -9.0% CORE (£450/£750, add post-FOMC Jun 17) | UBER -2.0% CORE (Iran deal oil-down tailwind) | NTRA +7.4% EXPLORE | BN -0.3% EXPLORE (ex-div Jun 15, AGM Jul 16) | TSM +6.3% CORE (£200/£750, add post-FOMC Jun 17)"
+      "open_status": "MU +31.2% CORE ★ (NEW ATH $1,110.40 intraday Jun 17, pullback to $1,020, earnings Jun 24) | AMZN -5.3% CORE (FTC/capex drag, no stop) | BE -5.0% CORE (£550/£750 after Jun 17 add — £200 remaining) | UBER +2.8% CORE (Iran deal oil-down margin tailwind) | NTRA +8.0% EXPLORE (price confirmed $219.60) | BN -0.7% EXPLORE (AGM Jul 16, stop $42.78 — Warsh risk) | TSM +3.8% CORE (£350/£750 after Jun 17 add — £400 remaining)"
     },
     "momentum": {
       "trades": 3,
@@ -529,12 +539,12 @@
     }
   },
   "risk_mode": "ELEVATED",
-  "risk_mode_cash_pct": 35.39,
-  "risk_mode_cash_guidance": "ELEVATED — 35.39% cash (£1,801.32 / £5,092.70). No cash change Jun 16 (no trades — pre-FOMC binary event rule, decision still pending). Portfolio +0.93% on the day from continued risk-on drift (UBER/BE/AMZN/TSM all up). Portfolio now +1.85% cumulative from inception. DE-ESCALATION IMMINENT: FOMC Jun 17 2PM ET decision — HOLD expected (market 99.6% priced in) → execute BE add £100 CORE + TSM add £150 CORE → cash drops to ~£1,551.32 / ~£5,140 ≈ 30.2% → ELEVATED maintained but building toward NORMAL. Full NORMAL trigger: cash <25% = after FOMC adds + further BE/TSM recovery. Escalation path: FOMC hawkish surprise (~0.4% odds) → hold all adds, maintain DEFENSIVE cash floor.",
+  "risk_mode_cash_pct": 30.65,
+  "risk_mode_cash_guidance": "ELEVATED — 30.65% cash (£1,551.32 / £5,059.77). TSM +£150 + BE +£100 CORE adds executed Jun 17 post-FOMC. Cash dropped from 35.4% to 30.7% — still ELEVATED (above 25% NORMAL threshold). Warsh hawkish FOMC (neutral language, QT emphasis, resets rate-cut bets) = maintain ELEVATED caution. NORMAL trigger: cash <25% = would require further £285 of adds OR portfolio appreciation. Next scheduled add: TSM up to £400 remaining / BE up to £200 remaining when price/catalyst warrants. BN stop risk elevated (Warsh hawkish). MU Jun 24 earnings = binary event in 7 days. Maintain ELEVATED through Jun 24 MU earnings.",
   "macro_context": {
-    "date": "2026-06-16",
-    "gbp_usd": 1.34,
-    "gbp_usd_prev": 1.3461,
+    "date": "2026-06-17",
+    "gbp_usd": 1.3426,
+    "gbp_usd_prev": 1.34,
     "market_sentiment": "IRAN PEACE DEAL — RISK-ON. US-Iran interim deal to reopen Strait of Hormuz. S&P +2.5%, Nasdaq +3.5%. Oil: Brent -4.7% to $83.25, WTI -5.1% to $80.53 (3-month low). Gold +2.81% to $4,357. Wedbush: ceasefire = 'risk-on environment for tech stocks'. MU near ATH $1,063. UBER direct beneficiary (oil costs down → margin expansion). Juneteenth Jun 19 = market closed.",
     "iran_deal_jun15": "US-Iran interim MOU to reopen Strait of Hormuz announced Jun 15. Trump: 'Ships of the World, start your engines.' Brent $83.25 (-4.7%), WTI $80.53 (-5.1%) — 3-month low. S&P +2.5%, Nasdaq +3.5%. Portfolio UBER directly benefits (fuel costs → lower driver costs → margin expansion). AI chip stocks (MU, TSM) surged on risk-on sentiment. MU near ATH $1,063.",
     "fomc_jun17": "FOMC meeting June 16-17. Day 1 (Jun 16) passed with no decision — statement due Wed Jun 17 2PM ET. Target range 3.50%-3.75% (held since March 2026). Market 99.6% priced for no change. Possible bias shift from easing to neutral/tightening language given CPI ~4.2% and resilient labor market. NEUTRAL outcome = best case for IC CORE positions. Post-FOMC trigger: BE add £100 CORE + TSM add £150 CORE on Jun 17 after 2PM ET decision.",
@@ -546,27 +556,27 @@
   "watchlist_next": [
     {
       "ticker": "BE",
-      "priority": "CORE — ADD £100 ON FOMC NEUTRAL (Jun 17)",
-      "current_gbp": 450,
-      "current_price_usd": 262.50,
+      "priority": "CORE — EXECUTED £550/£750 (Jun 17). NEXT ADD: £200 remaining",
+      "current_gbp": 550,
+      "current_price_usd": 270.00,
       "max_gbp": 750,
-      "room_gbp": 300,
+      "room_gbp": 200,
       "tier": "CORE",
-      "signal": "Aschenbrenner #1 $879M (6.5M shares, Q1 2026 CURRENT) + Druckenmiller Q1 2026 CURRENT. Avg cost basis $85.73 = fund up >200% on BE. AI power/data center fuel cell thesis intact. Iran deal = no direct impact. ORCL capex adds to data center buildout = BE demand structural.",
-      "trigger": "FOMC neutral Jun 17 (confirmed from FOMC outcome: HOLD 3.5-3.75%) → Add £100 CORE at market price Jun 17 post-decision (targeting $255-270). No need for dip trigger if FOMC clear. Total will be £550/£750 — still £200 room for further CORE build.",
-      "entry_day": "June 17 post-FOMC decision (2PM ET)"
+      "signal": "Aschenbrenner #1 $879M (6.5M shares, Q1 2026 CURRENT). £550/£750 filled Jun 17. AI power/data center fuel cell demand structural. ORCL $40B capex plan = BE 2.8GW contracted backlog = demand visibility. No stop per CORE rule.",
+      "trigger": "Next BE add: £200 remaining CORE room. Trigger: BE dip to $260-265 range OR clear positive catalyst (new MSA, expanded capacity announcement). No urgency — in CORE range. Do not add within 24h of MU Jun 24 earnings (binary event). Next add window: Jun 25+ post-MU earnings clarity.",
+      "entry_day": "Post-Jun 24 MU earnings (Jun 25+) if price favorable"
     },
     {
       "ticker": "TSM",
-      "priority": "CORE — ADD £150 ON FOMC NEUTRAL (Jun 17)",
-      "current_gbp": 200,
+      "priority": "CORE — EXECUTED £350/£750 (Jun 17). NEXT ADD: £400 remaining",
+      "current_gbp": 350,
       "current_price_usd": 440.00,
       "max_gbp": 750,
-      "room_gbp": 550,
+      "room_gbp": 400,
       "tier": "CORE",
-      "signal": "Tepper 7.56% + Druckenmiller 5.0% + Coatue 6.56% Q1 2026 CURRENT. TRIPLE institutional conviction. Iran deal = tech risk-on = TSMC demand for AI chips structurally intact. Nasdaq +3.5% Jun 15 pushed TSM to ~$440.",
-      "trigger": "FOMC neutral Jun 17 → Add £150 CORE at market price. Target $430-450 zone. Entry $440 = +6.5% from initial £200 entry at $413. Still well below CORE max (£350/£750 after add, room for £400 more). No stop per CORE rule — 90-day hold.",
-      "entry_day": "June 17 post-FOMC decision (2PM ET)"
+      "signal": "Tepper 7.56% + Druckenmiller 5.0% + Coatue 6.56% Q1 2026 CURRENT. Triple institutional. £350/£750 filled Jun 17. AI foundry monopoly. No stop per CORE rule.",
+      "trigger": "Next TSM add: £400 remaining CORE room. Trigger: TSM dip to $420-430 zone (retest Warsh hawkish reaction) OR positive catalyst (N2 ramp news, NVDA Blackwell demand data). Do not add within 24h of MU Jun 24 earnings. Next add window: Jun 25+ post-MU earnings clarity. Target: build to £550-750 over Q3.",
+      "entry_day": "Post-Jun 24 MU earnings (Jun 25+) if price favorable"
     },
     {
       "ticker": "VST",
@@ -642,8 +652,8 @@
     "stop_avg_loss_pct": -5.22,
     "realized_gains_count": 4,
     "realized_gain_avg_pct": 4.52,
-    "total_unrealized_gbp": 195.93,
-    "grand_total_pnl_gbp": 45.64
+    "total_unrealized_gbp": 210.00,
+    "grand_total_pnl_gbp": 59.71
   },
   "stop_exposure_jun15": [
     {"ticker":"BN","current":"$45.62","stop":"$42.78","buffer_pct":6.2,"max_loss_from_current_gbp":-18.62,"note":"EX-DIV Jun 15 ($0.07, dividend receivable Jun 30). Iran deal risk-on pushed BN to $45.62 despite ex-div adj. AGM Jul 16 simplification = re-rating catalyst. FOMC Jun 17 = next binary event. 6.2% buffer improved vs last week. Stop $42.78 safe."},
@@ -653,7 +663,11 @@
     {"ticker":"BN","current":"$45.30","stop":"$42.78","buffer_pct":5.6,"max_loss_from_current_gbp":-16.59,"note":"Roughly flat day. AGM Jul 16 catalyst still live. FOMC Jun 17 decision is next binary event — buffer adequate, let stop govern."},
     {"ticker":"NTRA","current":"$218.98 (unverified, held)","stop":"$188.89","buffer_pct":13.75,"max_loss_from_current_gbp":-44.52,"note":"Price quote unreliable today (search conflict $191.96-$218.98) — held last-confirmed value. Even the lower unverified figure stays above the $188.89 stop. Re-verify with a live quote next session before any decision."}
   ],
-  "total_stop_exposure_from_current_gbp": -61.11,
+  "stop_exposure_jun17": [
+    {"ticker":"BN","current":"$45.30","stop":"$42.78","buffer_pct":5.6,"max_loss_from_current_gbp":-16.59,"note":"HIGH ALERT — Warsh hawkish (neutral language, QT, resets rate-cut bets) = directly negative for Brookfield (infrastructure/alternative assets = rate-sensitive). If Warsh's full hawkish playbook delivered: BN could fall 5-8% post-press conference. 5.6% buffer = narrow. AGM Jul 16 re-rating catalyst still live. Per BN STOP DISCIPLINE rule: let stop govern, do not precut. Monitor Jun 20 open closely."},
+    {"ticker":"NTRA","current":"$219.60 (VERIFIED)","stop":"$188.89","buffer_pct":14.0,"max_loss_from_current_gbp":-45.32,"note":"SAFE — price data quality flag RESOLVED Jun 17. $219.60 confirmed (Jun 15 $216.97, Jun 16 close $220.11). Healthcare defensive = rate-insensitive. Druckenmiller #1 conviction 18.1% AUM. 14.0% buffer. No immediate risk from Warsh hawkish."}
+  ],
+  "total_stop_exposure_from_current_gbp": -61.91,
   "forecast_log": [
     {
       "session": "2026-06-09 (Tuesday — actuals)",
@@ -789,15 +803,36 @@
       }
     },
     {
-      "session": "2026-06-17 (Wednesday — FORECAST, FOMC decision day)",
+      "session": "2026-06-17 (Wednesday — ACTUALS, FOMC decision day)",
+      "actuals": {
+        "portfolio_value_gbp": 5059.77,
+        "daily_return_pct": -0.65,
+        "trades": ["TSM CORE ADD £150 at $440 (0.4577sh, post-FOMC 2:15PM ET)", "BE CORE ADD £100 at $270 (0.4973sh, post-FOMC 2:20PM ET)"],
+        "key_events": [
+          "FOMC held 3.5-3.75% as expected (Kevin Warsh first meeting as Fed Chair)",
+          "Warsh hawkish: removed easing bias, neutral language, balance sheet QT emphasis = 'resets rate-cut bets' (TheStreet)",
+          "MU hit NEW INTRADAY ATH $1,110.40 pre-FOMC then pulled back to $1,020.76 (-3.97%) — semiconductor profit-taking + Warsh caution",
+          "MU Jun 24 earnings = 7 days away. Street Rev $34.8B consensus, wide range $33.7B-$40.9B. HBM sold out 2026.",
+          "BE recovered $262.30→$272.99 open, post-FOMC dip to $270 = better add fill",
+          "NTRA $219.60 CONFIRMED — price data quality flag RESOLVED",
+          "GOOGL $373.25 — above $345 EXPLORE trigger, no entry",
+          "BN ~$45.30 flat, stop $42.78 intact (5.6% buffer — ELEVATED Warsh risk)",
+          "TSM +£150 CORE add (post-FOMC) — total £350/£750",
+          "BE +£100 CORE add (post-FOMC dip to $270) — total £550/£750"
+        ],
+        "forecast_vs_actual": "Forecast: base +0.5%. Actual: -0.65%. MU pulled back sharply ($1,063→$1,020) driven by pre-FOMC semiconductor profit-taking after hitting ATH $1,110 intraday. FOMC as expected (Hold), but Warsh hawkish language was the miss. BE and TSM CORE adds executed at better-than-expected prices (post-FOMC dip)."
+      }
+    },
+    {
+      "session": "2026-06-20 (Friday — FORECAST, post-FOMC + 4 days to MU earnings)",
       "daily_forecast": {
         "base_case_pct": 0.5,
-        "base_assumption": "FOMC holds 3.5-3.75% as expected (99.6% priced in) with neutral-leaning language. Execute BE add £100 CORE + TSM add £150 CORE post-2PM ET. MU holds near ATH pre-earnings (Jun 24).",
+        "base_assumption": "Market digests Warsh hawkish as fully priced-in after initial reaction. Semiconductor sector stabilizes — MU pre-earnings momentum resumes (Jun 24 = 4 days). BN holds above $42.78 stop. VST continues recovery toward $155 re-entry threshold.",
         "bull_case_pct": 2.0,
-        "bull_catalyst": "FOMC hold + dovish bias shift (hints at future cuts) → broad tech rally extends. BE/TSM adds get favorable fill prices. NTRA price resolves cleanly above $200 on verification.",
-        "bear_case_pct": -1.5,
-        "bear_risk": "FOMC hawkish surprise (rare, ~0.4% odds) or hawkish-leaning language shift → risk-off reversal, BN gaps toward stop, NTRA (if truly weaker than last confirmed) breaks toward stop.",
-        "stop_drag_bear": "BN (-£16.59) + NTRA (-£44.52) if both hit = -£61.11 additional drag (-1.2%)"
+        "bull_catalyst": "Warsh press conference interpreted as less hawkish than feared (language details benign). MU pre-earnings run resumes toward $1,060+. BE holds above $270 on AI data center structural demand news. BN rises toward $47 on AGM Jul 16 anticipation.",
+        "bear_case_pct": -2.0,
+        "bear_risk": "Warsh explicitly signals no cuts before 2027 + aggressive QT start → growth selloff extends. MU continues semiconductor sector rotation below $1,000. BN gaps below $42.78 stop on rate-shock continuation.",
+        "stop_drag_bear": "BN stop triggered (-£16.59) = -0.33% additional drag. NTRA safe at 14.0% buffer, exclude from bear case. Total bear stop drag: -£16.59"
       }
     }
   ],
@@ -885,14 +920,17 @@
       "2026-06-13: ASCHENBRENNER ORCL PUT VALIDATION — Aschenbrenner's AI capex skepticism (ORCL puts, semiconductor puts, AVGO puts) is now 5/5 correct. When Aschenbrenner's put basket aligns with IC's tech positions, take it as a serious warning signal. Consider lighter sizing in any large-cap tech (AMZN, MSFT, GOOGL) until Aschenbrenner signals put basket unwinding.",
       "2026-06-15: IRAN GEOPOLITICAL RESOLUTION RULE — When US-Iran peace deal causes oil to fall >4%: (1) UBER and platform/transport stocks are direct winners (margin expansion); (2) AI hardware/semiconductor stocks benefit from reduced geopolitical risk premium (TSM Taiwan risk discount partially reduced); (3) Energy stocks (VST) may paradoxically struggle short-term (oil/energy = lower power demand narrative). Classify oil -4%+ on peace deal as BULLISH signal for IC core portfolio.",
       "2026-06-15: AMZN IRAN UNDERPERFORMANCE NOTE — AMZN -1.23% on Jun 15 despite Nasdaq +3.5%. AI capex overhang (FTC antitrust + $200B capex concern) creates specific headwind for AMZN independent of macro. Monitor: if AMZN consistently underperforms Nasdaq by >3% on risk-on days for 3+ sessions, this signals institutional rotation OUT of AMZN even amid strong market — potential CORE thesis review trigger.",
-      "2026-06-15: PRE-FOMC BINARY EVENT CLARIFICATION — FOMC binary event window = 24h before FOMC Day 1 (first day of 2-day meeting). Since FOMC Day 1 = Jun 16 and decision = Jun 17, NO CORE adds on Jun 15 or Jun 16. Execute BE+TSM adds ONLY Jun 17 after 2PM ET FOMC announcement. Do not front-run the decision even if outcome seems obvious."
+      "2026-06-15: PRE-FOMC BINARY EVENT CLARIFICATION — FOMC binary event window = 24h before FOMC Day 1 (first day of 2-day meeting). Since FOMC Day 1 = Jun 16 and decision = Jun 17, NO CORE adds on Jun 15 or Jun 16. Execute BE+TSM adds ONLY Jun 17 after 2PM ET FOMC announcement. Do not front-run the decision even if outcome seems obvious.",
+      "2026-06-17: WARSH NEW FED CHAIR CALIBRATION — Kevin Warsh (hawkish, QT advocate, minimal communication style) replaces Powell. Structural policy shift: (1) Rate cuts reset to 2027 or later (no 2026 cuts); (2) Balance sheet QT accelerating; (3) Neutral language replaces easing bias; (4) IC portfolio implications: BN (infrastructure/alts) most rate-sensitive = tighten stop monitoring on FOMC days; CORE AI positions (MU, TSM, BE) thesis structural and unaffected by rate timing; UBER margin expansion continues (oil-down tailwind); (5) Warsh 'less is more' communication = less pre-FOMC guidance, more volatility around meetings. Recalibrate macro model: market previously expected 1-2 cuts in 2026, now expects 0.",
+      "2026-06-17: MU PRE-EARNINGS ATH PATTERN — MU set new 52-week intraday high $1,110.40 exactly 7 days before Jun 24 earnings, then pulled back -8.2% to $1,020.76 on FOMC caution + semiconductor profit-taking. Pattern: high-conviction pre-earnings buying drives ATH then profit-taking pre-binary-event. This is BULLISH for earnings thesis (market priced in a big beat) but creates post-earnings volatility. If Jun 24 ALL 3 conditions met: stock may not rally as much (priced in). If any miss: stock could drop more than usual. Three-Condition Rule critical — review position at earnings, consider trim if ALL 3 met but guidance is inline (already priced). Do NOT add to MU (at CORE max £750).",
+      "2026-06-17: NTRA PRICE QUALITY PROTOCOL — When multiple search sources give conflicting prices (Jun 16: $191.96 vs $218.98), the protocol is: (1) Hold last verified price, (2) Flag for next-session verification, (3) Take no action on unverified data (neither sell nor add). Next session MUST confirm price before any decision. This was validated Jun 17 when NTRA confirmed at $219.60 (safely above $188.89 stop). Apply same protocol to any position where search returns conflicting quotes with >5% spread."
     ],
     "investor_signal_ranking": {
       "tier_1": {
         "investor": "Tepper",
-        "accuracy": "100% (7/7)",
+        "accuracy": "87.5% (7/8) — VST = confirmed miss Jun 10",
         "weight": "1.5x",
-        "note": "MU +27.3% CORE ★. AMZN +0.3% CORE. UBER +2.6% CORE. TSM +4.1% new CORE. VST -4.1% (stop watch). SNDK new Q1 buy = potential re-entry. GOOGL still held = watchlist."
+        "note": "MU +31.2% CORE ★ (new ATH $1,110 intraday, earnings Jun 24). AMZN -5.3% CORE (FTC overhang). UBER +2.8% CORE (Iran deal oil-down = margin win). TSM +3.8% CORE (£350/£750 post-Jun 17 add). GOOGL 8.38% still held = watchlist entry below $345. SNDK new Q1 buy = watchlist entry <$1,591. VST = confirmed miss (stop Jun 10, Tepper accuracy 87.5%). Appaloosa portfolio shrank to ~$5.93B Q1 2026."
       },
       "tier_2a": {
         "investor": "Aschenbrenner",
