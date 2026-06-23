@@ -1,21 +1,21 @@
 {
   "inception_date": "2026-05-11",
-  "last_updated": "2026-06-22",
+  "last_updated": "2026-06-23",
   "currency": "GBP",
   "initial_capital_gbp": 5000,
   "cash_gbp": 1551.32,
-  "fx_rate_gbpusd": 1.3245,
-  "total_value_gbp": 5369.92,
-  "cumulative_return_pct": 7.40,
+  "fx_rate_gbpusd": 1.3243,
+  "total_value_gbp": 5304.41,
+  "cumulative_return_pct": 6.09,
   "positions": {
     "MU": {
       "shares": 1.2939,
       "avg_cost_gbp": 750.0,
       "avg_cost_usd": 790.0,
-      "current_price_usd": 1168.00,
-      "current_value_gbp": 1141.12,
-      "unrealized_pnl_gbp": 391.12,
-      "unrealized_pnl_pct": 52.15,
+      "current_price_usd": 1100.92,
+      "current_value_gbp": 1075.65,
+      "unrealized_pnl_gbp": 325.65,
+      "unrealized_pnl_pct": 43.42,
       "entry_date": "2026-05-11",
       "strategy": "value_investor_follow+momentum",
       "confidence": 5,
@@ -24,16 +24,16 @@
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-08-11",
-      "milestone": "PREMARKET JUN 22: $1,168 (+3.04%). ATH CLOSE $1,133.99 Jun 18 (intraday $1,086-$1,145). Previous intraday ATH $1,110.40 Jun 17. Bank PTs: Citi $1,200 / TD Cowen $1,500 / RBC $1,200 / Stifel $1,500 / Wedbush $1,300 / Aletheia $1,600. MU +47.8% from $790 entry. Jun 24 earnings: consensus EPS $19.72-$19.95, Rev $34.52-$34.66B, whisper $20.57. 21.7% avg positive surprise track record = THREE-CONDITION likely met but guidance Q4 is the key risk. CORE MAX £750 — DO NOT ADD."
+      "milestone": "JUN 23 PRE-EARNINGS SELLOFF: $1,100.92 premarket (-5.7% from $1,168 Jun 22). Dan Niles 'AI speed bump' warning triggered broad chip rout (WDC -8.4%, QCOM -6.9%). MU -5.7% = pre-earnings profit-taking + AI token minimization fears. ATH CLOSE $1,133.99 Jun 18 (intraday $1,086-$1,145). Bank PTs: Citi $1,200 / TD Cowen $1,500 / RBC $1,200 / Stifel $1,500 / Wedbush $1,300 / Aletheia $1,600. MU +39.4% from $790 IC entry even at selloff price. EARNINGS JUN 24 TOMORROW: consensus EPS $19.72-$19.95, Rev $34.52-$34.66B, whisper $20.57. THREE-CONDITION RULE applies post-earnings. Pre-earnings dip = typical ATH-then-pullback pattern (per Jun 17 rule). CORE MAX £750 — DO NOT ADD. CORE = no stop, hold through earnings."
     },
     "AMZN": {
       "shares": 3.8645,
       "avg_cost_gbp": 748.37,
       "avg_cost_usd": 262.64,
-      "current_price_usd": 242.00,
-      "current_value_gbp": 706.09,
-      "unrealized_pnl_gbp": -42.28,
-      "unrealized_pnl_pct": -5.65,
+      "current_price_usd": 232.79,
+      "current_value_gbp": 679.32,
+      "unrealized_pnl_gbp": -69.05,
+      "unrealized_pnl_pct": -9.23,
       "entry_date": "2026-05-11",
       "last_add_date": "2026-06-05",
       "strategy": "value_investor_follow",
@@ -55,10 +55,10 @@
       "shares": 2.5983,
       "avg_cost_gbp": 550.0,
       "avg_cost_usd": 285.09,
-      "current_price_usd": 328.91,
-      "current_value_gbp": 645.45,
-      "unrealized_pnl_gbp": 95.45,
-      "unrealized_pnl_pct": 17.35,
+      "current_price_usd": 342.88,
+      "current_value_gbp": 672.74,
+      "unrealized_pnl_gbp": 122.74,
+      "unrealized_pnl_pct": 22.32,
       "entry_date": "2026-05-13",
       "last_add_date": "2026-06-17",
       "strategy": "value_investor_follow+sector_rotation",
@@ -102,9 +102,9 @@
       "avg_cost_gbp": 300.0,
       "avg_cost_usd": 70.9,
       "current_price_usd": 69.25,
-      "current_value_gbp": 297.12,
-      "unrealized_pnl_gbp": -2.88,
-      "unrealized_pnl_pct": -0.96,
+      "current_value_gbp": 297.17,
+      "unrealized_pnl_gbp": -2.83,
+      "unrealized_pnl_pct": -0.94,
       "entry_date": "2026-05-28",
       "strategy": "value_investor_follow",
       "confidence": 4,
@@ -118,10 +118,10 @@
       "shares": 1.981,
       "avg_cost_gbp": 300.0,
       "avg_cost_usd": 203.41,
-      "current_price_usd": 231.00,
-      "current_value_gbp": 345.48,
-      "unrealized_pnl_gbp": 45.48,
-      "unrealized_pnl_pct": 15.16,
+      "current_price_usd": 231.41,
+      "current_value_gbp": 346.16,
+      "unrealized_pnl_gbp": 46.16,
+      "unrealized_pnl_pct": 15.39,
       "price_data_quality_flag": "2026-06-22: ~$231 (Jun 21 close $231.41, range $228.11-$237.15). Stop $213.90 (trailed Jun 18). Buffer 7.9% = safe.",
       "entry_date": "2026-05-28",
       "last_add_date": "2026-06-02",
@@ -137,16 +137,16 @@
       "shares": 8.824,
       "avg_cost_gbp": 300.0,
       "avg_cost_usd": 45.7,
-      "current_price_usd": 44.52,
-      "current_value_gbp": 296.57,
-      "unrealized_pnl_gbp": -3.43,
-      "unrealized_pnl_pct": -1.14,
+      "current_price_usd": 43.58,
+      "current_value_gbp": 290.38,
+      "unrealized_pnl_gbp": -9.62,
+      "unrealized_pnl_pct": -3.21,
       "entry_date": "2026-06-02",
       "last_add_date": "2026-06-05",
       "strategy": "value_investor_follow",
       "confidence": 4,
       "tier": "EXPLORE",
-      "thesis": "Ackman (Pershing Square) #1 LARGEST position: 17.62% = $2.42B (Q1 2026 CURRENT). FILLED TO EXPLORE MAX £300. BN+BWS corporate simplification AGM vote July 16 = near-term rerating catalyst. Stop $42.78. ⚠️ HIGH ALERT Jun 22: BN $44.52 (range $44.24-$45.35) = only 3.9% above stop $42.78. Day low $44.24 = ONLY 3.4% above stop. Warsh hawkish = structural headwind for infrastructure/alternative asset stocks. PCE Jun 26 = KEY STOP RISK EVENT (25% probability hot PCE >4.0% → BN gaps toward stop). AGM Jul 16 = re-rating catalyst still live. Let stop rule govern — DO NOT PRECUT. Hold min 2026-09-05.",
+      "thesis": "Ackman (Pershing Square) #1 LARGEST position: 17.62% = $2.42B (Q1 2026 CURRENT). FILLED TO EXPLORE MAX £300. BN+BWS corporate simplification AGM vote July 16 = near-term rerating catalyst. Stop $42.78. 🚨 EXTREME DANGER Jun 23: BN $43.58 = only 1.87% ($0.80) above stop $42.78. Broader market selloff (Nasdaq -2.6% chip rout, S&P -1.2%). Warsh hawkish = structural headwind for infrastructure/alternative asset stocks. Dan Niles AI speed bump warning = risk-off broadly. PCE Jun 26 = KEY STOP RISK EVENT (elevated probability hot PCE → BN below stop). AGM Jul 16 = re-rating catalyst still live. Let stop rule govern — DO NOT PRECUT. If $42.78 breached intraday, stop executes. Loss ~-£14.88. Hold min 2026-09-05.",
       "stop_loss_usd": 42.78,
       "hold_type": "explore",
       "hold_min_date": "2026-09-05",
@@ -178,10 +178,10 @@
       "shares": 1.1083,
       "avg_cost_gbp": 350.0,
       "avg_cost_usd": 424.17,
-      "current_price_usd": 462.12,
-      "current_value_gbp": 386.82,
-      "unrealized_pnl_gbp": 36.82,
-      "unrealized_pnl_pct": 10.52,
+      "current_price_usd": 468.00,
+      "current_value_gbp": 391.67,
+      "unrealized_pnl_gbp": 41.67,
+      "unrealized_pnl_pct": 11.91,
       "last_add_date": "2026-06-17",
       "entry_date": "2026-06-08",
       "strategy": "value_investor_follow",
@@ -513,7 +513,11 @@
       "day1_date": "2026-06-22",
       "day1_value_gbp": 5369.92,
       "day1_return_pct": 0.33,
-      "day1_note": "MRVL S&P 500 INCLUSION DAY. NO TRADES — MU earnings 48h binary event + MRVL volatility. MU premarket $1,168 (+3.04% = new ATH territory). TSM NEW ATH intraday $465.22, close $462.12. MRVL +7.27% (NOT sell-the-news). UBER -3.34% to $69.25 (UBEAR WATCH). BN $44.52 DANGER ZONE (3.9% above stop $42.78). FX 1.3245. NET: +£17.88 (+0.33%). Week 7 Day 1 running: +0.33%."
+      "day1_note": "MRVL S&P 500 INCLUSION DAY. NO TRADES — MU earnings 48h binary event + MRVL volatility. MU premarket $1,168 (+3.04% = new ATH territory). TSM NEW ATH intraday $465.22, close $462.12. MRVL +7.27% (NOT sell-the-news). UBER -3.34% to $69.25 (UBEAR WATCH). BN $44.52 DANGER ZONE (3.9% above stop $42.78). FX 1.3245. NET: +£17.88 (+0.33%). Week 7 Day 1 running: +0.33%.",
+      "day2_date": "2026-06-23",
+      "day2_value_gbp": 5304.41,
+      "day2_return_pct": -1.22,
+      "day2_note": "GLOBAL CHIP SELLOFF — Dan Niles AI speed bump warning. Dan Niles (Niles Investment Mgmt) publicly trimmed semiconductors, warned of AI 'token minimization' → hyperscaler September guidance risk. MU premarket -5.7% to $1,100.92 (pre-earnings profit-taking + AI trade fears). WDC -8.4%, QCOM -6.9%. Nasdaq futures -2.6%, S&P -1.2%. BE $342.88 (+4.2% — energy/power DEFENSIVE to chip selloff). TSM $468.00 (+1.3% — foundry thesis immune to AI sentiment; order book locked). AMZN $232.79 (-4.75% — AI capex fears + Prime Day timing). BN $43.58 (🚨 EXTREME DANGER — only 1.87% / $0.80 from stop $42.78). UBER $69.25 (flat, no new data). NTRA ~$231.41 (defensive, safe). NO TRADES: (1) Pre-MU earnings binary event (Jun 24); (2) VST deferred — within 5% of 30-day peak (EXPLORE timing rule); (3) TSM add deferred (post-MU 3-condition rule); (4) BE add deferred (ATH spike rule, await $295-305 consolidation). Cash 29.2% ELEVATED. NET: -£65.51 (-1.22%). Week 7 running: -0.90%."
     }
   ],
   "daily_pnl": [
@@ -544,14 +548,15 @@
     {"date":"2026-06-18","pnl_gbp":161.75,"pnl_pct":3.19,"note":"CHIP RALLY + IRAN DEAL SIGNED — PRICE CORRECTED (actual closes used). MU ACTUAL CLOSE $1,133.99 (intraday $1,086-$1,145 — portfolio was logged at premarket $1,043.19). BE ACTUAL CLOSE $328.91 (+15.4% on Mid-Year Data Center Power Report). AMZN actual $243.11 (was $237.50). TSM range $438.50-$452.85 (est $445, was $432.15). VST $163.75 (+4.92%). NTRA $230.02, BN $45.67, UBER ~$70.91. INTC +9.8% Trump-Apple chip deal (BLOCKED). MU bank PTs: Citi $1,200 / TD Cowen $1,500 / RBC $1,200 / Stifel $1,500 / Wedbush $1,300 / Aletheia $1,600. NTRA stop trailed $188.89→$213.90. NO NEW TRADES. WEEK 6 ACTUAL: +6.63% (£4,964.03→£5,293.10). Russell 2000 led +2.12%. SpaceX -7.96%. Kroger -8.19% on earnings miss."},
     {"date":"2026-06-20","pnl_gbp":0.0,"pnl_pct":0.0,"note":"SATURDAY — US MARKETS CLOSED (Juneteenth Jun 19 = Friday, Jun 20 = Saturday). Price restatement session. No new trades. GBP/USD 1.3407 (weekend). Portfolio corrected: £5,131.35→£5,293.10 (+£161.75) from Jun 18 actual close corrections. KEY INTEL GATHERED: (1) Coatue TSM INCREASED to 9.28M shares May 18 filing — Triple Institutional CORE CONFIRMED. (2) MRVL at $308-326, trigger <$271 unlikely Jun 22. (3) VST $163.75 > $155 trigger — plan Jun 23 entry post-MRVL volatility. (4) MU consensus EPS $19.72 / Rev $34.66B, Goldman upside $37.6B. (5) BE catalyst confirmed: Mid-Year Data Center Power Report + Daiwa/UBS PT hikes $322-324. BE ATH spike rule: defer final £200 CORE add until $295-305 consolidation. Cumulative return: +5.86%."},
     {"date":"2026-06-19","pnl_gbp":59.0,"pnl_pct":1.11,"note":"JUNETEENTH — US EQUITY MARKETS CLOSED. FX MARKETS OPEN. GBP/USD 1.3198 (fell from 1.3407 weekend stamp). GBP weakening vs USD on Juneteenth adds +£58.94 to USD-denominated positions (no stock price changes). IC WEEKLY REPORT GENERATED. Week 6 OFFICIAL close: £5,352.04 (+7.82% weekly, +7.04% cumulative). KEY INTEL: (1) BE new Nebius master fuel-cell agreement up to $2.6B for 328 MW installed. CEO: no equity raise on Oracle 2.8 GW deal. Crusoe 1.8 GW pause risk ($2.65B BE contracts) — contract protections expected. (2) AMZN FTC trial DELAYED to Feb 9, 2027 (was Oct 2026) — near-term FTC risk removed. (3) Aschenbrenner INTC status CORRECTED: Q1 2026 = INTC PUTS (prior calls fully unwound) + semiconductor put basket MU/TSM/ASML/INTC = all hedges. BE #1 $879M confirmed. INTC BLOCKED confirmed. (4) MRVL S&P 500 inclusion Jun 22 — 'inclusion trade already spent' (stock $308-324, ran 90%+ in 2 weeks). Trigger <$271 not met. (5) VST ALL pre-conditions met for Jun 23 EXPLORE entry £200: FOMC neutral ✓, >$155 ✓ ($163.75), cash >20% ✓. (6) Week 7 key: MU earnings Jun 24 (THREE-CONDITION RULE) + PCE Jun 26 (BN stop $42.78 watch). Rule updates: AI infrastructure report scanning, AMZN FTC monitoring update, ASCHENBRENNER INTC confirmed BLOCKED, forecast bull-case expansion to +8-10% for high-conviction catalyst weeks. Forecast error Week 6: 5.32 pts (base +2.5% vs actual +7.82%). Running MAE: 2.13 pts (4 data points)."},
-    {"date":"2026-06-22","pnl_gbp":17.88,"pnl_pct":0.33,"note":"MRVL S&P 500 INCLUSION DAY. GBP/USD 1.3245 (slight GBP strength vs 1.3198 close). NO TRADES — MU earnings 48h binary event rule + MRVL inclusion volatility. KEY: MU premarket $1,168 (+3.04%, new ATH territory). TSM $462.12 (+3.85%, NEW ATH range $438.39-$465.22 intraday). MRVL +7.27% to $310.58 (inclusion NOT sell-the-news — 'up around 265% in 2026'). UBER -3.34% to $69.25 (robotaxi fear: Pony AI profitable, MA regulations, People Team -23% cut, Delivery Hero uncertainty). BN $44.52 (DANGER ZONE — only 3.9% above stop $42.78, day low $44.24). BE $328.91 consolidating (day range $294.81-$329.51, ATH spike rule day 1 of 5). AMZN ~$242 (flat market, 3rd underperformance test inconclusive — not clearly risk-on day). NTRA ~$231 (safe above $213.90 stop, buffer 7.9%). WINNERS: MU +£29.3, TSM +£13.1. LOSERS: UBER -£8.3, BN -£8.7, AMZN -£5.6, BE FX -£2.3. NET: +£17.9 (+0.33%). NEW INTEL: (1) VST $10B Helix KKR+NVDA+Kuwait deal (Jun 11) = preferred power provider, MS PT $212, Seaport PT $230 — confirms Jun 23 EXPLORE entry. (2) SNDK $2,209.87 Jun 21 (+29.2% since IC exit $1,711). Aschenbrenner $724.4M #2 position (5.30% AUM) + Tepper 3% = DUAL INVESTOR CORE candidate. Entry deferred (within 5% of ATH). (3) Aschenbrenner Q1 2026: BE +1488% shares (#1 $878.7M), SNDK $724.4M (#2), CRWV $556.1M (#3). (4) Burry SHUT DOWN Scion late 2025 — now writes AI Bubble Substack. Zero signal weight."}
+    {"date":"2026-06-22","pnl_gbp":17.88,"pnl_pct":0.33,"note":"MRVL S&P 500 INCLUSION DAY. GBP/USD 1.3245 (slight GBP strength vs 1.3198 close). NO TRADES — MU earnings 48h binary event rule + MRVL inclusion volatility. KEY: MU premarket $1,168 (+3.04%, new ATH territory). TSM $462.12 (+3.85%, NEW ATH range $438.39-$465.22 intraday). MRVL +7.27% to $310.58 (inclusion NOT sell-the-news — 'up around 265% in 2026'). UBER -3.34% to $69.25 (robotaxi fear: Pony AI profitable, MA regulations, People Team -23% cut, Delivery Hero uncertainty). BN $44.52 (DANGER ZONE — only 3.9% above stop $42.78, day low $44.24). BE $328.91 consolidating (day range $294.81-$329.51, ATH spike rule day 1 of 5). AMZN ~$242 (flat market, 3rd underperformance test inconclusive — not clearly risk-on day). NTRA ~$231 (safe above $213.90 stop, buffer 7.9%). WINNERS: MU +£29.3, TSM +£13.1. LOSERS: UBER -£8.3, BN -£8.7, AMZN -£5.6, BE FX -£2.3. NET: +£17.9 (+0.33%). NEW INTEL: (1) VST $10B Helix KKR+NVDA+Kuwait deal (Jun 11) = preferred power provider, MS PT $212, Seaport PT $230 — confirms Jun 23 EXPLORE entry. (2) SNDK $2,209.87 Jun 21 (+29.2% since IC exit $1,711). Aschenbrenner $724.4M #2 position (5.30% AUM) + Tepper 3% = DUAL INVESTOR CORE candidate. Entry deferred (within 5% of ATH). (3) Aschenbrenner Q1 2026: BE +1488% shares (#1 $878.7M), SNDK $724.4M (#2), CRWV $556.1M (#3). (4) Burry SHUT DOWN Scion late 2025 — now writes AI Bubble Substack. Zero signal weight."},
+    {"date":"2026-06-23","pnl_gbp":-65.51,"pnl_pct":-1.22,"note":"GLOBAL CHIP ROUT — DAN NILES 'SPEED BUMP' WARNING. Nasdaq -2.6%, S&P -1.2%. Dan Niles trimmed semiconductors + hyperscalers, warning AI 'token minimization' = September guidance risk. MU -5.7% to $1,100.92 (IC CORE max £750, hold — no stop). AMZN -4.75% to $232.79 (AI capex fears ahead of Prime Day Jun 23-26). BE +4.2% to $342.88 OUTPERFORMER (energy/power defensive to chip selloff). TSM +1.3% to $468.00 (foundry order book locked, ATH territory $465-476 intraday). BN 🚨 EXTREME DANGER at $43.58 (1.87% from stop $42.78 — let stop govern per rule). NTRA ~$231.41 (safe, defensive healthcare). UBER $69.25 (flat). NO TRADES — MU earnings binary tomorrow (Jun 24), VST timing rule fail, BE ATH spike rule, all COREs at max. GBP/USD 1.3243."}
 
 
   ],
   "strategy_stats": {
     "value_investor_follow": {
       "trades": 39,
-      "open_status": "JUN 22 UPDATE: MU +52.15% CORE ★ ($1,168.00 premarket, new ATH territory — 2 days to Jun 24 THREE-CONDITION earnings binary event; bank PTs $1,200-$1,600; whisper $20.57 vs consensus $19.72-$19.95; CORE MAX £750 DO NOT ADD) | AMZN -5.65% CORE ($242.00, FTC DELAYED Feb 2027 ✓, 3rd underperformance test INCONCLUSIVE — market not clearly risk-on Jun 22, monitoring continues) | BE +17.35% CORE ($328.91, ATH spike Jun 18, deferred per 5-session spike rule — day 1 of 5 as of Jun 22, await $295-305 consolidation) | UBER -0.96% CORE ($69.25, UBEAR WATCH: robotaxi fear Pony AI profitable/MA regulations/People Team -23% cut, -3.34% Jun 22 drop, 32% from CORE entry peak — CORE hold no stop, watch $67.19 52w low) | NTRA +15.18% EXPLORE ($231.00, stop $213.90 trailed Jun 18, 7.9% buffer, safe) | BN -1.14% EXPLORE ($44.52, ⚠️ DANGER ZONE — 3.9% above stop $42.78, day low $44.24=3.4% from stop, PCE Jun 26 KEY RISK, BN STOP DISCIPLINE: do not precut) | TSM +10.52% CORE ($462.12, NEW ATH intraday $465.22, Triple Institutional CONFIRMED, add £150-200 Jun 25+ ONLY if MU 3-cond rule met) | VST WATCHLIST: enter EXPLORE £200 Jun 23, ~$164-165, 10% stop ($148), Helix $10B KKR deal + MS PT $212 CONFIRMED | SNDK DUAL INVESTOR CORE CANDIDATE: Aschenbrenner $724.4M + Tepper 3% — entry deferred (within 5% of ATH $2,219 at $2,210), trigger <$2,108"
+      "open_status": "JUN 23 UPDATE: MU +43.42% CORE ★ ($1,100.92 premarket, -5.7% chip selloff day, PRE-EARNINGS TOMORROW Jun 24 — THREE-CONDITION RULE; bank PTs $1,200-$1,600; whisper $20.57 vs consensus $19.72-$19.95; CORE MAX £750 DO NOT ADD — hold through earnings binary) | AMZN -9.23% CORE ($232.79, AI capex fears + Prime Day Jun 23-26, FTC DELAYED Feb 2027 ✓, CORE hold no stop) | BE +22.32% CORE ($342.88, OUTPERFORMER +4.2% chip selloff day — energy/power defensive, ATH spike rule still active, await $295-305 consolidation for final £200 CORE add) | UBER -0.94% CORE ($69.25, flat, no new data — UBEAR WATCH ongoing, CORE hold no stop) | NTRA +15.39% EXPLORE ($231.41, stop $213.90 trailed Jun 18, 8.0% buffer, safe, defensive healthcare holding through chip rout) | BN -3.21% EXPLORE ($43.58, 🚨 EXTREME DANGER — 1.87% / $0.80 above stop $42.78, PCE Jun 26 KEY RISK — LET STOP GOVERN — DO NOT PRECUT) | TSM +11.91% CORE ($468.00, ATH territory range $465-476, FOUNDRY IMMUNE to chip sentiment selloff — TSM outperformed chips today, add £200-400 Jun 25+ ONLY if MU 3-cond rule met) | VST WATCHLIST: DEFERRED (within 5% of 30-day peak — timing rule fail; revisit Jun 25+ post-MU earnings, entry zone $155-163) | SNDK DUAL INVESTOR CORE CANDIDATE: deferred ATH (trigger <$2,108)"
     },
     "momentum": {
       "trades": 3,
@@ -564,14 +569,14 @@
     }
   },
   "risk_mode": "ELEVATED",
-  "risk_mode_cash_pct": 28.9,
-  "risk_mode_cash_guidance": "ELEVATED — 28.9% cash (£1,551.32 / £5,369.92). FX 1.3245 (Jun 22). MRVL inclusion day — not sell-the-news (MRVL +7.27%). NO TRADES today. Portfolio +£17.88 (+0.33%) led by MU premarket +3.04% ($1,168) and TSM NEW ATH ($462.12). UBER -3.34% (robotaxi/MA regulatory headwind — CORE hold). BN ⚠️ DANGER ZONE ($44.52, 3.9% above stop $42.78). MU EARNINGS JUN 24 (2 TRADING DAYS) — THREE-CONDITION RULE. TRADE PLAN: VST EXPLORE £200 Jun 23 (Helix $10B deal + MS PT $212, 10% stop). TSM CORE +£150-200 Jun 25 ONLY if MU three-condition rule ALL met. BE CORE £200 DEFERRED (ATH spike rule, wait Jun 27+ for $295-305 consolidation). MU HOLD ★ (CORE MAX £750 — DO NOT ADD). Maintain ELEVATED through Jun 24 MU binary + Jun 26 PCE. NORMAL trigger: cash <25% requires +£213 new adds.",
+  "risk_mode_cash_pct": 29.2,
+  "risk_mode_cash_guidance": "ELEVATED — 29.2% cash (£1,551.32 / £5,304.41). FX 1.3243 (Jun 23). CHIP SELLOFF DAY — Dan Niles AI speed bump warning. NO TRADES. Portfolio -£65.51 (-1.22%) dragged by MU -5.7% ($1,100.92) and AMZN -4.75% ($232.79). BE +4.2% ($342.88) partial offset. BN 🚨 EXTREME DANGER ZONE ($43.58, 1.87% from stop $42.78). MU EARNINGS JUN 24 TOMORROW — THREE-CONDITION RULE. TRADE PLAN: VST DEFERRED (within 5% of 30-day peak per timing rule; also pre-MU binary). TSM CORE +£200-400 Jun 25+ ONLY if MU three-condition rule ALL met. BE CORE £200 DEFERRED (ATH spike rule, await $295-305 consolidation — 5 sessions minimum). MU HOLD ★ (CORE MAX £750 — DO NOT ADD). Maintain ELEVATED through Jun 24 MU binary + Jun 26 PCE. NORMAL trigger: cash <25% requires +£276 new adds (25% of £5,304 = £1,326, need to deploy £225 from cash).",
   "macro_context": {
-    "date": "2026-06-22",
-    "gbp_usd": 1.3245,
-    "gbp_usd_prev": 1.3198,
-    "gbp_usd_note": "GBP/USD 1.3245 (Jun 22 live). Slightly stronger GBP vs Jun 19 close 1.3198 → marginal headwind on USD positions. GBP still well below weekend 1.3407 stamp, so FX has partially normalized. Warsh hawkish = structural GBP tailwind (fewer USD rate cuts expected = USD weaker).",
-    "market_sentiment": "JUN 18 ACTUAL CLOSES: MU $1,133.99 (NOT $1,043 premarket — ran to intraday $1,086-$1,145 range, +8.7% from $1,043 premarket). BE $328.91 (+15.4% on Mid-Year Data Center Power Report — massive single day). AMZN $243.11 (slight up from $237.50 premarket). TSM range $438.50-$452.85 (est close $445). VST $163.75 (+4.92%). S&P 500 Jun 18 Russell 2000 led +2.12%. MRVL +6.1% premarket, continues rally ahead of Jun 22 S&P 500 inclusion (stock at ~$308-326, up 57% in a month). JUN 19: JUNETEENTH — US MARKETS CLOSED (Friday). JUN 20: SATURDAY — MARKETS CLOSED. Next session: Monday Jun 22.",
+    "date": "2026-06-23",
+    "gbp_usd": 1.3243,
+    "gbp_usd_prev": 1.3245,
+    "gbp_usd_note": "GBP/USD 1.3243 (Jun 23 live, range 1.3184-1.3274). Marginally weaker GBP vs Jun 22 1.3245 — near-flat. Chip selloff = mild risk-off USD strength. Warsh hawkish structural USD tailwind persists.",
+    "market_sentiment": "JUN 23 GLOBAL CHIP SELLOFF — Dan Niles (Niles Investment Mgmt) issued 'AI speed bump' warning on CNBC Jun 22 evening: trimming semiconductors + hyperscalers; warns AI 'token minimization' = September guidance risk as businesses route queries to cheaper models. Nasdaq -2.6%, S&P -1.2%. MU -5.7% ($1,100.92 premarket). WDC -8.4%, QCOM -6.9%. SpaceX (SPCX) wavering ~$147 (below $150 IPO price). ALPHABET -6%, AMZN -4.75% AI capex fears. DEFENSIVE OUTPERFORMERS: BE +4.2% ($342.88), IBM +4.2%, ACN +3.3%, SMCI +15.6%, COHR +9.2%. TSM +1.3% ($468, ATH range $465-476 — FOUNDRY IMMUNE). UBER flat ~$69.25. NTRA flat ~$231 (defensive healthcare). AMZN Prime Day running Jun 23-26 = potential AMZN bounce catalyst. ARK Invest buying SpaceX dip ($32.5M purchase). BN $43.58 (extreme danger zone). Tepper June 2026: 'nervous time' — cautious but stay long with cash.",
     "iran_deal_jun15": "US-Iran interim MOU to reopen Strait of Hormuz announced Jun 15. Trump: 'Ships of the World, start your engines.' Peace deal formally SIGNED Jun 18 — goes into effect today, speeding reopening of Strait of Hormuz to commercial traffic and lifting sanctions on Iranian oil. Oil continues to fall. Brent $83.25 → lower. UBER direct beneficiary.",
     "fomc_jun17": "FOMC meeting June 16-17 COMPLETE. Kevin Warsh first press conference as Fed Chair. Rate HOLD 3.5-3.75% confirmed. Warsh hawkish: removed easing bias, neutral language, balance sheet QT emphasis = resets rate-cut bets to 2027+. S&P -1.21%, Nasdaq -1.34% Jun 17 on Warsh reaction. Jun 18 = REBOUND as market processes outcome as fully priced-in.",
     "intc_apple_deal_jun18": "MAJOR POLICY NEWS: Trump announced Apple will partner with Intel to design chips in US (Jun 18). INTC +9.8% premarket. Apple reducing reliance on TSMC (currently at N3 for Apple chips). Intel acting as contract manufacturer for Apple-designed chips. IC IMPACT: (1) INTC BLOCKED — Aschenbrenner thesis exit, no IC action; (2) TSM mild narrative headwind (Apple TSMC dependency potentially reduced); (3) TSM fundamental thesis intact — AI chips (NVDA Blackwell, AMD MI300) still EXCLUSIVELY made at TSMC, and Intel is years behind N2 process. Treat as mildly negative TSM narrative noise, not thesis change.",
@@ -599,32 +604,32 @@
       "ticker": "TSM",
       "priority": "CORE — EXECUTED £350/£750 (Jun 17). NEXT ADD: £400 remaining",
       "current_gbp": 350,
-      "current_price_usd": 462.12,
+      "current_price_usd": 468.00,
       "max_gbp": 750,
       "room_gbp": 400,
       "tier": "CORE",
-      "signal": "Tepper 7.56% + Druckenmiller 5.0% + Coatue CONFIRMED INCREASED to 9.28M shares (May 18 regulatory filing). Triple institutional CONFIRMED. £350/£750 filled Jun 17. Jun 22: TSM NEW ATH intraday $465.22. AI foundry monopoly — Apple-Intel deal is PR, TSMC N2 process is 3+ year lead. No stop per CORE rule.",
-      "trigger": "Next TSM add £150-200 CORE Jun 25+. Trigger: (a) post-MU Jun 24 earnings positive THREE-CONDITION RULE → add £150-200 at market Jun 25; (b) if TSM pulls back from ATH $465 toward $440-445 zone before Jun 25 = note price but do NOT enter until Jun 25. Target: build to £550-750 over Q3. Jun 22: TSM at $462.12 = near-ATH, do not chase. Wait for Jun 25 post-MU-earnings entry window.",
+      "signal": "Tepper 7.56% + Druckenmiller 5.0% + Coatue CONFIRMED INCREASED to 9.28M shares (May 18 regulatory filing). Triple institutional CONFIRMED. £350/£750 filled Jun 17. Jun 23: TSM $468 ATH range ($465-476 intraday) — FOUNDRY IMMUNITY CONFIRMED (TSM +1.3% while chips -5-9% on Dan Niles selloff). AI foundry monopoly — Apple-Intel deal is PR, TSMC N2 process is 3+ year lead. No stop per CORE rule.",
+      "trigger": "Next TSM add £200-400 CORE Jun 25+. Trigger: (a) post-MU Jun 24 earnings positive THREE-CONDITION RULE ALL met → add £200-400 at market Jun 25; (b) Jun 23 chip selloff = slightly better entry vs Jun 22 ATH ($462→$468 but foundry immunity confirmed). Target: build to £550-750. Do not enter Jun 24 (MU binary event day). Jun 25 is earliest add window.",
       "entry_day": "Jun 25+ (post-MU earnings only if THREE-CONDITION RULE met)"
     },
     {
       "ticker": "VST",
-      "priority": "CONFIRMED ENTRY JUN 23 ★ — Helix $10B deal validates thesis",
-      "current_price_usd": 164.71,
+      "priority": "WATCHLIST — DEFERRED from Jun 23 per EXPLORE timing rule",
+      "current_price_usd": 163.75,
       "current_gbp": 0,
       "max_gbp": 200,
-      "trigger": "VST expected ~$164.71 Jun 22 (ex-div record date today, $0.23 dividend — T+1 means Jun 23 buyer misses dividend, but 0.14% impact = negligible). ALL PRE-CONDITIONS MET: (1) FOMC neutral Jun 17 ✓, (2) VST >$155 ✓ ($163.75 Jun 18 close), (3) Cash >20% ✓ (28.9%), (4) NEW: Helix $10B KKR+NVDA+Kuwait deal (Jun 11) — VST named preferred AI power provider. MS PT $212, Seaport PT $230. Q1 2026: double beat, FY2026 EBITDA guidance reaffirmed, record EBITDA $1.5B. Tepper Q1 2026 CURRENT 7.56% AUM. ENTER Jun 23 at open (~$163-166). Stop: 10% from entry per HIGH-VOL rule = ~$147-149. Max £200 EXPLORE.",
-      "entry_day": "Jun 23 CONFIRMED (not Jun 22 = MRVL inclusion volatility; not Jun 24 = MU binary event caution)"
+      "trigger": "DEFERRED JUN 23: EXPLORE ENTRY TIMING RULE — VST $163.75 is within 5% of 30-day peak (11% Helix deal jump elevated stock). Pre-MU earnings binary event tomorrow also prevents new entries. Re-entry conditions: (1) VST >$155 ✓ ($163.75 Jun 18 close), (2) FOMC neutral ✓, (3) Post-MU earnings (Jun 25+), (4) VST >5% below 30-day peak (may be met on post-earnings chip sector rotation). Stop: 10% from entry per HIGH-VOL rule. Max £200 EXPLORE. Tepper Q1 CURRENT 7.56% AUM. Helix $10B KKR+NVDA+Kuwait deal confirmed. Dividend $0.229 ex Jun 22, payable Jun 30.",
+      "entry_day": "Jun 25+ (post-MU earnings, check timing rule again then)"
     },
     {
       "ticker": "GOOGL",
-      "priority": "WATCHLIST — NOT TRIGGERED (above $345)",
-      "current_price_usd": 373.25,
+      "priority": "BLOCKED — price trigger met ($341.50) BUT company-specific negative catalysts present",
+      "current_price_usd": 341.50,
       "target_gbp": 150,
-      "tier": "EXPLORE",
-      "signal": "Tepper still holds 8.38% Q1 2026 (≥8% AUM threshold). Ackman 95% exit + Druckenmiller full exit = single-investor signal only. Jun 17 GOOGL at $373.25 = still above $345 trigger. Jun 18 chip rally likely pushes GOOGL higher.",
-      "trigger": "Entry only if: (a) GOOGL <$345 (-7.5% below current $373 = unlikely near-term), (b) No GOOGL-specific negative catalyst. Max £150 EXPLORE with -7% stop. Probability of $345 trigger met in next 5 days: LOW (chip rally, Iran deal euphoria). Monitor Jun 25+.",
-      "entry_day": "NOT imminent — requires $345 pullback. Monitor Jun 25+ for rotation."
+      "tier": "EXPLORE_BLOCKED",
+      "signal": "Tepper still holds 8.38% Q1 2026 (≥8% AUM threshold, single investor). Ackman 95% exit + Druckenmiller full exit = solo Tepper signal. Jun 23: GOOGL $341.50 — BELOW $345 TRIGGER. BUT entry conditions require (a) GOOGL <$345 ✓ AND (b) No GOOGL-specific negative catalyst ✗ VIOLATED: (1) $84.75B equity dilution (Jun 2026), (2) 2026 CapEx $180-190B + 2027 'significantly increase', (3) Noam Shazeer (VP Eng, Gemini co-lead) left to OpenAI Jun 18. CLASSIFICATION: COMPANY-SPECIFIC NEGATIVES = ENTRY BLOCKED despite price trigger.",
+      "trigger": "RE-ENTRY UNBLOCKED only if: (a) GOOGL <$330 (allowing for dilution discount), (b) Shazeer departure stabilizes (no further key Gemini exits), (c) Capex guidance does not increase further, (d) Tepper Q2 2026 13F (Aug 2026) confirms maintained/increased position. Current price $341.50 is BELOW cost for Tepper's likely entry (stock was $388+ in Q1 2026). Monitor Q2 13F for thesis confirmation.",
+      "entry_day": "BLOCKED until negative catalysts resolve. Check Q2 2026 13F (Aug 14)."
     },
     {
       "ticker": "MRVL",
@@ -685,8 +690,9 @@
     "realized_gain_avg_pct": 4.52,
     "total_unrealized_gbp": 520.28,
     "grand_total_pnl_gbp": 369.99,
-    "unrealized_as_of": "2026-06-22",
-    "unrealized_breakdown_jun22": {"MU":391.12,"AMZN":-42.28,"BE":95.45,"UBER":-2.88,"NTRA":45.48,"BN":-3.43,"TSM":36.82}
+    "unrealized_as_of": "2026-06-23",
+    "unrealized_breakdown_jun22": {"MU":391.12,"AMZN":-42.28,"BE":95.45,"UBER":-2.88,"NTRA":45.48,"BN":-3.43,"TSM":36.82},
+    "unrealized_breakdown_jun23": {"MU":325.65,"AMZN":-69.05,"BE":122.74,"UBER":-2.83,"NTRA":46.16,"BN":-9.62,"TSM":41.67}
   },
   "stop_exposure_jun15": [
     {"ticker":"BN","current":"$45.62","stop":"$42.78","buffer_pct":6.2,"max_loss_from_current_gbp":-18.62,"note":"EX-DIV Jun 15 ($0.07, dividend receivable Jun 30). Iran deal risk-on pushed BN to $45.62 despite ex-div adj. AGM Jul 16 simplification = re-rating catalyst. FOMC Jun 17 = next binary event. 6.2% buffer improved vs last week. Stop $42.78 safe."},
@@ -711,9 +717,13 @@
   "stop_exposure_jun22": [
     {"ticker":"BN","current":"$44.52","stop":"$42.78","buffer_pct":3.9,"max_loss_from_current_gbp":-11.55,"note":"⚠️ DANGER ZONE. Buffer shrank from 6.3% (Jun 18) to 3.9% (Jun 22). Day low $44.24 = only 3.4% from stop. Warsh hawkish = structural headwind for infrastructure/alts. PCE Jun 26 = KEY RISK EVENT (25% probability hot >4.0% = BN approaches stop). AGM Jul 16 re-rating catalyst still live. Per BN STOP DISCIPLINE rule: do not precut. Let stop $42.78 govern. If triggered: -£11.55 from current, -£19.40 max loss (from full £300 position cost)."},
     {"ticker":"NTRA","current":"$231.00","stop":"$213.90","buffer_pct":7.9,"max_loss_from_current_gbp":-24.20,"note":"SAFE — 7.9% buffer from stop $213.90 (trailed Jun 18). Healthcare defensive unaffected by macro. Druckenmiller #1 18.1% AUM unchanged. No immediate risk."},
-    {"ticker":"VST (PLANNED Jun 23)","current":"N/A","stop":"~$148 (10% entry price ~$165)","buffer_pct":10.0,"max_loss_from_current_gbp":-20.00,"note":"PLANNED EXPLORE entry Jun 23 at ~$164-165. Stop: 10% below entry per HIGH-VOL rule = ~$148. Max loss: £200 × 10% = £20. Helix $10B KKR deal + MS PT $212 + Tepper Q1 CURRENT = strong thesis."}
+    {"ticker":"VST (PLANNED Jun 23)","current":"N/A","stop":"~$148 (10% entry price ~$165)","buffer_pct":10.0,"max_loss_from_current_gbp":-20.00,"note":"PLANNED EXPLORE entry Jun 23 at ~$164-165. Stop: 10% below entry per HIGH-VOL rule = ~$148. Max loss: £200 × 10% = £20. Helix $10B KKR deal + MS PT $212 + Tepper Q1 CURRENT = strong thesis — DEFERRED Jun 23 per EXPLORE timing rule (within 5% of peak)."}
   ],
-  "total_stop_exposure_from_current_gbp": -55.75,
+  "stop_exposure_jun23": [
+    {"ticker":"BN","current":"$43.58","stop":"$42.78","buffer_pct":1.87,"max_loss_from_cost_gbp":-14.88,"note":"🚨 EXTREME DANGER. Buffer only 1.87% ($0.80). Chip selloff (Nasdaq -2.6%) + Dan Niles risk-off + PCE Jun 26 imminent = triple risk. BN fell to $43.58, below earlier day range low $43.87. Stop $42.78 may trigger pre-open Thursday or on PCE Jun 26. AGM Jul 16 catalyst live but too far to save near-term. DO NOT PRECUT. Let $42.78 govern. Max loss from cost: -£14.88."},
+    {"ticker":"NTRA","current":"$231.41","stop":"$213.90","buffer_pct":8.0,"gain_if_triggered_gbp":19.84,"note":"PROFITABLE TRAILING STOP — if triggered IC books +£19.84 profit (stop above avg cost $203.41). Healthcare defensive, safe in chip selloff. Buffer 8.0%. No immediate risk. Druckenmiller #1 18.1% AUM."}
+  ],
+  "total_stop_exposure_from_current_gbp": -14.88,
   "forecast_log": [
     {
       "session": "2026-06-09 (Tuesday — actuals)",
@@ -1117,6 +1127,9 @@
       "2026-06-17: NTRA PRICE QUALITY PROTOCOL — When multiple search sources give conflicting prices (Jun 16: $191.96 vs $218.98), the protocol is: (1) Hold last verified price, (2) Flag for next-session verification, (3) Take no action on unverified data (neither sell nor add). Next session MUST confirm price before any decision. This was validated Jun 17 when NTRA confirmed at $219.60 (safely above $188.89 stop). Apply same protocol to any position where search returns conflicting quotes with >5% spread.",
       "2026-06-18: GOVERNMENT-MANDATED PARTNERSHIP RULE — When government announces forced/policy partnership (e.g. Trump Apple-INTC deal), assess: (1) Is the partnered company BLOCKED? → No IC action. (2) Does the deal threaten an existing CORE position? → Assess process technology reality vs narrative (TSMC N2 = 3+ year lead over Intel, Apple-INTC deal = PR/politics, not competitive threat). (3) Short-term narrative risk vs structural thesis — if structural thesis unchanged, do not act. Applied Jun 18: INTC +9.8% (BLOCKED, no action). TSM mild narrative dip acknowledged but thesis unchanged.",
       "2026-06-22: SNDK DUAL INVESTOR CORE UPGRADE — Aschenbrenner $724.4M #2 (5.30% AUM, Q1 2026 13F) + Tepper 3% AUM (Q1 2026 new buy) = DUAL INVESTOR different styles (AI infra specialist + macro/value). CORE condition met. HOWEVER: both investors sub-8% AUM individually → reduced conviction → initial CORE entry cap £200-300 (not full £750 max). ATH SPIKE RULE still applies: SNDK at $2,210 within 5% of ATH $2,219 → DEFER until <$2,108. Use 10% stop (HIGH-VOL rule, stock >$2,000). Build to £750 only if investor AUM increases above 8% in Q2 2026 13F.",
+      "2026-06-23: DAN NILES 'SPEED BUMP' SELLOFF RULE — When a credible high-profile investor (Dan Niles, Stanley Druckenmiller, Tepper) issues a LIVE media warning about AI 'token minimization,' hyperscaler September guidance risk, or semiconductor over-valuation, treat as a 1-session SHORT-TERM HEADWIND for: (1) AI semiconductor names (MU, TSM, NVDA, AMD, AVGO) — expect -3-8% in the session; (2) Hyperscaler AI spenders (AMZN, MSFT, GOOGL) — expect -3-6%; (3) AI power/infra plays (BE, VST) — DEFENSIVE, may outperform. ACTION: Do NOT enter new positions on day of warning. DEFER any planned EXPLORE entries. CORE positions: hold (no stop = thesis-based hold). Monitor for next session stabilization. Dan Niles does NOT override CORE conviction (Tepper/Ackman/Aschenbrenner dual-signal still stands). This is sentiment noise, not thesis change.",
+      "2026-06-23: BE CHIP-SELLOFF RESILIENCE CONFIRMED — BE rose +4.2% on Jun 23 while chips fell 5-9%. Pattern: when AI semiconductor stocks experience sentiment selloffs (AI efficiency fears, 'token minimization'), BE/VST energy/power infra stocks are DEFENSIVE and often OUTPERFORM (AI data center power demand is structural, not sentiment-driven). Rule: On chip-selloff days, expect BE to hold or gain if AI capex fear is sentiment-driven (not actual capex cut). If a hyperscaler announces actual CAPEX REDUCTION (not just guidance concern), then reassess BE thesis.",
+      "2026-06-23: TSM FOUNDRY IMMUNITY RULE — TSM ATH $468+ on Jun 23 chip selloff day confirms foundry companies are structurally immune to AI sentiment selloffs. Reasoning: TSMC's order book is committed months/years in advance by NVDA, AMD, Apple, AVGO — hyperscaler capex spending doesn't immediately affect TSMC revenue. TSM = more defensive than fabless chip names (NVDA, AMD, QCOM) during AI sentiment corrections. Rule: On AI sentiment correction days, TSM expected to outperform SOXX/NVDA. TSM entry timing: can add on CHIP SELLOFF DAYS as better entry points vs ATH days.",
       "2026-06-22: BURRY SCION CLOSURE — ZERO WEIGHT — Michael Burry shut down Scion Asset Management late 2025 and now writes AI Bubble Substack commentary. No longer a registered investment adviser generating actionable 13F signals. Investor signal weight for Burry: 0x (was 0x due to 0/2 accuracy; now formally closed). Do NOT act on any Burry signal going forward. Remove from active investor tracking.",
       "2026-06-22: DATA SYNTHESIS HALLUCINATION PROTOCOL — When a search synthesis/summary reports a large investor action (e.g. '83% reduction in TSM') that contradicts specific named news headlines from reputable sources (Globe and Mail, GuruFocus confirming 'Coatue Boosts TSM' with specific share count), always TRUST the specific named headline over the synthesized summary. Applied Jun 22: Coatue '83% reduction' in synthesis = confirmed hallucination — actual reduction was AMZN (82%), not TSM. TSM Triple Institutional CORE remains valid.",
       "2026-06-22: VST HELIX CATALYTIC CLASSIFICATION — VST $10B Helix deal (KKR+NVDA+Kuwait Investment Authority, Jun 11) naming VST as preferred AI power infrastructure provider constitutes a TIER-1 STRATEGIC CATALYST. Classification: comparable to ORCL MSA-level deal for BE. Upgrade VST thesis conviction from 4/5 to HIGH CONFIDENCE ENTRY. MS PT $212, Seaport PT $230, Tepper 7.56% CURRENT. Proceed with Jun 23 EXPLORE £200 entry per plan.",
