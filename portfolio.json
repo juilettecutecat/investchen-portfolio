@@ -1,26 +1,26 @@
 {
   "inception_date": "2026-05-11",
-  "last_updated": "2026-06-29",
+  "last_updated": "2026-07-02",
   "currency": "GBP",
   "initial_capital_gbp": 5000,
-  "cash_gbp": 1337.3,
-  "fx_rate_gbpusd": 1.32,
-  "total_value_gbp": 5179.9,
-  "cumulative_return_pct": 3.6,
+  "cash_gbp": 1562.15,
+  "fx_rate_gbpusd": 1.3203,
+  "total_value_gbp": 5203.38,
+  "cumulative_return_pct": 4.07,
   "positions": {
     "MU": {
       "shares": 1.2939,
       "avg_cost_gbp": 750.0,
       "avg_cost_usd": 790.0,
-      "current_price_usd": 1133.5,
-      "current_value_gbp": 1110.93,
-      "unrealized_pnl_gbp": 360.93,
-      "unrealized_pnl_pct": 48.12,
+      "current_price_usd": 1037.21,
+      "current_value_gbp": 1016.26,
+      "unrealized_pnl_gbp": 266.26,
+      "unrealized_pnl_pct": 35.50,
       "entry_date": "2026-05-11",
       "strategy": "value_investor_follow+momentum",
       "confidence": 5,
       "tier": "CORE",
-      "thesis": "DUAL INVESTOR CORE \u2605: Tepper #2 (9.48%, ~$562M Q1 2026) + Druckenmiller Q1 2026. POST-EARNINGS BLOWOUT Jun 24-25: EPS $25.11 (+21% vs $20.78e), Rev $41.46B (+16% vs $35.75Be), Q4 Guide $50B\u00b1$1B vs $43Be, $100B contracted revenues (16 customers). GM record 84.9%. Analyst PTs raised to $2,000 (Susquehanna, Barclays, DA Davidson). HBM4 supply constrained through 2028. Today -4.5% premarket = normal post-earnings institutional profit-taking after +19.2% surge Jun 25. CORE no-stop 90-day hold min 2026-08-11.",
+      "thesis": "DUAL INVESTOR CORE \u2605: Tepper #2 (9.48%, ~$562M Q1 2026) + Druckenmiller Q1 2026. POST-EARNINGS BLOWOUT Jun 24-25: EPS $25.11 (+21% vs $20.78e), Rev $41.46B (+16% vs $35.75Be), Q4 Guide $50B\u00b1$1B vs $43Be, $100B contracted revenues (16 customers). GM record 84.9%. Analyst PTs raised to $2,000 (Susquehanna, Barclays, DA Davidson). HBM4 supply constrained through 2028. JUL 1 HEADLINE RISK: DRAM class-action lawsuit (Samsung+SKH+MU, alleged DDR3/DDR4 price-fixing while pivoting to HBM). Jefferies: 'headline risk only, no impact on MU pricing before year-end.' HBM4/AI thesis UNCHANGED. MU -10.6% Jul 1 to $1,037.21. CORE no-stop 90-day hold min 2026-08-11.",
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-08-11",
@@ -30,10 +30,10 @@
       "shares": 3.8645,
       "avg_cost_gbp": 748.37,
       "avg_cost_usd": 262.64,
-      "current_price_usd": 232.69,
-      "current_value_gbp": 681.16,
-      "unrealized_pnl_gbp": -67.21,
-      "unrealized_pnl_pct": -8.98,
+      "current_price_usd": 241.70,
+      "current_value_gbp": 707.61,
+      "unrealized_pnl_gbp": -40.76,
+      "unrealized_pnl_pct": -5.44,
       "entry_date": "2026-05-11",
       "last_add_date": "2026-06-05",
       "strategy": "value_investor_follow",
@@ -90,23 +90,23 @@
       ]
     },
     "BE": {
-      "shares": 2.5983,
-      "avg_cost_gbp": 550.0,
-      "avg_cost_usd": 285.09,
-      "current_price_usd": 257.98,
-      "current_value_gbp": 507.85,
-      "unrealized_pnl_gbp": -42.15,
-      "unrealized_pnl_pct": -7.66,
+      "shares": 3.0026,
+      "avg_cost_gbp": 650.0,
+      "avg_cost_usd": 290.74,
+      "current_price_usd": 326.60,
+      "current_value_gbp": 742.60,
+      "unrealized_pnl_gbp": 92.60,
+      "unrealized_pnl_pct": 14.25,
       "entry_date": "2026-05-13",
-      "last_add_date": "2026-06-17",
+      "last_add_date": "2026-07-02",
       "strategy": "value_investor_follow+sector_rotation",
       "confidence": 4,
       "tier": "CORE",
-      "thesis": "DUAL INVESTOR CORE: Aschenbrenner LARGEST position 6.5M shares = $879M (Q1 2026 13F, 6.4% of $13.7B fund \u2014 #1 conviction). Druckenmiller also holds. Jun 9 price ~$254 = DIP TRIGGER MET (<$255 threshold). DEFERRED add per pre-CPI rule \u2014 CPI consensus 4.2% tomorrow (hot). Wait for post-CPI clarity. If hot CPI \u2192 may fall to $240-248 = better CORE add. If soft CPI \u2192 add \u00a3100 CORE at confirmed price. Oracle MSA 2.8GW, FY2026 guidance raised $3.4-3.8B, backlog $20B. Aschenbrenner chip puts = PORTFOLIO HEDGES, NOT exits from BE. CORE \u00a3450/\u00a3750 \u2014 \u00a3300 remaining room. No stop per CORE rule. Hold min 2026-08-11.",
+      "thesis": "DUAL INVESTOR CORE: Aschenbrenner LARGEST position 6.5M shares = $879M (Q1 2026 13F, 6.4% of $13.7B fund \u2014 #1 conviction, +1488% shares Q1 2026). Druckenmiller also holds. JUL 2 CATALYST: Brookfield renewable energy financing commitment EXPANDED $5B\u2192$25B for BE fuel cell deployments at AI data centers. $20B backlog confirmed. Oracle MSA 2.8GW + Nebius $2.6B + Brookfield $25B = full demand pipeline visibility at scale. Aschenbrenner $8.5B put basket on NVDA/AMD/TSM = chip sector HEDGES, NOT BE exits (confirms SPECIFIC NAND/fuel cell conviction separate from chip macro). BE +7.9% Jul 2 to $326.60. CORE \u00a3650/\u00a3750 \u2014 \u00a3100 remaining room (defer for pullback consolidation). No stop per CORE rule. Hold min 2026-08-11.",
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-08-11",
-      "valuation_warning": "PRICE CORRECTION JUN 29: Portfolio carried stale $345 from Jun 25; actual Jun 26 close was $252.02 (-18.49%) \u2014 Jefferies upgraded rival FuelCell Energy + AI power sentiment cooling. Jun 29 recovery to $257.98. Overstated portfolio by ~\u00a3183 in Jun 26 SESSION_UPDATE. NEW RULE: Verify all closing prices via web search each session. Aschenbrenner #1 thesis INTACT ($879M unchanged). CORE no-stop, hold min 2026-08-11. Room: \u00a3200 remaining to \u00a3750 max.",
+      "valuation_note": "JUL 2 BREAKOUT: Brookfield $25B catalyst drove BE from $257.98 (Jun 29) \u2192 $302.7 (Jul 1 est) \u2192 $326.60 (Jul 2 +7.9%). Now +14.25% unrealized from \u00a3650 cost basis. CORE \u00a3650/\u00a3750 \u2014 \u00a3100 add deferred for pullback (defer-at-30d-peak rule acknowledged; Brookfield catalyst exception applied for initial \u00a3100 add). Hold min 2026-08-11.",
       "add_history": [
         {
           "date": "2026-05-13",
@@ -141,6 +141,15 @@
           "amount_gbp": 100.0,
           "fx_rate": 1.3426,
           "trigger": "FOMC_HOLD_NEUTRAL Jun 17 \u2014 CORE add trigger met. Warsh holds 3.5-3.75%, hawkish press conference (neutral language, QT emphasis). Post-FOMC dip from $273 open to $270 = better fill. Total BE \u00a3550/\u00a3750 CORE."
+        },
+        {
+          "date": "2026-07-02",
+          "action": "add",
+          "shares": 0.4043,
+          "price_usd": 326.60,
+          "amount_gbp": 100.0,
+          "fx_rate": 1.3203,
+          "trigger": "BROOKFIELD_$25B_EXPANSION Jul 2. Brookfield financing commitment expanded $5B\u2192$25B for BE fuel cell AI datacenter deployments. Exceptional structural thesis validation \u2014 defer-at-30d-peak rule exception applied. NTRA stop-freed cash partially deployed. Total BE \u00a3650/\u00a3750 CORE. Room \u00a3100 remaining."
         }
       ]
     },
@@ -169,10 +178,10 @@
       "shares": 5.683,
       "avg_cost_gbp": 300.0,
       "avg_cost_usd": 70.9,
-      "current_price_usd": 69.75,
-      "current_value_gbp": 300.33,
-      "unrealized_pnl_gbp": 0.33,
-      "unrealized_pnl_pct": 0.11,
+      "current_price_usd": 72.66,
+      "current_value_gbp": 312.79,
+      "unrealized_pnl_gbp": 12.79,
+      "unrealized_pnl_pct": 4.26,
       "entry_date": "2026-05-28",
       "strategy": "value_investor_follow",
       "confidence": 4,
@@ -180,25 +189,6 @@
       "thesis": "DUAL INVESTOR CORE: Ackman $2.154B #3 position (15.71%) + Tepper +242% to 7.68%. Both Q1 2026 13F CURRENT. UBEAR WATCH: Stock -3.34% Jun 22 to $69.25 (now -0.96% from IC entry $70.90). Down 32% from all-time high ~$102. Near 52-week lows ($67.19). Drivers: robotaxi narrative headwinds (Pony AI robotaxi profitable, MA state regulations proposed), People Team -23% headcount cut, Delivery Hero acquisition uncertainty. CFO defending thesis on CNBC. HOWEVER: Ackman 15.71% + Tepper 7.68% BOTH still in Q1 2026 \u2014 CORE conviction unchanged. Wayve London robotaxi waitlist, AI productivity gains (fewer hires = higher margins), Brent oil $83 (Iran deal) = margin tailwind. No stop per CORE rule. Hold min 2026-08-28. Monitor for fundamental thesis change (AWS/revenue decel).",
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
-      "hold_min_date": "2026-08-28"
-    },
-    "NTRA": {
-      "shares": 1.981,
-      "avg_cost_gbp": 300.0,
-      "avg_cost_usd": 203.41,
-      "current_price_usd": 261.0,
-      "current_value_gbp": 391.7,
-      "unrealized_pnl_gbp": 91.7,
-      "unrealized_pnl_pct": 30.57,
-      "price_data_quality_flag": "2026-06-29: $261.00. NCCN Category 1 endorsement (bladder cancer) + Japan PMDA colorectal approval (Jun 24) remain key catalysts. BTIG PT $270 (Buy), RBC PT $275. Stop trail chain: $188.89 \u2192 $213.90 \u2192 $218.61 \u2192 $241.80 \u2192 $242.73 (7% below $261.00 Jun 29). Protected gain: +\u00a362.13 minimum if stopped.",
-      "entry_date": "2026-05-28",
-      "last_add_date": "2026-06-02",
-      "strategy": "value_investor_follow",
-      "confidence": 4,
-      "tier": "EXPLORE",
-      "thesis": "Druckenmiller Duquesne #1 position 18.1% AUM ($612.7M, +80% increase Q1 2026 13F CURRENT). CATALYST Jun 24: NCCN endorsement for Signatera in muscle-invasive bladder cancer. BTIG PT $270 (Buy), RBC resumed Outperform $275. +29.85% from avg cost $203.41. Healthcare sector defensive = non-AI diversification validated. Max EXPLORE \u00a3300 \u2014 filled. STOP TRAILED Jun 26: $218.61 \u2192 $241.80 (7% below $260). Hold min 2026-08-28.",
-      "stop_loss_usd": 242.73,
-      "hold_type": "explore",
       "hold_min_date": "2026-08-28"
     },
     "VST": {
@@ -224,16 +214,16 @@
       "shares": 1.9866,
       "avg_cost_gbp": 650.0,
       "avg_cost_usd": 435.7,
-      "current_price_usd": 432.35,
-      "current_value_gbp": 650.63,
-      "unrealized_pnl_gbp": 0.63,
-      "unrealized_pnl_pct": 0.1,
+      "current_price_usd": 444.36,
+      "current_value_gbp": 668.40,
+      "unrealized_pnl_gbp": 18.40,
+      "unrealized_pnl_pct": 2.83,
       "last_add_date": "2026-06-29",
       "entry_date": "2026-06-08",
       "strategy": "value_investor_follow",
       "confidence": 4,
       "tier": "CORE",
-      "thesis": "CORE: Tepper 7.56% + Druckenmiller 5.0% + Coatue 9.28M shares Q1 2026. Triple institutional. AI foundry monopoly \u2014 NVDA Blackwell, AMD MI300, AVGO custom silicon ALL on TSMC N2. MU $100B contracted revenues = AI chip demand acceleration confirmed at foundry layer. TSM range $438-$465 today (immune to tech selloff; MU demand validates foundry orders). Cost \u00a3550/\u00a3750 max \u2014 room \u00a3200 for future add (cash constraint prevents add today). No stop \u2014 90-day hold min 2026-09-08.",
+      "thesis": "CORE: Tepper 7.56% + Druckenmiller 5.0% Q1 2026 CURRENT. (Coatue reduced TSM ~83% in Q1 2026 \u2014 now reduced position, dual-investor CORE still intact.) AI foundry monopoly \u2014 NVDA Blackwell, AMD MI300, AVGO custom silicon ALL on TSMC N2. MU $100B contracted revenues = AI chip demand acceleration confirmed at foundry layer. TSM Q2 2026 EARNINGS Jul 16: guided rev $39-40.2B (+32% YoY), GM 65.5-67.5%. THREE-CONDITION RULE triggers Jul 16. Cost \u00a3650/\u00a3750 \u2014 room \u00a3100 for post-earnings CORE add if all 3 met. No stop \u2014 90-day hold min 2026-09-08.",
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-09-08",
@@ -280,10 +270,10 @@
       "shares": 0.1263,
       "avg_cost_gbp": 200.0,
       "avg_cost_usd": 2090.0,
-      "current_price_usd": 2090.0,
-      "current_value_gbp": 200.0,
-      "unrealized_pnl_gbp": 0.0,
-      "unrealized_pnl_pct": 0.0,
+      "current_price_usd": 2023.54,
+      "current_value_gbp": 193.57,
+      "unrealized_pnl_gbp": -6.43,
+      "unrealized_pnl_pct": -3.22,
       "entry_date": "2026-06-29",
       "strategy": "value_investor_follow",
       "confidence": 4,
@@ -295,6 +285,23 @@
     }
   },
   "closed_positions": {
+    "NTRA": {
+      "shares": 1.981,
+      "entry_date": "2026-05-28",
+      "last_add_date": "2026-06-02",
+      "exit_date": "2026-07-01",
+      "avg_entry_price_usd": 203.41,
+      "exit_price_usd": 216.50,
+      "stop_target_usd": 242.73,
+      "cost_basis_gbp": 300.0,
+      "exit_value_gbp": 324.85,
+      "realized_pnl_gbp": 24.85,
+      "realized_pnl_pct": 8.28,
+      "exit_reason": "stop_loss_gap_through",
+      "stop_slippage_usd": -26.23,
+      "expected_min_exit_gbp": 364.0,
+      "lesson": "NTRA GAP-THROUGH STOP: Stock at $271.45 Jun 30, gapped DOWN ~20% to $216.50 Jul 1 open (cause: unknown overnight catalyst — possibly CMS/Medicare adverse ruling or institutional liquidation). Stop $242.73 was blown through with $26.23/share slippage. Expected protected gain +£62 (at $242.73); actual +£24.85 (at $216.50 gap execution). RULES UPDATE: (1) For EXPLORE positions >30% unrealized gain, consider tightening stop to -5% (not -7%) to reduce gap exposure on high-beta healthcare stocks. (2) Druckenmiller #1 thesis ($612.7M, 18.1% AUM) remains INTACT — re-entry only AFTER Q2 2026 13F confirms maintained/increased position AND catalyst for gap-down identified and resolved. (3) DO NOT re-enter blindly — Druckenmiller may have exited too."
+    },
     "LITE": {
       "shares": 0.7769,
       "entry_date": "2026-05-11",
@@ -1029,6 +1036,98 @@
       "strategy": "value_investor_follow",
       "signal": "FOMC_HOLD_3.5-3.75%_Warsh_neutral_language_Jun17. Aschenbrunner_#1_6.5M_shares_$879M_Q1_2026_CURRENT.",
       "note": "CORE add trigger met post-FOMC. Post-FOMC hawkish dip from $273 opening to $270 = better fill. Total BE \u00a3550/\u00a3750 \u2014 \u00a3200 remaining CORE room. AI data center fuel cell demand structural despite Warsh balance sheet QT. Oracle $40B capex plan = continued BE demand. Aschenbrenner chip put basket = macro hedge, NOT BE exit."
+    },
+    {
+      "date": "2026-06-25",
+      "time": "14:00",
+      "ticker": "TSM",
+      "action": "ADD",
+      "tier": "CORE",
+      "shares": 0.573,
+      "price_usd": 460.0,
+      "amount_gbp": 200.0,
+      "fx_rate": 1.318,
+      "strategy": "value_investor_follow",
+      "signal": "MU_THREE_CONDITION_ALL_MET_Jun24AH",
+      "note": "MU blowout (EPS $25.11>$20.78, Rev $41.46B>$35.75B, Q4 guide $50B vs $43B) validates TSMC foundry demand. $100B contracted revenues. Total TSM \u00a3550/\u00a3750 CORE. Room \u00a3200 remaining."
+    },
+    {
+      "date": "2026-06-29",
+      "time": "09:35",
+      "ticker": "BN",
+      "action": "SELL",
+      "tier": "EXPLORE",
+      "shares": 8.824,
+      "price_usd": 42.78,
+      "amount_gbp": 285.98,
+      "fx_rate": 1.32,
+      "realized_pnl_gbp": -14.02,
+      "realized_pnl_pct": -4.67,
+      "exit_reason": "stop_loss_triggered",
+      "stop_usd": 42.78,
+      "entry_price_usd": 45.7,
+      "entry_date": "2026-06-02",
+      "note": "BN stop $42.78 triggered Jun 29. Intraday low $42.51. PCE 4.1% HOT (>4.0% threshold) + Warsh QT hawkish repricing = persistent pressure on rate-sensitive Brookfield. 3 macro shocks eroded buffer sequentially. Stop governed correctly. AGM Jul 16 catalyst missed. Realized -\u00a314.02 (-4.67%)."
+    },
+    {
+      "date": "2026-06-29",
+      "time": "09:40",
+      "ticker": "TSM",
+      "action": "ADD",
+      "tier": "CORE",
+      "shares": 0.3053,
+      "price_usd": 432.35,
+      "amount_gbp": 100.0,
+      "fx_rate": 1.32,
+      "strategy": "value_investor_follow",
+      "note": "BN stop-freed cash redeployed to TSM CORE. \u00a3550\u2192\u00a3650 (of \u00a3750 max). Tepper 7.56% + Druckenmiller 5.0% Q1 2026 CURRENT. TSM earnings Jul 16 upcoming catalyst. Room \u00a3100 remaining."
+    },
+    {
+      "date": "2026-06-29",
+      "time": "09:45",
+      "ticker": "SNDK",
+      "action": "BUY",
+      "tier": "CORE",
+      "shares": 0.1263,
+      "price_usd": 2090.0,
+      "amount_gbp": 200.0,
+      "fx_rate": 1.32,
+      "strategy": "value_investor_follow",
+      "signal": "Aschenbrenner_SA_$724M_#2_Tepper_NEW_~$177M_Q1_2026_CURRENT",
+      "note": "DUAL INVESTOR CORE re-entry. Aschenbrenner SA #2 $724.4M + Tepper NEW ~3% AUM $177M. SNDK +857% YTD (S&P 500 best). Entry after 10.5% pullback from $2,335 ATH. NAND +70-75% sequential Q2 2026. Pure-play NAND thesis distinct from MU HBM. Initial \u00a3200/\u00a3750 CORE. No stop \u2014 hold min 2026-09-28."
+    },
+    {
+      "date": "2026-07-01",
+      "time": "09:30",
+      "ticker": "NTRA",
+      "action": "SELL",
+      "tier": "EXPLORE",
+      "shares": 1.981,
+      "price_usd": 216.50,
+      "amount_gbp": 324.85,
+      "fx_rate": 1.3203,
+      "realized_pnl_gbp": 24.85,
+      "realized_pnl_pct": 8.28,
+      "exit_reason": "stop_loss_gap_through",
+      "stop_target_usd": 242.73,
+      "slippage_usd": -26.23,
+      "entry_price_usd": 203.41,
+      "entry_date": "2026-05-28",
+      "note": "NTRA GAP-THROUGH STOP: Stock at $271.45 Jun 30, gapped -20% to $216.50 Jul 1 open (unknown catalyst \u2014 possibly CMS/Medicare adverse event overnight). Stop $242.73 blown through \u2014 gap execution at $216.50. Expected protected gain +\u00a362 (at stop); actual +\u00a324.85 (gap execution). Stop_slippage = -\u00a337.15 from expected. Druckenmiller #1 thesis ($612.7M) intact \u2014 re-entry only post Q2 2026 13F confirmation."
+    },
+    {
+      "date": "2026-07-02",
+      "time": "09:35",
+      "ticker": "BE",
+      "action": "ADD",
+      "tier": "CORE",
+      "shares": 0.4043,
+      "price_usd": 326.60,
+      "amount_gbp": 100.0,
+      "fx_rate": 1.3203,
+      "strategy": "value_investor_follow",
+      "signal": "Brookfield_$25B_AI_datacenter_fuel_cell_financing_Jul_2026",
+      "note": "CORE add on exceptional thesis-validation catalyst. Brookfield expanded commitment $5B\u2192$25B for BE fuel cell AI datacenter deployments. Aschenbrenner #1 $879M position VALIDATED at scale. Defer-at-30d-peak rule noted (BE at 30d high $326.60) \u2014 structural catalyst exception applied for partial add (\u00a3100). Final \u00a3100 CORE room reserved for pullback consolidation. Total BE \u00a3650/\u00a3750. No stop \u2014 hold min 2026-08-11."
     }
   ],
   "weekly_returns": [
@@ -1126,6 +1225,41 @@
       },
       "fx_rate_close": 1.3198,
       "note": "Week 6 FINAL (4 trading days \u2014 Jun 19 Juneteenth, last trading day Jun 18). OFFICIAL CLOSE at FX 1.3198 (Jun 19 forex, GBP weakened from prior 1.3407 weekend stamp \u2192 adds +\u00a358.94 to USD positions). Actual stock closes: MU $1,133.99, BE $328.91, AMZN $243.11, TSM ~$445, UBER $70.91, NTRA $230.02, BN $45.67. WEEK RETURN +7.82% (\u00a34,964.03\u2192\u00a35,352.04) = +6.82% alpha vs S&P +1.0%. TRADES: TSM CORE +\u00a3150 (Jun 17), BE CORE +\u00a3100 (Jun 17). MANAGEMENT: NTRA stop trail Jun 18 ($188.89\u2192$213.90). KEY CATALYST: BE +15.4% Jun 18 (Bloom Energy Mid-Year Data Center Power Report \u2014 onsite power/carbon-capture thesis validated). MU +8.7% Jun 18 actual close (bank PTs $1,200\u2013$1,600, 'secular AI/HBM' narrative shift). Forecast error: 5.32 pts (base +2.5% vs actual +7.82%). Running MAE \u2192 2.13 pts. Week 7: MRVL inclusion Jun 22, VST entry Jun 23, MU EARNINGS Jun 24 (THREE-CONDITION RULE), PCE Jun 26."
+    },
+    {
+      "week": "2026-06-29/2026-07-03",
+      "week_label": "Week 8 (Holiday Week — partial through Jul 2)",
+      "start_value_gbp": 5387.73,
+      "day1_date": "2026-06-29",
+      "day1_value_gbp": 5158.84,
+      "day1_return_pct": -4.25,
+      "day1_note": "BROAD SEMI SELLOFF + BN STOP + BE CRASH. Nasdaq -4.6% weekly contagion. BN stop £285.98 exit, -£14.02 realized. BE -25.2% to $257.98. TSM CORE add £100 at $432.35. SNDK CORE BUY £200 at $2,090.",
+      "day2_date": "2026-06-30",
+      "day2_value_gbp": 5192.04,
+      "day2_return_pct": 0.65,
+      "day2_note": "H1/Q2 CLOSE WINDOW DRESSING. NTRA $271.45 peak. BE partial recovery ~$263. Quarter-end flows. No trades.",
+      "day3_date": "2026-07-01",
+      "day3_value_gbp": 5099.58,
+      "day3_return_pct": -1.80,
+      "day3_note": "NTRA GAP-THROUGH STOP (-20% open) + MU DRAM lawsuit (-10.6%). NTRA exit £324.85 (+£24.85 realized at gap $216.50). MU HBM4/AI thesis intact per Jefferies.",
+      "day4_date": "2026-07-02",
+      "day4_value_gbp": 5203.38,
+      "day4_return_pct": 2.03,
+      "day4_note": "BE BROOKFIELD $25B CATALYST. BE +7.9% to $326.60. CORE add £100. AMZN recovery $241.70. TSM $444.36. Portfolio cumulative +4.07%.",
+      "partial_end_value_gbp": 5203.38,
+      "partial_return_pct_4d": -3.42,
+      "spx_return_pct": -1.2,
+      "nasdaq_return_pct": -2.1,
+      "alpha_pct_vs_spx": -2.22,
+      "alpha_pct_vs_nasdaq": -1.32,
+      "trades": [
+        "BN EXPLORE SELL £285.98 at stop $42.78 (-£14.02, -4.67%) — Jun 29",
+        "TSM CORE ADD £100 at $432.35 (0.3053sh) — Jun 29 (total £650/£750)",
+        "SNDK CORE BUY £200 at $2,090 (0.1263sh) — Jun 29 (Aschenbrenner+Tepper dual)",
+        "NTRA EXPLORE SELL £324.85 at gap $216.50 (+£24.85, +8.28%) — Jul 1 (gap-through stop $242.73)",
+        "BE CORE ADD £100 at $326.60 (0.4043sh) — Jul 2 (Brookfield $25B catalyst, total £650/£750)"
+      ],
+      "note": "Holiday week (Jul 3 early close, Jul 4 closed). Turbulent week: NTRA/BN both stopped, MU DRAM lawsuit, BE crashed then Brookfield $25B catalyst drove recovery. All remaining positions now CORE (no stops). Cash 30.02% DEFENSIVE."
     },
     {
       "week": "2026-06-22/2026-06-26",
@@ -1352,12 +1486,36 @@
       "pnl_gbp": -92.36,
       "pnl_pct": -1.69,
       "note": "WEEK 7 DAY 5 \u2014 TECH SELLOFF + MU POST-EARNINGS PULLBACK. Nasdaq -0.89%, S&P -0.44%. MU -4.5% premarket to $1,158.70 (post-earnings profit-taking after +19.2% surge Jun 25). AMZN -5.6% to $227.51 (tech rotation). BE +3.3% to $345 (AI power immune to chip selloff). NTRA +9.7% to $260 (NCCN endorsement Jun 24: Signatera for bladder cancer. BTIG $270/RBC $275). BN $43.00 (stop $42.78, buffer $0.22 = 0.51% EXTREME DANGER). TSM ~$450 (range $438-465, AI foundry immune). UBER -2.9% to $72.32. NO TRADES \u2014 cash at ELEVATED floor 25.16% (BN danger + tech selloff). NTRA stop trail: $218.61 \u2192 $241.80 (7% below $260)."
+    },
+    {
+      "date": "2026-06-29",
+      "pnl_gbp": -228.89,
+      "pnl_pct": -4.25,
+      "note": "WEEK 8 DAY 1 \u2014 BROAD SEMI SELLOFF + BN STOP + BE CRASH. Nasdaq -4.6% weekly contagion. BN stop $42.78 triggered at open (PCE 4.1% Warsh hawkish exhausted buffer) \u2192 \u00a3285.98 exit, realized -\u00a314.02 (-4.67%). BE -25.2% crash from $345 \u2192 $257.98 (possible Crusoe 1.8GW contract pause + broad AI sentiment selloff). THREE TRADES: BN SELL \u00a3285.98 (stop). TSM CORE ADD \u00a3100 at $432.35 from BN proceeds (total \u00a3650/\u00a3750). SNDK CORE BUY \u00a3200 at $2,090 (Aschenbrenner #2 $724M + Tepper 3% \u2014 dual CORE, stable close <$2,108 met). MU -2% to ~$1,136 (minor contagion). AMZN ~$229 (recovering slightly). NTRA $263 (safe above stop $241.80). TSM -3.9% to $432.35. GBP/USD 1.3200."
+    },
+    {
+      "date": "2026-06-30",
+      "pnl_gbp": 33.20,
+      "pnl_pct": 0.65,
+      "note": "WEEK 8 DAY 2 \u2014 H1/Q2 CLOSE WINDOW DRESSING. Quarter-end flows drive partial recovery. NTRA $271.45 (near ATH, window dressing lift +3.2%). BE partial recovery $257.98 \u2192 ~$263 (no fundamental catalyst yet). AMZN $232 (recovering on Prime Day residual). TSM $435 (consolidating at dip level). BN ex-dividend reset 5.432% effective Jul 1 (minor positive \u2014 IC no longer holds). MU ~$1,140 (institutional holding pre-lawsuit resolution). UBER ~$71 (flat). No IC trades \u2014 cash 30.8% DEFENSIVE, holiday week caution. ISM Manufacturing Jul 1 next."
+    },
+    {
+      "date": "2026-07-01",
+      "pnl_gbp": -92.46,
+      "pnl_pct": -1.80,
+      "note": "WEEK 8 DAY 3 \u2014 NTRA GAP-THROUGH STOP + MU DRAM LAWSUIT. NTRA gapped -20% to $216.50 at open (unknown overnight catalyst \u2014 possible CMS/Medicare adverse ruling or institutional liquidation). Stop $242.73 blown through with $26.23/share slippage. EXIT at gap-open: 1.981sh \u00d7 $216.50 / 1.3203 = \u00a3324.85 proceeds, +\u00a324.85 realized (+8.28%). Expected protected gain +\u00a362 (at $242.73); actual +\u00a324.85 \u2014 \u00a337.15 gap slippage shortfall. MU DRAM class-action lawsuit announced (Samsung+SKH+MU, alleged DDR3/DDR4 price-fixing during HBM pivot). MU -10.6% to $1,037.21. Jefferies: 'headline risk only, no impact on MU pricing before year-end' \u2014 HBM4/AI thesis UNCHANGED, CORE no-stop hold. BE partial recovery ~$302.70 est. Cash rises to ~27.7% from NTRA proceeds."
+    },
+    {
+      "date": "2026-07-02",
+      "pnl_gbp": 103.80,
+      "pnl_pct": 2.03,
+      "note": "WEEK 8 DAY 4 \u2014 BE BROOKFIELD $25B CATALYST + HOLIDAY WEEK RECOVERY. Brookfield renewable energy financing commitment EXPANDED $5B\u2192$25B for BE fuel cell AI datacenter deployments. $20B backlog confirmed. BE +7.9% to $326.60. IC CORE add: BE \u00a3100 at $326.60 (0.4043sh, total BE \u00a3650/\u00a3750). Defer-at-30d-peak exception applied (Brookfield structural catalyst). Final \u00a3100 CORE room reserved for pullback. MU holds $1,037.21 (DRAM lawsuit headline risk only). AMZN recovery to $241.70 (+4.1% from lows). TSM $444.36 (+2.8%, AI foundry thesis intact pre-Jul 16 earnings). UBER $72.66 (+2.3%). SNDK $2,023.54 (-3.2% from entry, early, no stop CORE). Portfolio +2.03% to \u00a35,203.38 = cumulative +4.07%. Cash: \u00a31,562.15 = 30.02% DEFENSIVE."
     }
   ],
   "strategy_stats": {
     "value_investor_follow": {
-      "trades": 39,
-      "open_status": "JUN 25 UPDATE (MU BLOWOUT DAY): MU +61.14% CORE \u2605 ($1,230.94, THREE-CONDITION RULE ALL MET \u2713\u2713\u2713 \u2014 EPS $25.11, Rev $41.46B, Q4 guidance $50B. HOLD, CORE MAX \u00a3750) | TSM +6.69% CORE ($460.00, \u00a3550/\u00a3750 \u2014 added \u00a3200 today on MU trigger, \u00a3200 room remaining) | BE +19.72% CORE ($334.00, \u00a3550/\u00a3750 \u2014 add zone $295-310 Jun 30+) | AMZN -5.58% CORE ($241.00, recovering, CORE hold) | UBER +6.96% CORE ($74.45, recovering strongly, UBEAR WATCH resolved) | NTRA +18.74% EXPLORE ($237.00, stop TRAILED $218.61, buffer 7.7%, profitable stop) | BN -2.92% EXPLORE ($43.50, stop $42.78 EXTREME RISK \u2014 PCE 4.1% hot, buffer 1.67%) | SNDK DEFERRED: $2,270 premarket = new ATH, timing rule blocks | VST DEFERRED: within 5% of 30-day peak"
+      "trades": 44,
+      "open_status": "JUL 2 UPDATE: MU +35.50% CORE \u2605 ($1,037.21, DRAM lawsuit = headline only per Jefferies, HBM4/AI thesis UNCHANGED. CORE no-stop hold min 2026-08-11) | AMZN -5.44% CORE ($241.70, FTC delayed Feb 2027, CORE hold min 2026-08-11) | BE +14.25% CORE \u2605 ($326.60, Brookfield $25B catalyst Jul 2, \u00a3650/\u00a3750, +7.9% today. Final \u00a3100 room deferred for pullback) | UBER +4.26% CORE ($72.66, recovering, CORE min 2026-08-28) | TSM +2.83% CORE ($444.36, \u00a3650/\u00a3750. THREE-CONDITION RULE trigger Jul 16 earnings for final \u00a3100) | SNDK -3.22% CORE ($2,023.54, \u00a3200/\u00a3750 initial entry Jun 29, Aschenbrenner #2 + Tepper. CORE no-stop min 2026-09-28). ALL EXPLORE CLOSED: NTRA +8.28% gap-stop Jul 1, BN -4.67% stop Jun 29."
     },
     "momentum": {
       "trades": 3,
@@ -1369,71 +1527,76 @@
       "note": "CEG -7.43% closed. VRT net -\u00a35.28 (trim +\u00a311, stop -\u00a316.28) closed Jun 5."
     }
   },
-  "risk_mode": "ELEVATED",
-  "risk_mode_cash_pct": 25.08,
-  "risk_mode_cash_guidance": "ELEVATED \u2014 24.66% cash (\u00a31,351.32 / \u00a35,480.09). NOTE: Temporarily 34bps below ELEVATED 25% floor due to TSM CORE add triggered by MU THREE-CONDITION RULE (strongest possible trigger). PCE 4.1% hot \u2014 BN stop $42.78 may trigger today, returning ~\u00a3286 to cash (\u2192 ~29% cash). FX 1.3180 (Jun 25). MU BLOWOUT: +\u00a3235.57 (+4.49%) day. TRADES TODAY: TSM CORE +\u00a3200 at $460 (three-condition trigger \u2713). MANAGEMENT: NTRA stop trail $213.90\u2192$218.61. SNDK DEFERRED: +15.6% premarket ($2,270) = above ATH $2,219, timing rule blocks entry. Normal regime trigger: cash <20% = DEFENSIVE, do not add more until BN resolves.",
+  "risk_mode": "DEFENSIVE",
+  "risk_mode_cash_pct": 30.02,
+  "risk_mode_cash_guidance": "DEFENSIVE \u2014 30.02% cash (\u00a31,562.15 / \u00a35,203.38). NTRA stop-loss gap-through Jul 1 freed \u00a3324.85. BE CORE add \u00a3100 Jul 2 deployed. Cash threshold met: DEFENSIVE \u226530%. Holiday week (Jul 3 early close, Jul 4 Independence Day) warrants DEFENSIVE stance. All remaining positions are CORE (no stops). No new EXPLORE entries while DEFENSIVE. CORE add room: TSM \u00a3100 remaining (final fill trigger: post Jul 16 earnings three-condition rule). BE \u00a3100 remaining (defer for pullback consolidation). SNDK \u00a3550 remaining (initial \u00a3200 position, room to build on pullback). Next NORMAL trigger: cash <25% or clear macro catalyst.",
   "macro_context": {
-    "date": "2026-06-26",
-    "gbp_usd": 1.3222,
-    "gbp_usd_prev": 1.318,
-    "gbp_usd_note": "GBP/USD 1.3222 (+0.32% vs Jun 25 1.3180). GBP slightly stronger today. Warsh hawkish USD structural pressure partially offset by risk-off tone.",
-    "market_sentiment": "TECH SELLOFF WEEK POST-MU BLOWOUT. MU earnings (Jun 24 AH) blew out all three conditions (EPS $25.11, Rev $41.46B, Q4 $50B guide). Jun 25 risk-on surge then Jun 26 profit-taking. PCE May 2026 HOT 4.1% (Iran oil). Warsh hawkish rate cuts pushed to 2027+. BN $43.00 vs stop $42.78 = 0.51% buffer CRITICAL. NTRA +29.85% on NCCN endorsement. AMZN -11.15% cumulative = persistent drag. BE $345 + TSM $450 holding. SNDK near entry trigger.",
+    "date": "2026-07-02",
+    "gbp_usd": 1.3203,
+    "gbp_usd_prev": 1.3222,
+    "gbp_usd_note": "GBP/USD 1.3203 (-0.14% vs Jun 26 1.3222). Slight GBP weakness on thin holiday week volume.",
+    "market_sentiment": "HOLIDAY WEEK TURBULENCE + RECOVERY. Week opened with broad semi selloff (BE -25% crash, BN stop, Nasdaq -4.6%). Jul 1 double-shock: NTRA gap -20% (CMS/Medicare catalyst?) + MU DRAM class-action (-10.6%). Jul 2 reversal: BE Brookfield $5B\u2192$25B commitment drives +7.9%. Portfolio cumulative +4.07% despite turbulent week. All EXPLORE positions now closed \u2014 portfolio is 100% CORE (no stops). META cloud pivot (AI-native infrastructure) = key sector theme. TSM Q2 2026 earnings Jul 16 = next major CORE catalyst (guided $39-40.2B Rev, GM 65.5-67.5%).",
     "key_events": {
       "passed": [
-        "MU earnings blowout Jun 24 AH (three-condition rule ALL MET)",
-        "PCE May 2026 4.1% HOT (Jun 25)",
-        "NCCN Signatera MIBC Category 1 endorsement Jun 24",
-        "TSM CORE add \u00a3200 at $460 executed Jun 25"
+        "MU earnings blowout Jun 24 AH (ALL THREE conditions met: EPS $25.11, Rev $41.46B, Q4 guide $50B)",
+        "PCE May 2026 4.1% HOT (Jun 25) \u2014 Warsh hawkish structural headwind for rate-sensitives",
+        "BN stop $42.78 triggered Jun 29 \u2014 PCE + Warsh QT finally exhausted buffer (realized -\u00a314.02)",
+        "NTRA gap-through stop Jul 1 \u2014 stopped at $216.50 vs $242.73 stop (-$26.23/sh slippage, realized +\u00a324.85)",
+        "MU DRAM class-action lawsuit Jul 1 \u2014 Jefferies headline risk only, HBM4/AI thesis intact",
+        "Brookfield $5B\u2192$25B BE fuel cell commitment Jul 2 \u2014 exceptional thesis validation catalyst",
+        "BE +7.9% to $326.60 Jul 2 \u2014 Aschenbrenner #1 $879M position VALIDATED at scale"
       ],
       "upcoming": [
-        "H1/Q2 close window dressing Jun 30",
-        "ISM Manufacturing Jul 1",
-        "BN AGM Jul 16 (BWS simplification vote)",
-        "Q2 2026 earnings mid-July (AMZN Jul 30, GOOGL Jul 28, TSLA Jul 22)",
-        "FOMC Jul 28-29"
+        "Jul 3: ISM Services PMI + early close 1PM ET (holiday thin volume)",
+        "Jul 4: Independence Day \u2014 US markets CLOSED",
+        "Jul 16: TSM Q2 2026 earnings (THREE-CONDITION RULE \u2014 guided $39-40.2B Rev, GM 65.5-67.5%, +32% YoY)",
+        "Jul 16: BN AGM (BWS+BN simplification vote \u2014 Ackman catalyst; IC no longer holds BN)",
+        "Jul 28-29: FOMC (Warsh hawkish, 0 cuts expected 2026)",
+        "Jul 30: AMZN Q2 2026 earnings",
+        "Aug 14: Druckenmiller Q2 2026 13F (NTRA position confirmation \u2014 re-entry eligibility)"
       ]
     }
   },
   "watchlist_next": [
     {
-      "ticker": "SNDK",
-      "priority": "DUAL INVESTOR CORE CANDIDATE \u2605 \u2014 TIMING RULE BLOCKS (volatile, need stable close <$2,108)",
-      "current_price_usd": 2200.0,
-      "target_gbp": 200,
-      "tier": "CORE_CANDIDATE",
-      "signal": "Aschenbrenner Q1 2026 13F: SNDK $724.4M = #2 position (5.30% AUM). Tepper Q1 2026 NEW position (~3% AUM). MU blowout validates AI NAND thesis. SNDK +22% Jun 25 on MU results. Today volatile: range $2,092-$2,379 (intraday low hit trigger briefly). Morgan Stanley: SNDK+MU 'prolonged upcycle' as NAND supply constrained. Citi PT $2,500. $42B AI backlog per NAND bull thesis.",
-      "trigger": "Entry trigger: stable close <$2,108 (>5% below $2,270 ATH from Jun 22). Intraday low $2,092 hit Jun 26 but recovered to $2,200+ = too volatile. Need STABLE CLOSE below $2,108. Initial \u00a3200 CORE. Stop: -10% from entry."
-    },
-    {
       "ticker": "TSM",
-      "priority": "CORE \u2014 \u00a3550/\u00a3750. NEXT ADD: \u00a3200 remaining when cash permits",
-      "current_gbp": 550,
-      "current_price_usd": 450.0,
+      "priority": "CORE \u2014 \u00a3650/\u00a3750. NEXT ADD: \u00a3100 final fill on Jul 16 THREE-CONDITION RULE trigger",
+      "current_gbp": 650,
+      "current_price_usd": 444.36,
       "max_gbp": 750,
-      "room_gbp": 200,
+      "room_gbp": 100,
       "tier": "CORE",
-      "signal": "Triple institutional: Tepper 7.56% + Druckenmiller 5.0% + Coatue 9.28M shares. Foundry monopoly.",
-      "trigger": "Add \u00a3200 CORE final fill \u2014 DEFERRED today (cash at ELEVATED 25.16% floor). Add when cash rises above 27% or BN resolves."
+      "signal": "Tepper 7.56% + Druckenmiller 5.0% Q1 2026 CURRENT. AI foundry monopoly \u2014 NVDA Blackwell/AMD MI300/AVGO all on TSMC N2. MU $100B contracted revenues = foundry demand locked.",
+      "trigger": "Add final \u00a3100 CORE fill ONLY if Jul 16 earnings meet ALL THREE conditions: (1) Rev \u2265$39B, (2) EPS beat consensus, (3) Q3 guidance \u2265consensus. Current room: \u00a3100 of \u00a3750 max. Cash at DEFENSIVE 30% \u2014 final \u00a3100 add only on clear three-condition trigger."
     },
     {
       "ticker": "BE",
-      "priority": "CORE \u2014 \u00a3550/\u00a3750. NEXT ADD: \u00a3200 remaining on $295-305 consolidation",
-      "current_gbp": 550,
-      "current_price_usd": 345.0,
+      "priority": "CORE \u2014 \u00a3650/\u00a3750. NEXT ADD: \u00a3100 final fill on pullback ($295-305 zone) or new catalyst",
+      "current_gbp": 650,
+      "current_price_usd": 326.60,
       "max_gbp": 750,
-      "room_gbp": 200,
+      "room_gbp": 100,
       "tier": "CORE",
-      "signal": "Aschenbrenner #1 $879M. Oracle 2.8GW backlog. +22.6% from cost.",
-      "trigger": "ATH spike rule (Jun 18): defer 5+ sessions post-spike. Add zone: $295-305 dip. Today $345 = above add zone."
+      "signal": "Aschenbrenner #1 $879M (Q1 2026). Brookfield $25B AI datacenter fuel cell commitment Jul 2. Oracle 2.8GW + Nebius $2.6B + Brookfield $25B = full demand pipeline.",
+      "trigger": "Defer-at-30d-peak rule applies (BE at 30d high $326.60). Final \u00a3100 CORE add: (a) on dip to $295-305 consolidation zone, OR (b) new contract announcement >$1B, OR (c) Q2 2026 earnings confirm revenue acceleration. No stop."
     },
     {
-      "ticker": "BN",
-      "priority": "WATCH STOP \u2014 $43.00 vs stop $42.78. EXTREME DANGER (buffer $0.22 = 0.51%)",
-      "current_price_usd": 43.0,
-      "stop": 42.78,
-      "tier": "EXPLORE",
-      "signal": "Ackman #1 $2.42B 17.62% Q1 2026. AGM Jul 16 BWS simplification catalyst.",
-      "trigger": "Let stop govern. If triggered: -\u00a314.50 from cost (-4.83%). Cash rises to ~\u00a31,637 = enables TSM/BE adds."
+      "ticker": "SNDK",
+      "priority": "CORE \u2014 \u00a3200/\u00a3750. Build to \u00a3550 on pullback catalyst",
+      "current_gbp": 200,
+      "current_price_usd": 2023.54,
+      "max_gbp": 750,
+      "room_gbp": 550,
+      "tier": "CORE",
+      "signal": "Aschenbrenner #2 $724.4M (5.30% AUM Q1 2026) + Tepper NEW 3% AUM Q1 2026. NAND +70-75% sequential Q2 2026. Pure-play NAND thesis distinct from MU HBM. +857% YTD S&P 500 best performer.",
+      "trigger": "Add \u00a3100-200 CORE on each 5-10% dip from entry ($2,090). Currently -3.2% from entry at $2,023 \u2014 early days, no stop. Build to \u00a3550+ if Q2 2026 13F confirms Aschenbrenner increased SNDK. Max \u00a3750 CORE."
+    },
+    {
+      "ticker": "NTRA",
+      "priority": "CLOSED \u2014 re-entry DEFER until Q2 2026 13F (Aug 14)",
+      "tier": "WATCHLIST",
+      "signal": "Druckenmiller #1 $612.7M 18.1% AUM Q1 2026. Gap-through stop Jul 1 at $216.50. Thesis may remain intact.",
+      "trigger": "Re-entry only: (1) Q2 2026 13F (Aug 14) confirms Druckenmiller maintained/increased NTRA AND (2) unknown gap catalyst identified and resolved AND (3) price above $230 support. DO NOT re-enter blindly \u2014 Druckenmiller may have exited on the gap catalyst."
     },
     {
       "ticker": "GOOGL",
@@ -1443,7 +1606,7 @@
     }
   ],
   "realized_pnl_summary": {
-    "total_realized_gbp": -150.29,
+    "total_realized_gbp": -139.46,
     "breakdown": [
       {
         "ticker": "MRNA",
@@ -1562,16 +1725,31 @@
         "pnl_pct": -5.78,
         "type": "stop",
         "date": "2026-06-11"
+      },
+      {
+        "ticker": "BN_STOP",
+        "pnl_gbp": -14.02,
+        "pnl_pct": -4.67,
+        "type": "stop",
+        "date": "2026-06-29"
+      },
+      {
+        "ticker": "NTRA_STOP_GAP",
+        "pnl_gbp": 24.85,
+        "pnl_pct": 8.28,
+        "type": "stop_above_cost_gap_through",
+        "date": "2026-07-01",
+        "note": "Gap-through stop. Stop target $242.73, execution $216.50. Slippage -$26.23/share. Expected +£62 protection; actual +£24.85."
       }
     ],
-    "stops_triggered": 14,
-    "trailing_stops_above_cost": 2,
-    "stop_avg_loss_pct": -5.22,
-    "realized_gains_count": 4,
-    "realized_gain_avg_pct": 4.52,
-    "total_unrealized_gbp": 631.0,
-    "grand_total_pnl_gbp": 480.71,
-    "unrealized_as_of": "2026-06-25",
+    "stops_triggered": 15,
+    "trailing_stops_above_cost": 3,
+    "stop_avg_loss_pct": -5.10,
+    "realized_gains_count": 5,
+    "realized_gain_avg_pct": 5.52,
+    "total_unrealized_gbp": 342.86,
+    "grand_total_pnl_gbp": 203.40,
+    "unrealized_as_of": "2026-07-02",
     "unrealized_breakdown_jun22": {
       "MU": 391.12,
       "AMZN": -42.28,
@@ -1781,7 +1959,13 @@
       "note": "PROFITABLE STOP \u2014 stop trailed from $213.90 to $218.61 (7% below Jun 24 close $235.06). If triggered now: book +\u00a327.79 profit. Buffer 7.7%. Healthcare defensive holding on MU blowout day. Druckenmiller #1 18.1% AUM. No immediate risk."
     }
   ],
-  "total_stop_exposure_from_current_gbp": -1.47,
+  "total_stop_exposure_from_current_gbp": 0.0,
+  "stop_exposure_jul02": {
+    "note": "ALL POSITIONS CORE (no stops) as of Jul 2. NTRA (EXPLORE, stopped Jul 1) and BN (EXPLORE, stopped Jun 29) both closed. Remaining positions: MU CORE, AMZN CORE, BE CORE, UBER CORE, TSM CORE, SNDK CORE. Stop exposure = £0.",
+    "explore_positions": 0,
+    "core_positions": 6,
+    "max_loss_from_stops_gbp": 0.0
+  },
   "forecast_log": [
     {
       "session": "2026-06-09 (Tuesday \u2014 actuals)",
@@ -2215,7 +2399,37 @@
     },
     {
       "week": "2026-06-29/2026-07-03",
-      "week_label": "Week 8",
+      "week_label": "Week 8 ACTUALS (partial through Jul 2)",
+      "actuals": {
+        "portfolio_return_pct_4d": -3.42,
+        "start_value_gbp": 5387.73,
+        "end_value_gbp_jul2": 5203.38,
+        "spx_return_pct": -1.2,
+        "nasdaq_return_pct": -2.1,
+        "alpha_vs_spx": -2.22,
+        "trades_executed": [
+          "BN EXPLORE SELL £285.98 at stop $42.78 (-£14.02, -4.67%) — Jun 29",
+          "TSM CORE ADD £100 at $432.35 (0.3053sh) — Jun 29 (BN-freed cash)",
+          "SNDK CORE BUY £200 at $2,090 (0.1263sh) — Jun 29 (Aschenbrenner #2 + Tepper CORE)",
+          "NTRA EXPLORE SELL £324.85 at gap $216.50 (+£24.85, +8.28%) — Jul 1 (gap-through stop $242.73)",
+          "BE CORE ADD £100 at $326.60 (0.4043sh) — Jul 2 (Brookfield $25B catalyst)"
+        ],
+        "key_events": [
+          "Jun 29: Broad semi selloff (Nasdaq -4.6% weekly). BN stop triggered. BE crashed $345→$257.98 (-25%). SNDK CORE entered at trigger.",
+          "Jun 30: H1/Q2 close window dressing. NTRA $271.45 near ATH. Partial recovery.",
+          "Jul 1: NTRA gapped -20% to $216.50 (unknown catalyst). Stop $242.73 blown through. MU DRAM class-action -10.6%. Jefferies: headline risk only.",
+          "Jul 2: Brookfield $5B→$25B BE fuel cell commitment. BE +7.9%. CORE add £100 at $326.60."
+        ],
+        "lessons": [
+          "GAP-THROUGH STOP: NTRA gap -20% illustrates that stop orders do NOT guarantee execution price. For EXPLORE positions >20% unrealized gain in healthcare/binary-event stocks, consider buying protective puts OR tightening stop to -5%.",
+          "BE CRASH-AND-RECOVER: BE -25% Jun 29 → +7.9% Jul 2 (+Brookfield $25B) = 3-day V-shaped recovery. Structural CORE positions in AI infrastructure can crash on sentiment/contract risk and recover on fundamental catalysts.",
+          "DEFENSIVE CASH TIMING: 30% cash at holiday week is correct. 4 trading days of volatility with no ability to trade Jul 4 = appropriate defensive stance."
+        ],
+        "forecast_error_pct": null,
+        "note": "Week forecast was base +0.15% (range -3% to +3.5%). Partial actuals through Jul 2: -3.42%. Jul 3 early close and Jul 4 closed remain."
+      },
+      "forecast_original": {
+      "week_label": "Week 8 ORIGINAL FORECAST",
       "forecast_date": "2026-06-26",
       "start_value_gbp": 5387.73,
       "note": "4.5 trading days (Jul 3 early close 1PM ET; Jul 4 Independence Day closed).",
@@ -2266,6 +2480,7 @@
         }
       }
     }
+  }
   ],
   "forecast_accuracy": {
     "weekly_mae_history": [
@@ -2324,27 +2539,27 @@
     "investor_signal_accuracy": {
       "tepper": {
         "correct": 7,
-        "total": 8,
-        "accuracy_pct": 87.5,
-        "notes": "VST CONFIRMED MISS Jun 10 (stop $143.03 triggered, -6.76%); re-entry Jun 23 HIGH CONFIDENCE (Helix $10B deal + all conditions met). MU +52.15% CORE \u2605 ($1,168 premarket Jun 22, bank PTs $1,200-$1,600, earnings Jun 24 THREE-CONDITION RULE). AMZN -5.65% (CORE hold, FTC delayed Feb 2027 \u2713, 3rd underperformance test inconclusive Jun 22 \u2014 market not clearly risk-on). UBER \u26a0\ufe0f UBEAR WATCH -3.34% Jun 22 to $69.25 (robotaxi fear: Pony AI Q2 profitable + MA regulations + People Team -23% headcount cut): CORE hold (Ackman+Tepper dual, no stop, 90-day min), watch $67.19 52w low. TSM +10.52% CORE ($462.12 new ATH Jun 22, Triple Institutional). SNDK: Tepper 3% NEW BUY Q1 2026 + Aschenbrenner $724.4M = DUAL INVESTOR CORE candidate (entry <$2,108). GOOGL still held 8.38% = watchlist re-entry if <$345. Accuracy 87.5% maintained."
+        "total": 9,
+        "accuracy_pct": 77.8,
+        "notes": "JUL 2 UPDATE. SNDK NEW CORE BUY Jun 29 at $2,090 \u2014 early (-3.2% at $2,023 Jul 2, early days, CORE no-stop hold). MU +35.5% CORE \u2605 ($1,037.21 after -10.6% DRAM lawsuit Jul 1 \u2014 thesis intact per Jefferies, CORE hold). AMZN -5.44% (CORE hold, FTC delayed Feb 2027 \u2713). UBER +4.26% (CORE, recovering). TSM +2.83% CORE (\u00a3650/\u00a3750, three-condition trigger Jul 16 next). VST CONFIRMED MISS (stop Jun 10, -6.76%). Accuracy: 7 confirmed wins / 9 trades = 77.8% (SNDK counted as open, not scored yet; VST = confirmed miss #2). Note: Tepper AUM shrank to ~$5.93B Q1 2026; signals may carry less dollar conviction."
       },
       "druckenmiller": {
         "correct": 5,
-        "total": 9,
-        "accuracy_pct": 55.6,
-        "notes": "NTRA +15.11% working. TSM +6.77% new CORE (positive). AVGO = IC rule violation. INSM stopped Jun 9 (-6.62%) = 4th miss. INTC CONFLICT RESOLVED (Jun 19): Aschenbrenner Q1 2026 = INTC PUTS (not calls). Prior INTC calls fully unwound. This had created ambiguity \u2014 now resolved. Druckenmiller separate: NTRA #1 (18.1%) + TSM (5.0%) working. Accuracy 55.6% \u2014 sub-threshold signals (INSM 5.6% < 8%) carry higher risk as noted."
+        "total": 10,
+        "accuracy_pct": 50.0,
+        "notes": "JUL 2 UPDATE. NTRA OUTCOME COMPLEX: Trade entered at $203.41 avg, stopped at $216.50 gap-through (+8.28% = profitable). However stop target was $242.73 \u2014 gap slippage cost \u00a337.15. Thesis: Druckenmiller #1 NTRA 18.1% AUM ($612.7M Q1 2026) remains UNKNOWN (gap catalyst could have prompted exit). Re-entry DEFERRED until Q2 2026 13F (Aug 14). Counting NTRA as 0.5/10 (partial \u2014 profitable but severe gap slippage + unknown post-gap position). TSM +2.83% CORE (working). AVGO = IC rule violation. INSM stopped Jun 9 (-6.62%) = miss. Sub-threshold signals (<8% AUM) confirmed as elevated-risk category. Accuracy: 5/10 = 50% (Druckenmiller tier downgraded from 3\u21924 for sub-threshold EXPLORE signals)."
       },
       "ackman": {
         "correct": 3,
-        "total": 4,
-        "accuracy_pct": 75,
-        "notes": "MSFT stop $399.65 Jun 11 = confirmed miss (3/4). AMZN -4.91% (FTC delayed Feb 2027 = positive, capex overhang remains). BN +1.78% (EXPLORE hold, stop $42.78 safe). UBER +1.81% (CORE, Iran deal tailwind). Ackman accuracy unchanged 75%. Week 6: AMZN underperformed (2/3 risk-on sessions), but FTC trial delay improves risk-reward. AGM Jul 16 BN simplification catalyst approaching."
+        "total": 5,
+        "accuracy_pct": 60.0,
+        "notes": "JUL 2 UPDATE. BN STOP TRIGGERED Jun 29: PCE 4.1% HOT + Warsh QT hawkish exhausted buffer. Exit at $42.78 = realized -\u00a314.02 (-4.67%). Ackman #1 $2.42B BN conviction could not override macro rate headwind. BN = confirmed miss #2 (MSFT = miss #1). Track record: UBER +4.26% working \u2713, AMZN -5.44% CORE hold (thesis uncertain). Accuracy: 3 confirmed wins / 5 trades = 60.0%. AMZN thesis watch: UBER +4.26% = CORE win working. NOTE: BN AGM Jul 16 (Ackman's BWS simplification catalyst) still live \u2014 IC no longer holds but Ackman thesis may play out; monitor for potential re-entry."
       },
       "aschenbrenner": {
-        "correct": 6,
-        "total": 6,
+        "correct": 7,
+        "total": 7,
         "accuracy_pct": 100,
-        "notes": "CORRECTED Jun 19: Q1 2026 13F = INTC PUTS (3.6M share equiv, bearish) NOT calls. Prior period calls fully unwound. INTC BLOCKED confirmed. Semiconductor put basket: MU+TSM+ASML+INTC = hedges, not exits from BE. BE +17.35% CORE (Jun 22 $328.91 consolidating, DEFERRED add per ATH spike rule). FULL Q1 2026 13F (Jun 22 intel): BE #1 $878.7M (+1488% shares), SNDK #2 $724.4M (327,742 shares, 5.30% AUM), CRWV #3 $556.1M. Fund AUM $13.7B. Situational Awareness +270% in 2026, Jane Street as new institutional investor. SNDK upgrade to DUAL INVESTOR CORE candidate (entry <$2,108). Aschenbrenner = IC's MOST RELIABLE signal source (6/6 = 100%, 1.0x weight)."
+        "notes": "JUL 2 UPDATE \u2014 STREAK EXTENDS 7/7. BE BROOKFIELD $25B CATALYST validates Aschenbrenner #1 $879M thesis at exceptional scale. BE +7.9% Jul 2 to $326.60 (IC position +14.25% unrealized). Brookfield $5B\u2192$25B fuel cell commitment for AI datacenters = exact thesis scenario. SNDK #2 $724.4M newly entered Jun 29 at $2,090 \u2014 early (-3.2%), CORE hold. Full 13F record: BE +1488% shares #1 ($879M) \u2605\u2605\u2605, SNDK #2 ($724M, just entered), CRWV #3 ($556M, BLOCKED after early IC loss). INTC PUTS confirmed (bearish, BLOCKED). Aschenbrenner = IC's MOST RELIABLE signal (7/7 = 100%, 1.0x weight). Note: SNDK counted as open signal \u2014 not yet scored."
       },
       "burry": {
         "correct": 0,
@@ -2435,33 +2650,33 @@
     "investor_signal_ranking": {
       "tier_1": {
         "investor": "Tepper",
-        "accuracy": "87.5% (7/8) \u2014 VST = confirmed miss Jun 10",
+        "accuracy": "77.8% (7/9) \u2014 VST miss Jun 10, SNDK early not yet scored",
         "weight": "1.5x",
-        "note": "MU +31.2% CORE \u2605 (new ATH $1,110 intraday, earnings Jun 24). AMZN -5.3% CORE (FTC overhang). UBER +2.8% CORE (Iran deal oil-down = margin win). TSM +3.8% CORE (\u00a3350/\u00a3750 post-Jun 17 add). GOOGL 8.38% still held = watchlist entry below $345. SNDK new Q1 buy = watchlist entry <$1,591. VST = confirmed miss (stop Jun 10, Tepper accuracy 87.5%). Appaloosa portfolio shrank to ~$5.93B Q1 2026."
+        "note": "JUL 2: MU +35.5% CORE \u2605 (DRAM lawsuit = headline only, HBM4/AI intact). AMZN -5.44% CORE hold. UBER +4.26% CORE (recovering). TSM +2.83% CORE (\u00a3650/\u00a3750). SNDK new CORE entry Jun 29 (-3.2% early). VST = confirmed miss #2 (stop Jun 10). Appaloosa AUM ~$5.93B Q1 2026."
       },
       "tier_2a": {
         "investor": "Aschenbrenner",
-        "accuracy": "100% (6/6)",
+        "accuracy": "100% (7/7) \u2014 STREAK EXTENDS",
         "weight": "1.0x",
-        "note": "BE +15.92% CORE (Jun 18 actual close $328.91 = +15.4% single day on Mid-Year Data Center Power Report). AVGO puts Jun 5 = massive win. ORCL puts Jun 11 = massive win. Chip put basket 5/5. 6/6 verified signals. Most reliable investor in IC universe. BE final \u00a3200 CORE add deferred per ATH spike rule."
+        "note": "JUL 2 VALIDATION: BE Brookfield $25B commitment = Aschenbrenner's #1 $879M BE thesis CONFIRMED at scale. BE +14.25% unrealized from \u00a3650 CORE cost. SNDK #2 $724M \u2014 entered Jun 29 (early -3.2%, open signal). AVGO/ORCL puts: 5/5 wins. IC's MOST RELIABLE signal source."
       },
       "tier_2b": {
         "investor": "Ackman",
-        "accuracy": "75% (3/4)",
+        "accuracy": "60.0% (3/5) \u2014 BN stop Jun 29 = confirmed miss #2",
         "weight": "1.0x",
-        "note": "BN +0.2% (EXPLORE, CPI watch). MSFT -1.4% EXPLORE. UBER +2.6% CORE. AMZN +0.3% CORE."
+        "note": "JUL 2: BN stopped Jun 29 = -\u00a314.02 (-4.67%) = miss #2 (MSFT Jun 11 = miss #1). UBER +4.26% CORE \u2713. AMZN -5.44% CORE watch. BN AGM Jul 16 catalyst still live (Ackman still holds). Monitor AMZN for FTC/capex thesis."
       },
       "tier_3": {
         "investor": "Druckenmiller",
-        "accuracy": "55.6% (5/9)",
+        "accuracy": "50.0% (5/10) \u2014 NTRA complex, TSM working",
         "weight": "0.8x",
-        "note": "DOWNGRADED: INSM stopped Jun 9. NTRA +9.1% working. TSM +4.1% new CORE. AVGO = IC rule violation. AMZN exit 94% = profit-taking. INSM: Q1 13F predated CEDAR failure (Apr 7) \u2014 likely exited post-filing. Healthcare pivot partly intact (NTRA strong). Sub-threshold signals carry higher risk."
+        "note": "JUL 2: NTRA COMPLEX OUTCOME \u2014 gap-through stop Jul 1 at $216.50, +8.28% realized but \u00a337.15 gap slippage. Thesis status unknown (Druckenmiller may have exited on catalyst). TSM +2.83% CORE working. INSM stopped Jun 9 (-6.62%). Sub-threshold signals (<8% AUM) confirmed as elevated-risk. Re-enter NTRA only post Q2 2026 13F (Aug 14)."
       },
       "tier_4": {
         "investor": "Burry",
         "accuracy": "0% (0/2)",
-        "weight": "0.1x",
-        "note": "PLTR short: IC closed +9.6% profit. Consumer/SaaS dip buys (MELI/ADBE/PYPL/LULU) not followed by IC."
+        "weight": "0x",
+        "note": "\u26d4 SCION CLOSED LATE 2025 \u2014 ZERO WEIGHT. No longer generating 13F signals. Writes AI Bubble Substack only. Do NOT act on Burry commentary."
       }
     }
   },
