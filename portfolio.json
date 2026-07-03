@@ -512,13 +512,13 @@
       "notes": "VST first miss (stopped -6.76%). SNDK new buy now -17% from IC entry — under pressure but CORE rule holds."
     },
     "Ackman_Pershing": {
-      "accuracy": "3/4",
-      "accuracy_pct": 75.0,
+      "accuracy": "3/5",
+      "accuracy_pct": 60.0,
       "tier": "2B",
       "weight": 1.0,
       "q1_2026_13f": "CURRENT",
       "top_holdings": ["BN(17.62%)", "AMZN(17.39%)", "UBER(15.71%)", "MSFT(15.26%)", "QSR(12.20%)"],
-      "notes": "BN stopped out Jul 2026 (PCE macro). AMZN+UBER still held."
+      "notes": "BN stopped out Jun 29 2026 (-4.67% PCE macro). MSFT EXPLORE stopped Jun 11 (-5.78%). AMZN+UBER still held (both gains). Jul 2026: UBER Lucid/Nuro robotaxi deal (20,000 vehicles 6yr) = thesis strengthened. 3 signals correct (AMZN ✓, UBER ✓, 1 historical ✓) vs 2 misses (BN, MSFT EXPLORE)."
     },
     "Aschenbrenner_SA": {
       "accuracy": "4/5",
@@ -569,17 +569,96 @@
   "macro_context": {
     "fed_rate": "3.5-3.75% (Warsh hold Jun 17, hawkish language, QT emphasis)",
     "pce_may_2026": "4.1% YoY (hot, >4.0% threshold)",
-    "jobs_june_2026": "57,000 vs 115,000 expected (WEAK/DOVISH). Unemployment 4.2%. Wages +3.5% YoY in-line. Prior months revised down sharply. Fed rate cut odds improving for 2027.",
-    "gbpusd_regime": "GBP strengthening on weak USD data (1.3376 Jul 2 week high). Headwind for USD-denominated GBP values.",
+    "jobs_june_2026": "57,000 vs 115,000 expected (MASSIVE MISS/DOVISH). Unemployment 4.2%. Wages +3.5% YoY in-line. Prior months revised down sharply. Fed rate cut odds improving for 2027. Dow Jones ALL-TIME HIGH Jul 2. S&P 500 best week in 2 months (+1.76% week to 7,483.24). IC semiconductors diverged severely.",
+    "gbpusd_regime": "GBP strengthening on weak USD data (1.3376 Jul 2 = week close; up from 1.3222 Jun 26). 1.16% GBP strengthening = headwind for USD-denominated GBP values.",
+    "memory_market_jul2026": "Dual narrative: (1) SUPPLY GLUT FEAR — Samsung/SKH adding NAND supply, expectations for price softening late 2026; (2) STRUCTURAL SUPERCYCLE — IDC forecasts DRAM/NAND supply growth below historical norms (16%/17% YoY), HBM constrained to 2028. TrendForce: NAND +70-75% Q2 2026. True outlook is supercycle with correction fears.",
+    "sk_hynix_adr": "SKHY Nasdaq listing Jul 10 ($29.4B raise, ADR at 255,500 won/share). Largest Korean semi US listing ever. Directly targets SNDK 'pure-play AI memory' scarcity premium narrative.",
+    "uber_catalyst_jul2026": "Uber inked deal with Lucid Group + Nuro: deploy 20,000 Lucid Gravity robotaxis over 6 years. UBER adapting to robotaxi threat, not being disrupted. Positive for Ackman/Tepper CORE thesis.",
     "upcoming_events": [
-      "Jul 7 (Mon): SpaceX Nasdaq-100 inclusion effective — $4.3B passive buying pressure, tech sentiment catalyst",
-      "Jul 10 (Thu): SK Hynix Nasdaq ADR pricing ($29.4B raise) — SNDK scarcity premium risk event",
-      "Jul 16 (Wed): TSM Q2 2026 earnings — CORE catalyst, THREE-CONDITION RULE triggers",
+      "Jul 7 (Mon): SpaceX Nasdaq-100 inclusion effective (SPCX) — $4.3B passive buying, tech sentiment catalyst for Monday open",
+      "Jul 7 (Mon): ISM Services PMI Jun — >50=risk-on",
+      "Jul 9 (Wed): FOMC June 17 meeting minutes — Warsh hawkish detail; could temper rate-cut bets",
+      "Jul 10 (Thu): SK Hynix Nasdaq ADR debut (SKHY, ~$29.4B) — SNDK scarcity premium RISK EVENT",
+      "Jul 16 (Wed): TSM Q2 2026 earnings — CORE catalyst, THREE-CONDITION RULE triggers. Rev $40B exp.",
+      "Jul 28-29: FOMC meeting — Warsh expected hold",
       "Aug 11: MU CORE hold min date",
       "Aug 14: Aschenbrenner Q2 2026 13F due — key signal update for BE/SNDK",
+      "Aug 14: Druckenmiller Q2 2026 13F due — NTRA/TSM confirmation",
+      "Aug 14: Tepper Q2 2026 13F due — MU status CRITICAL (unconfirmed exit signal)",
       "Aug 28: UBER CORE hold min date",
       "Sep 8: TSM CORE hold min date",
       "Sep 28: SNDK CORE hold min date"
     ]
-  }
+  },
+  "weekly_returns": [
+    {"week": 1, "dates": "2026-05-11/15", "return_pct": null, "cumulative_pct": null, "note": "Inception week — see 2026-05-15.md"},
+    {"week": 2, "dates": "2026-05-18/22", "return_pct": null, "cumulative_pct": null, "note": "See 2026-05-22.md"},
+    {"week": 3, "dates": "2026-05-25/29", "return_pct": null, "cumulative_pct": null, "note": "See 2026-05-29.md"},
+    {"week": 4, "dates": "2026-06-01/05", "return_pct": null, "cumulative_pct": null, "note": "See 2026-06-05.md"},
+    {"week": 5, "dates": "2026-06-08/13", "return_pct": null, "cumulative_pct": null, "note": "See 2026-06-13.md"},
+    {"week": 6, "dates": "2026-06-15/19", "return_pct": null, "cumulative_pct": null, "note": "See 2026-06-19.md"},
+    {"week": 7, "dates": "2026-06-22/26", "return_pct": 0.67, "cumulative_pct": 7.75, "sp500_pct": 1.0, "alpha_pct": -0.33, "note": "MU blowout earnings Jun 25. NTRA NCCN endorsement. PCE 4.1% hot."},
+    {"week": 8, "dates": "2026-06-29/07-02", "return_pct": -8.40, "cumulative_pct": -1.30, "sp500_pct": 1.76, "alpha_pct": -10.16, "note": "Worst IC week since inception. MU -15.8%, BE -21.5% intraday, SNDK -14.1% entry week. S&P +1.76% (best in 2 months). NTRA gap-through stop, BN stop, BE catalyst-day rule violation."}
+  ],
+  "forecast_accuracy": {
+    "mae_pct_points": 2.62,
+    "data_points": 7,
+    "mae_history_note": "Week 1-6 MAE was 1.63 pts (6 points). Week 8 error: 8.55 pts (largest in system history). New MAE: (1.63×6 + 8.55)/7 = 2.62 pts.",
+    "return_predictions": [
+      {"week": 7, "forecast_mid": 1.5, "actual": 0.67, "error_abs": 0.83},
+      {"week": 8, "forecast_mid": 0.15, "actual": -8.40, "error_abs": 8.55, "note": "Catastrophic miss — AI semi selloff vs broad market rally"}
+    ]
+  },
+  "forecast_log": [
+    {
+      "week": 8,
+      "forecast_set_date": "2026-06-26",
+      "forecast_range": [-0.5, 0.8],
+      "forecast_mid_pct": 0.15,
+      "sp500_forecast_pct": 0.5,
+      "scenarios": {
+        "base": {"range": [-0.5, 0.8], "assumption": "BN survives; no new entries; quiet July 4 holiday week; SNDK deferred"},
+        "bull": {"range": [1.5, 3.5], "assumption": "SNDK stable close triggers; H1 window dressing lifts AI Jun 30; BN bounces pre-AGM"},
+        "bear": {"range": [-1.5, -3.0], "assumption": "BN stop fires; weak ISM; AMZN breaks $220; tech pre-holiday selloff"}
+      },
+      "planned_trades": ["BN_stop_auto", "SNDK_entry_£200_trigger_<$2108", "TSM_fill_£200", "BE_add_£200_at_$295-305", "VST_explore_£200"],
+      "actuals": {
+        "portfolio_return_pct": -8.40,
+        "sp500_return_pct": 1.76,
+        "return_error_abs": 8.55,
+        "trades_executed": {
+          "BN_stop": "✓ Jun 29 at $42.78 (-£14.02)",
+          "SNDK_entry": "✓ Jun 29 at $2,090 (£200 initial); then -14.1% next session",
+          "TSM_add": "∓ £100 partial (not £200); cash constraint",
+          "NTRA_gap_stop": "Jul 1 gap-through at $216.50 (stop $242.73 blown); +£24.85 vs expected +£62",
+          "BE_add": "✗ Rule violation — added £100 at catalyst-day open $326.60 (intraday high); not at $295-305 zone",
+          "VST": "✓ NOT executed — correctly deferred"
+        },
+        "key_miss_reason": "MU -15.8% (CEO sales + lawsuit + supply glut), SNDK -14.1% entry week (SK Hynix ADR + supply glut), BE -21.5% intraday catalyst reversal. S&P +1.76% = IC completely missed broad market rally. Worst forecast error in system history."
+      }
+    },
+    {
+      "week": 9,
+      "forecast_set_date": "2026-07-03",
+      "forecast_range": [0.0, 2.0],
+      "forecast_mid_pct": 1.0,
+      "sp500_forecast_pct": 1.0,
+      "scenarios": {
+        "base": {"range": [0.0, 2.0], "assumption": "SpaceX inclusion lifts tech Monday; MU stabilizes $950-$1,000; BE holds $270; SNDK volatile $1,600-1,800 around SK Hynix ADR; AMZN continues recovery"},
+        "bull": {"range": [3.0, 5.0], "assumption": "SpaceX drives Nasdaq +3%; MU bounces $1,050+; BE breaks $290; GOOGL entry adds optionality"},
+        "bear": {"range": [-3.0, -5.0], "assumption": "SK Hynix ADR crushes SNDK -15%+ to ~$1,480; MU continues to $900; BE fails $270; FOMC minutes hawkish"}
+      },
+      "bear_stop_drag_gbp": 0,
+      "explore_positions_active": 0,
+      "planned_trades": [
+        "SNDK_add_£200_deferred_post_jul10_SK_Hynix",
+        "BE_final_£100_if_>$270_x2sessions",
+        "TSM_final_£100_if_<$440_pre_earnings",
+        "GOOGL_explore_£150_watchlist_>$345",
+        "VST_explore_£150_watchlist_timing_rule"
+      ],
+      "key_events": ["SpaceX_Nasdaq100_Jul7", "SK_Hynix_ADR_Jul10", "TSM_Q2_earnings_Jul16_Week10", "FOMC_minutes_Jul9"],
+      "actuals": null
+    }
+  ]
 }
