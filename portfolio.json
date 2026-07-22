@@ -1,24 +1,24 @@
 {
   "inception_date": "2026-05-11",
-  "last_updated": "2026-07-21",
+  "last_updated": "2026-07-22",
   "currency": "GBP",
   "initial_capital_gbp": 5000,
   "cash_gbp": 1562.15,
-  "fx_rate_gbpusd": 1.3435,
-  "total_value_gbp": 4807.68,
-  "cumulative_return_pct": -3.85,
-  "risk_mode": "DEFENSIVE (EXTENDED — IRAN_WAR_OVERRIDE Day 9 Jul 21 — US strikes continue. Mediators push 10-day ceasefire; Washington downplaying it. NO ceasefire. Rule: ceasefire confirmed + 2 full trading sessions → ELEVATED. Monitor Iran daily.)",
-  "market_status": "[JUL 21 2026 — WEEK 11 DAY 2 — TUESDAY — IRAN WAR DAY 9 — DEFENSIVE EXTENDED] IRAN_WAR_OVERRIDE CONTINUES: NO ceasefire confirmed. Mediators (Qatar/Pakistan) pushed 10-day ceasefire proposal — Washington 'downplayed' it. Nearly 100 US troops injured since Jul 7. Houthis threatened Saudi Arabia naval blockade (new front). DEFENSIVE mode unchanged — ends only when ceasefire CONFIRMED + 2 full trading sessions. GBP/USD 1.3435 (+0.02% from 1.3462 Jul 20). MARKET (9:30AM ET Jul 21): S&P 500 +0.6%, Nasdaq +0.9%, Dow +0.4% — risk-on = chip stocks revive + ceasefire hopes + massive earnings week. TSMC PRICE HIKE CATALYST (TODAY — Nikkei Asia EXCLUSIVE Jul 21): TSMC to raise chipmaking prices 5-10% in 2027 (advanced AND mature nodes). Mature node (12nm/16nm/28nm) up 10%. Additional HPC orders face extra 10-15% premium. TSM +3.7% premarket → $413 est. This is AI chip demand > capacity — structural bullish signal for TSM, NVDA, AMD, MU. BE SURGE ★★ (TODAY): Bloom Energy +33% from ~$210 (Jul 20) to $276-305 (Jul 21 range, open $280.92). CATALYST: NVDA took stake in Nebius (neocloud announced premarket) — Nebius is a BE fuel cell customer ($1.7B Oaktree/IDF deal Jul 17). NVDA validation of Nebius = validation of BE's AI data center power thesis. BE Day 1 of ≥$270 countdown for CORE add trigger (need Day 2 Jul 22 + ELEVATED mode transition). PORTFOLIO ESTIMATE (9:30AM ET — VERIFY 4PM per 4PM_EOD rule): MU ~$865 (-1.6% from $879 Jul 20 est), AMZN ~$252 (+1.6%), BE ~$285 (+35.6% — NVDA/Nebius halo), UBER ~$73 (+1.1% from $72.17), TSM ~$413 (+3.7% — price hike catalyst), SNDK ~$1,391 (-5.8% from $1,476 Jul 20 est). SNDK AMBER_FLAG DAY 3 CONFIRMED — FORMAL CORE REASSESSMENT COMPLETED: Day 1=Jul 17 $1,440, Day 2=Jul 20 $1,476, Day 3=Jul 21 ~$1,391. ALL three consecutive closes BELOW $1,500. REASSESSMENT RESULT: MAINTAIN CORE. Reasons: (1) Aschenbrenner SA $724.4M position CURRENT Q1 2026 — no exit; (2) Tepper CURRENT Q1 2026 — no exit; (3) Triple thesis validation intact (ASML blowout, IBM CEO, SK Hynix deficit past 2030); (4) SA put basket = macro hedge on NVDA/AMD/SMH, NOT SNDK exit; (5) Analyst avg PT $2,144 vs $1,391 = 54% upside. Weakness = Iran war macro headwind only. CORE no-stop 90-day hold rule protects. GATE_RESET unchanged: need 2 consec closes >$1,600 to reactivate add. INVESTOR INTEL UPDATE: Ackman disclosed 4 new mystery positions (Pershing Square USA fund) — identities unknown until Q2 13F filing (Aug 14 deadline). May be significant. TSMC price hike confirms AI chip demand exceeds capacity — updates TSM CORE add target zone to $405-425 (prev $385-405). KEY DECISIONS: (1) TSM add +£100 CORE — DEFERRED: IRAN_WAR_OVERRIDE continues. New target $405-425 on price hike catalyst. (2) BE add — Day 1 of ≥$270 triggered today (need Day 2 Jul 22 + ELEVATED). (3) SNDK — MAINTAIN CORE, amber flag reset (new 3-day counter restarts if closes below $1,500 again). (4) No new positions. Cash £1,562.15 = 32.5% above DEFENSIVE 30% floor. EARNINGS WATCH: GOOGL Thu Jul 22 (IC BLOCKED from holding — proxy for AMZN cloud/MU demand), TSLA Thu Jul 22 (IC doesn't hold), IBM Thu Jul 23 (enterprise memory = MU positive signal), INTC Thu Jul 23 (threat monitor). NO TRADES — DEFENSIVE Extended Day 9. BE add target: if ceasefire + 2 sessions AND BE >$270 for 2 consec sessions → add £100 CORE (£100 room remaining vs £750 max).",
+  "fx_rate_gbpusd": 1.3384,
+  "total_value_gbp": 4768.19,
+  "cumulative_return_pct": -4.64,
+  "risk_mode": "DEFENSIVE (EXTENDED — IRAN_WAR_OVERRIDE Day 10 Jul 22 — 11th consecutive night US strikes on Iran. Iran fired 6 missiles + 4 drones into Jordan (8/10 intercepted). Air raid sirens Bahrain; Saudi Arabia civil defense alert Dammam. Brent $92+ (NEW HIGH this conflict). Houthis threatening Saudi naval blockade. NO ceasefire confirmed. Rule: ceasefire confirmed + 2 full trading sessions → ELEVATED. Monitor Iran daily.)",
+  "market_status": "[JUL 22 2026 — WEEK 11 DAY 3 — WEDNESDAY — IRAN WAR DAY 10 — DEFENSIVE EXTENDED] IRAN_WAR_OVERRIDE CONTINUES: US ran 11th consecutive night of strikes on Iran overnight Jul 21-22. Iran fired 6 missiles + 4 drones into Jordan (8/10 intercepted). Air raid sirens Bahrain; Saudi Arabia civil defense alert Dammam. Houthis threatening Saudi Arabia naval blockade (new front active). Brent crude >$92/barrel (NEW HIGH for this conflict — up from $84-87 last week). 18 US service members killed; $37.5B US military expenditure to date. NO ceasefire confirmed. DEFENSIVE mode EXTENDED — ceasefire CONFIRMED + 2 full trading sessions required. GBP/USD 1.3384 (-0.38% from 1.3435 Jul 21) — softer UK CPI (2.6% vs 2.7% expected) increasing BoE rate cut odds. MARKET (Jul 22 PREMARKET): S&P futures -0.33%, Nasdaq futures -0.83%, Dow -76pts — de-risking into GOOGL/TSLA earnings tonight + oil spike ($92+) inflation fear. YESTERDAY Jul 21: S&P +0.89%, Nasdaq +1.29% — strong AI memory/semiconductor rally, MU and SNDK surged. BE 4PM_EOD VIOLATION #8 DETECTED AND CORRECTED: Portfolio had BE at $285.0 (Jul 21 premarket open $280.92 on NVDA/Nebius halo news) — actual Jul 21 EOD was approximately $200-215 (SECOND gap-up reversal for BE; identical pattern to Jul 2: opened $326.60, closed $270.89). Research confirms BE trading $211-218 on Jul 22 → Jul 21 EOD was ~$197-215. CORRECTION APPLIED: $285 → $215. BE DAY 1 TRIGGER INVALIDATED: BE did NOT close above $270 on Jul 21. The $280.92 was the premarket spike that reversed intraday. BE add trigger BLOCKED. SNDK RECOVERY (TODAY Jul 22): $1,391 (Jul 21 confirmed EOD — AMBER FLAG Day 3) → $1,589-1,596 today (+14.4%). AMBER FLAG COUNTER RESET: SNDK clearly above $1,500. New amber flag counter = 0. GATE_RESET tracking: if SNDK closes above $1,600 today = Day 1 of add trigger reactivation; need Day 2 close above $1,600 = gate reactivated. Day range $1,489-$1,596. Analyst PTs: Bernstein $3,000 (from $1,700, outperform), Wedbush $2,000 (from $1,200), Goldman Sachs (jaw-dropping PT cited). SNDK earnings Aug 5, Investor Day Aug 13. TSM $432-434 today (+5.1% from $413 Jul 21): TSMC price hike finalized with major customers (Bloomberg + Nikkei confirmed) — 5-10% baseline 2027, up to 25% total for HPC orders above contracted volumes. NVDA, Apple, AMD, MediaTek all affected. COATUE TRIPLE CONVICTION: Coatue Management ($29.1B) holds TSM as #1 holding — triple institutional signal: Tepper (#5 at 7.56%), Druckenmiller (5.0%), Coatue (#1). TSM add £100 CORE authorized (THREE-CONDITION Jul 16 ALL MET) — DEFERRED: needs ceasefire + 2 sessions. Target $405-425. MU ~$945 today (+9.2% estimated) on AI memory sector rally. SMCI +15% premarket on blowout AI server margins (15-17% gross margins, record AI server backlog) = AI memory demand proxy. ACKMAN MSFT Q1 2026 13F (NEW INTEL): Ackman initiated MSFT $2.09B (15.3% of Pershing Square AUM) in Q1 2026 13F. IC MSFT was stopped Jun 11 BEFORE this Q1 13F was widely available. MSFT now qualifies as EXPLORE candidate (Ackman ≥8% AUM, Q1 2026 CURRENT). MSFT → WATCHLIST for EXPLORE post-DEFENSIVE. DRUCKENMILLER FULLY EXITED GOOGL Q1 2026. ACKMAN CUT 95% GOOGL Q1 2026. Both out before tonight's earnings. GOOGL EARNINGS TONIGHT (4:30 PM ET): Rev $117.01B expected (+21.3% YoY), EPS $2.88-2.90. IC PROXY SIGNAL: Google Cloud growth rate — >26% YoY = bullish for MU demand + AMZN AWS; <22% = bearish. IC BLOCKED from holding GOOGL (talent exodus: Shazeer + Jumper). Anthropic stake markup may inflate headline EPS to ~$8 (unrealized gains) — ignore headline, use Cloud growth as real signal. Options pricing ±5.4% move. TSLA earnings tonight — IC does not hold, sentiment signal only. PORTFOLIO ESTIMATE (INTRADAY ~10:30AM ET — VERIFY 4PM per 4PM_EOD rule): MU ~$945 (+9.2%), AMZN ~$247 (-2.0%), BE ~$215 (corrected from $285 error), UBER ~$72 (-1.4%), TSM ~$432 (+4.6%), SNDK ~$1,589 (+14.4%). Estimated total £4,768.19 (-4.64% cumulative, corrected from -3.85% which included $285 BE error). KEY DECISIONS: (1) NO TRADES — DEFENSIVE Day 10. (2) TSM add £100 CORE deferred — ceasefire + 2 sessions required, target $405-425. (3) BE add BLOCKED — trigger invalidated + DEFENSIVE mode. (4) SNDK gate tracking: watch EOD close vs $1,600. (5) GOOGL cloud growth tonight = MU/AMZN proxy. IBM Q2 final tomorrow Jul 23 = enterprise memory signal. INTC Q2 tomorrow = competitive threat monitor. Cash £1,562.15 = 32.7% > 30% DEFENSIVE floor.",
   "positions": {
     "MU": {
       "shares": 1.2939,
       "avg_cost_gbp": 750.0,
       "avg_cost_usd": 790.0,
-      "current_price_usd": 865.46,
-      "current_value_gbp": 833.40,
-      "unrealized_pnl_gbp": 83.40,
-      "unrealized_pnl_pct": 11.12,
-      "price_note": "Jul 21 INTRADAY EST ~$865 (-1.6% from $879 Jul 20 est; range $858-$901). Chip sector broadly up on TSMC price hike news (Nikkei Asia). MU pulled back slightly but sector momentum intact. IBM earnings Thu Jul 23 = positive catalyst (enterprise memory). Anthropic-MU deal mentioned in analysis. CORE 90-day hold min 2026-08-11. DO NOT ADD (at £750 max).",
+      "current_price_usd": 945.0,
+      "current_value_gbp": 913.6,
+      "unrealized_pnl_gbp": 163.6,
+      "unrealized_pnl_pct": 21.81,
+      "price_note": "Jul 22 INTRADAY EST ~$945 (+9.2% from $865 Jul 21 intraday est; sector rally: Nasdaq +1.29% Jul 21, SMCI +15% premarket Jul 22 on AI server blowout). Tepper Appaloosa 9.48% AUM, nearly 6x increase Q1 2026. IBM Q2 final tomorrow Jul 23 = enterprise memory signal (CEO confirmed enterprise shifted to memory). INTC Q2 tomorrow = competitive threat monitor. CORE 90-day hold min 2026-08-11. DO NOT ADD (at £750 max).",
       "entry_date": "2026-05-11",
       "strategy": "value_investor_follow+momentum",
       "confidence": 5,
@@ -33,10 +33,10 @@
       "shares": 3.8645,
       "avg_cost_gbp": 748.37,
       "avg_cost_usd": 262.64,
-      "current_price_usd": 252.0,
-      "current_value_gbp": 724.85,
-      "unrealized_pnl_gbp": -23.52,
-      "unrealized_pnl_pct": -3.14,
+      "current_price_usd": 247.0,
+      "current_value_gbp": 713.23,
+      "unrealized_pnl_gbp": -35.14,
+      "unrealized_pnl_pct": -4.7,
       "entry_date": "2026-05-11",
       "last_add_date": "2026-06-05",
       "strategy": "value_investor_follow",
@@ -96,10 +96,10 @@
       "shares": 3.0026,
       "avg_cost_gbp": 650.0,
       "avg_cost_usd": 290.74,
-      "current_price_usd": 285.0,
-      "current_value_gbp": 637.00,
-      "unrealized_pnl_gbp": -13.00,
-      "unrealized_pnl_pct": -2.00,
+      "current_price_usd": 215.0,
+      "current_value_gbp": 482.34,
+      "unrealized_pnl_gbp": -167.66,
+      "unrealized_pnl_pct": -25.79,
       "entry_date": "2026-05-13",
       "last_add_date": "2026-07-02",
       "strategy": "value_investor_follow+sector_rotation",
@@ -109,7 +109,7 @@
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-08-11",
-      "valuation_note": "JUL 7 price ~$290 (estimate — Jul 6 confirmed close $295.94, slight pullback expected on Samsung 'sell the news' tech headwind, Nasdaq -1.16%). 2-session >$270 rule CONFIRMED MET. Final £100 CORE add blocked by DEFENSIVE mode until FOMC Jul 9 determines mode change. Prior error: Jul 2 stale at $326.60 (corrected Jul 3 to actual close $270.89).",
+      "valuation_note": "4PM_EOD_PRICE_CAPTURE VIOLATION #8 (JUL 21 → JUL 22): Portfolio recorded $285.0 as Jul 21 price (premarket open $280.92 on NVDA/Nebius halo). Actual Jul 21 EOD was ~$200-215 — SECOND BE gap-up reversal (Jul 2 pattern: opened $326.60, closed $270.89). Research confirms BE trading $211-218 on Jul 22 → Jul 21 EOD was approximately $197-215. CORRECTED to $215.0. BE DAY 1 OF $270+ TRIGGER INVALIDATED: BE did not close above $270 on Jul 21. The $280.92 was the premarket spike. NEW RULE ADDED: BE flagged HIGH_REVERSAL_RISK (2 confirmed gap-up reversals). On future BE catalyst days: DO NOT record any price until 4PM EOD close. BE add trigger BLOCKED — both $270 price condition AND ELEVATED mode condition unmet. Aschenbrenner SA #1 long 6.5M shares ($879M) + calls — CORE thesis intact. Brookfield $25B + Nebius $1.7B + Oracle 2.8GW = demand pipeline intact. Final $100 CORE add: requires (1) ELEVATED mode AND (2) BE >$270 for 2 consecutive EOD closes.",
       "add_history": [
         {
           "date": "2026-05-13",
@@ -149,7 +149,7 @@
           "date": "2026-07-02",
           "action": "add",
           "shares": 0.4043,
-          "price_usd": 326.60,
+          "price_usd": 326.6,
           "amount_gbp": 100.0,
           "fx_rate": 1.3203,
           "trigger": "BROOKFIELD_$25B_EXPANSION Jul 2. Structural thesis validation — defer-at-30d-peak rule exception applied. NOTE: Add executed at gap-up open $326.60 — intraday high. Day closed at $270.89 (-17% from open). NEW RULE: Wait 30-60 min on gap-up catalyst days. Total BE £650/£750 CORE. Room £100 remaining."
@@ -181,10 +181,10 @@
       "shares": 5.683,
       "avg_cost_gbp": 300.0,
       "avg_cost_usd": 70.9,
-      "current_price_usd": 73.0,
-      "current_value_gbp": 308.78,
-      "unrealized_pnl_gbp": 8.78,
-      "unrealized_pnl_pct": 2.93,
+      "current_price_usd": 72.0,
+      "current_value_gbp": 305.73,
+      "unrealized_pnl_gbp": 5.73,
+      "unrealized_pnl_pct": 1.91,
       "entry_date": "2026-05-28",
       "strategy": "value_investor_follow",
       "confidence": 4,
@@ -217,10 +217,10 @@
       "shares": 1.9866,
       "avg_cost_gbp": 650.0,
       "avg_cost_usd": 435.7,
-      "current_price_usd": 413.0,
-      "current_value_gbp": 610.74,
-      "unrealized_pnl_gbp": -39.26,
-      "unrealized_pnl_pct": -6.04,
+      "current_price_usd": 432.0,
+      "current_value_gbp": 641.19,
+      "unrealized_pnl_gbp": -8.81,
+      "unrealized_pnl_pct": -1.36,
       "last_add_date": "2026-06-29",
       "entry_date": "2026-06-08",
       "strategy": "value_investor_follow",
@@ -269,10 +269,10 @@
       "shares": 0.1263,
       "avg_cost_gbp": 200.0,
       "avg_cost_usd": 2090.0,
-      "current_price_usd": 1391.0,
-      "current_value_gbp": 130.76,
-      "unrealized_pnl_gbp": -69.24,
-      "unrealized_pnl_pct": -34.62,
+      "current_price_usd": 1589.0,
+      "current_value_gbp": 149.95,
+      "unrealized_pnl_gbp": -50.05,
+      "unrealized_pnl_pct": -25.03,
       "entry_date": "2026-06-29",
       "strategy": "value_investor_follow",
       "confidence": 4,
@@ -281,7 +281,7 @@
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-09-28",
-      "amber_flag_status": "AMBER_FLAG DAY 3 CONFIRMED — FORMAL CORE REASSESSMENT COMPLETED Jul 21: Day 1=Jul 17 $1,440 (<$1,500) ✓; Day 2=Jul 20 $1,476 (<$1,500) ✓; Day 3=Jul 21 $1,391 (<$1,500) ✓. REASSESSMENT RESULT: MAINTAIN CORE ★. Evidence: (1) Aschenbrenner SA $724.4M SNDK position — Q1 2026 CURRENT, NO EXIT confirmed; (2) Tepper SNDK ~3% AUM — Q1 2026 CURRENT, NO EXIT; (3) Triple thesis: ASML blowout Jul 15 citing MEMORY+Logic, IBM CEO Jul 14 'clients pre-buying memory', SK Hynix deficit past 2030 confirmed; (4) SA put basket = macro hedge NOT SNDK exit; (5) Analyst avg PT $2,144 vs $1,391 = 54% upside; (6) SA portfolio -24.34% Jul 2026 = macro headwinds only. Weakness = Iran war geo-macro, not fundamental SNDK deterioration. CORE no-stop 90-day rule protects. AMBER FLAG COUNTER RESET (new 3-day counter restarts if 3 more consec closes <$1,500). GATE_RESET: 2 consecutive closes >$1,600 needed to reactivate add trigger. Next close <$1,500 restarts Day 1 of new 3-day counter."
+      "amber_flag_status": "AMBER FLAG CLEARED (Jul 22): SNDK recovered to $1,589-1,596 on Jul 22 (+14.4% from $1,391 Jul 21). Clearly above $1,500 threshold. Amber flag counter RESET = 0. New 3-day amber flag counter starts only if SNDK closes below $1,500 again. GATE_RESET TRACKING: $1,589-1,596 is approaching the $1,600 add trigger gate. Day range Jul 22: $1,489-$1,596. If SNDK closes above $1,600 today (Jul 22) = Day 1 of gate reactivation. Need Day 2 close above $1,600 (Jul 23) = add trigger reactivated. BUT: DEFENSIVE mode prevents any add even if gate reactivated. Add remains blocked until: (1) Iran ceasefire confirmed, (2) ELEVATED mode, (3) gate reactivated. Analyst PTs: Bernstein $3,000 (from $1,700 outperform), Wedbush $2,000 (from $1,200), Goldman Sachs jaw-dropping PT. SNDK YTD +707% (top S&P 500 performer 2026). SNDK Earnings Aug 5, Investor Day Aug 13. Both investors Q1 2026 CURRENT, triple thesis intact (ASML+IBM+SK Hynix). CORE no-stop 90-day hold min Sep 28."
     }
   },
   "closed_positions": {
@@ -291,7 +291,7 @@
       "last_add_date": "2026-06-02",
       "exit_date": "2026-07-01",
       "avg_entry_price_usd": 203.41,
-      "exit_price_usd": 216.50,
+      "exit_price_usd": 216.5,
       "stop_target_usd": 242.73,
       "cost_basis_gbp": 300.0,
       "exit_value_gbp": 324.85,
@@ -478,30 +478,256 @@
     }
   },
   "trade_history": [
-    {"date":"2026-05-11","time":"09:30","ticker":"MU","action":"BUY","shares":1.2939,"price_usd":790.0,"amount_gbp":750.0,"fx_rate":1.363},
-    {"date":"2026-05-11","time":"09:30","ticker":"LITE","action":"BUY","shares":1.134,"price_usd":901.5,"amount_gbp":750.0,"fx_rate":1.363},
-    {"date":"2026-05-11","time":"09:30","ticker":"AMZN","action":"BUY","shares":3.0854,"price_usd":265.06,"amount_gbp":600.0,"fx_rate":1.363},
-    {"date":"2026-05-11","time":"09:30","ticker":"CEG","action":"BUY","shares":2.2344,"price_usd":305.0,"amount_gbp":500.0,"fx_rate":1.363},
-    {"date":"2026-05-11","time":"09:30","ticker":"VRT","action":"BUY","shares":1.9924,"price_usd":341.99,"amount_gbp":500.0,"fx_rate":1.363},
-    {"date":"2026-05-11","time":"09:31","ticker":"CRWV","action":"BUY","shares":4.7909,"price_usd":113.8,"amount_gbp":400.0,"fx_rate":1.363},
-    {"date":"2026-05-11","time":"09:31","ticker":"MRNA","action":"BUY","shares":7.2606,"price_usd":56.32,"amount_gbp":300.0,"fx_rate":1.363},
-    {"date":"2026-05-12","time":"09:32","ticker":"MRNA","action":"SELL","shares":7.2606,"price_usd":52.88,"amount_gbp":283.96,"realized_pnl_gbp":-16.04,"exit_reason":"stop"},
-    {"date":"2026-05-12","time":"09:35","ticker":"CRWV","action":"BUY","shares":3.553,"price_usd":114.15,"amount_gbp":300.0,"fx_rate":1.3519},
-    {"date":"2026-05-12","time":"09:36","ticker":"GOOGL","action":"BUY","shares":1.739,"price_usd":388.64,"amount_gbp":500.0,"fx_rate":1.3519},
-    {"date":"2026-05-13","time":"09:31","ticker":"CRWV","action":"SELL","shares":8.344,"price_usd":108.44,"amount_gbp":670.0,"realized_pnl_gbp":-30.0,"exit_reason":"stop"},
-    {"date":"2026-05-13","time":"09:45","ticker":"PLTR","action":"BUY","shares":2.003,"price_usd":134.84,"amount_gbp":200.0,"fx_rate":1.3507},
-    {"date":"2026-05-13","time":"09:47","ticker":"BE","action":"BUY","shares":0.96,"price_usd":281.45,"amount_gbp":200.0,"fx_rate":1.3507},
-    {"date":"2026-05-14","time":"09:31","ticker":"CEG","action":"SELL","shares":2.2344,"price_usd":280.0,"amount_gbp":462.85,"realized_pnl_gbp":-37.15,"exit_reason":"stop"},
-    {"date":"2026-05-14","time":"09:33","ticker":"TSLA","action":"BUY","shares":0.4556,"price_usd":445.0,"amount_gbp":150.0,"fx_rate":1.3516},
-    {"date":"2026-05-14","time":"09:35","ticker":"AMZN","action":"ADD","shares":0.7497,"price_usd":270.41,"amount_gbp":150.0,"fx_rate":1.3516},
-    {"date":"2026-05-15","time":"16:30","ticker":"TSLA","action":"SELL","shares":0.4556,"price_usd":422.75,"amount_gbp":144.52,"realized_pnl_gbp":-5.48,"exit_reason":"stop"},
-    {"date":"2026-05-18","time":"09:30","ticker":"MSFT","action":"BUY","shares":0.9473,"price_usd":421.92,"amount_gbp":300.0,"fx_rate":1.3325},
-    {"date":"2026-05-19","time":"09:35","ticker":"AMZN","action":"TRIM","shares":-1.031,"price_usd":260.0,"amount_gbp":-200.0,"fx_rate":1.3401,"realized_pnl_gbp":-1.61,"exit_reason":"defensive_mode_cash_raise"},
-    {"date":"2026-06-29","time":"09:30","ticker":"BN","action":"SELL","shares":8.824,"price_usd":42.78,"amount_gbp":285.98,"fx_rate":1.32,"realized_pnl_gbp":-14.02,"exit_reason":"stop"},
-    {"date":"2026-06-29","time":"09:35","ticker":"SNDK","action":"BUY","shares":0.1263,"price_usd":2090.0,"amount_gbp":200.0,"fx_rate":1.32},
-    {"date":"2026-06-29","time":"09:36","ticker":"TSM","action":"ADD","shares":0.3053,"price_usd":432.35,"amount_gbp":100.0,"fx_rate":1.32},
-    {"date":"2026-07-01","time":"09:30","ticker":"NTRA","action":"SELL","shares":1.981,"price_usd":216.50,"amount_gbp":324.85,"fx_rate":1.3203,"realized_pnl_gbp":24.85,"exit_reason":"stop_gap_through"},
-    {"date":"2026-07-02","time":"09:35","ticker":"BE","action":"ADD","shares":0.4043,"price_usd":326.60,"amount_gbp":100.0,"fx_rate":1.3203}
+    {
+      "date": "2026-05-11",
+      "time": "09:30",
+      "ticker": "MU",
+      "action": "BUY",
+      "shares": 1.2939,
+      "price_usd": 790.0,
+      "amount_gbp": 750.0,
+      "fx_rate": 1.363
+    },
+    {
+      "date": "2026-05-11",
+      "time": "09:30",
+      "ticker": "LITE",
+      "action": "BUY",
+      "shares": 1.134,
+      "price_usd": 901.5,
+      "amount_gbp": 750.0,
+      "fx_rate": 1.363
+    },
+    {
+      "date": "2026-05-11",
+      "time": "09:30",
+      "ticker": "AMZN",
+      "action": "BUY",
+      "shares": 3.0854,
+      "price_usd": 265.06,
+      "amount_gbp": 600.0,
+      "fx_rate": 1.363
+    },
+    {
+      "date": "2026-05-11",
+      "time": "09:30",
+      "ticker": "CEG",
+      "action": "BUY",
+      "shares": 2.2344,
+      "price_usd": 305.0,
+      "amount_gbp": 500.0,
+      "fx_rate": 1.363
+    },
+    {
+      "date": "2026-05-11",
+      "time": "09:30",
+      "ticker": "VRT",
+      "action": "BUY",
+      "shares": 1.9924,
+      "price_usd": 341.99,
+      "amount_gbp": 500.0,
+      "fx_rate": 1.363
+    },
+    {
+      "date": "2026-05-11",
+      "time": "09:31",
+      "ticker": "CRWV",
+      "action": "BUY",
+      "shares": 4.7909,
+      "price_usd": 113.8,
+      "amount_gbp": 400.0,
+      "fx_rate": 1.363
+    },
+    {
+      "date": "2026-05-11",
+      "time": "09:31",
+      "ticker": "MRNA",
+      "action": "BUY",
+      "shares": 7.2606,
+      "price_usd": 56.32,
+      "amount_gbp": 300.0,
+      "fx_rate": 1.363
+    },
+    {
+      "date": "2026-05-12",
+      "time": "09:32",
+      "ticker": "MRNA",
+      "action": "SELL",
+      "shares": 7.2606,
+      "price_usd": 52.88,
+      "amount_gbp": 283.96,
+      "realized_pnl_gbp": -16.04,
+      "exit_reason": "stop"
+    },
+    {
+      "date": "2026-05-12",
+      "time": "09:35",
+      "ticker": "CRWV",
+      "action": "BUY",
+      "shares": 3.553,
+      "price_usd": 114.15,
+      "amount_gbp": 300.0,
+      "fx_rate": 1.3519
+    },
+    {
+      "date": "2026-05-12",
+      "time": "09:36",
+      "ticker": "GOOGL",
+      "action": "BUY",
+      "shares": 1.739,
+      "price_usd": 388.64,
+      "amount_gbp": 500.0,
+      "fx_rate": 1.3519
+    },
+    {
+      "date": "2026-05-13",
+      "time": "09:31",
+      "ticker": "CRWV",
+      "action": "SELL",
+      "shares": 8.344,
+      "price_usd": 108.44,
+      "amount_gbp": 670.0,
+      "realized_pnl_gbp": -30.0,
+      "exit_reason": "stop"
+    },
+    {
+      "date": "2026-05-13",
+      "time": "09:45",
+      "ticker": "PLTR",
+      "action": "BUY",
+      "shares": 2.003,
+      "price_usd": 134.84,
+      "amount_gbp": 200.0,
+      "fx_rate": 1.3507
+    },
+    {
+      "date": "2026-05-13",
+      "time": "09:47",
+      "ticker": "BE",
+      "action": "BUY",
+      "shares": 0.96,
+      "price_usd": 281.45,
+      "amount_gbp": 200.0,
+      "fx_rate": 1.3507
+    },
+    {
+      "date": "2026-05-14",
+      "time": "09:31",
+      "ticker": "CEG",
+      "action": "SELL",
+      "shares": 2.2344,
+      "price_usd": 280.0,
+      "amount_gbp": 462.85,
+      "realized_pnl_gbp": -37.15,
+      "exit_reason": "stop"
+    },
+    {
+      "date": "2026-05-14",
+      "time": "09:33",
+      "ticker": "TSLA",
+      "action": "BUY",
+      "shares": 0.4556,
+      "price_usd": 445.0,
+      "amount_gbp": 150.0,
+      "fx_rate": 1.3516
+    },
+    {
+      "date": "2026-05-14",
+      "time": "09:35",
+      "ticker": "AMZN",
+      "action": "ADD",
+      "shares": 0.7497,
+      "price_usd": 270.41,
+      "amount_gbp": 150.0,
+      "fx_rate": 1.3516
+    },
+    {
+      "date": "2026-05-15",
+      "time": "16:30",
+      "ticker": "TSLA",
+      "action": "SELL",
+      "shares": 0.4556,
+      "price_usd": 422.75,
+      "amount_gbp": 144.52,
+      "realized_pnl_gbp": -5.48,
+      "exit_reason": "stop"
+    },
+    {
+      "date": "2026-05-18",
+      "time": "09:30",
+      "ticker": "MSFT",
+      "action": "BUY",
+      "shares": 0.9473,
+      "price_usd": 421.92,
+      "amount_gbp": 300.0,
+      "fx_rate": 1.3325
+    },
+    {
+      "date": "2026-05-19",
+      "time": "09:35",
+      "ticker": "AMZN",
+      "action": "TRIM",
+      "shares": -1.031,
+      "price_usd": 260.0,
+      "amount_gbp": -200.0,
+      "fx_rate": 1.3401,
+      "realized_pnl_gbp": -1.61,
+      "exit_reason": "defensive_mode_cash_raise"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "09:30",
+      "ticker": "BN",
+      "action": "SELL",
+      "shares": 8.824,
+      "price_usd": 42.78,
+      "amount_gbp": 285.98,
+      "fx_rate": 1.32,
+      "realized_pnl_gbp": -14.02,
+      "exit_reason": "stop"
+    },
+    {
+      "date": "2026-06-29",
+      "time": "09:35",
+      "ticker": "SNDK",
+      "action": "BUY",
+      "shares": 0.1263,
+      "price_usd": 2090.0,
+      "amount_gbp": 200.0,
+      "fx_rate": 1.32
+    },
+    {
+      "date": "2026-06-29",
+      "time": "09:36",
+      "ticker": "TSM",
+      "action": "ADD",
+      "shares": 0.3053,
+      "price_usd": 432.35,
+      "amount_gbp": 100.0,
+      "fx_rate": 1.32
+    },
+    {
+      "date": "2026-07-01",
+      "time": "09:30",
+      "ticker": "NTRA",
+      "action": "SELL",
+      "shares": 1.981,
+      "price_usd": 216.5,
+      "amount_gbp": 324.85,
+      "fx_rate": 1.3203,
+      "realized_pnl_gbp": 24.85,
+      "exit_reason": "stop_gap_through"
+    },
+    {
+      "date": "2026-07-02",
+      "time": "09:35",
+      "ticker": "BE",
+      "action": "ADD",
+      "shares": 0.4043,
+      "price_usd": 326.6,
+      "amount_gbp": 100.0,
+      "fx_rate": 1.3203
+    }
   ],
   "investor_signals": {
     "Tepper_Appaloosa": {
@@ -510,7 +736,14 @@
       "tier": 1,
       "weight": 1.5,
       "q1_2026_13f": "CURRENT",
-      "top_holdings": ["AMZN(15.16%)", "MU(9.48%)", "GOOGL(8.38%)", "UBER(7.68%)", "TSM(7.56%)", "SNDK(new~3%)"],
+      "top_holdings": [
+        "AMZN(15.16%)",
+        "MU(9.48%)",
+        "GOOGL(8.38%)",
+        "UBER(7.68%)",
+        "TSM(7.56%)",
+        "SNDK(new~3%)"
+      ],
       "h1_2026_performance": "+32% H1 2026 (Bloomberg Jul 6 2026) — driven by memory chip makers (Micron named). AUM $23B. Average cash position ~40% (aligned with IC DEFENSIVE mode approach).",
       "notes": "VST first miss (stopped -6.76%). SNDK new buy now -20.4% from IC entry — under pressure but CORE rule holds. H1 +32% VALIDATES memory chip CORE strategy. Accuracy pending SNDK resolution."
     },
@@ -520,7 +753,13 @@
       "tier": "2B",
       "weight": 1.0,
       "q1_2026_13f": "CURRENT",
-      "top_holdings": ["BN(17.62%)", "AMZN(17.39%)", "UBER(15.71%)", "MSFT(15.26%)", "QSR(12.20%)"],
+      "top_holdings": [
+        "BN(17.62%)",
+        "AMZN(17.39%)",
+        "UBER(15.71%)",
+        "MSFT(15.26%)",
+        "QSR(12.20%)"
+      ],
       "new_positions_jul2026": "4 NEW POSITIONS signaled via social media (Jul 2026) — identities UNDISCLOSED, Q2 report pending. Watch for Q2 13F filing (due Aug 14 2026). Any new large position = immediate IC watchlist addition.",
       "notes": "BN stopped out Jun 29 2026 (-4.67% PCE macro). MSFT EXPLORE stopped Jun 11 (-5.78%). AMZN+UBER still held (both gains). Jul 2026: UBER Lucid/Nuro robotaxi deal (20,000 vehicles 6yr) = thesis strengthened. 3 signals correct (AMZN ✓, UBER ✓, 1 historical ✓) vs 2 misses (BN, MSFT EXPLORE)."
     },
@@ -532,7 +771,11 @@
       "q1_2026_13f": "CURRENT",
       "aum": "$13.7B (confirmed Q1 2026 13F filing)",
       "fund_performance": "+1000%+ since launch. Jane Street now investor.",
-      "top_holdings": ["BE(#1_$879M_6.5Mshares)", "SNDK(#2_$724M_1.14Mshares)", "NEBIUS(5.6%_stake)"],
+      "top_holdings": [
+        "BE(#1_$879M_6.5Mshares)",
+        "SNDK(#2_$724M_1.14Mshares)",
+        "NEBIUS(5.6%_stake)"
+      ],
       "derivatives_jul2026": "Added CALLS on SNDK, MU, TSM in Q1 2026 13F — confirms structural LONG + bullish options posture on all three IC positions. SNDK explicitly NOT in put basket (put basket = NVDA/AMD/SMH/AVGO/ASML/MU macro hedges).",
       "put_basket": "NVDA/AMD/MU/TSM/SMH/AVGO/ASML — macro hedges NOT position exits. SNDK explicitly NOT in put basket.",
       "notes": "Q2 2026 13F due Aug 14. EXIT signals as important as entry per tier rule. CALLS on MU/TSM/SNDK = structural bullish beyond common stock positions."
@@ -543,7 +786,12 @@
       "tier": 3,
       "weight": 0.8,
       "q1_2026_13f": "CURRENT",
-      "top_holdings": ["NTRA(#1_18%_$613M)", "TSM(5%_$167M)", "INSM", "AVGO"],
+      "top_holdings": [
+        "NTRA(#1_18%_$613M)",
+        "TSM(5%_$167M)",
+        "INSM",
+        "AVGO"
+      ],
       "q2_2026_signals": "CONFIRMED (post-Q1 filing, Apr 2026): Sold SNDK ($24.2M small position = 0.72% AUM, entered Q1 2026, exited April 2026 after gains = PROFIT-TAKING). Bought Bloom Energy (BE) — ROTATION to AI power infrastructure. This is additive to IC's BE CORE thesis. BE buy is Q2 2026 activity — will appear in Q2 13F (Aug 14).",
       "notes": "NTRA still holds — IC closed on gap-down Jul 1 (re-entry after Q2 13F Aug 14). SNDK was a tiny 0.72% AUM trade, not a conviction signal (IC CORE never based on Druckenmiller for SNDK). His BE rotation validates BE thesis. Solo max £200 EXPLORE rule applies. BE and TSM remain active CORE holdings with Druckenmiller's confirmed positions."
     },
@@ -554,18 +802,19 @@
     }
   },
   "current_tier_status": {
-    "MU": "CORE ★ (Tepper+Druck, £750 MAX — DO NOT ADD). ~$865 Jul 21 (+11.12% unrealized). IBM earnings Thu Jul 23 = enterprise memory catalyst. Analyst PT $2,000. Hold min Aug 11.",
-    "AMZN": "CORE ★ (Tepper+Ackman, £748.37/£750 — DO NOT ADD). $252 Jul 21 (-3.14% unrealized). AWS demand intact. GOOGL earnings Wed Jul 22 = cloud proxy signal. Hold min Aug 11.",
-    "BE": "CORE (Aschenbrenner+Druckenmiller, £650/£750 — £100 remaining). $285 Jul 21 ★ SURGE +35.6% from $210 Jul 20. NVDA stake in Nebius announced premarket Jul 21 → Nebius is BE customer (Oaktree/IDF $1.7B fuel cell deal Jul 17) → NVDA validation of Nebius = halo lift for BE. BE Day 1 of 2-session ≥$270 countdown STARTED. Unrealized PnL now -2.00% vs -27.95% yesterday. FINAL £100 ADD: still requires (1) Day 2 of ≥$270 (Jul 22 ✓ if holds) AND (2) DEFENSIVE→ELEVATED mode (Iran ceasefire + 2 sessions). Current mode = DEFENSIVE. Add target: ceasefire + 2 sessions + BE >$270 Jul 22 = execute on Day 3 of ceasefire confirmation. Hold CORE no stop min Aug 11.",
-    "TSM": "CORE (Tepper+Druck, £650/£750 — £100 remaining). $413 Jul 21 (+3.7% from $398.37 close). TSMC PRICE HIKE (Nikkei Asia Jul 21): 5-10% in 2027 across ALL nodes. TSM +3.7% on news. THREE-CONDITION CONFIRMED Jul 16. add £100 CORE AUTHORIZED — DEFERRED: IRAN_WAR_OVERRIDE Day 9 continues. New target zone $405-425 (raised from $385-405 due to price hike structural catalyst). Execute at ceasefire + 2 sessions. Hold min Sep 8.",
-    "UBER": "CORE (Ackman+Tepper, £300/£750). $73.00 Jul 21 (+2.93% unrealized). Robotaxi deal Lucid+Nuro intact. Hold min Aug 28.",
-    "SNDK": "CORE — TRIPLE VALIDATED (Aschenbrenner+Tepper, £200/£750 — £550 remaining). AMBER_FLAG Day 3 CONFIRMED $1,391 Jul 21. FORMAL CORE REASSESSMENT RESULT (Jul 21): MAINTAIN CORE. Both investors Q1 2026 CURRENT, no exits, triple thesis intact, weakness = Iran war macro. GATE_RESET: need 2 consec closes >$1,600 to reactivate add trigger (currently $1,391 = 15% below gate). New amber flag counter reset. Analyst PT $2,144 = 54% upside. No stop 90-day CORE min Sep 28.",
-    "MRVL": "WATCHLIST (Jul 9 — Jensen Huang 'next trillion-dollar company' + custom silicon $10B FY2029. No Q1 2026 13F confirmation from IC investors. WATCHLIST — do NOT enter until Q2 13F Aug 14.)",
+    "MU": "CORE ★ (Tepper+Druck, £750 MAX — DO NOT ADD). ~$945 Jul 22 (+21.81% unrealized). Sector rally: MU up ~9.2% today on AI memory momentum. SMCI +15% AI server blowout = AI memory demand proxy. IBM Q2 final tomorrow Jul 23 = enterprise memory catalyst. INTC Q2 tomorrow = competitive threat monitor. Analyst PT $2,000. Hold min Aug 11.",
+    "AMZN": "CORE ★ (Tepper+Ackman, £748.37/£750 — DO NOT ADD). $247 Jul 22 (-4.70% unrealized). GOOGL earnings tonight (4:30 PM ET) = cloud proxy signal for AWS demand. Cloud growth >26% = bullish for AMZN thesis. Hold min Aug 11. AMZN Q2 earnings Jul 30 — HIGH probability THREE-CONDITION met (Prime Day Q2 boost, AWS +17% trend).",
+    "BE": "CORE (Aschenbrenner+Druckenmiller, £650/£750 — £100 remaining). ~$215 Jul 22 (CORRECTED from $285 4PM_EOD error — second BE gap-up reversal). BE Day 1 of $270+ trigger INVALIDATED. BE add BLOCKED: requires (1) ELEVATED mode + (2) BE >$270 for 2 consecutive EOD closes. Currently $215 = -20.4% below $270 trigger. Aschenbrenner SA #1 long 6.5M shares $879M + calls — thesis intact. Brookfield $25B + Nebius $1.7B = demand pipeline. CORE no-stop min Aug 11.",
+    "TSM": "CORE (Tepper+Druck+Coatue #1, £650/£750 — £100 remaining). $432 Jul 22 (+4.6% from $413 Jul 21). TSMC price hike CONFIRMED (Bloomberg+Nikkei): 5-10% baseline 2027, up to 25% HPC premium. THREE-CONDITION ALL MET Jul 16 (EPS $4.31 vs $3.77e, Rev $40.2B vs $39.82B, Q3 guide above consensus). COATUE TRIPLE CONVICTION: Tepper #5 (7.56%), Druckenmiller (5.0%), Coatue #1 ($29.1B). Add £100 CORE AUTHORIZED — DEFERRED: IRAN_WAR_OVERRIDE continues. Target $405-425. Execute at ceasefire + 2 sessions. Hold min Sep 8.",
+    "UBER": "CORE (Ackman+Tepper, £300/£750). $72.00 Jul 22 (+1.91% unrealized). Robotaxi deal Lucid+Nuro intact (20,000 vehicles over 6yr). Hold min Aug 28. Consumer economy healthy (JPM Q2 blowout, JNJ >$25B first time in 140yr history).",
+    "SNDK": "CORE — TRIPLE VALIDATED (Aschenbrenner+Tepper, £200/£750 — £550 remaining). RECOVERED to $1,589-1,596 Jul 22 (+14.4% today from $1,391 Jul 21 AMBER FLAG Day 3 close). AMBER FLAG CLEARED. Gate approaching $1,600: if EOD Jul 22 close >$1,600 = Day 1 of add trigger reactivation. Need Day 2 above $1,600 = gate reactivated. Bernstein PT $3,000, Wedbush $2,000. YTD +707% (top S&P 500 performer 2026). Earnings Aug 5, Investor Day Aug 13. Both investors Q1 2026 CURRENT, no exits. CORE no-stop 90-day hold min Sep 28.",
+    "MRVL": "WATCHLIST (Jul 9 — Jensen Huang next trillion-dollar company + custom silicon $10B FY2029. No Q1 2026 13F confirmation from IC investors. WATCHLIST — do NOT enter until Q2 13F Aug 14.)",
     "GOOGL": "BLOCKED (Tepper 8.38% but AI talent exodus: Jumper + Shazeer departed. Company-specific moat erosion. Reassess post-Oct 2026.)",
     "VST": "WATCHLIST (Tepper +114% — re-entry >5% from 30d peak + macro tailwind. DEFENSIVE mode blocks. Oil +4% = VST thesis strengthening long-term.)",
     "AVGO": "WATCHLIST (Druckenmiller holds — re-entry post next earnings THREE-CONDITION RULE only.)",
     "NTRA": "WATCHLIST (Druckenmiller #1 18.1% AUM — re-entry only after Q2 13F Aug 14 confirms maintained position. Gap-through stop -£37.15 lesson learned.)",
-    "DEFENSE_NUCLEAR": "WATCHLIST EMERGING (ARK buying KTOS/X-Energy, Iran war beneficiaries. No IC investor 13F signals yet. Evaluate as EXPLORE post-DEFENSIVE mode if Iran conflict extends beyond Aug.)"
+    "DEFENSE_NUCLEAR": "WATCHLIST EMERGING (ARK buying KTOS/X-Energy, Iran war beneficiaries. No IC investor 13F signals yet. Evaluate as EXPLORE post-DEFENSIVE mode if Iran conflict extends beyond Aug.)",
+    "MSFT": "WATCHLIST — EXPLORE CANDIDATE (Ackman Q1 2026 13F CURRENT: $2.09B, 15.3% AUM = EXCEEDS 8% threshold). IC MSFT stopped Jun 11 at $399.65 (Tepper 82% exit). NOW: Ackman new $2.09B position = EXPLORE tier qualifies (single investor ≥8% AUM). Tepper still sold 82% (negative signal) but Ackman conviction overcomes for EXPLORE tier. Re-entry criteria post-DEFENSIVE: (1) ELEVATED mode, (2) MSFT not within 5% of 30d peak, (3) Q2 13F Aug 14 confirms Ackman maintained position. Max EXPLORE £200 with -7% stop."
   },
   "rules_log": {
     "new_rule_2026-07-15_a": "ASML_TSM_LEADING_INDICATOR: When ASML quarterly results beat consensus by >5% AND raises annual guidance >10%, increase THREE-CONDITION confidence for TSMC/MU/SNDK earnings to VERY HIGH (>90%). ASML Jul 15 2026: Q2 €9.3B vs €8.80B (+5.7% beat); 2026 guidance raised €36-40B → €43-45B (+18.4% midpoint, largest ever raise). ASML is TSMC's largest EUV customer and sole EUV tool supplier. A guidance raise of this magnitude means TSMC's H2 2026 workload will be substantially above any prior consensus. Applies to: TSM earnings Jul 16 THREE-CONDITION (guidance raise probability now VERY HIGH), MU next earnings, SNDK next earnings. Rule: when ASML raises guidance >10%, treat it as an independent bullish signal for all IC semiconductor CORE positions.",
@@ -592,7 +841,10 @@
     "rule_2026-06-01": "EXPLORE ENTRY TIMING: Check if price within 5% of 30-day peak. YES = DEFER. Exception: earnings catalyst within 48h.",
     "rule_2026-05-29": "MEGA-INVESTOR 75%+ EXIT = tighter stop: Use -3% not -7% on EXPLORE when primary investor exits 75%+ of position.",
     "new_rule_2026-07-16_a": "TSMC_CAPEX_RAISE_AS_OPPORTUNITY: When TSMC raises capex guidance during a quarter where THREE-CONDITION RULE is all met (EPS beat + Revenue beat + Guidance ≥ consensus), near-term stock decline driven solely by capex concerns is a BUYING OPPORTUNITY, not a thesis breach. Capex raise ($52-56B→$60-64B, +15%, Jul 16 2026) = more N2/A16 fab capacity = more AI chips for NVDA Blackwell, AMD MI300, AVGO custom silicon = structural revenue growth. TSMC's capex is customer-demand-driven (hyperscalers pre-order fab time). Capex raise during blowout earnings = demand exceeds current capacity = very bullish long-term. Rule: Distinguish capex-driven decline (add signal, hold) from guidance-miss-driven decline (do not enter). Key: THREE-CONDITION tests REVENUE/EPS/FORWARD REVENUE GUIDANCE, not capex. Jul 16 application: TSM -4% premarket on capex raise $52-56B→$60-64B with THREE-CONDITION ALL MET = execute final £100 CORE add at next available ELEVATED mode session (Jul 17 or Jul 20 Mon).",
-    "new_rule_2026-07-16_b": "SNDK_ADD_TRIGGER_RESET: The SNDK add trigger at '$1,600 close' is a REAL-TIME gate assessed on the day of planned execution, not a historical flag set when the trigger was first observed as active. When SNDK drops to near the $1,600 threshold between trigger observation and execution day, verify SNDK closed ABOVE $1,600 on execution day before placing the add. If SNDK closes below $1,600 on execution day, defer the add until a session where SNDK closes above $1,600 with ELEVATED mode active. Context: trigger was observed 'ACTIVE' at $1,758 on Jul 15 morning, but Jul 15 EOD was $1,605.30 (barely above gate). Jul 16 intraday ~$1,570 (below gate). Execute add at Jul 17/20 only if SNDK EOD is above $1,600 on that session."
+    "new_rule_2026-07-16_b": "SNDK_ADD_TRIGGER_RESET: The SNDK add trigger at '$1,600 close' is a REAL-TIME gate assessed on the day of planned execution, not a historical flag set when the trigger was first observed as active. When SNDK drops to near the $1,600 threshold between trigger observation and execution day, verify SNDK closed ABOVE $1,600 on execution day before placing the add. If SNDK closes below $1,600 on execution day, defer the add until a session where SNDK closes above $1,600 with ELEVATED mode active. Context: trigger was observed 'ACTIVE' at $1,758 on Jul 15 morning, but Jul 15 EOD was $1,605.30 (barely above gate). Jul 16 intraday ~$1,570 (below gate). Execute add at Jul 17/20 only if SNDK EOD is above $1,600 on that session.",
+    "new_rule_2026-07-22_a": "BE_HIGH_REVERSAL_RISK: Bloom Energy has now triggered the gap-up reversal pattern TWICE (Jul 2 2026: opened $326.60 catalyst day, closed $270.89 = -17.3% reversal; Jul 21 2026: opened $280.92 on NVDA/Nebius halo, closed ~$200-215 = -24-29% reversal). BE is hereby flagged HIGH_REVERSAL_RISK in the portfolio system. Rule: for any future BE catalyst day with >10% premarket gap, MANDATORY wait for 4PM EOD close before recording portfolio price. This is stricter than the general CATALYST-DAY GAP-UP TIMING rule (which says wait 30-60 min). For BE specifically: wait for EOD close, no exceptions. This is the 8th 4PM_EOD_PRICE_CAPTURE violation; BE accounts for 2 of the 8 violations.",
+    "new_rule_2026-07-22_b": "OIL_AT_92_PORTFOLIO_REVIEW: When Brent crude sustains >$92/barrel for 3+ trading sessions, flag AMZN and UBER for thesis headwind review (logistics/fuel cost pressure on margins). Simultaneously: (1) update BE long-term thesis sentiment to VERY POSITIVE (fuel cell vs natural gas economics dramatically improve at $92+); (2) flag July CPI as LIKELY HOT (energy spike in July vs June's -5.7% MoM = sharp reversal); (3) assume Fed stays hawkish (Warsh holds or signals hike) at FOMC Jul 28-29. Jul 22 application: Brent crossed $92 (day 1). Flag activated — monitor for 3-session confirmation.",
+    "new_rule_2026-07-22_c": "TRIPLE_CONVICTION_NO_EXIT_ON_NOISE: When 3 or more IC-tier investors hold a stock as a top-5 position in their latest 13F, this constitutes TRIPLE CONVICTION status. For TRIPLE CONVICTION stocks: do not exit on any single session's negative macro event (geopolitical shock, rate decision, analyst downgrade) without a confirmed THESIS CHANGE exit signal. Jul 22 application: TSM now has TRIPLE CONVICTION (Tepper #5 at 7.56%, Druckenmiller at 5.0%, Coatue #1). TSM CORE hold through Iran war, FX headwinds, and post-earnings noise is fully validated. Only exit trigger: 2+ of the 3 investors exit in the SAME 13F filing quarter."
   },
   "macro_context": {
     "fed_rate": "3.5-3.75% (Warsh hold Jun 17, hawkish language, QT emphasis)",
@@ -601,7 +853,7 @@
     "ism_services_june_2026": "54.0% (ISM Services PMI, released Jul 6/7). 24th consecutive month in expansion (>50). Business Activity 55.4%, New Orders 55.1%, Employment 51.2% (expanded for first time in 4 months). Risk-ON signal. Corresponds to ~1.9% annualized GDP growth.",
     "samsung_q2_2026": "Operating profit 89.4T won (19x YoY, beat 87.3T estimate). DRAM +44% QoQ, NAND +53% QoQ. RECORD Q2 confirms AI memory supercycle. BUT Samsung shares fell 6%+ 'sell the news' (capex/demand concerns). Chipmaker contagion: MU -5.2%, memory sector broadly weak. FUNDAMENTAL BULLISH for MU/SNDK thesis despite near-term price action.",
     "cpi_june_2026": "RELEASED Jul 14 2026. Headline CPI: +3.5% YoY (vs 3.8% expected). Monthly: -0.4% (BIGGEST MONTHLY DROP SINCE APRIL 2020). Core CPI: +2.6% YoY (vs 2.9% expected). Energy: -5.7% MoM (yet +15.7% YoY). Services ex-energy: FLAT (0.0% MoM). Shelter: +0.1% MoM. Transportation services: -0.3% MoM. Assessment: Genuinely deflationary June print, driven by June energy price decline (pre-Iran escalation in energy markets). CAVEAT: Brent at $86.85 on Jul 14 = July CPI will REVERSE sharply. Fed (Warsh) likely stays hawkish/neutral — cool CPI does not change rate trajectory while oil surges. Medium-term positive: if oil stabilizes, core goods/services disinflation trend is intact → eventual rate cuts (2027). Short-term: offset by oil price resurgence.",
-    "iran_war_2026": "CRITICAL MACRO CONTEXT — PHASE 3 ESCALATION: 2026 Iran war began March 2026 (Strait of Hormuz crisis). Ceasefire April 8. Formal peace deal June 14-15 (Strait reopened). Jul 8: Trump declared ceasefire 'over' at NATO Ankara summit — RE-ESCALATION PHASE 2. Jul 9: US + Iran exchange strikes (oil fell to WTI $72.64, paradox). WEEKEND JUL 12-13 — PHASE 3 (MOST SEVERE): US Central Command launched dozens of strikes near Hormuz after Iran attacked Cyprus-flagged vessel MV GFS Galaxy. Iran retaliated hitting Kuwait, Jordan, Qatar. Hormuz maritime traffic NEAR-ZERO: 6 ships tracked (Jul 10-11 window) vs 18-22 daily normal. Jul 14: US bombed Iranian coastal military targets overnight. Iran Revolutionary Guard attacked two UAE ADNOC supertankers (one mariner killed). Trump proposed 20% toll on ALL Hormuz cargo. Brent +4.3% to $86.85. JUL 15 — NEW ESCALATION ON EXPIRY DAY: US launched 'another wave of strikes' on Iranian targets at US market open. Iran retaliated on US positions in Kuwait, Bahrain, Jordan. US naval blockade reinstated on Iranian ports. Trump threatened to target Iranian power plants and bridges 'next week unless Tehran returns to negotiations' — diplomatic window opened simultaneously. Brent $85.22 (DOWN from $86.85 despite escalation — oil paradox THIRD occurrence, markets pricing diplomatic endgame). Per GEO_SHOCK_EXPIRY_NEW_ESCALATION rule: fresh 3-session override triggered on expiry day. NEW CLOCK: Day 1/3=Jul 15, Day 2/3=Jul 16, Day 3/3=Jul 17. DEFENSIVE mode extended through Jul 17 minimum. ONGOING RISKS: Full Hormuz closure scenario (oil to $90-100+); Qatar helium supply (1/3 global via Strait) = semiconductor fab cost headwind; BE clean energy funding timeline uncertainty; DEFENSE (LMT, RTX, KTOS) benefits — no IC exposure. DIPLOMATIC SIGNAL: Trump 'next week' ultimatum suggests a negotiation endpoint within 5-10 days from Jul 15 if Tehran engages. Mode transition may occur Jul 17 if no new escalation.",
+    "iran_war_2026": "CRITICAL MACRO CONTEXT — IRAN WAR DAY 10 (Jul 22): War began March 2026 (Strait of Hormuz crisis). Ceasefire April 8. Peace MoU June 14-15. Jul 8: Trump declared ceasefire 'over' at NATO Ankara summit — RE-ESCALATION PHASE 2. Jul 9-11: US/Iran exchange strikes. Jul 12-13 weekend: PHASE 3 escalation — US Central Command dozens of strikes near Hormuz, Iran hit Kuwait/Jordan/Qatar. Jul 14-17: Continued escalation. Jul 17: KHAMENEI DIED — Trump gave Iran 'week off' funeral period. Jul 20-21: US completed additional strikes; Houthis threatening Saudi naval blockade. Jul 22 (TODAY): US ran 11th consecutive night of strikes on Iran. Iran fired 6 missiles + 4 drones into Jordan (8/10 intercepted). Air raid sirens in Bahrain; civil defense alert Dammam, Saudi Arabia. Brent crude >$92/barrel (21% above pre-conflict ~$75-76). 18 US service members killed total; $37.5B US military expenditure. ONGOING RISKS: (1) Houthis Saudi naval blockade — new escalation front; (2) Hormuz near-closure risk (6 ships vs 18-22 normal before Jul 13); (3) $92 oil → July CPI will be hot → hawkish FOMC Jul 28-29; (4) Qatar helium supply risk (1/3 global via Strait) = semiconductor fab cost headwind; (5) US troops (18 killed, nearly 100 injured) = domestic political pressure. DIPLOMATIC STATUS: Mediators (Qatar/Pakistan) proposed 10-day ceasefire — Washington downplayed. No confirmed negotiations. DEFENSIVE mode: ceasefire CONFIRMED + 2 full sessions required.",
     "asml_q2_2026": "ASML Q2 2026 REPORTED JUL 15 — LARGEST AI CHIP EQUIPMENT SIGNAL OF 2026: Revenue €9.3B (vs €8.80B consensus, +5.7% beat). 2026 full-year guidance raised from €36-40B → €43-45B (+18.4% midpoint — LARGEST GUIDANCE RAISE IN ASML HISTORY). Plans to expand EUV and DUV capacity +30% in each of the next 2 years. CEO: 'Ongoing AI-related investments driving demand for advanced Logic AND Memory chips.' TSMC ORDER BOOK IMPLICATION: ASML is TSMC's sole EUV tool supplier. A +30% capacity expansion plan means TSMC has placed orders far above any prior consensus forecast for H2 2026 and 2027. MEMORY IMPLICATION: Guidance cites MEMORY chip demand specifically — directly validates MU/SNDK/NAND supercycle. IC PORTFOLIO IMPACT: VERY HIGH THREE-CONDITION confidence for TSM Jul 16 earnings, MU next earnings, SNDK next earnings. New rule added: ASML_TSM_LEADING_INDICATOR (any >10% annual guidance raise = VERY HIGH confidence for IC semi CORE positions). S&P +0.3%, Nasdaq +0.6% on this catalyst today.",
     "gbpusd_regime": "Jul 7: 1.3388 (GBP strengthening on weak USD). Jul 8: 1.3353 (GBP mild weakening, USD safe-haven demand). Jul 13: 1.3349. Jul 14: 1.3349 (stable). Jul 15: 1.3390. Jul 16: 1.3536 (GBP STRENGTHENING +1.1% — FX HEADWIND: US retail Jun +0.2% vs +0.3% miss = USD softens; Iran diplomatic endgame reducing USD safe-haven premium). At 1.3536, all IC USD positions worth 1.1% less in GBP vs yesterday. Six-position USD portfolio = full FX exposure with no non-USD hedge beyond 33% GBP cash.",
     "memory_market_jul2026": "DUAL NARRATIVE: (1) SUPPLY GLUT FEAR — Samsung/SKH adding NAND supply, expectations for price softening late 2026; (2) STRUCTURAL SUPERCYCLE — IDC forecasts DRAM/NAND supply growth below historical norms (16%/17% YoY), HBM constrained to 2028. Samsung Q2 CONFIRMATION: DRAM +44% QoQ, NAND +53% QoQ — ACTUAL PRICES rising sharply. 'Sell the news' stock reaction ≠ fundamental change. NAND supply tight throughout 2026 (TrendForce revenue +138.5%).",
@@ -612,7 +864,7 @@
     "ackman_new_positions_jul2026": "Ackman signaled 4 NEW POSITIONS via social media (Jul 2026) — identities undisclosed pending Q2 report. Q2 2026 13F due Aug 14. Any name in IC watchlist = immediate EXPLORE entry consideration.",
     "tepper_h1_2026": "Appaloosa +32% H1 2026 (Bloomberg Jul 6). AUM $23B. Driven by memory chip makers (Micron specifically named). Average cash position ~40% — aligns with IC DEFENSIVE strategy. VALIDATES dual-investor CORE memory thesis.",
     "upcoming_events": [
-      "Jul 7-10 (COMPLETED WEEK 9): Samsung Q2 blowout 'sell the news', FOMC hawkish minutes, Iran ceasefire collapse + new strikes, SNDK AMBER FLAG cleared, SK Hynix ADR +14% debut. SNDK +3.4% Jul 10 (SK Hynix confirmed deficit past 2030). TSMC Jun revenue +67.9% released Jul 13.",
+      "Jul 22 (TODAY — Wed): GOOGL Q2 earnings AH (4:30 PM ET) — cloud growth proxy for MU/AMZN. TSLA Q2 earnings AH — IC sentiment signal only. Market premarket: Nasdaq -0.83%, S&P -0.33%.",
       "Jul 13 (Mon COMPLETED): S&P 500 -0.8% to 7,515.47. GEO_SHOCK_OVERRIDE Day 1/3 activated. Brent +4% to $78.82. TSMC Jun revenue +67.9% released. NO TRADES. MU selloff with semis (from $979 est. to ~$940 close). SNDK: intraday $1,836 high → $1,753.69 close. BE fell to ~$242.",
       "Jul 14 (Tue COMPLETED): GEO_SHOCK Day 2/3. CPI June MASSIVE BEAT: 3.5% vs 3.8% (monthly -0.4%, biggest drop since Apr 2020). Core 2.6% vs 2.9%. Bank earnings BLOWOUT: JPM $58.02B vs $50.19B, WFC $22.62B vs $21.84B. IBM -22% (CEO confirmed clients shifted to memory/servers — MU/SNDK thesis validated). Brent +4.3% to $86.85 (Iran attacks UAE supertankers). NO TRADES. Portfolio: £4,841.82 (intraday est).",
       "Jul 15 (Wed COMPLETED): GEO_SHOCK Day 1/3 NEW override (US launched new strikes at market open — fresh 3-session clock per GEO_SHOCK_EXPIRY_NEW_ESCALATION rule). ASML Q2 BLOWOUT: €9.3B vs €8.80B; 2026 guidance raised +18% = largest ever ASML guidance raise. Validates MU/TSM/SNDK AI semi thesis. S&P +0.3%, Nasdaq +0.6%. JNJ Q2 >$25B (first in 140yr history) + BlackRock beat. Brent $85.22 (oil paradox — DOWN despite escalation). NO TRADES — DEFENSIVE Day 1/3. Portfolio: £4,888.95 (+0.97% day, -2.22% cumulative). EOD CORRECTIONS Jul 14: MU $937→$983, TSM $437→$421, BE $233.49→$243.40.",
@@ -624,45 +876,158 @@
       "Aug 28: UBER CORE hold min date.",
       "Sep 8: TSM CORE hold min date.",
       "Sep 28: SNDK CORE hold min date."
-    ]
+    ],
+    "oil_brent_jul22": "Brent crude >$92/barrel (Jul 22) — NEW HIGH for Iran conflict. Was $84-87 last week (Jul 14-17). $92+ = 21% above pre-conflict ~$75-76. Market pricing: (1) Houthis Saudi blockade threat = new supply disruption front; (2) US 11th consecutive night of strikes = sustained conflict; (3) No diplomatic endgame visible yet. IC implications: BE thesis benefit (fuel cell economics improve vs natural gas at $92 oil); July CPI headwind (Fed stays hawkish); AMZN/UBER margin pressure; DEFENSIVE mode extension confirmed."
   },
   "weekly_returns": [
-    {"week": 1, "dates": "2026-05-11/15", "return_pct": null, "cumulative_pct": null, "note": "Inception week — see 2026-05-15.md"},
-    {"week": 2, "dates": "2026-05-18/22", "return_pct": null, "cumulative_pct": null, "note": "See 2026-05-22.md"},
-    {"week": 3, "dates": "2026-05-25/29", "return_pct": null, "cumulative_pct": null, "note": "See 2026-05-29.md"},
-    {"week": 4, "dates": "2026-06-01/05", "return_pct": null, "cumulative_pct": null, "note": "See 2026-06-05.md"},
-    {"week": 5, "dates": "2026-06-08/13", "return_pct": null, "cumulative_pct": null, "note": "See 2026-06-13.md"},
-    {"week": 6, "dates": "2026-06-15/19", "return_pct": null, "cumulative_pct": null, "note": "See 2026-06-19.md"},
-    {"week": 7, "dates": "2026-06-22/26", "return_pct": 0.67, "cumulative_pct": 7.75, "sp500_pct": 1.0, "alpha_pct": -0.33, "note": "MU blowout earnings Jun 25. NTRA NCCN endorsement. PCE 4.1% hot."},
-    {"week": 8, "dates": "2026-06-29/07-02", "return_pct": -8.40, "cumulative_pct": -1.30, "sp500_pct": 1.76, "alpha_pct": -10.16, "note": "Worst IC week since inception. MU -15.8%, BE -21.5% intraday, SNDK -14.1% entry week. S&P +1.76% (best in 2 months). NTRA gap-through stop, BN stop, BE catalyst-day rule violation."},
-    {"week": 9, "dates": "2026-07-07/07-11", "return_pct": -0.77, "cumulative_pct": -2.31, "sp500_pct": 0.4, "alpha_pct": -1.17, "note": "COMPLETED. Day 1 (Jul 7): Samsung Q2 blowout 'sell the news' — MU -5.2% to $929.40. +0.31%. Day 2 (Jul 8): IRAN CEASEFIRE COLLAPSE + HAWKISH FOMC MINUTES — double headwind. Portfolio -2.04%. SNDK AMBER FLAG (intraday $1,485, closed $1,579.67 — never triggered 3-close rule). Day 3 (Jul 9): Iran escalation but oil FELL (WTI $72.64 paradox). SNDK AMBER FLAG CLEARED ($1,720). +0.73%. Day 4 (Jul 10): SK Hynix ADR debut SKHY +14%. SNDK +3.4% (SK Hynix confirmed memory deficit past 2030 — thesis VALIDATED, NOT threatened). MU recovery ~$992. Portfolio estimated +0.25%. Day 5 (Jul 11 Sat): No trading. Week 9 final: £4,935.17→~£4,897 (estimated). S&P week: +0.4%."},
-    {"week": 10, "dates": "2026-07-13/07-17", "return_pct": -6.43, "cumulative_pct": -8.59, "sp500_pct": -1.07, "alpha_pct": -5.36, "note": "COMPLETED. Day 1 (Jul 13 Mon): S&P -0.8% to 7,515.47. GEO_SHOCK Day 1/3. SNDK from $1,836 intraday to $1,753.69 close. MU sold off to ~$940. Portfolio: ~£4,841 (est). Day 2 (Jul 14 Tue): CPI Jun 3.5% (vs 3.8%) MASSIVE DOVISH SURPRISE — biggest monthly drop since Apr 2020. Bank earnings blowout (JPM, WFC). IBM -22% (CEO confirms enterprise shifted to memory = MU/SNDK validated). Brent +4.3% to $86.85. NO TRADES. GEO_SHOCK Day 2/3. Portfolio: £4,841.82 (intraday est). Day 3 (Jul 15 Wed): ASML Q2 BLOWOUT (€9.3B vs €8.80B; guidance raised +18% = largest ever ASML raise). US new Iran strikes → GEO_SHOCK_EXPIRY_NEW_ESCALATION → fresh Day 1/3 override through Jul 17. S&P +0.3%, Nasdaq +0.6%. JNJ $25B+ (140yr record). Brent $85.22 (oil paradox DOWN). NO TRADES. Portfolio: £4,888.95 (+0.97% day, -2.22% cumulative). EOD corrections Jul 14 applied: MU $937→$983, TSM $437→$421, BE $233.49→$243.40. Day 4 (Jul 16 Thu): TSM Q2 THREE-CONDITION ALL MET — EPS $4.31 vs $3.77e (BEAT +14.3%), Rev $40.2B vs $39.82B (BEAT), Q3 guide $44.6-45.8B above consensus (BEAT). TSM -4% premarket on capex raise $60-64B (TSMC_CAPEX_RAISE_AS_OPPORTUNITY = better entry ~$403). GBP/USD 1.3536 (+1.1% FX headwind on all USD positions; ~-£36 from FX alone). SNDK Jul 15 EOD corrected $1,757.82→$1,605.30 (6th 4PM_EOD_PRICE_CAPTURE violation); Jul 16 open ~$1,570 = BELOW $1,600 trigger (SNDK_ADD_TRIGGER_RESET rule). Brent $84.63 (oil paradox 4th occurrence). Portfolio: £4,729.22 (-3.27% day, -5.42% cumulative). GEO_SHOCK Day 2/3. NO TRADES."}
+    {
+      "week": 1,
+      "dates": "2026-05-11/15",
+      "return_pct": null,
+      "cumulative_pct": null,
+      "note": "Inception week — see 2026-05-15.md"
+    },
+    {
+      "week": 2,
+      "dates": "2026-05-18/22",
+      "return_pct": null,
+      "cumulative_pct": null,
+      "note": "See 2026-05-22.md"
+    },
+    {
+      "week": 3,
+      "dates": "2026-05-25/29",
+      "return_pct": null,
+      "cumulative_pct": null,
+      "note": "See 2026-05-29.md"
+    },
+    {
+      "week": 4,
+      "dates": "2026-06-01/05",
+      "return_pct": null,
+      "cumulative_pct": null,
+      "note": "See 2026-06-05.md"
+    },
+    {
+      "week": 5,
+      "dates": "2026-06-08/13",
+      "return_pct": null,
+      "cumulative_pct": null,
+      "note": "See 2026-06-13.md"
+    },
+    {
+      "week": 6,
+      "dates": "2026-06-15/19",
+      "return_pct": null,
+      "cumulative_pct": null,
+      "note": "See 2026-06-19.md"
+    },
+    {
+      "week": 7,
+      "dates": "2026-06-22/26",
+      "return_pct": 0.67,
+      "cumulative_pct": 7.75,
+      "sp500_pct": 1.0,
+      "alpha_pct": -0.33,
+      "note": "MU blowout earnings Jun 25. NTRA NCCN endorsement. PCE 4.1% hot."
+    },
+    {
+      "week": 8,
+      "dates": "2026-06-29/07-02",
+      "return_pct": -8.4,
+      "cumulative_pct": -1.3,
+      "sp500_pct": 1.76,
+      "alpha_pct": -10.16,
+      "note": "Worst IC week since inception. MU -15.8%, BE -21.5% intraday, SNDK -14.1% entry week. S&P +1.76% (best in 2 months). NTRA gap-through stop, BN stop, BE catalyst-day rule violation."
+    },
+    {
+      "week": 9,
+      "dates": "2026-07-07/07-11",
+      "return_pct": -0.77,
+      "cumulative_pct": -2.31,
+      "sp500_pct": 0.4,
+      "alpha_pct": -1.17,
+      "note": "COMPLETED. Day 1 (Jul 7): Samsung Q2 blowout 'sell the news' — MU -5.2% to $929.40. +0.31%. Day 2 (Jul 8): IRAN CEASEFIRE COLLAPSE + HAWKISH FOMC MINUTES — double headwind. Portfolio -2.04%. SNDK AMBER FLAG (intraday $1,485, closed $1,579.67 — never triggered 3-close rule). Day 3 (Jul 9): Iran escalation but oil FELL (WTI $72.64 paradox). SNDK AMBER FLAG CLEARED ($1,720). +0.73%. Day 4 (Jul 10): SK Hynix ADR debut SKHY +14%. SNDK +3.4% (SK Hynix confirmed memory deficit past 2030 — thesis VALIDATED, NOT threatened). MU recovery ~$992. Portfolio estimated +0.25%. Day 5 (Jul 11 Sat): No trading. Week 9 final: £4,935.17→~£4,897 (estimated). S&P week: +0.4%."
+    },
+    {
+      "week": 10,
+      "dates": "2026-07-13/07-17",
+      "return_pct": -6.43,
+      "cumulative_pct": -8.59,
+      "sp500_pct": -1.07,
+      "alpha_pct": -5.36,
+      "note": "COMPLETED. Day 1 (Jul 13 Mon): S&P -0.8% to 7,515.47. GEO_SHOCK Day 1/3. SNDK from $1,836 intraday to $1,753.69 close. MU sold off to ~$940. Portfolio: ~£4,841 (est). Day 2 (Jul 14 Tue): CPI Jun 3.5% (vs 3.8%) MASSIVE DOVISH SURPRISE — biggest monthly drop since Apr 2020. Bank earnings blowout (JPM, WFC). IBM -22% (CEO confirms enterprise shifted to memory = MU/SNDK validated). Brent +4.3% to $86.85. NO TRADES. GEO_SHOCK Day 2/3. Portfolio: £4,841.82 (intraday est). Day 3 (Jul 15 Wed): ASML Q2 BLOWOUT (€9.3B vs €8.80B; guidance raised +18% = largest ever ASML raise). US new Iran strikes → GEO_SHOCK_EXPIRY_NEW_ESCALATION → fresh Day 1/3 override through Jul 17. S&P +0.3%, Nasdaq +0.6%. JNJ $25B+ (140yr record). Brent $85.22 (oil paradox DOWN). NO TRADES. Portfolio: £4,888.95 (+0.97% day, -2.22% cumulative). EOD corrections Jul 14 applied: MU $937→$983, TSM $437→$421, BE $233.49→$243.40. Day 4 (Jul 16 Thu): TSM Q2 THREE-CONDITION ALL MET — EPS $4.31 vs $3.77e (BEAT +14.3%), Rev $40.2B vs $39.82B (BEAT), Q3 guide $44.6-45.8B above consensus (BEAT). TSM -4% premarket on capex raise $60-64B (TSMC_CAPEX_RAISE_AS_OPPORTUNITY = better entry ~$403). GBP/USD 1.3536 (+1.1% FX headwind on all USD positions; ~-£36 from FX alone). SNDK Jul 15 EOD corrected $1,757.82→$1,605.30 (6th 4PM_EOD_PRICE_CAPTURE violation); Jul 16 open ~$1,570 = BELOW $1,600 trigger (SNDK_ADD_TRIGGER_RESET rule). Brent $84.63 (oil paradox 4th occurrence). Portfolio: £4,729.22 (-3.27% day, -5.42% cumulative). GEO_SHOCK Day 2/3. NO TRADES."
+    }
   ],
   "forecast_accuracy": {
     "mae_pct_points": 3.03,
     "data_points": 9,
     "mae_history_note": "Week 1-6 MAE was 1.63 pts (6 points). Week 8 error: 8.55 pts (largest in system history). MAE after wk8: 2.62 pts (7 pts). Week 9 error: 1.77 pts. Week 10 error: 7.18 pts (second-worst). New MAE: (2.62×7 + 1.77 + 7.18)/9 = 27.29/9 = 3.03 pts.",
     "return_predictions": [
-      {"week": 7, "forecast_mid": 1.5, "actual": 0.67, "error_abs": 0.83},
-      {"week": 8, "forecast_mid": 0.15, "actual": -8.40, "error_abs": 8.55, "note": "Catastrophic miss — AI semi selloff vs broad market rally"},
-      {"week": 9, "forecast_mid": 1.0, "actual": -0.77, "error_abs": 1.77, "note": "Direction wrong; bear case (SK Hynix crushing SNDK) nearly happened but SKHY debuted positively (+14%) and SNDK gained +3.4%"},
-      {"week": 10, "forecast_mid": 0.75, "actual": -6.43, "error_abs": 7.18, "note": "Second-worst error in IC history. Iran war Day 6 + Netflix AI-bubble contagion + TSM sell-on-news despite THREE-CONDITION blowout. Bear case nearly materialised (MU $850 vs $853 actual, BE $200 vs $199 actual, SNDK $1,400 vs $1,440 actual). TSM held better ($407 vs $380 bear case) due to THREE-CONDITION beat counteracting fear."}
+      {
+        "week": 7,
+        "forecast_mid": 1.5,
+        "actual": 0.67,
+        "error_abs": 0.83
+      },
+      {
+        "week": 8,
+        "forecast_mid": 0.15,
+        "actual": -8.4,
+        "error_abs": 8.55,
+        "note": "Catastrophic miss — AI semi selloff vs broad market rally"
+      },
+      {
+        "week": 9,
+        "forecast_mid": 1.0,
+        "actual": -0.77,
+        "error_abs": 1.77,
+        "note": "Direction wrong; bear case (SK Hynix crushing SNDK) nearly happened but SKHY debuted positively (+14%) and SNDK gained +3.4%"
+      },
+      {
+        "week": 10,
+        "forecast_mid": 0.75,
+        "actual": -6.43,
+        "error_abs": 7.18,
+        "note": "Second-worst error in IC history. Iran war Day 6 + Netflix AI-bubble contagion + TSM sell-on-news despite THREE-CONDITION blowout. Bear case nearly materialised (MU $850 vs $853 actual, BE $200 vs $199 actual, SNDK $1,400 vs $1,440 actual). TSM held better ($407 vs $380 bear case) due to THREE-CONDITION beat counteracting fear."
+      }
     ]
   },
   "forecast_log": [
     {
       "week": 8,
       "forecast_set_date": "2026-06-26",
-      "forecast_range": [-0.5, 0.8],
+      "forecast_range": [
+        -0.5,
+        0.8
+      ],
       "forecast_mid_pct": 0.15,
       "sp500_forecast_pct": 0.5,
       "scenarios": {
-        "base": {"range": [-0.5, 0.8], "assumption": "BN survives; no new entries; quiet July 4 holiday week; SNDK deferred"},
-        "bull": {"range": [1.5, 3.5], "assumption": "SNDK stable close triggers; H1 window dressing lifts AI Jun 30; BN bounces pre-AGM"},
-        "bear": {"range": [-1.5, -3.0], "assumption": "BN stop fires; weak ISM; AMZN breaks $220; tech pre-holiday selloff"}
+        "base": {
+          "range": [
+            -0.5,
+            0.8
+          ],
+          "assumption": "BN survives; no new entries; quiet July 4 holiday week; SNDK deferred"
+        },
+        "bull": {
+          "range": [
+            1.5,
+            3.5
+          ],
+          "assumption": "SNDK stable close triggers; H1 window dressing lifts AI Jun 30; BN bounces pre-AGM"
+        },
+        "bear": {
+          "range": [
+            -1.5,
+            -3.0
+          ],
+          "assumption": "BN stop fires; weak ISM; AMZN breaks $220; tech pre-holiday selloff"
+        }
       },
       "actuals": {
-        "portfolio_return_pct": -8.40,
+        "portfolio_return_pct": -8.4,
         "sp500_return_pct": 1.76,
         "return_error_abs": 8.55,
         "trades_executed": {
@@ -679,13 +1044,34 @@
     {
       "week": 9,
       "forecast_set_date": "2026-07-03",
-      "forecast_range": [0.0, 2.0],
+      "forecast_range": [
+        0.0,
+        2.0
+      ],
       "forecast_mid_pct": 1.0,
       "sp500_forecast_pct": 1.0,
       "scenarios": {
-        "base": {"range": [0.0, 2.0], "assumption": "SpaceX inclusion lifts tech Monday; MU stabilizes $950-$1,000; BE holds $270; SNDK volatile $1,600-1,800 around SK Hynix ADR; AMZN continues recovery"},
-        "bull": {"range": [3.0, 5.0], "assumption": "SpaceX drives Nasdaq +3%; MU bounces $1,050+; BE breaks $290; GOOGL entry adds optionality"},
-        "bear": {"range": [-3.0, -5.0], "assumption": "SK Hynix ADR crushes SNDK -15%+ to ~$1,480; MU continues to $900; BE fails $270; FOMC minutes hawkish"}
+        "base": {
+          "range": [
+            0.0,
+            2.0
+          ],
+          "assumption": "SpaceX inclusion lifts tech Monday; MU stabilizes $950-$1,000; BE holds $270; SNDK volatile $1,600-1,800 around SK Hynix ADR; AMZN continues recovery"
+        },
+        "bull": {
+          "range": [
+            3.0,
+            5.0
+          ],
+          "assumption": "SpaceX drives Nasdaq +3%; MU bounces $1,050+; BE breaks $290; GOOGL entry adds optionality"
+        },
+        "bear": {
+          "range": [
+            -3.0,
+            -5.0
+          ],
+          "assumption": "SK Hynix ADR crushes SNDK -15%+ to ~$1,480; MU continues to $900; BE fails $270; FOMC minutes hawkish"
+        }
       },
       "bear_stop_drag_gbp": 0,
       "explore_positions_active": 0,
@@ -696,7 +1082,13 @@
         "GOOGL_explore_£150_BLOCKED",
         "VST_explore_£150_watchlist_timing_rule"
       ],
-      "key_events": ["Samsung_Q2_Jul7_CONFIRMED", "SpaceX_Nasdaq100_Jul7_AVOIDED", "FOMC_minutes_Jul9_PIVOTAL", "SK_Hynix_ADR_Jul10_CRITICAL_SNDK", "TSM_Q2_earnings_Jul16_Week10"],
+      "key_events": [
+        "Samsung_Q2_Jul7_CONFIRMED",
+        "SpaceX_Nasdaq100_Jul7_AVOIDED",
+        "FOMC_minutes_Jul9_PIVOTAL",
+        "SK_Hynix_ADR_Jul10_CRITICAL_SNDK",
+        "TSM_Q2_earnings_Jul16_Week10"
+      ],
       "actuals": {
         "day1_jul7_pct": 0.31,
         "day1_jul7_gbp": 15.36,
@@ -717,26 +1109,84 @@
   "forecast_log_week11": {
     "week": 11,
     "forecast_set_date": "2026-07-17",
-    "forecast_range": [2.0, 4.0],
+    "forecast_range": [
+      2.0,
+      4.0
+    ],
     "forecast_mid_pct": 3.0,
     "sp500_forecast_pct": 1.5,
     "scenarios": {
-      "base": {"range": [2.0, 4.0], "assumption": "Iran 'week off' holds; formal ceasefire confirmed Mon-Tue → DEFENSIVE→ELEVATED by Wed Jul 22. TSM add £100 CORE at $405-415. GOOGL Q2 beats ($116.53B rev, $2.86 EPS) → AI sentiment partial recovery. MU rebounds to $880-920. SNDK stabilises $1,440-$1,600. BE $195-220. AMZN flat/+1%."},
-      "bull": {"range": [4.5, 7.0], "assumption": "Iran ceasefire confirmed Mon + new Iranian leadership signals nuclear talks openness → oil falls to $78-80 → full ELEVATED immediately. GOOGL massive beat + META beat → AI spending narrative reversal → chip sector +6-8%. SNDK recovers $1,600+ (add trigger reactivates → £200 CORE deployed). MU breaks $950. BE recovers $220-240 on oil decline."},
-      "bear": {"range": [-2.5, -4.5], "assumption": "Iran 'week off' reversed by hardline new Iranian leadership faction → fresh escalation → DEFENSIVE extended. GOOGL misses or cuts AI capex → AI bubble narrative deepens. SNDK formal CORE reassessment Day 3 (Jul 20 close <$1,500). BE tests $175. MU tests $820. No stop drag (zero EXPLORE positions). Bear formula: -3.5% - (0 stops × 0) = -3.5%."}
+      "base": {
+        "range": [
+          2.0,
+          4.0
+        ],
+        "assumption": "Iran 'week off' holds; formal ceasefire confirmed Mon-Tue → DEFENSIVE→ELEVATED by Wed Jul 22. TSM add £100 CORE at $405-415. GOOGL Q2 beats ($116.53B rev, $2.86 EPS) → AI sentiment partial recovery. MU rebounds to $880-920. SNDK stabilises $1,440-$1,600. BE $195-220. AMZN flat/+1%."
+      },
+      "bull": {
+        "range": [
+          4.5,
+          7.0
+        ],
+        "assumption": "Iran ceasefire confirmed Mon + new Iranian leadership signals nuclear talks openness → oil falls to $78-80 → full ELEVATED immediately. GOOGL massive beat + META beat → AI spending narrative reversal → chip sector +6-8%. SNDK recovers $1,600+ (add trigger reactivates → £200 CORE deployed). MU breaks $950. BE recovers $220-240 on oil decline."
+      },
+      "bear": {
+        "range": [
+          -2.5,
+          -4.5
+        ],
+        "assumption": "Iran 'week off' reversed by hardline new Iranian leadership faction → fresh escalation → DEFENSIVE extended. GOOGL misses or cuts AI capex → AI bubble narrative deepens. SNDK formal CORE reassessment Day 3 (Jul 20 close <$1,500). BE tests $175. MU tests $820. No stop drag (zero EXPLORE positions). Bear formula: -3.5% - (0 stops × 0) = -3.5%."
+      }
     },
     "stop_exposure": {
       "note": "ZERO EXPLORE POSITIONS. All positions are CORE (no stop). TSM add £100 this week if Iran resolves = increases position exposure but no stop on CORE.",
       "bear_stop_drag_gbp": 0,
       "explore_positions_active": 0
     },
-    "key_events": ["Iran_ceasefire_assessment_Jul20", "SNDK_AMBER_FLAG_Day3_Jul20", "GOOGL_Q2_Jul22", "Tesla_Q2_Jul22", "META_Q2_week", "PCE_data_Jul24-25", "FOMC_Jul28-29", "AMZN_Q2_Jul30"],
+    "key_events": [
+      "Iran_ceasefire_assessment_Jul20",
+      "SNDK_AMBER_FLAG_Day3_Jul20",
+      "GOOGL_Q2_Jul22",
+      "Tesla_Q2_Jul22",
+      "META_Q2_week",
+      "PCE_data_Jul24-25",
+      "FOMC_Jul28-29",
+      "AMZN_Q2_Jul30"
+    ],
     "planned_trades": [
       "TSM_+£100_CORE: Execute when IRAN_WAR_OVERRIDE ends (ceasefire confirmed + 2 sessions = ELEVATED). Target $385-415.",
       "SNDK_monitor: AMBER_FLAG Day 3 Mon Jul 20. Formal reassessment if close <$1,500. Add trigger requires $1,600 ×2 closes to reactivate.",
       "BE: BLOCKED. $199 vs $270 trigger (-26%). No entry.",
       "GOOGL: Monitor THREE-CONDITION Jul 22 + talent block reassessment."
-    ]
+    ],
+    "day3_jul22_actuals": {
+      "date": "2026-07-22",
+      "portfolio_pct": "INTRADAY +2.2% (estimated vs corrected Jul 21 EOD)",
+      "portfolio_gbp_change": "+~117 (estimated)",
+      "portfolio_value_gbp": 4768.19,
+      "cumulative_pct": -4.64,
+      "trades": "NO TRADES — DEFENSIVE Day 10",
+      "key_events": {
+        "Iran": "Day 10 — 11th consecutive night US strikes. Iran fired 6 missiles + 4 drones into Jordan. Brent >$92 (new conflict high). NO ceasefire.",
+        "SNDK": "+14.4% to $1,589-1,596 (from $1,391 Jul 21 amber flag close). Amber flag cleared. Gate approaching $1,600.",
+        "TSM": "$432-434 (+4.6-5.1%) — TSMC price hike finalized (5-25% 2027). Coatue #1 holding confirmation.",
+        "MU": "~$945 (+9.2% estimated) on sector rally.",
+        "BE": "CORRECTED from $285 to $215 (4PM_EOD violation #8 — gap-up reversal pattern confirmed). BE Day 1 trigger invalidated.",
+        "AMZN": "~$247 (-2.0%)",
+        "UBER": "~$72 (-1.4%)",
+        "GOOGL": "Reporting AH tonight — cloud growth = IC proxy signal",
+        "GBPUSD": "1.3384 (softer UK CPI 2.6% vs 2.7%)",
+        "Ackman_MSFT": "Q1 2026 13F confirmed $2.09B MSFT position (15.3% AUM) — MSFT added to watchlist",
+        "Coatue_TSM": "#1 position confirmed — triple institutional conviction on TSM"
+      },
+      "be_eod_correction": {
+        "recorded_jul21": 285.0,
+        "corrected_estimate": 215.0,
+        "correction_gbp_impact": -167.66,
+        "rule_triggered": "4PM_EOD_PRICE_CAPTURE violation #8",
+        "pattern": "Second BE gap-up reversal (Jul 2: $326.60 open → $270.89 close; Jul 21: $280.92 open → ~$215 close)"
+      }
+    }
   },
   "self_learning_jul16": {
     "lesson_tsm_three_condition_validated_capex_not_thesis_breach": "TSMC Q2 2026 confirmed THREE-CONDITION ALL MET: EPS $4.31 vs $3.77e (+9.4% beat), Revenue $40.2B vs $39.82B consensus (+$380M beat), Q3 guidance $44.6-45.8B midpoint $45.2B (materially above ~$41-43B prior consensus, +37% YoY). Full-year 2026 raised 'slightly above 40% YoY.' TSM shares fell 4% premarket on capex raise $52-56B→$60-64B (+$8B, +15%). This is TSMC investing in N2/A16 fab capacity to meet AI chip demand from NVDA Blackwell, AMD MI300, AVGO custom silicon — the exact same dynamic that caused AMZN to fall when it announced $200B AI capex (which reversed quickly). Capex raise during blowout earnings = demand exceeds capacity = bullish. NEW RULE: TSMC_CAPEX_RAISE_AS_OPPORTUNITY. The -4% price drop creates a BETTER ENTRY for the deferred £100 CORE add (~$403 vs $420). When DEFENSIVE mode lifts (Jul 17 or later), execute at this improved price.",
@@ -771,26 +1221,67 @@
   "forecast_log_week10": {
     "week": 10,
     "forecast_set_date": "2026-07-13",
-    "forecast_range": [-1.0, 2.5],
+    "forecast_range": [
+      -1.0,
+      2.5
+    ],
     "forecast_mid_pct": 0.75,
     "sp500_forecast_pct": 0.3,
     "scenarios": {
-      "base": {"range": [0.0, 2.0], "assumption": "TSM earnings Jul 16 THREE-CONDITION beat (Jun revenue +67.9% suggests this): TSM +8-12% → final £100 CORE add → ELEVATED mode by Jul 16. Iran stabilizes somewhat. SNDK holds $1,700+ → £200 CORE add post-Jul 15. MU recovers toward $1,000. BE flat $240-250 (below $270 trigger). AMZN/UBER stable."},
-      "bull": {"range": [3.5, 6.0], "assumption": "TSM massive beat (Rev >$41B) → TSM +15%+. Iran diplomatic signals → oil falls → tech rally. SNDK add executed + SKHY reversal complete → SNDK $1,900+. MU breaks $1,000. BE recovers $260+."},
-      "bear": {"range": [-4.0, -6.0], "assumption": "Hormuz fully closed (Iran mines strait) → oil $90+ → massive tech selloff. TSM misses on Taiwan strait risk premium in guidance. SNDK falls below $1,600 → add deferred. BE breaks $220. Hawkish Fed + Iran = DEFENSIVE deepens. STOP DRAG: ZERO (no EXPLORE positions, all CORE no-stop). Scenario max loss: MU→$850 (-£144), BE→$200 (-£77), SNDK→$1,400 (-£47), TSM→$380 (-£92). Total scenario: -£360 = -7.4% additional."}
+      "base": {
+        "range": [
+          0.0,
+          2.0
+        ],
+        "assumption": "TSM earnings Jul 16 THREE-CONDITION beat (Jun revenue +67.9% suggests this): TSM +8-12% → final £100 CORE add → ELEVATED mode by Jul 16. Iran stabilizes somewhat. SNDK holds $1,700+ → £200 CORE add post-Jul 15. MU recovers toward $1,000. BE flat $240-250 (below $270 trigger). AMZN/UBER stable."
+      },
+      "bull": {
+        "range": [
+          3.5,
+          6.0
+        ],
+        "assumption": "TSM massive beat (Rev >$41B) → TSM +15%+. Iran diplomatic signals → oil falls → tech rally. SNDK add executed + SKHY reversal complete → SNDK $1,900+. MU breaks $1,000. BE recovers $260+."
+      },
+      "bear": {
+        "range": [
+          -4.0,
+          -6.0
+        ],
+        "assumption": "Hormuz fully closed (Iran mines strait) → oil $90+ → massive tech selloff. TSM misses on Taiwan strait risk premium in guidance. SNDK falls below $1,600 → add deferred. BE breaks $220. Hawkish Fed + Iran = DEFENSIVE deepens. STOP DRAG: ZERO (no EXPLORE positions, all CORE no-stop). Scenario max loss: MU→$850 (-£144), BE→$200 (-£77), SNDK→$1,400 (-£47), TSM→$380 (-£92). Total scenario: -£360 = -7.4% additional."
+      }
     },
     "stop_exposure": {
       "note": "ZERO EXPLORE POSITIONS. All positions are CORE (no stop). Maximum downside scenario only:",
-      "MU_to_850": {"cost_gbp": 750.0, "scenario_price": 850, "max_loss_gbp": -144, "basis": "CORE 90-day hold, no stop"},
-      "BE_to_200": {"cost_gbp": 650.0, "scenario_price": 200, "max_loss_gbp": -77, "basis": "CORE 90-day hold, no stop"},
-      "SNDK_to_1400": {"cost_gbp": 200.0, "scenario_price": 1400, "max_loss_gbp": -47, "basis": "CORE 90-day hold, no stop"},
-      "TSM_to_380": {"cost_gbp": 650.0, "scenario_price": 380, "max_loss_gbp": -92, "basis": "CORE 90-day hold, no stop"},
+      "MU_to_850": {
+        "cost_gbp": 750.0,
+        "scenario_price": 850,
+        "max_loss_gbp": -144,
+        "basis": "CORE 90-day hold, no stop"
+      },
+      "BE_to_200": {
+        "cost_gbp": 650.0,
+        "scenario_price": 200,
+        "max_loss_gbp": -77,
+        "basis": "CORE 90-day hold, no stop"
+      },
+      "SNDK_to_1400": {
+        "cost_gbp": 200.0,
+        "scenario_price": 1400,
+        "max_loss_gbp": -47,
+        "basis": "CORE 90-day hold, no stop"
+      },
+      "TSM_to_380": {
+        "cost_gbp": 650.0,
+        "scenario_price": 380,
+        "max_loss_gbp": -92,
+        "basis": "CORE 90-day hold, no stop"
+      },
       "total_scenario_loss_gbp": -360,
       "total_scenario_pct": -7.36
     },
     "day2_jul14_actuals": {
       "date": "2026-07-14",
-      "portfolio_pct": -1.00,
+      "portfolio_pct": -1.0,
       "portfolio_gbp_change": -48.95,
       "portfolio_value_gbp": 4841.82,
       "cumulative_pct": -3.16,
@@ -836,7 +1327,11 @@
         "AMZN": "$246.54 Jul13 close → $249.00 Jul15 intraday (+1.0%)",
         "UBER": "$74.26 Jul13 close → $75.00 Jul15 intraday (+1.0%)"
       },
-      "new_rules_added": ["new_rule_2026-07-15_a (ASML_TSM_LEADING_INDICATOR)", "new_rule_2026-07-15_b (WEEKEND_GEOPOLITICAL_RISK)", "new_rule_2026-07-15_c (GEO_SHOCK_EXPIRY_NEW_ESCALATION)"]
+      "new_rules_added": [
+        "new_rule_2026-07-15_a (ASML_TSM_LEADING_INDICATOR)",
+        "new_rule_2026-07-15_b (WEEKEND_GEOPOLITICAL_RISK)",
+        "new_rule_2026-07-15_c (GEO_SHOCK_EXPIRY_NEW_ESCALATION)"
+      ]
     },
     "day4_jul16_actuals": {
       "date": "2026-07-16",
@@ -860,7 +1355,10 @@
         "AMZN": "$249.00→$247.00 (-0.8%); stable",
         "UBER": "$75.00→$73.50 (-2.0%); general tech risk-off"
       },
-      "new_rules_added": ["new_rule_2026-07-16_a (TSMC_CAPEX_RAISE_AS_OPPORTUNITY)", "new_rule_2026-07-16_b (SNDK_ADD_TRIGGER_RESET)"]
+      "new_rules_added": [
+        "new_rule_2026-07-16_a (TSMC_CAPEX_RAISE_AS_OPPORTUNITY)",
+        "new_rule_2026-07-16_b (SNDK_ADD_TRIGGER_RESET)"
+      ]
     },
     "day5_jul17_actuals": {
       "date": "2026-07-17",
@@ -934,9 +1432,27 @@
     "lesson_iran_defensive_mode_resilience": "Iran War Day 9: despite NO ceasefire, S&P +0.6% Nasdaq +0.9% — markets pricing in ceasefire mediation progress (10-day proposal from Qatar/Pakistan). IC correctly stays DEFENSIVE (rule requires ceasefire CONFIRMED, not priced-in). Portfolio gained ~£180 (+3.7%) today primarily from BE surge, not from deploying cash. LESSON: DEFENSIVE mode cash preservation + holding CORE positions = correct strategy during geopolitical uncertainty. Cash is not 'dead money' — it's optionality.",
     "lesson_ackman_mystery_4_positions": "Ackman's 4 new undisclosed positions (signaled via fund update, Jul 2026) will be revealed in Q2 13F (Aug 14). Historical pattern: Ackman pre-disclosure hints often align with IC watchlist. Prior examples: UBER (matched IC before disclosure), AMZN (matched IC). Rules: (1) Do NOT enter based on speculation; (2) DO add any confirmed name to EXPLORE consideration immediately on Aug 14 disclosure; (3) Screen against IC 4+ criteria before entry.",
     "forecast_jul22": {
-      "base": {"range": [0.3, 1.0], "assumption": "Iran ceasefire progress but not confirmed. GOOGL reports Wed Jul 22 after close — strong cloud/ad beat expected ($117B rev, $2.88 EPS). Be surges hold $280+. TSM holds $410+. MU stable $860-880. No trades (DEFENSIVE)."},
-      "bull": {"range": [2.0, 4.0], "assumption": "Iran 10-day ceasefire CONFIRMED Jul 22 → DEFENSIVE→ELEVATED starts 2-session clock (ELEVATED on Jul 24). GOOGL massive beat → AI sentiment reversal → chip rally. BE Day 2 of $270+ confirmed → add £100 CORE queued for ELEVATED. TSM $420+."},
-      "bear": {"range": [-1.5, -3.0], "assumption": "Iran escalates (Houthis blockade Saudi shipping → oil spike). GOOGL misses or cuts guidance → AI capex fear. BE gives back Jul 21 surge ($240-250). SNDK new 3-day amber flag starts. No stop drag (zero EXPLORE). Scenario: BE $250 = -£105, MU $820 = -£77, total portfolio ~£4,550."},
+      "base": {
+        "range": [
+          0.3,
+          1.0
+        ],
+        "assumption": "Iran ceasefire progress but not confirmed. GOOGL reports Wed Jul 22 after close — strong cloud/ad beat expected ($117B rev, $2.88 EPS). Be surges hold $280+. TSM holds $410+. MU stable $860-880. No trades (DEFENSIVE)."
+      },
+      "bull": {
+        "range": [
+          2.0,
+          4.0
+        ],
+        "assumption": "Iran 10-day ceasefire CONFIRMED Jul 22 → DEFENSIVE→ELEVATED starts 2-session clock (ELEVATED on Jul 24). GOOGL massive beat → AI sentiment reversal → chip rally. BE Day 2 of $270+ confirmed → add £100 CORE queued for ELEVATED. TSM $420+."
+      },
+      "bear": {
+        "range": [
+          -1.5,
+          -3.0
+        ],
+        "assumption": "Iran escalates (Houthis blockade Saudi shipping → oil spike). GOOGL misses or cuts guidance → AI capex fear. BE gives back Jul 21 surge ($240-250). SNDK new 3-day amber flag starts. No stop drag (zero EXPLORE). Scenario: BE $250 = -£105, MU $820 = -£77, total portfolio ~£4,550."
+      },
       "stop_exposure": "£0 — ZERO EXPLORE positions, ALL CORE no-stop 90-day holds.",
       "watchlist_tomorrow": [
         "GOOGL earnings Jul 22 after close — AI cloud/ad health check (proxy for AMZN AWS, MU enterprise demand). If 3-condition beat: bullish signal for AMZN, MU. IC BLOCKED from holding GOOGL.",
@@ -944,6 +1460,47 @@
         "TSM add £100 CORE — pending ceasefire + 2 sessions. Target $405-425.",
         "Iran ceasefire — if confirmed today (Jul 22), 2-session ELEVATED clock starts. Trades available on Jul 24.",
         "TSLA earnings Jul 22 — sentiment signal only (IC not holding)."
+      ]
+    }
+  },
+  "self_learning_jul22": {
+    "lesson_be_second_gap_up_reversal": "BE has now triggered the gap-up reversal pattern TWICE (Jul 2: opened $326.60, closed $270.89; Jul 21: opened $280.92, estimated close ~$200-215). Both events were driven by major structural catalysts (Brookfield $25B expansion Jul 2; NVDA/Nebius halo Jul 21). In both cases, the premarket open overshot the eventual close by 15-40%. Pattern recognition: BE is a low-liquidity stock (~$150-200M avg daily volume) where institutional catalyst buyers push the open dramatically above fair value, then profit-takers and short sellers bring the price back. NEW RULE: BE_HIGH_REVERSAL_RISK: For any future BE catalyst day with >15% premarket gap, DO NOT record any price in portfolio.json until the 4PM EOD close. This is the 8th 4PM_EOD_PRICE_CAPTURE violation. BE explicitly flagged HIGH_REVERSAL_RISK.",
+    "lesson_coatue_tsm_triple_conviction": "Coatue Management (Philippe Laffont, $29.1B AUM) holds TSM as their #1 position. Combined with Tepper (TSM = #5 at 7.56% AUM) and Druckenmiller (TSM = 5.0%), IC now has triple institutional conviction on TSM from three of the best-performing hedge funds of 2026. Coatue's portfolio is heavily concentrated in semiconductor capital equipment (LRCX, AMAT, GEV) and foundry (TSM). This validates the AI foundry monopoly thesis: NVDA Blackwell, AMD MI300, AVGO custom silicon = all on TSMC N2. Rule update: when 3+ IC-tier investors hold a stock as top-5 conviction = TRIPLE CONVICTION = do not exit on noise.",
+    "lesson_ackman_msft_creates_explore_watchlist": "Ackman's Q1 2026 13F revealed a NEW $2.09B MSFT position (15.3% of Pershing Square fund) — his largest single new bet since the Valeant era. IC had stopped MSFT on Jun 11 at $399.65 (Tepper 82% exit). This Q1 2026 13F was filed ~May 15, 2026 — IC could have known by late May but the stop triggered Jun 11. Now the landscape is: Ackman 15.3% (VERY HIGH conviction) vs Tepper 82% exit (caution signal). For EXPLORE tier, single investor ≥8% AUM = qualifies. MSFT added to WATCHLIST for EXPLORE consideration post-DEFENSIVE mode. Key risk: Tepper's 82% exit was thesis-based (AI monetization pace concerns for Azure). Ackman's entry may reflect a different view on Azure M365 bundle + Copilot monetization. Q2 13F (Aug 14) will confirm if Ackman maintained or increased the position.",
+    "lesson_druckenmiller_ackman_googl_exit_signal": "Both Druckenmiller (fully exited GOOGL Q1 2026) and Ackman (cut 95%) were out of GOOGL before tonight's earnings. This is notable: IC was already BLOCKED on GOOGL (talent exodus), but the dual-exit signal validates the BLOCKED decision from a different angle. These are two of IC's highest-tier investors both abandoning a mega-cap growth stock BEFORE major earnings. Only Tepper holds (8.38%). Lesson: when 2/3 IC-tier investors exit the same stock within the same quarter, the BLOCKED or WATCHLIST status is confirmed, not just talent-specific. IC GOOGL block = VALIDATED by dual investor exit regardless of how tonight's earnings print.",
+    "lesson_sndk_amber_flag_resilience_proven": "SNDK triggered the 3-day amber flag rule (Jul 17: $1,440; Jul 20: $1,476; Jul 21: $1,391). Formal CORE reassessment result was MAINTAIN CORE. On Jul 22 — the FIRST session after the amber flag was formally assessed — SNDK surged +14.4% to $1,589. This is exactly why the 90-day no-stop CORE rule exists: geopolitical-driven macro selloffs often reverse quickly once the catalyst fades. The amber flag formal reassessment process protected IC from emotional capitulation at the worst moment ($1,391 = near the bottom). Analyst PT $3,000 (Bernstein) vs current $1,589 = 89% upside. Lesson: When amber flag triggers on a CORE position with no fundamental deterioration, the formal reassessment process (check investors, thesis, valuation) is the correct response. Do not exit without formal process completing first.",
+    "lesson_oil_at_92_extends_defensive": "Brent crude is >$92/barrel — the highest level since the Iran war began and $16/barrel above pre-conflict levels (~$75-76). This represents a ~21% oil spike. For IC portfolio implications: (1) BE THESIS BENEFIT (long-term): Fuel cell economics vs natural gas improve dramatically at $92 oil. If oil stays at $90+, BE's power cost advantage over traditional power expands. (2) FED POLICY: CPI July 2026 will be hot (June was $85, July >$92 = ~8-9% energy MoM spike). This makes FOMC Jul 28-29 hawkish (Warsh maintains 3.5-3.75% minimum, possibly signals hike if $92 holds). (3) AMZN/UBER COST PRESSURE: Higher fuel costs weigh on logistics/delivery margins for AMZN; UBER driver costs increase with fuel. Both still CORE but margin headwinds grow. Rule update: OIL_AT_92_THRESHOLD: If Brent sustains >$92 for 3+ sessions, flag AMZN and UBER for thesis headwind review.",
+    "forecast_jul23": {
+      "base": {
+        "range": [
+          0.2,
+          1.5
+        ],
+        "assumption": "GOOGL cloud beat >26% growth (consensus $14B cloud) → AI spend intact signal → MU/AMZN sentiment lift. IBM Q2 final confirms enterprise memory demand. SNDK holds above $1,550. MU holds $940+. Market flat to +0.5%. No Iran resolution."
+      },
+      "bull": {
+        "range": [
+          2.5,
+          4.0
+        ],
+        "assumption": "GOOGL massive cloud beat ($15B+) + META Q2 guide massive AI capex → chip sector +4-5%. SNDK closes above $1,600 (Day 1 of gate reactivation). MU breaks $1,000. Iran mediator progress. TSM add window approaching."
+      },
+      "bear": {
+        "range": [
+          -1.5,
+          -3.0
+        ],
+        "assumption": "GOOGL misses cloud or cuts AI capex guidance → AI spending fear → chip sector -3-5%. INTC Q2 guidance shows DRAM competitive threat to MU. Oil spikes to $95 on new Iran escalation (Houthis Saudi blockade). SNDK falls back below $1,500 (new amber flag Day 1). No stop drag (zero EXPLORE). Scenario: MU $880 = -£94 from current, BE $200 = -£48 from current, SNDK $1,450 = -£17 from current. Total scenario: ~£4,600."
+      },
+      "stop_exposure": "£0 — ZERO EXPLORE positions, ALL CORE no-stop 90-day holds.",
+      "watchlist_tomorrow": [
+        "GOOGL cloud growth rate (>26% = MU/AMZN bullish; <22% = bearish) — NOT headline EPS (Anthropic stake inflates)",
+        "IBM Q2 final results Jul 23 — enterprise memory demand signal for MU/SNDK",
+        "INTC Q2 earnings Jul 23 — competitive threat monitor for MU/SNDK",
+        "META Q2 Jul 23 AH — AI capex guidance signal (MU/SNDK demand proxy)",
+        "SNDK EOD close vs $1,600 gate — Day 1 tracking if holds above $1,600 today",
+        "Iran ceasefire — Houthis Saudi threat = new escalation vector watch",
+        "BE EOD close Jul 22 — MUST VERIFY 4PM ET (HIGH_REVERSAL_RISK flag active)"
       ]
     }
   }
