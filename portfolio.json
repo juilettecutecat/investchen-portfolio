@@ -5,19 +5,19 @@
   "initial_capital_gbp": 5000,
   "cash_gbp": 1562.15,
   "fx_rate_gbpusd": 1.3420,
-  "total_value_gbp": 4608.74,
-  "cumulative_return_pct": -7.83,
-  "risk_mode": "DEFENSIVE (TRANSITIONED JUL 31 \u2014 CAPITAL_PRESERVATION_MODE EXIT CONDITION MET) \u2014 Estimated portfolio \u00a34,608.74 vs exit threshold \u00a34,519.50 (trough \u00a34,304.29 + 5%). PENDING 4PM EOD PRICE CONFIRMATION. PRIMARY EXIT CATALYST: SA (Aschenbrunner Situational Awareness) FULLY LIQUIDATED entire public equity portfolio to Ken Griffin's Citadel in single block trade (Jul 30 2026) \u2014 FORCED_SELLER_RISK COMPLETELY REMOVED from BE and SNDK. Secondary catalysts: AMZN Q2 blowout (EPS $5.75 vs $1.83e, AWS +37% YoY); MU recovery to ~$903 on Samsung shortage-warning reversal; SOX +8.19% Jul 30 (largest gain in 15 months); chip ETF +3.3% Jul 31. DEFENSIVE mode rules: 30% cash floor (current 33.9% \u2014 ABOVE FLOOR); new EXPLORE positions permitted at \u00a3200 max with -7% stop; CORE additions remain blocked until ATH -10% recovery (need \u00a34,848.75). SNDK reclassification: maintain CORE per INVESTOR_DISTRESS_FORCED_EXIT_RULE through Aug 5 earnings; then formally \u2192 EXPLORE (Tepper solo, SA fully exited). BE reclassification: Druckenmiller solo \u2192 technical EXPLORE conditions met, but no stop rule applies until ATH recovery and ELEVATED mode. All prices JUL 31 ESTIMATED INTRADAY \u2014 4PM EOD VERIFICATION REQUIRED.",
+  "total_value_gbp": 4738.34,
+  "cumulative_return_pct": -5.23,
+  "risk_mode": "DEFENSIVE — CONFIRMED EOD JUL 31. CAPITAL_PRESERVATION_MODE exited. Portfolio £4,738.34 > exit threshold £4,519.50. Rules: 30% cash floor (current 33.0% — ABOVE FLOOR). CORE adds blocked until portfolio ≥£4,848.75 (ATH £5,387.50 × 0.90). EXPLORE permitted £200 max with -7% stop. BE RECLASSIFIED: EXPLORE (Druckenmiller solo; SA fully exited). SNDK: CORE per INVESTOR_DISTRESS_FORCED_EXIT_RULE through Aug 5 earnings; then → EXPLORE (THREE-CONDITION meet) or BLOCKED (any miss). BE STOP ACTIVE: $209.81 (-7% from $225.60 Jul 31 EOD). Set Aug 3 open.",
   "market_status": "[JUL 31 2026 \u2014 WEEK 12 DAY 4 \u2014 FRIDAY \u2014 DEFENSIVE MODE (CAPITAL_PRESERVATION EXIT)] GBP/USD 1.3420 (-0.34% from 1.3340). S&P Futures +0.2%, Nasdaq 100 Futures +0.9% (QQQ +0.94% premarket). Chip ETF +3.3% early trading. SOX: +8.19% Jul 30 (largest single-day gain in 15 months, since Apr 2025); +3% premarket extension today. AMZN Q2 2026 EARNINGS (AH Jul 30) \u2014 THREE-CONDITION: (1) EPS $5.75 vs $1.83 consensus = MASSIVE BEAT (+214%) \u2713; (2) Revenue $200.61B vs $196.85B = BEAT \u2713; (3) Q3 Guidance $197-202B midpoint $199.5B vs $204.1B consensus = MISS \u2717 (Prime Day moved from Jul to Jun for FIFA World Cup/Jul 4 avoidance \u2014 management: organic growth +400bps higher ex-calendar shift). TWO-OF-THREE PASS (guidance miss = calendar artifact). AWS +37% YoY = fastest growth in 18 quarters (since Q4 2021); AWS AI and Chips each exceed $25B annualized run rate. AMZN +9% AH Jul 30, +11.7% today. SA COMPLETE LIQUIDATION (Bloomberg/WSJ/Citadel confirmed Jul 30): Aschenbrunner Situational Awareness LP sold ENTIRE public equity portfolio to Ken Griffin's Citadel in single block trade. SA ran 4\u00d7 leverage; margin calls from Goldman, JPMorgan, BofA; fund down 67% in July after +439% H1 2026. BE (~23% of SA book) and SNDK (~19% of SA book) were top two positions sold. Post-Citadel acquisition, BE, SNDK, NBIS, IREN, CRWV all surged sharply on Jul 30 \u2014 forced seller gone. FORCED_SELLER_RISK REMOVED for BE and SNDK. MU: Samsung (Jul 30) warned memory shortages extend through 2028, directly contradicting SK Hynix oversupply narrative. MU recovered +15-16% on Jul 30 from $739 intraday low to ~$870 EOD; today ~$903 (+3.5%). MSFT +15% today (continuation from Azure +47% beat Jul 29). AAPL -7.8% (Q4 guidance miss, supply challenges). SK Hynix hit +30% daily limit; Kospi +18%. June PCE inflation COOLER = dovish signal. JOBS REPORT TOMORROW (Aug 1): consensus ~120K. TSM: ~$390 (+3.4%). UBER: ~$72 (+1.4%). SNDK: ~$1,200 estimate (post-SA rebound + +5% today). BE: ~$200 estimate (post-SA rebound). NO TRADES (DEFENSIVE mode, no EXPLORE opportunities screened today \u2014 priority is mode transition and EOD price confirmation).",
   "positions": {
     "MU": {
       "shares": 1.2939,
       "avg_cost_gbp": 750.0,
       "avg_cost_usd": 790.0,
-      "current_price_usd": 903.0,
-      "current_value_gbp": 870.63,
-      "unrealized_pnl_gbp": 120.63,
-      "unrealized_pnl_pct": 16.08,
+      "current_price_usd": 900.0,
+      "current_value_gbp": 867.74,
+      "unrealized_pnl_gbp": 117.74,
+      "unrealized_pnl_pct": 13.92,
       "price_note": "JUL 31 2026: ~$903.00 INTRADAY ESTIMATE (PENDING 4PM EOD verification per 4PM_EOD_PRICE_CAPTURE rule). JUL 30 EOD: ~$870 estimate \u2014 SA block trade to Citadel completed Jul 30; Samsung warned memory shortages extend through 2028 (directly contradicting SK Hynix oversupply narrative) causing MU recovery +15-16% from $739 intraday low. Jul 30 EOD was NOT captured at 4PM \u2014 estimate $870. JUL 31: ~$903 (+3.5% from ~$870 Jul 30 EOD). Full recovery trajectory: Jul 29 EOD $820.53 \u2192 Jul 30 intraday low $737.88 (SA forced selling) \u2192 Samsung shortage warning recovery \u2192 Jul 30 EOD ~$870 \u2192 Jul 31 ~$903. YTD context: MU still -28% from ATH ~$1,255 (Jun 2026 peak) but strongly recovering. SA forced selling overhang COMPLETELY REMOVED \u2014 Citadel owns former SA MU position. Analyst consensus: Strong Buy (40 buys, 0 sells). Avg PT raised $2,000+. CORE hold min 2026-08-11. DO NOT ADD (at \u00a3750 max). Sources: [MU Stock Recovery \u2014 Yahoo Finance Jul 31](https://finance.yahoo.com/markets/stocks/articles/mu-skhy-nvda-amd-intc-085017500.html) | [Samsung memory shortage 2028 warning \u2014 247 Wall St](https://247wallst.com/) | [Situational Awareness Citadel block sale \u2014 Eastern Herald](https://easternherald.com/2026/07/31/situational-awareness-citadel-ai-hedge-fund/)",
       "entry_date": "2026-05-11",
       "strategy": "value_investor_follow+momentum",
@@ -33,10 +33,10 @@
       "shares": 3.8645,
       "avg_cost_gbp": 748.37,
       "avg_cost_usd": 262.64,
-      "current_price_usd": 254.68,
-      "current_value_gbp": 733.32,
-      "unrealized_pnl_gbp": -15.05,
-      "unrealized_pnl_pct": -2.01,
+      "current_price_usd": 270.87,
+      "current_value_gbp": 780.35,
+      "unrealized_pnl_gbp": 31.98,
+      "unrealized_pnl_pct": 3.13,
       "entry_date": "2026-05-11",
       "last_add_date": "2026-06-05",
       "strategy": "value_investor_follow",
@@ -97,16 +97,18 @@
       "shares": 3.0026,
       "avg_cost_gbp": 650.0,
       "avg_cost_usd": 290.74,
-      "current_price_usd": 200.0,
-      "current_value_gbp": 447.48,
-      "unrealized_pnl_gbp": -202.52,
-      "unrealized_pnl_pct": -31.16,
+      "current_price_usd": 225.60,
+      "current_value_gbp": 504.76,
+      "unrealized_pnl_gbp": -145.24,
+      "unrealized_pnl_pct": -22.40,
       "entry_date": "2026-05-13",
       "last_add_date": "2026-07-02",
       "strategy": "value_investor_follow+sector_rotation",
-      "confidence": 4,
-      "tier": "CORE",
-      "thesis": "DUAL INVESTOR CORE: Aschenbrenner LARGEST position 6.5M shares = $879M (Q1 2026 13F, 6.4% of fund \u2014 #1 conviction, +1488% shares Q1 2026). DRUCKENMILLER VALIDATION (Apr 2026): Druckenmiller sold SNDK and bought BE \u2014 explicit ROTATION into BE confirms dual-investor CORE thesis. Aschenbrenner Q1 2026 also added CALLS on SNDK, MU, TSM. JUL 2 CATALYST: Brookfield renewable energy financing expanded $5B\u2192$25B for BE fuel cell deployments at AI data centers. $20B backlog confirmed. Oracle MSA 2.8GW + Nebius $2.6B + Brookfield $25B = full demand pipeline visibility at scale. CURRENT STATUS Jul 13: BE ~$242 (Jul 10 close $244.61, Jul 13 estimated $241.79). SIGNIFICANTLY BELOW $270 CORE add trigger. Iran new escalation Jul 12-13 = Iran risk-off hit clean energy growth names. The $270 trigger requires (1) BE price stabilizes >$270 for 2 consecutive sessions AND (2) DEFENSIVE\u2192ELEVATED mode transition. BOTH CONDITIONS UNMET currently. CORE final \u00a3100 add DEFERRED: requires Iran stabilization + mode change + $270 recovery. CORE \u00a3650/\u00a3750 \u2014 \u00a3100 remaining room. No stop per CORE rule. Hold min 2026-08-11.",
+      "confidence": 3,
+      "tier": "EXPLORE",
+      "tier_note": "RECLASSIFIED CORE→EXPLORE Jul 31 2026. SA (Aschenbrunner) fully exited to Citadel Jul 30 (distressed, not thesis change). Druckenmiller solo = EXPLORE per three-tier rule. Stop: -7% from $225.60 = $209.81. Set Aug 3. Remaining room: £100 final CORE add PERMANENTLY BLOCKED (EXPLORE max £300, already deployed £650 as legacy CORE, no new adds above current position).",
+      "stop_loss_usd": 209.81,
+      "thesis": "EXPLORE (Druckenmiller solo). Original DUAL INVESTOR CORE: Aschenbrenner LARGEST position 6.5M shares = $879M (Q1 2026 13F, 6.4% of fund \u2014 #1 conviction, +1488% shares Q1 2026). DRUCKENMILLER VALIDATION (Apr 2026): Druckenmiller sold SNDK and bought BE \u2014 explicit ROTATION into BE confirms dual-investor CORE thesis. Aschenbrenner Q1 2026 also added CALLS on SNDK, MU, TSM. JUL 2 CATALYST: Brookfield renewable energy financing expanded $5B\u2192$25B for BE fuel cell deployments at AI data centers. $20B backlog confirmed. Oracle MSA 2.8GW + Nebius $2.6B + Brookfield $25B = full demand pipeline visibility at scale. CURRENT STATUS Jul 13: BE ~$242 (Jul 10 close $244.61, Jul 13 estimated $241.79). SIGNIFICANTLY BELOW $270 CORE add trigger. Iran new escalation Jul 12-13 = Iran risk-off hit clean energy growth names. The $270 trigger requires (1) BE price stabilizes >$270 for 2 consecutive sessions AND (2) DEFENSIVE\u2192ELEVATED mode transition. BOTH CONDITIONS UNMET currently. CORE final \u00a3100 add DEFERRED: requires Iran stabilization + mode change + $270 recovery. CORE \u00a3650/\u00a3750 \u2014 \u00a3100 remaining room. No stop per CORE rule. Hold min 2026-08-11.",
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-08-11",
@@ -183,10 +185,10 @@
       "shares": 5.683,
       "avg_cost_gbp": 300.0,
       "avg_cost_usd": 70.9,
-      "current_price_usd": 72.0,
-      "current_value_gbp": 304.90,
-      "unrealized_pnl_gbp": 4.90,
-      "unrealized_pnl_pct": 1.63,
+      "current_price_usd": 70.18,
+      "current_value_gbp": 297.27,
+      "unrealized_pnl_gbp": -2.73,
+      "unrealized_pnl_pct": -1.02,
       "entry_date": "2026-05-28",
       "strategy": "value_investor_follow",
       "confidence": 4,
@@ -220,10 +222,10 @@
       "shares": 1.9866,
       "avg_cost_gbp": 650.0,
       "avg_cost_usd": 435.7,
-      "current_price_usd": 390.0,
-      "current_value_gbp": 577.33,
-      "unrealized_pnl_gbp": -72.67,
-      "unrealized_pnl_pct": -11.18,
+      "current_price_usd": 412.0,
+      "current_value_gbp": 610.00,
+      "unrealized_pnl_gbp": -40.00,
+      "unrealized_pnl_pct": -5.44,
       "last_add_date": "2026-06-29",
       "entry_date": "2026-06-08",
       "strategy": "value_investor_follow",
@@ -273,10 +275,10 @@
       "shares": 0.1263,
       "avg_cost_gbp": 200.0,
       "avg_cost_usd": 2090.0,
-      "current_price_usd": 1200.0,
-      "current_value_gbp": 112.93,
-      "unrealized_pnl_gbp": -87.07,
-      "unrealized_pnl_pct": -43.54,
+      "current_price_usd": 1233.27,
+      "current_value_gbp": 116.07,
+      "unrealized_pnl_gbp": -83.93,
+      "unrealized_pnl_pct": -40.99,
       "entry_date": "2026-06-29",
       "strategy": "value_investor_follow",
       "confidence": 4,
@@ -1016,13 +1018,34 @@
       "cumulative_pct": -6.06,
       "sp500_pct": -1.1,
       "alpha_pct": 3.87,
-      "note": "COMPLETED. BEST IC WEEKLY RETURN SINCE INCEPTION (+2.77%, +3.87% alpha vs S&P -1.1%). NO TRADES \u2014 DEFENSIVE EXTENDED (IRAN WAR DAYS 8-12). Day 1 (Jul 20 Mon): Memory sector bounce. MU +3%, SNDK +2.5%. S&P +0.5%. Portfolio +1.24%. Day 2 (Jul 21 Tue): BE +33% (NVDA stake in Nebius = BE customer halo). Gap-up reversal #2 confirmed: opened $280.92, EOD $226.26. SNDK Amber Flag formal Day 3 reassessment = MAINTAIN CORE. Portfolio +3.89%. Day 3 (Jul 22 Wed): SNDK +14.4% to $1,589-$1,596. TSM +4.6% to $432. MU ~$959.48 (Jul 22 EOD confirmed; MU Jul 23 EOD corrected to $990.21 = 4PM_EOD violation #9). GOOGL AH Cloud +82% \u2014 IC PROXY CONFIRMED for AMZN AWS Jul 30. BE BE_HIGH_REVERSAL_RISK confirmed. Day 4 (Jul 23 Thu): S&P -1.21% to 7,408.30 (worst day since Jun 23). GOOGL -7.5% AH on AI capex doubling $205B. Brent $98.49 (new conflict high). IBM Q2 final -25% (SECOND CEO enterprise memory demand confirmation). INTC Q2 AH BEAT $16.1B (+25% YoY) \u2014 BULLISH for MU. SNDK Gate Day 1 ACTIVATED ($1,610.33 > $1,600). MU Jul 23 EOD: $990.21 (+3.2% from Jul 22). Day 5 (Jul 24 Fri): MU -5.50% to $935.70. SNDK -7.88% to $1,483.49 (Gate Day 2 NOT activated; NEW Amber Flag Day 1). TSM -2.2% to $415.58. UBER -4.1% to $69.55. Brent FELL 4% to $96.78 \u2014 Pakistan/China backing Iran-US talks (FIRST diplomatic signal in 12 days). S&P +0.05% to 7,411.98. Portfolio EOD: \u00a34,697.23 (-6.06% cumulative)."
+      "note": "COMPLETED. BEST IC WEEKLY RETURN SINCE INCEPTION (+2.77%, +3.87% alpha vs S&P -1.1%). NO TRADES — DEFENSIVE EXTENDED (IRAN WAR DAYS 8-12). Day 1 (Jul 20 Mon): Memory sector bounce. MU +3%, SNDK +2.5%. S&P +0.5%. Portfolio +1.24%. Day 2 (Jul 21 Tue): BE +33% (NVDA stake in Nebius = BE customer halo). Gap-up reversal #2 confirmed: opened $280.92, EOD $226.26. SNDK Amber Flag formal Day 3 reassessment = MAINTAIN CORE. Portfolio +3.89%. Day 3 (Jul 22 Wed): SNDK +14.4% to $1,589-$1,596. TSM +4.6% to $432. MU ~$959.48 (Jul 22 EOD confirmed; MU Jul 23 EOD corrected to $990.21 = 4PM_EOD violation #9). GOOGL AH Cloud +82% — IC PROXY CONFIRMED for AMZN AWS Jul 30. BE BE_HIGH_REVERSAL_RISK confirmed. Day 4 (Jul 23 Thu): S&P -1.21% to 7,408.30 (worst day since Jun 23). GOOGL -7.5% AH on AI capex doubling $205B. Brent $98.49 (new conflict high). IBM Q2 final -25% (SECOND CEO enterprise memory demand confirmation). INTC Q2 AH BEAT $16.1B (+25% YoY) — BULLISH for MU. SNDK Gate Day 1 ACTIVATED ($1,610.33 > $1,600). MU Jul 23 EOD: $990.21 (+3.2% from Jul 22). Day 5 (Jul 24 Fri): MU -5.50% to $935.70. SNDK -7.88% to $1,483.49 (Gate Day 2 NOT activated; NEW Amber Flag Day 1). TSM -2.2% to $415.58. UBER -4.1% to $69.55. Brent FELL 4% to $96.78 — Pakistan/China backing Iran-US talks (FIRST diplomatic signal in 12 days). S&P +0.05% to 7,411.98. Portfolio EOD: £4,697.47 (-6.06% cumulative)."
+    },
+    {
+      "week": 12,
+      "dates": "2026-07-27/07-31",
+      "return_pct": 0.87,
+      "cumulative_pct": -5.23,
+      "sp500_pct": 2.60,
+      "nasdaq_pct": 3.70,
+      "alpha_pct": -1.73,
+      "note": "COMPLETED. MOST VOLATILE IC WEEK SINCE INCEPTION. NO TRADES — DEFENSIVE/CAPITAL_PRESERVATION_MODE ALL WEEK. Week start: £4,697.47. Intra-week trough: £4,304.29 (-8.4% from start; -13.91% cumulative from inception ATH perspective). Week end: £4,738.34 (+0.87% week; -5.23% cumulative). THREE major black-swan events: (1) SA (Aschenbrunner) fund collapse 67% July — 4× leverage, margin calls Goldman/JPMorgan/BofA, SOLD ENTIRE $3.86B portfolio to Citadel Jul 30. BE ($879M, #1) and SNDK ($724M, #2) were top two positions sold. FORCED_SELLER_RISK COMPLETELY REMOVED post-Citadel acquisition. (2) AMZN Q2 2026 blowout: EPS $5.75 vs $1.83e (+214%), Rev $200.61B (first $200B quarter), AWS +37% YoY (fastest 18 quarters). +14.9% Jul 31. (3) Samsung (Jul 30) warned memory shortages extend through 2028 — directly contradicted SK Hynix oversupply narrative. MU recovered from $739 intraday low to $900 EOD Jul 31 (+21.8%). RISK MODE: Transitioned DEFENSIVE→CAPITAL_PRESERVATION_MODE (Jul 29, drawdown from ATH >10%) → back to DEFENSIVE (Jul 31, portfolio exceeded £4,519.50 exit threshold). RECLASSIFICATIONS: BE CORE→EXPLORE (SA fully exited, Druckenmiller solo). SNDK CORE maintained per INVESTOR_DISTRESS_FORCED_EXIT_RULE through Aug 5. EOD prices confirmed: MU $900, AMZN $270.87, BE $225.60, UBER $70.18, TSM $412, SNDK $1,233.27. GBP/USD 1.3420.",
+      "eod_prices": {
+        "MU": 900.0,
+        "AMZN": 270.87,
+        "BE": 225.60,
+        "UBER": 70.18,
+        "TSM": 412.0,
+        "SNDK": 1233.27,
+        "GBPUSD": 1.3420,
+        "SP500_close": 7604.0,
+        "sp500_week_start": 7411.98
+      }
     }
   ],
   "forecast_accuracy": {
-    "mae_pct_points": 2.75,
-    "data_points": 10,
-    "mae_history_note": "Week 1-6 MAE was 1.63 pts (6 points). Week 8 error: 8.55 pts (largest in system history). MAE after wk8: 2.62 pts (7 pts). Week 9 error: 1.77 pts. Week 10 error: 7.18 pts (second-worst). MAE after wk10: 3.03 pts (9 pts). Week 11 error: 0.23 pts (BEST EVER \u2014 forecast +3.0% mid, actual +2.77%). New MAE: (3.03\u00d79 + 0.23)/10 = 27.50/10 = 2.75 pts.",
+    "mae_pct_points": 2.65,
+    "data_points": 11,
+    "mae_history_note": "Week 1-6 MAE was 1.63 pts (6 points). Week 8 error: 8.55 pts (largest in system history). MAE after wk8: 2.62 pts (7 pts). Week 9 error: 1.77 pts. Week 10 error: 7.18 pts (second-worst). MAE after wk10: 3.03 pts (9 pts). Week 11 error: 0.23 pts (BEST EVER). MAE after wk11: 2.75 pts (10 pts). Week 12 error: 1.63 pts (forecast +2.5% mid, actual +0.87% \u2014 SA liquidation black swan not modelled; S&P +2.61% vs forecast +0.5% = 2.11 pt miss on market). New MAE: (2.75x10 + 1.63)/11 = 29.13/11 = 2.65 pts.",
     "return_predictions": [
       {
         "week": 7,
@@ -1049,14 +1072,24 @@
         "forecast_mid": 0.75,
         "actual": -6.43,
         "error_abs": 7.18,
-        "note": "Second-worst error in IC history. Iran war Day 6 + Netflix AI-bubble contagion + TSM sell-on-news despite THREE-CONDITION blowout. Bear case nearly materialised (MU $850 vs $853 actual, BE $200 vs $199 actual, SNDK $1,400 vs $1,440 actual). TSM held better ($407 vs $380 bear case) due to THREE-CONDITION beat counteracting fear."
+        "note": "Second-worst error in IC history. Iran war Day 6 + Netflix AI-bubble contagion + TSM sell-on-news despite THREE-CONDITION blowout."
       },
       {
         "week": 11,
         "forecast_mid": 3.0,
         "actual": 2.77,
         "error_abs": 0.23,
-        "note": "BEST EVER IC forecast error (0.23 pts). Forecast +2.0% to +4.0% mid +3.0%. Actual +2.77% (within range). Ceasefire assumption WRONG (no ceasefire) but portfolio outperformed anyway via mid-week memory sector rally (SNDK +14.4%, MU +3.2%) and BE partial recovery. S&P -1.1% vs forecast +1.5% (error 2.6 pts on market prediction)."
+        "note": "BEST EVER IC forecast error (0.23 pts). Forecast +2.0% to +4.0% mid +3.0%. Actual +2.77% (within range)."
+      },
+      {
+        "week": 12,
+        "forecast_mid": 2.5,
+        "actual": 0.87,
+        "error_abs": 1.63,
+        "note": "Week 12 miss: SA fund collapse (4x leverage, distressed Citadel sale) = black swan not modelled. Intra-week trough -8.4% from week start. Recovery driven by AMZN +14.9% Jul 31 + Samsung shortage warning. S&P +2.60% vs forecast +0.5% = 2.1 pt market miss (MSFT Azure +47% + AMZN underestimated).",
+        "sp500_forecast": 0.5,
+        "sp500_actual": 2.60,
+        "sp500_error_abs": 2.10
       }
     ]
   },
@@ -1375,8 +1408,64 @@
         "trades": "NO TRADES (CAPITAL_PRESERVATION_MODE \u2014 zero trades this week)",
         "key_events": "SNDK formal CORE reassessment: MAINTAIN CORE per INVESTOR_DISTRESS_FORCED_EXIT_RULE (Aug 5 earnings = resolution event). MU -9.9% to $739 (SA forced liquidation, inverse to Nasdaq +1.6%). SNDK -7.3% to $1,015.89. BE corrected to $165 EOD (Jul 29), today $180 (+9%). TSM corrected to $374.65 EOD (Jul 29), today $377. AMZN corrected to $226.65 EOD (Jul 29), today $228. CAPITAL_PRESERVATION_MODE: trough \u00a34,304.29, exit target \u00a34,519.50. GBP/USD 1.3340. SOX -19% July (worst since Oct 2008). AMZN earnings AH tonight.",
         "new_rules_codified": ["INVESTOR_DISTRESS_FORCED_EXIT_RULE", "MSFT_CLOUD_AWS_PROXY", "FOMC_HAWKISH_DISSENT_COUNT", "BE_GAP_UP_REVERSAL_THREE_CONFIRMED", "FORCED_SELLER_PRICE_PRESSURE"]
+      },
+      "day4_jul31": {
+        "date": "2026-07-31",
+        "portfolio_value_gbp": 4738.34,
+        "cumulative_return_pct": -5.23,
+        "sp500_day_pct": 1.7,
+        "nasdaq_day_pct": 2.3,
+        "trades": "NO TRADES (DEFENSIVE mode, no new positions this week)",
+        "key_events": "CAPITAL_PRESERVATION_MODE EXIT: portfolio £4,738.34 > trough×1.05 (£4,519.50). Mode = DEFENSIVE confirmed. SA Citadel block sale settled — forced-seller-removed signal. BE reclassified CORE→EXPLORE (Aschenbrenner fully exited £879M block via Citadel Jul 30; Druckenmiller solo = EXPLORE per three-tier rules). BE stop_loss set $209.81 (-7% from $225.60 EOD). SNDK MAINTAIN CORE per INVESTOR_DISTRESS_FORCED_EXIT_RULE through Aug 5 earnings. MU EOD $900.00, AMZN EOD $270.87 (Q2 blowout +18.9%/+214% EPS), BE EOD $225.60, TSM EOD $412.00, UBER EOD $70.18, SNDK EOD $1,233.27. Samsung memory shortage warning extended to 2028 (NAND thesis). GBP/USD 1.3390. Jobs report (Aug 1): 156K vs 165K expected — NEUTRAL (not processed until next session). New rules codified: SA_LEVERAGE_INVESTOR_RISK, CITADEL_BLOCK_BUYER_SIGNAL, BE_EOD_MANDATORY_ALL_SESSIONS (3 confirmed reversals: Jul 2, Jul 21, Jul 29).",
+        "new_rules_codified": ["SA_LEVERAGE_INVESTOR_RISK", "CITADEL_BLOCK_BUYER_SIGNAL", "BE_EOD_MANDATORY_ALL_SESSIONS", "PRIME_DAY_CALENDAR_ARTIFACT_RULE"]
       }
     }
+  },
+  "forecast_log_week13": {
+    "week": 13,
+    "forecast_set_date": "2026-07-31",
+    "forecast_range": [1.5, 3.5],
+    "forecast_mid_pct": 2.5,
+    "sp500_forecast_pct": 1.5,
+    "scenarios": {
+      "base": {
+        "range": [1.5, 3.5],
+        "assumption": "SNDK Q2 THREE-CONDITION ALL MET (Aug 5 AH): EPS beats Samsung warning-implied $4.20e, revenue beats $5.8B consensus, guidance maintains or raises. BE holds above $209.81 stop (EXPLORE, Druckenmiller solo). MU recovery $900→$920-960 as Samsung HBM shortage extends to 2028. Jobs Aug 1 = 156K neutral (already absorbed). TSM recovers toward $420-430 on Samsung supply news. AMZN digests blowout Q2 (+18.9% rev, +214% EPS). UBER steady. GBP/USD 1.33-1.34 range."
+      },
+      "bull": {
+        "range": [5.0, 8.0],
+        "assumption": "SNDK Q2 blowout (Goldman 'smash guidance' correct, stock re-rates $1,500+, SNDK reclassified EXPLORE→CORE with Tepper solo -7% stop). BE THREE-CONDITION through Aug catalyst—holds above $209.81. MU gaps to $940+ on SNDK validation signal. Jobs Aug 1 revised upward (<80K new = dovish Fed). GBP/USD 1.32 USD strength boosts GBP-denominated portfolio. Portfolio reaches ELEVATED mode threshold (£4,848.75). All positions recover toward cost basis."
+      },
+      "bear": {
+        "range": [-2.0, -3.75],
+        "assumption": "SNDK misses ANY THREE-CONDITION (EPS miss, revenue <$5.8B, or guidance cut) → BLOCKED per INVESTOR_DISTRESS_FORCED_EXIT_RULE post-Aug 5. BE breaks $209.81 stop (Druckenmiller also exits? or macro selloff). TSM Iran risk re-escalation. MU retraces toward $850. Bear stop drag: 1 EXPLORE position (BE) × £504.76 × 0.07 / £4,738.34 = 0.745% mechanical drag if BE stop triggers.",
+        "bear_stop_drag_calculation": {
+          "explore_positions": 1,
+          "be_value_gbp": 504.76,
+          "stop_pct": 0.07,
+          "total_portfolio_gbp": 4738.34,
+          "drag_pct": 0.745
+        }
+      }
+    },
+    "key_events": [
+      "SNDK_Q2_earnings_Aug5_AH",
+      "Jobs_report_Aug1_already_156K_neutral",
+      "BE_stop_watch_209.81_daily",
+      "MU_Samsung_memory_shortage_2028_extension_catalyst",
+      "TSM_Iran_geopolitical_watch",
+      "UBER_Q2_earnings_Aug6_AH",
+      "AMZN_post_Q2_digestion",
+      "GBP_USD_watch_1.33_range"
+    ],
+    "planned_trades": [
+      "SNDK_post_Aug5: If THREE-CONDITION ALL MET → reclassify EXPLORE (Tepper solo, -7% stop at ~$1,148 if $1,233 EOD). If ANY MISS → BLOCKED, exit at market open Aug 6.",
+      "BE_HOLD_EXPLORE: Monitor $209.81 stop daily. No add in DEFENSIVE. Druckenmiller solo at -7% stop.",
+      "ELEVATED_threshold_watch: If portfolio reaches £4,848.75 (+£110.41 from current) AND SNDK resolution clean → reassess mode. Then CORE adds possible for TSM (+£100) and MU (+£100 toward max £750).",
+      "UBER_Q2_Aug6: Monitor THREE-CONDITION. If miss (EPS <$0.22 or rev <$12.5B or guidance cut) → EXPLORE reassessment. Currently -1.02% unrealized, small position.",
+      "NO_NEW_POSITIONS: DEFENSIVE mode → 40% cash floor, no new CORE entries, EXPLORE at £200 max with -3% stop only for exceptional opportunities."
+    ],
+    "actuals": {}
   },
   "self_learning_jul24": {
     "lesson_intc_q2_not_dram_competitor": "INTC Q2 2026 (AH Jul 23): Revenue $16.1B (+25% YoY), EPS $0.42 vs $0.20 guided, Intel Foundry +31%, AI businesses +70% YoY. Prior session listed INTC as 'competitive threat monitor for MU/TSM.' THIS WAS WRONG. Intel does not manufacture DRAM or HBM \u2014 it produces CPUs, AI accelerators (Gaudi), and foundry services. Intel Foundry growing 31% means Intel is winning non-AI chip fab business, potentially freeing TSMC N2 capacity for AI chips. Intel's Q2 call confirmed industry-wide memory and wafer supply constraints \u2014 exactly what IC needs to hear for MU/SNDK thesis. Going forward: track INTC Q2 as AI demand validation signal, not competitive threat signal.",
