@@ -1,24 +1,24 @@
 {
   "inception_date": "2026-05-11",
-  "last_updated": "2026-08-03",
+  "last_updated": "2026-08-04",
   "currency": "GBP",
   "initial_capital_gbp": 5000,
   "cash_gbp": 1562.15,
-  "fx_rate_gbpusd": 1.3483,
-  "total_value_gbp": 4559.96,
-  "cumulative_return_pct": -8.80,
-  "risk_mode": "DEFENSIVE — CONFIRMED AUG 3 2026 (WEEK 13 DAY 1 — MONDAY). Portfolio £4,559.96 (corrected for Jul 31 EOD violations: MU actual $823.03 not $903, BE actual $205.81 not $225.60). Cash £1,562.15 = 34.3% — ABOVE 30% FLOOR ✓. CORE adds BLOCKED until portfolio ≥£4,848.75 (ATH £5,387.50 × 0.90). EXPLORE permitted £200 max with -7% stop. BE: EXPLORE (Druckenmiller solo) — stop $209.81 ACTIVE not triggered (premarket $233.33). SNDK: CORE per INVESTOR_DISTRESS_FORCED_EXIT_RULE through Aug 5 earnings (THREE-CONDITION required for EXPLORE maintenance, ANY miss = BLOCKED). IRAN CEASEFIRE PROGRESSING: Trump called off 'biggest attack since WWII' Aug 2; talks resume Aug 3; Hormuz deal 'imminent' → GeoShock Day 4+ MET. Jobs report: Aug 7 (not Aug 1 — Friday of that week is Aug 7). ELEVATED mode NOT YET: requires portfolio ≥£4,848.75 AND jobs data. NO TRADES today. 13F Q2 2026 filings due Aug 14 — critical portfolio reset day.",
-  "market_status": "[JUL 31 2026 \u2014 WEEK 12 DAY 4 \u2014 FRIDAY \u2014 DEFENSIVE MODE (CAPITAL_PRESERVATION EXIT)] GBP/USD 1.3420 (-0.34% from 1.3340). S&P Futures +0.2%, Nasdaq 100 Futures +0.9% (QQQ +0.94% premarket). Chip ETF +3.3% early trading. SOX: +8.19% Jul 30 (largest single-day gain in 15 months, since Apr 2025); +3% premarket extension today. AMZN Q2 2026 EARNINGS (AH Jul 30) \u2014 THREE-CONDITION: (1) EPS $5.75 vs $1.83 consensus = MASSIVE BEAT (+214%) \u2713; (2) Revenue $200.61B vs $196.85B = BEAT \u2713; (3) Q3 Guidance $197-202B midpoint $199.5B vs $204.1B consensus = MISS \u2717 (Prime Day moved from Jul to Jun for FIFA World Cup/Jul 4 avoidance \u2014 management: organic growth +400bps higher ex-calendar shift). TWO-OF-THREE PASS (guidance miss = calendar artifact). AWS +37% YoY = fastest growth in 18 quarters (since Q4 2021); AWS AI and Chips each exceed $25B annualized run rate. AMZN +9% AH Jul 30, +11.7% today. SA COMPLETE LIQUIDATION (Bloomberg/WSJ/Citadel confirmed Jul 30): Aschenbrunner Situational Awareness LP sold ENTIRE public equity portfolio to Ken Griffin's Citadel in single block trade. SA ran 4\u00d7 leverage; margin calls from Goldman, JPMorgan, BofA; fund down 67% in July after +439% H1 2026. BE (~23% of SA book) and SNDK (~19% of SA book) were top two positions sold. Post-Citadel acquisition, BE, SNDK, NBIS, IREN, CRWV all surged sharply on Jul 30 \u2014 forced seller gone. FORCED_SELLER_RISK REMOVED for BE and SNDK. MU: Samsung (Jul 30) warned memory shortages extend through 2028, directly contradicting SK Hynix oversupply narrative. MU recovered +15-16% on Jul 30 from $739 intraday low to ~$870 EOD; today ~$903 (+3.5%). MSFT +15% today (continuation from Azure +47% beat Jul 29). AAPL -7.8% (Q4 guidance miss, supply challenges). SK Hynix hit +30% daily limit; Kospi +18%. June PCE inflation COOLER = dovish signal. JOBS REPORT TOMORROW (Aug 1): consensus ~120K. TSM: ~$390 (+3.4%). UBER: ~$72 (+1.4%). SNDK: ~$1,200 estimate (post-SA rebound + +5% today). BE: ~$200 estimate (post-SA rebound). NO TRADES (DEFENSIVE mode, no EXPLORE opportunities screened today \u2014 priority is mode transition and EOD price confirmation).",
+  "fx_rate_gbpusd": 1.347,
+  "total_value_gbp": 4685.23,
+  "cumulative_return_pct": -6.30,
+  "risk_mode": "DEFENSIVE — WEEK 13 DAY 2 — TUESDAY AUG 4 2026. Portfolio £4,685.23 (up from £4,559.96 on Aug 3 — AMZN confirmed close $279.39 +8.3% vs prior reference, UBER $71.74 confirmed, SNDK $1,277 pre-earnings +10.2% vs $1,159 prior reference, MU $829.50 estimated, TSM ~$415 estimated). Cash £1,562.15 = 33.3% — ABOVE 30% FLOOR ✓. CORE adds BLOCKED until portfolio ≥£4,848.75 (ATH £5,387.50 × 0.90) — gap £163.52 (3.6% remaining). EXPLORE permitted £200 max with -7% stop. NO TRADES today. BE: EXPLORE (Druckenmiller solo) — stop $209.81 NOT TRIGGERED (Aug 3 confirmed close $218.32, Aug 4 est ~$220, buffer 4.6%). SNDK: CORE per INVESTOR_DISTRESS_FORCED_EXIT_RULE — FINAL DAY before Aug 5 earnings (THREE-CONDITION check tonight AH at 1:30 PM PT). IRAN: Hormuz negotiations with Oman ongoing — formal deal NOT signed; markets pricing deal optimism (oil falling); Trump called Iran 'unbelievably duplicitous' Aug 2-3. GeoShock partially resolved but NO formal ceasefire. AMD earnings tonight AH = key AI chip sector read-through for MU/TSM tomorrow. Market: Dow +1.30%, S&P +0.55%, Nasdaq +1.16% — RECORD HIGHS. ELEVATED mode gap: £163.52. Jobs report Aug 7. 13F Q2 2026 filings due Aug 14 — SUSPEND new EXPLORE entries Aug 12-14.",
+  "market_status": "[AUG 4 2026 \u2014 WEEK 13 DAY 2 \u2014 TUESDAY \u2014 DEFENSIVE MODE] GBP/USD 1.347 (stable from 1.3483 Aug 3). Dow +1.30%, S&P 500 +0.55%, Nasdaq +1.16% \u2014 RECORD HIGHS. Oil FALLING (Iran Hormuz deal optimism via Oman mediation). PLTR +20.1% (Q2 EPS $0.41 vs $0.28e +46%, Rev $1.94B +92.8% YoY = 9th consecutive beat). WAYFAIR (W) +19% earnings beat. AMD reports Q2 AH tonight (Rev ~$11.3B expected, EPS ~$1.61; AI chip demand focus). SpaceX first public quarterly earnings tonight. AMZN: $279.39 CONFIRMED CLOSE \u2014 approaching 52w high $287.16; IC position now +7.1% unrealized (+\u00a353.11). UBER: $71.74 CONFIRMED CLOSE (+2.0% from $70.33 prior reference). MU: $829.50 estimated EOD (range $829.50-$868.83 during session; Aug 3 confirmed close was $823.03 per self_learning). SNDK: $1,276.97 (+5.1% pre-earnings buying; earnings Aug 5 AH). TSM: ~$415 estimated (premarket $417.20, prev close $406.11). BE: ~$220 estimate (Aug 3 confirmed close $218.32; stop $209.81 NOT triggered). ARK Invest (Aug 3 trades): Bought AMZN ($20M) + CRWV + CBRS; Sold RBLX + SNOW. NO TRADES TODAY (DEFENSIVE mode; SNDK earnings eve; AMD read-through pending).",
   "positions": {
     "MU": {
       "shares": 1.2939,
       "avg_cost_gbp": 750.0,
       "avg_cost_usd": 790.0,
-      "current_price_usd": 800.0,
-      "current_value_gbp": 767.71,
-      "unrealized_pnl_gbp": 17.71,
-      "unrealized_pnl_pct": 2.36,
-      "price_note": "JUL 31 2026: ~$903.00 INTRADAY ESTIMATE (PENDING 4PM EOD verification per 4PM_EOD_PRICE_CAPTURE rule). JUL 30 EOD: ~$870 estimate \u2014 SA block trade to Citadel completed Jul 30; Samsung warned memory shortages extend through 2028 (directly contradicting SK Hynix oversupply narrative) causing MU recovery +15-16% from $739 intraday low. Jul 30 EOD was NOT captured at 4PM \u2014 estimate $870. JUL 31: ~$903 (+3.5% from ~$870 Jul 30 EOD). Full recovery trajectory: Jul 29 EOD $820.53 \u2192 Jul 30 intraday low $737.88 (SA forced selling) \u2192 Samsung shortage warning recovery \u2192 Jul 30 EOD ~$870 \u2192 Jul 31 ~$903. YTD context: MU still -28% from ATH ~$1,255 (Jun 2026 peak) but strongly recovering. SA forced selling overhang COMPLETELY REMOVED \u2014 Citadel owns former SA MU position. Analyst consensus: Strong Buy (40 buys, 0 sells). Avg PT raised $2,000+. CORE hold min 2026-08-11. DO NOT ADD (at \u00a3750 max). Sources: [MU Stock Recovery \u2014 Yahoo Finance Jul 31](https://finance.yahoo.com/markets/stocks/articles/mu-skhy-nvda-amd-intc-085017500.html) | [Samsung memory shortage 2028 warning \u2014 247 Wall St](https://247wallst.com/) | [Situational Awareness Citadel block sale \u2014 Eastern Herald](https://easternherald.com/2026/07/31/situational-awareness-citadel-ai-hedge-fund/)",
+      "current_price_usd": 829.50,
+      "current_value_gbp": 796.85,
+      "unrealized_pnl_gbp": 46.85,
+      "unrealized_pnl_pct": 6.25,
+      "price_note": "AUG 4 2026: $829.50 ESTIMATED EOD (range $829.50-$868.83 during session; using conservative bound). AUG 3 CONFIRMED: $823.03 (per self_learning_aug03). Aug 4: chip sector rally (Nasdaq +1.16%, PLTR +20%, AMD reporting AH tonight). MU recovering from SA-forced-selling lows. YTD: -34% from ATH ~$1,255. Samsung shortage warning (through 2028) + HBM4 AI memory supercycle thesis intact. CORE no-stop hold min 2026-08-11. DO NOT ADD (at \u00a3750 max). AMD earnings tonight = key read-through for tomorrow.",
       "entry_date": "2026-05-11",
       "strategy": "value_investor_follow+momentum",
       "confidence": 5,
@@ -33,10 +33,10 @@
       "shares": 3.8645,
       "avg_cost_gbp": 748.37,
       "avg_cost_usd": 262.64,
-      "current_price_usd": 258.00,
-      "current_value_gbp": 739.49,
-      "unrealized_pnl_gbp": -8.88,
-      "unrealized_pnl_pct": -1.19,
+      "current_price_usd": 279.39,
+      "current_value_gbp": 801.48,
+      "unrealized_pnl_gbp": 53.11,
+      "unrealized_pnl_pct": 7.10,
       "entry_date": "2026-05-11",
       "last_add_date": "2026-06-05",
       "strategy": "value_investor_follow",
@@ -91,16 +91,16 @@
           "trigger": "FINAL_CORE_FILL. Freed NVDA stop proceeds. AWS +17% YoY fastest pace in 2yrs."
         }
       ],
-      "price_note": "JUL 31 2026: ~$254.68 INTRADAY ESTIMATE (+11.7% from Jul 30 close ~$228; PENDING 4PM EOD verification). AMZN Q2 2026 EARNINGS CONFIRMED (AH Jul 30) \u2014 THREE-CONDITION: (1) EPS $5.75 vs $1.83 consensus = MASSIVE BEAT \u2713; (2) Revenue $200.61B vs $196.85B = BEAT \u2713; (3) Q3 Guidance $197-202B vs $204.1B consensus = TECHNICAL MISS \u2717 \u2014 Prime Day moved Jun to avoid FIFA World Cup; ex-calendar = +400bps organic = effectively in-line. MARKET REACTION: +9% AH Jul 30, +11.7% today. AWS +37% YoY (fastest in 18 quarters since Q4 2021); AWS AI and Chips each >$25B annualized run rate. Advertising +26%. Three-condition assessed 2/3 PASS \u2014 guidance miss is calendar artifact (PRIME_DAY_CALENDAR_ARTIFACT_RULE). AMZN now near break-even (unrealized -2.01% vs prior -11.78%). CORE thesis FULLY VALIDATED: Tepper+Ackman dual-investor AWS acceleration confirmed. FCF concern remains (capex surge for AI infra) but consistent with moat-building thesis. CORE hold min 2026-08-11. DO NOT ADD (at \u00a3748.37/\u00a3750 max). Sources: [Amazon Q2 2026 EPS Triples \u2014 GamesReviews](https://gamesreviews.com/news/07/amazon-q2-2026-eps-triples-estimates-at-5-75-revenue-tops-200b-first-time/) | [AWS +37% YoY \u2014 Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/amazon-q2-2026-earnings-aws-204411872.html) | [AMZN Q2 Beat \u2014 CNBC](https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html)"
+      "price_note": "AUG 4 2026: $279.39 CONFIRMED CLOSE (approaching 52w high $287.16). ARK Invest bought $20M AMZN Aug 3 = 3rd institutional signal (Tepper + Ackman + ARK). IC position now +7.1% unrealized (+\u00a353.11). AMZN +8.3% from prior reference $258. Q2 earnings (Jul 30): EPS $5.75 MASSIVE BEAT, Rev $200.61B BEAT, AWS +37% YoY. CORE thesis FULLY VALIDATED. Hold min 2026-08-11. DO NOT ADD (at \u00a3748.37/\u00a3750 max)."
     },
     "BE": {
       "shares": 3.0026,
       "avg_cost_gbp": 650.0,
       "avg_cost_usd": 290.74,
       "current_price_usd": 220.00,
-      "current_value_gbp": 489.88,
-      "unrealized_pnl_gbp": -160.12,
-      "unrealized_pnl_pct": -24.63,
+      "current_value_gbp": 490.27,
+      "unrealized_pnl_gbp": -159.73,
+      "unrealized_pnl_pct": -24.57,
       "entry_date": "2026-05-13",
       "last_add_date": "2026-07-02",
       "strategy": "value_investor_follow+sector_rotation",
@@ -184,10 +184,10 @@
       "shares": 5.683,
       "avg_cost_gbp": 300.0,
       "avg_cost_usd": 70.9,
-      "current_price_usd": 70.33,
-      "current_value_gbp": 296.44,
-      "unrealized_pnl_gbp": -3.56,
-      "unrealized_pnl_pct": -1.19,
+      "current_price_usd": 71.74,
+      "current_value_gbp": 302.68,
+      "unrealized_pnl_gbp": 2.68,
+      "unrealized_pnl_pct": 0.89,
       "entry_date": "2026-05-28",
       "strategy": "value_investor_follow",
       "confidence": 4,
@@ -196,7 +196,7 @@
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-08-28",
-      "price_note": "JUL 31 2026: ~$72.00 ESTIMATE (+1.4% from ~$71.00 Jul 30; PENDING 4PM EOD verification). UBER near 52-week low ($65.41 hit Jul 27) but modest recovery as Nasdaq +0.9%. CORE thesis intact: Ackman $2.154B #3 position + Tepper +242%. Q2 2026 earnings upcoming — not yet scheduled. Delivery Hero Foodpanda ($14.8B all-stock) regulatory process ongoing. CORE hold min 2026-08-28. No stop. DEFENSIVE mode allows no new UBER adds (already at CORE max £300)."
+      "price_note": "AUG 4 2026: $71.74 CONFIRMED CLOSE (Nasdaq +1.16%, oil falling = UBER margin tailwind). IC position now +0.89% unrealized. CORE thesis intact: Ackman $2.154B #3 + Tepper +242%. CORE hold min 2026-08-28. No stop."
     },
     "VST": {
       "shares": 0.8735,
@@ -221,10 +221,10 @@
       "shares": 1.9866,
       "avg_cost_gbp": 650.0,
       "avg_cost_usd": 435.7,
-      "current_price_usd": 404.25,
-      "current_value_gbp": 595.73,
-      "unrealized_pnl_gbp": -54.27,
-      "unrealized_pnl_pct": -8.35,
+      "current_price_usd": 415.00,
+      "current_value_gbp": 612.06,
+      "unrealized_pnl_gbp": -37.94,
+      "unrealized_pnl_pct": -5.84,
       "last_add_date": "2026-06-29",
       "entry_date": "2026-06-08",
       "strategy": "value_investor_follow",
@@ -268,16 +268,16 @@
           "fx_rate": 1.32
         }
       ],
-      "price_note": "JUL 31 2026: ~$390.00 ESTIMATE (+3.4% from $377.00 Jul 30 confirmed; PENDING 4PM EOD verification). SOX +8.19% Jul 30 (largest gain in 15 months) + +3% premarket extension today = TSM participating in chip sector recovery. Samsung shortage warning (memory) validates broader semiconductor AI demand thesis. TRIPLE CONVICTION intact: Tepper (7.56%) + Druckenmiller (5.0%) + Coatue (#1 position). CORE hold min 2026-09-08. Add trigger (<$440) remains BLOCKED — DEFENSIVE mode allows EXPLORE adds only; CORE add requires ELEVATED mode. Sources: [TSM Stock — Investing.com](https://www.investing.com/equities/taiwan-semiconductor-mfg) | [SOX +8.19% rally — BigGo Finance](https://finance.biggo.com/news/41a3cf6d-b02e-4d91-ba2b-398d59b8a4ae)"
+      "price_note": "AUG 4 2026: ~$415.00 ESTIMATE (premarket $417.20 +2.7% from Aug 3 confirmed close $406.11). Iran deal optimism reducing Taiwan geopolitical risk premium. AI chip sector bullish (PLTR +20%, AMD reports tonight). TRIPLE CONVICTION intact: Tepper (7.56%) + Druckenmiller (5.0%) + Coatue (#1). CORE hold min 2026-09-08. Add trigger (<$440) BLOCKED — DEFENSIVE mode + below ELEVATED threshold. TSM now -5.84% unrealized (recovering from -8.35%)."
     },
     "SNDK": {
       "shares": 0.1263,
       "avg_cost_gbp": 200.0,
       "avg_cost_usd": 2090.0,
-      "current_price_usd": 1159.00,
-      "current_value_gbp": 108.56,
-      "unrealized_pnl_gbp": -91.44,
-      "unrealized_pnl_pct": -45.72,
+      "current_price_usd": 1277.00,
+      "current_value_gbp": 119.74,
+      "unrealized_pnl_gbp": -80.26,
+      "unrealized_pnl_pct": -40.13,
       "entry_date": "2026-06-29",
       "strategy": "value_investor_follow",
       "confidence": 4,
@@ -287,7 +287,7 @@
       "hold_type": "investor_follow",
       "hold_min_date": "2026-09-28",
       "amber_flag_status": "AMBER FLAG RESOLVED \u2014 FORCED SELLER COMPLETELY GONE (JUL 31 UPDATE). SA (Aschenbrunner Situational Awareness) FULLY LIQUIDATED entire public portfolio to Ken Griffin's Citadel in single block trade Jul 30. SNDK was SA's ~19% of book (~$724M). FORCED_SELLER_RISK = COMPLETELY REMOVED. Citadel = strategic long-term buyer, NOT a forced seller. INVESTOR STATUS: Aschenbrunner SA = FULLY EXITED (distressed forced sale, not thesis change). Tepper = STILL HOLDS (Tier-1, 100% accuracy, 1.5x weight). SNDK CORE maintained per INVESTOR_DISTRESS_FORCED_EXIT_RULE through Aug 5 earnings. Post-Aug 5: formal reclassification \u2192 EXPLORE (Tepper solo) with -7% stop if THREE-CONDITION ALL MET; \u2192 BLOCKED if ANY miss. AMBER FLAG CLOSED: three consecutive closes below $1,500 were SA forced liquidation (now complete). Price $1,200 estimate = well above $900 emergency trigger (DEACTIVATED). Analyst consensus: avg PT $2,217, 22/22 analysts positive (Goldman Sachs Schneider bullish). Aug 5 earnings: beat-and-raise expected; $8B revenue midpoint; Goldman: 'smash guidance.' AMBER FLAG TIMELINE (now historical): Day 1 Jul 24 $1,483.49 | Day 2 Jul 28 $1,278.23 | Day 3 Jul 29 $1,096.10 | Jul 30 $1,015.89 (intraday, pre-Citadel) | Jul 31 ~$1,200 (post-SA removal).",
-      "price_note": "JUL 31 2026: ~$1,200.00 CONSERVATIVE ESTIMATE (PENDING 4PM EOD verification). MASSIVE CONTEXT CHANGE: SA FULLY LIQUIDATED to Citadel Jul 30 \u2014 entire public portfolio including SNDK (~19% of $3.86B book) sold in single block trade. Post-Citadel acquisition, SNDK posted 'large gains' Jul 30 per Bloomberg/Eastern Herald. Jul 30 EOD NOT CAPTURED \u2014 estimate $1,100-1,300 range from $998.19 intraday low. Jul 31: +5%+ on memory sector rally (SOX +8.19% yesterday, Samsung shortage warning) \u2192 conservative midpoint $1,200. SNDK Aug 5 EARNINGS: analyst consensus Strong Buy (17/22 Strong Buy, 1 Moderate Buy, 4 Hold); $8B revenue midpoint guidance; Goldman Sachs Schneider bullish; with SA overhang removed = clean setup into earnings. CORE hold min 2026-09-28 (pending post-Aug 5 reclassification review). Sources: [SNDK SA Citadel block \u2014 Yahoo Finance/WSJ](https://finance.yahoo.com/markets/stocks/articles/citadel-buys-bulk-situational-awareness-155951675.html) | [SNDK Aug 5 earnings \u2014 Barchart](https://www.barchart.com/story/news/3529177/dear-sandisk-stock-fans-mark-your-calendars-for-august-5) | [SNDK preview \u2014 Motley Fool](https://www.fool.com/investing/2026/07/26/should-you-buy-sandisk-stock-reports-earnings/)"
+      "price_note": "AUG 4 2026: $1,276.97 ESTIMATED (+5.1% pre-earnings buying; PENDING 4PM EOD verification). Earnings Aug 5 AH at 1:30 PM PT / 4:30 PM ET. ANALYST SETUP: Consensus EPS $34.24, Revenue $8.3B. Company guided EPS $30-33, Revenue $7.75-8.25B \u2014 analysts expect beat. Goldman: 'very strong quarter.' Benzinga: implied move up to 17.5%. THREE-CONDITION check tomorrow: EPS vs $34.24; Rev vs $8.3B; Q1 FY2027 guidance vs consensus. ALL THREE \u2192 reclassify CORE\u2192EXPLORE (Tepper solo, \u00a3200 max, -7% stop from post-earnings price). ANY MISS \u2192 BLOCKED \u2192 plan exit. Current loss -40.1% (-\u00a380.26) on IC position. Sources: [SNDK pre-earnings \u2014 Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/buy-sandisk-stock-q4-earnings-163400602.html) | [Forbes SNDK 574% \u2014 Forbes](https://www.forbes.com/sites/investor-hub/article/sandisk-stock-over-574-where-its-heading-2026/)"
     }
   },
   "closed_positions": {
@@ -1983,6 +1983,60 @@
         "Q2 2026 13F FILING DEADLINE Aug 14 (Thursday). SUSPEND new EXPLORE entries Aug 12-14. This is the single highest-information event of next 2 weeks.",
         "WHR Whirlpool: WATCHLIST non-AI, Tepper $282M new position. EXPLORE \u00a3150 trigger: requires ELEVATED mode (portfolio \u2265\u00a34,848.75 + Iran stable + jobs data).",
         "UBER Q2 2026 earnings: not yet scheduled. CORE hold min Aug 28. Watch for earnings date announcement."
+      ]
+    }
+  },
+  "self_learning_aug04": {
+    "lesson_pltr_blowout_ai_software_validation": "PLTR Q2 2026: EPS $0.41 vs $0.28e (+46%), Revenue $1.94B +92.8% YoY (9th consecutive beat). US Commercial +149% YoY. Market +20.1%. IC exited PLTR Jun 5 at +9.6%. No re-entry (no IC investor signal in Q1 2026 13F; above 5% 30d peak). BROADER VALIDATION: PLTR blowout = AI software enterprise deployment cycle is real and accelerating. Validates AWS/MU/SNDK/TSM AI infrastructure thesis.",
+    "lesson_amzn_confirmed_close_approaching_ath": "AMZN $279.39 Aug 4 CONFIRMED close. 52w high $287.16 (2.8% away). IC position +7.1% unrealized (+£53.11). ARK bought $20M AMZN Aug 3 = 3rd institutional signal. AWS +37% YoY Q2 2026. CORE thesis strongest position in portfolio. If AMZN crosses $287.16 = new ATH = momentum signal. CORE hold min Aug 11 — no action.",
+    "lesson_amd_chip_readthrough_tonight": "AMD Q2 reports AH tonight Aug 4 (consensus Rev $11.3B +46% YoY, EPS $1.61). MI300 Data Center is key AI chip demand signal. AMD manufactured at TSMC N4 = validates TSMC fab utilization. Beat+guidance raise = expect MU/TSM +2-5% tomorrow. Miss = potential -3-5% contagion. Monitor AMD call 5PM ET.",
+    "lesson_iran_formal_deal_still_pending": "Markets bullish on Iran deal (oil falling, S&P record highs). BUT: formal Hormuz deal NOT signed. Iran in Oman-mediated talks only. Trump called Iran 'unbelievably duplicitous' Aug 2-3. MARKET_VS_REALITY_GAP exists. IC ELEVATED mode geopolitical condition = formal ceasefire required. Market optimism ≠ formal deal. BE stop $209.81 remains active given uncertainty.",
+    "lesson_sndk_preearnings_setup_aug5": "SNDK +5.1% to $1,277 on pre-earnings buying. Benzinga: implied move up to 17.5%. KEY DECISION TOMORROW: EPS $34.24 consensus vs $30-33 guidance = analyst expects beat. Revenue $8.3B consensus vs $7.75-8.25B guidance = analyst expects beat. Goldman bullish. THREE-CONDITION decision tree applies. If ALL THREE met → reclassify EXPLORE (Tepper solo, £200 max, -7% stop). If ANY MISS → BLOCKED → exit.",
+    "lesson_ark_amzn_confirming_signal": "ARK bought $20M AMZN Aug 3. Not a primary IC signal tier but confirms Tepper + Ackman CORE thesis. ARK also accumulated CRWV — IC had CRWV stopped out May 2026, no re-entry signal.",
+    "investor_status_aug04": {
+      "aschenbrunner_sa": "FULLY DISSOLVED. No future signals.",
+      "druckenmiller_duquesne": "Q1 2026 CURRENT — NTRA(18.1%), BE(holding), TSM(5.0%). Q2 13F due Aug 14.",
+      "tepper_appaloosa": "Q1 2026 CURRENT — AMZN(15.2%), MU(9.5%), UBER(7.68%), TSM(7.56%), SNDK(new). Q2 13F due Aug 14.",
+      "ackman_pershing": "Q1 2026 CURRENT — AMZN(17.4%), UBER(15.7%). Q2 13F due Aug 14.",
+      "cathie_wood_ark": "Aug 3 RECENT — Bought AMZN ($20M), CRWV, CBRS; Sold RBLX, SNOW. No direct IC positions.",
+      "burry_scion": "Q3 2025 STALE. 0.3x weight. Not used."
+    },
+    "forecast_aug05": {
+      "base": {
+        "range": [1.0, 3.0],
+        "assumption": "SNDK THREE-CONDITION ALL MET AH tonight (Goldman bullish, analysts expect beat). SNDK +15-20% to $1,450-1,550. AMD beat tonight → MU/TSM +2-3% tomorrow. Portfolio approaches £4,770-£4,800."
+      },
+      "bull": {
+        "range": [4.0, 7.0],
+        "assumption": "SNDK massive beat (EPS $36+, Rev $8.5B+) + guidance $10B+ → SNDK +25-30% to $1,600-1,650. AMD blowout → MU/TSM +4-5%. AMZN breaks 52w high $287.16. Portfolio £4,850+ → ELEVATED mode UNLOCKED. TSM add £100 CORE trigger activates."
+      },
+      "bear": {
+        "range": [-3.0, -6.0],
+        "assumption": "SNDK misses ANY condition → BLOCKED → plan exit at ~$1,277, realize -£80 loss. AMD miss → MU/TSM -4-5% sector contagion. Iran escalation → BE stop $209.81 hit (-£23 additional). Portfolio falls to £4,400-4,500.",
+        "stop_drag_note": "SNDK BLOCKED exit at ~$1,277 = -£80 already marked. BE stop at $209.81 = -£23 additional. Combined: -£103 worst case from current positions."
+      },
+      "stop_exposure": [
+        {
+          "ticker": "BE",
+          "current_price": 220.0,
+          "stop_price": 209.81,
+          "current_value_gbp": 490.27,
+          "stop_exit_value_gbp": 467.59,
+          "max_additional_loss_gbp": 22.68,
+          "trigger": "Iran formal talks collapse or BE-specific negative"
+        }
+      ],
+      "total_stop_exposure_gbp": 22.68,
+      "stop_exposure_pct": 0.48,
+      "watchlist_aug05_aug07": [
+        "SNDK AUG 5 EARNINGS AH (1:30 PM PT): THREE-CONDITION — EPS vs $34.24, Rev vs $8.3B, Q1 FY2027 guidance vs consensus. ALL → EXPLORE reclassify; ANY MISS → BLOCKED.",
+        "AMD AUG 4 AH RESULTS: chip sector read-through. Beat → MU/TSM +2-5% tomorrow. Miss → -3-5%.",
+        "AMZN $287.16 52w HIGH WATCH: $279.39 current = 2.8% away. Break = new ATH.",
+        "BE STOP $209.81: Aug 3 confirmed $218.32 = 4.0% buffer. Iran deal progress reduces risk. Monitor.",
+        "JOBS REPORT AUG 7 (Friday): July data. Consensus: lower than expected, unemployment ~4.2%. Weak print = dovish = rate cut odds rise = growth stocks benefit.",
+        "Q2 2026 13F FILING DEADLINE AUG 14: SUSPEND new EXPLORE entries Aug 12-14. Critical portfolio reset.",
+        "MU CORE HOLD MIN DATE AUG 11: post Aug 11, evaluate if ELEVATED mode — if yes, no add needed (already at £750 max). Monitor for ELEVATED transition.",
+        "WHR Whirlpool: Tepper $282M new position. EXPLORE £150 — requires ELEVATED mode (portfolio ≥£4,848.75 + Iran stable + jobs data)."
       ]
     }
   }
