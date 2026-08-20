@@ -1,29 +1,30 @@
 {
   "inception_date": "2026-05-11",
-  "last_updated": "2026-08-13",
+  "last_updated": "2026-08-20",
   "currency": "GBP",
   "initial_capital_gbp": 5000,
-  "cash_gbp": 1688.1,
-  "fx_rate_gbpusd": 1.348,
-  "total_value_gbp": 4728.91,
-  "cumulative_return_pct": -5.42,
-  "risk_mode": "DEFENSIVE - CATCH-UP SESSION AUG 13 2026 (Wed-Thu gap). Portfolio \u00a34,728.91 (-5.42% cumulative), cash \u00a31,688.10 (35.7%) - above 25% DEFENSIVE floor. ATH \u00a35,387.50; current drawdown -12.2%, but portfolio remains above the \u00a34,519.50 CAPITAL_PRESERVATION exit threshold set Jul 31, so mode stays DEFENSIVE (hysteresis: re-enter CAPITAL_PRESERVATION only if portfolio falls back below that threshold). AUTOMATION GAP: no successful commit since Aug 4 2026 (7 trading days: Aug 5,6,7,10,11,12,13) due to a GitHub API access failure in the scheduled task's execution environment (api.github.com REST calls were blocked; resolved this session by committing via authenticated git push instead). SNDK Aug 5 THREE-CONDITION FAILED (guidance miss) - exited today, 6 trading days late. TSM \u00a3100 CORE add trigger technically met but deferred pending Aug 14 Q2 13F freshness check. BE EXPLORE stop $209.81 not triggered. IRAN WAR: ceasefire in tatters, conflict ongoing (CNN Aug 10, Al Jazeera Aug 4). PPI report today; July CPI (Aug 12) matched expectations.",
-  "market_status": "[AUG 13 2026 - THURSDAY - DEFENSIVE MODE - CATCH-UP SESSION] GBP/USD 1.348 (search-derived, ~1.348-1.350 range). S&P 500 +0.2%, Nasdaq +0.1%, Dow +0.3% Aug 13 per early reporting; futures pointed slightly positive premarket (SPX fut +0.08%, NDX fut +0.13%). July PPI due 8:30am ET Aug 13. July CPI (Aug 12) matched expectations, easing near-term Fed hike fears. Oil: Brent -2% to $87.04, WTI -2% to $81.32, as US-Iran war continues (6th month) with ceasefire 'in tatters' since July. Cisco -9%, Cerebras -9% post-earnings; AI/semi infra earnings broadly supportive. SNDK Aug 5 THREE-CONDITION FAILED (guidance miss) -> exited this session. Sources: [Stock Market News for Aug 13 2026 - Zacks](https://www.zacks.com/stock/news/2973976/stock-market-news-for-aug-13-2026) | [Stock Market Today Aug 13 2026 - TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-13-2026) | [2026 Iran war ceasefire - Wikipedia](https://en.wikipedia.org/wiki/2026_Iran_war_ceasefire) | ['Maximum use': Iran boosts military strength during ceasefire with US - Al Jazeera](https://www.aljazeera.com/news/2026/8/4/maximum-use-iran-boosts-military-strength-during-ceasefire-with-us)",
+  "cash_gbp": 1588.10,
+  "fx_rate_gbpusd": 1.3641,
+  "total_value_gbp": 4792.82,
+  "cumulative_return_pct": -4.14,
+  "risk_mode": "DEFENSIVE - AUG 20 2026 (Thu). Portfolio \u00a34,792.82 (-4.14% cumulative), cash \u00a31,588.10 (33.1%) - above 30% DEFENSIVE floor (floor = \u00a31,437.85). ATH \u00a35,387.50; drawdown -11.0% from ATH. Recovery from Aug 13 (-5.42%) driven by MU +7.9% ($868\u2192$937) and BE recovery (+7.6% $225\u2192$242). MACRO: 30yr Treasury 5.33% (19yr high as of Aug 18), Nasdaq futures -0.5% premarket Aug 20, tech/chip stocks under pressure from bond yield headwind. Q2 2026 13F FILED AUG 14 \u2014 CRITICAL RECLASSIFICATIONS: MU downgraded CORE\u2192EXPLORE (Druckenmiller fully exited; Tepper solo cut 41% but still #2 at 15.06%); AMZN CORE strengthened (Tepper #1 15.95% + Ackman #4 10% reduced 25% + Druckenmiller massive new +1000%); TSM CORE strengthened (Tepper #3 10.55% raised + Druckenmiller $281.6M added \u2192 FINAL \u00a3100 CORE fill executed today); UBER CORE confirmed (Ackman #1 13% + Tepper #5 7.43%). TSM \u00a3100 CORE add executed today at $414.28. WMT premarket -6% (comp sales miss \u2014 consumer spending warning). MRNA +177% (mRNA cancer treatment milestone). Iran war: ongoing, status post-Aug 13 unknown.",
+  "market_status": "[AUG 20 2026 - THURSDAY - DEFENSIVE MODE] GBP/USD 1.3641 (+0.26%, GBP strengthening — up 1.98% past month). S&P 500 futures flat (SPX -0.05% premarket), Nasdaq 100 futures -0.5% (tech/chip weakness). Dow futures -0.14%. Premarket movers: WMT -6% (Q2 EPS beat but comp sales miss = consumer spending warning); MRNA +177% (mRNA personalized cancer treatment milestone with Merck — record single-session gain); Coinbase, Alibaba also reporting. MACRO: 30yr Treasury 5.33% (19yr intraday high as of Aug 18; global bond yields at multi-decade highs — UK, Germany, France, Japan all surging). Causes: US fiscal deficit July highest since Mar 2021, inflation above 2% target, AI capex driving corporate bond issuance. Tech stocks SLIDING on elevated discount rates. Chip stocks specifically noted lower premarket (Oracle, AMD, Micron, Marvell). REGIME: BEARISH/DEFENSIVE — rising yields = compressed tech multiples; S&P fell 3 consecutive sessions before today. EARNINGS: 51 companies reporting today including WMT and BABA. Iran war ongoing (status post-Aug 13 unknown). Sources: [Stock Market Today Aug 20 2026 — TheStreet](https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-20-2026) | [30-yr Treasury 5.33% — CNBC](https://www.cnbc.com/2026/08/18/treasury-yields-.html) | [Stocks making biggest moves premarket Aug 20 — CNBC](https://www.cnbc.com/2026/08/20/stocks-making-the-biggest-moves-premarket-.html)",
   "positions": {
     "MU": {
       "shares": 1.2939,
       "avg_cost_gbp": 750.0,
       "avg_cost_usd": 790.0,
-      "current_price_usd": 868.52,
-      "current_value_gbp": 833.66,
-      "unrealized_pnl_gbp": 83.66,
-      "unrealized_pnl_pct": 11.15,
-      "price_note": "AUG 4 2026: $829.50 ESTIMATED EOD (range $829.50-$868.83 during session; using conservative bound). AUG 3 CONFIRMED: $823.03 (per self_learning_aug03). Aug 4: chip sector rally (Nasdaq +1.16%, PLTR +20%, AMD reporting AH tonight). MU recovering from SA-forced-selling lows. YTD: -34% from ATH ~$1,255. Samsung shortage warning (through 2028) + HBM4 AI memory supercycle thesis intact. CORE no-stop hold min 2026-08-11. DO NOT ADD (at \u00a3750 max). AMD earnings tonight = key read-through for tomorrow.",
+      "current_price_usd": 937.11,
+      "current_value_gbp": 888.90,
+      "unrealized_pnl_gbp": 138.90,
+      "unrealized_pnl_pct": 18.52,
+      "price_note": "AUG 20 2026: $937.11 CONFIRMED (up from $868.52 Aug 13 = +7.9% week-over-week recovery; confirmed via market search Aug 20 2026). Despite Druckenmiller fully exiting MU in Q2 2026 13F (filed Aug 14), stock continues to rise. Tepper still holds at #2 position (15.06%, cut 41% from Q1 but maintained). MU from Aug 5 post-SNDK-earnings lows recovering on AI memory demand. RECLASSIFIED: CORE\u2192EXPLORE effective Aug 20 (Druckenmiller Q2 full exit = Tepper solo = EXPLORE tier). Legacy \u00a3750 position maintained above EXPLORE max (BE precedent \u2014 no forced exit). No stop applied to legacy CORE position. Thesis: Samsung shortage warning through 2028 + HBM4 supercycle + Tepper #2 conviction intact.",
       "entry_date": "2026-05-11",
       "strategy": "value_investor_follow+momentum",
       "confidence": 5,
-      "tier": "CORE",
-      "thesis": "DUAL INVESTOR CORE \u2605: Tepper #2 (9.48%, ~$562M Q1 2026) + Druckenmiller Q1 2026. POST-EARNINGS BLOWOUT Jun 24-25: EPS $25.11 (+21% vs $20.78e), Rev $41.46B (+16% vs $35.75Be), Q4 Guide $50B\u00b1$1B vs $43Be, $100B contracted revenues (16 customers). GM record 84.9%. Analyst PTs raised to $2,000 (Susquehanna, Barclays, DA Davidson). HBM4 supply constrained through 2028. HEADLINE RISKS: (1) DRAM class-action lawsuit (Samsung+SKH+MU, alleged DDR3/DDR4 price-fixing while pivoting to HBM). Jefferies: 'headline risk only, no impact on MU pricing before year-end.' (2) CEO Sanjay Mehrotra sold >$45M stock late Jun \u2014 negative sentiment signal but no fundamental change. MU from post-earnings ATH ~$1,255 \u2192 $929.40 Jul 7 (-26% off ATH). JUL 7 SAMSUNG Q2 2026 VALIDATION: Operating profit 89.4T won (19x YoY) \u2014 DRAM +44% QoQ, NAND +53% QoQ. FUNDAMENTAL CONFIRMATION of AI memory supercycle. BUT Samsung shares fell 6% 'sell the news' = MU contagion -5.2% today from ~$975 to $929.40. HBM4/AI thesis UNCHANGED. TEPPER VALIDATION: Bloomberg Jul 6 \u2014 Appaloosa +32% H1 2026 'driven by memory chip makers'. CORE no-stop 90-day hold min 2026-08-11. DO NOT ADD (at max \u00a3750).",
+      "tier": "EXPLORE",
+      "tier_reclassified": "2026-08-20 CORE\u2192EXPLORE: Druckenmiller Q2 2026 13F (filed Aug 14) shows FULL EXIT of MU position. Tepper Q2 13F: CUT 41% to 15.06% (still #2 position at $1.17B). Single investor = EXPLORE per three-tier rule. Druck exit classification: PROFIT-TAKING (MU was up massively from prior entry; IBM CEO enterprise memory demand confirmation Jul 14 + Samsung shortage warning = structural thesis intact; Druck exiting = portfolio rotation not thesis change). Legacy \u00a3750 CORE position maintained above EXPLORE max per BE-CORE-LEGACY-PRECEDENT (Jul 31 2026). No stop applied to legacy CORE position. DO NOT ADD.",
+      "thesis": "EXPLORE\u2605 (Tepper solo post-Q2 13F). Original DUAL INVESTOR CORE: Tepper #2 (9.48%, ~$562M Q1 2026) + Druckenmiller Q1 2026. DRUCKENMILLER Q2 2026 FULL EXIT (filed Aug 14). POST-EARNINGS BLOWOUT Jun 24-25: EPS $25.11 (+21% vs $20.78e), Rev $41.46B (+16% vs $35.75Be), Q4 Guide $50B\u00b1$1B vs $43Be, $100B contracted revenues (16 customers). GM record 84.9%. Analyst PTs raised to $2,000 (Susquehanna, Barclays, DA Davidson). HBM4 supply constrained through 2028. HEADLINE RISKS: (1) DRAM class-action lawsuit (Samsung+SKH+MU, alleged DDR3/DDR4 price-fixing while pivoting to HBM). Jefferies: 'headline risk only, no impact on MU pricing before year-end.' (2) CEO Sanjay Mehrotra sold >$45M stock late Jun \u2014 negative sentiment signal but no fundamental change. MU from post-earnings ATH ~$1,255 \u2192 $929.40 Jul 7 (-26% off ATH). JUL 7 SAMSUNG Q2 2026 VALIDATION: Operating profit 89.4T won (19x YoY) \u2014 DRAM +44% QoQ, NAND +53% QoQ. FUNDAMENTAL CONFIRMATION of AI memory supercycle. BUT Samsung shares fell 6% 'sell the news' = MU contagion -5.2% today from ~$975 to $929.40. HBM4/AI thesis UNCHANGED. TEPPER VALIDATION: Bloomberg Jul 6 \u2014 Appaloosa +32% H1 2026 'driven by memory chip makers'. CORE no-stop 90-day hold min 2026-08-11. DO NOT ADD (at max \u00a3750).",
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-08-11",
@@ -33,10 +34,10 @@
       "shares": 3.8645,
       "avg_cost_gbp": 748.37,
       "avg_cost_usd": 262.64,
-      "current_price_usd": 267.28,
-      "current_value_gbp": 766.25,
-      "unrealized_pnl_gbp": 17.88,
-      "unrealized_pnl_pct": 2.39,
+      "current_price_usd": 268.00,
+      "current_value_gbp": 759.26,
+      "unrealized_pnl_gbp": 10.89,
+      "unrealized_pnl_pct": 1.46,
       "entry_date": "2026-05-11",
       "last_add_date": "2026-06-05",
       "strategy": "value_investor_follow",
@@ -91,16 +92,16 @@
           "trigger": "FINAL_CORE_FILL. Freed NVDA stop proceeds. AWS +17% YoY fastest pace in 2yrs."
         }
       ],
-      "price_note": "AUG 4 2026: $279.39 CONFIRMED CLOSE (approaching 52w high $287.16). ARK Invest bought $20M AMZN Aug 3 = 3rd institutional signal (Tepper + Ackman + ARK). IC position now +7.1% unrealized (+\u00a353.11). AMZN +8.3% from prior reference $258. Q2 earnings (Jul 30): EPS $5.75 MASSIVE BEAT, Rev $200.61B BEAT, AWS +37% YoY. CORE thesis FULLY VALIDATED. Hold min 2026-08-11. DO NOT ADD (at \u00a3748.37/\u00a3750 max)."
+      "price_note": "AUG 20 2026: $268.00 estimated (tech sector slightly down on 30yr yield 5.33% headwind; AMZN held ~$267-270 range post-Q2 13F signal reinforcement). Q2 2026 13F (Aug 14): TRIPLE INVESTOR BACKING CONFIRMED \u2014 Tepper #1 at 15.95% (INCREASED); Ackman #4 at 10% (REDUCED 25% but still holds, rotating to V/MA/SPGI); Druckenmiller MASSIVE new position +1000%+ (major new buy). Ackman reduction = profit-taking/portfolio rotation (reiterated 20%+ annual earnings growth thesis); NOT thesis change. AMZN Q2 EPS $5.75 BEAT, Rev $200.61B BEAT, AWS +37% YoY \u2014 CORE FULLY VALIDATED. DO NOT ADD (at \u00a3748.37/\u00a3750 max fill)."
     },
     "BE": {
       "shares": 3.0026,
       "avg_cost_gbp": 650.0,
       "avg_cost_usd": 290.74,
-      "current_price_usd": 225.0,
-      "current_value_gbp": 501.18,
-      "unrealized_pnl_gbp": -148.82,
-      "unrealized_pnl_pct": -22.9,
+      "current_price_usd": 242.0,
+      "current_value_gbp": 532.62,
+      "unrealized_pnl_gbp": -117.38,
+      "unrealized_pnl_pct": -18.06,
       "entry_date": "2026-05-13",
       "last_add_date": "2026-07-02",
       "strategy": "value_investor_follow+sector_rotation",
@@ -157,7 +158,7 @@
           "trigger": "BROOKFIELD_$25B_EXPANSION Jul 2. Structural thesis validation \u2014 defer-at-30d-peak rule exception applied. NOTE: Add executed at gap-up open $326.60 \u2014 intraday high. Day closed at $270.89 (-17% from open). NEW RULE: Wait 30-60 min on gap-up catalyst days. Total BE \u00a3650/\u00a3750 CORE. Room \u00a3100 remaining."
         }
       ],
-      "price_note": "AUG 13 2026 CATCH-UP: Using Aug 12 confirmed intraday range $216.02-$231.75 (current $231.69 per search) as reference; exact EOD close not found via available sources this session (direct Yahoo Finance/stockanalysis/CNBC fetch blocked by network egress policy in this environment - WebSearch synthesis used instead). Portfolio marks BE at conservative $225.00. EXPLORE stop $209.81 NOT triggered - even the day's session low ($216.02) stayed above the stop line. Sources: [Bloom Energy BE stock price - Barchart/search aggregation, Aug 12 2026 session data]"
+      "price_note": "AUG 20 2026: $242.00 estimated (Yahoo Finance headline confirms BE surged 150% YTD 2026; article notes 'dropped to ~$163 in late July and climbed back to ~$244' by mid-August 2026; Aug 14 confirmed $245.56; using $242 as conservative Aug 20 estimate). Stop $209.81 NOT triggered — current price $242 is $32.19 above stop (13.3% buffer). SA (Aschenbrenner) Q2 2026 13F shows 6,272,808 shares = $1.9B at June 30, but the Jul 30 Citadel forced acquisition happened AFTER the Q2 snapshot. FORCED_SELLER_RISK: resolved post-Citadel acquisition (SA fund collapsed; Week 12 note confirms SA 'sold entire portfolio to Citadel Jul 30'). BE recovery thesis: fuel cell economics vs natural gas dramatically improved at $87+ oil. Sources: [Bloom Energy BE — Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-surged-150-142500309.html)"
     },
     "MSFT": {
       "shares": 0.9473,
@@ -184,10 +185,10 @@
       "shares": 5.683,
       "avg_cost_gbp": 300.0,
       "avg_cost_usd": 70.9,
-      "current_price_usd": 75.36,
-      "current_value_gbp": 317.71,
-      "unrealized_pnl_gbp": 17.71,
-      "unrealized_pnl_pct": 5.9,
+      "current_price_usd": 76.91,
+      "current_value_gbp": 320.40,
+      "unrealized_pnl_gbp": 20.40,
+      "unrealized_pnl_pct": 6.80,
       "entry_date": "2026-05-28",
       "strategy": "value_investor_follow",
       "confidence": 4,
@@ -196,7 +197,7 @@
       "stop_loss_usd": null,
       "hold_type": "investor_follow",
       "hold_min_date": "2026-08-28",
-      "price_note": "AUG 4 2026: $71.74 CONFIRMED CLOSE (Nasdaq +1.16%, oil falling = UBER margin tailwind). IC position now +0.89% unrealized. CORE thesis intact: Ackman $2.154B #3 + Tepper +242%. CORE hold min 2026-08-28. No stop."
+      "price_note": "AUG 20 2026: $76.91 CONFIRMED (+3.01% today, range $74.63-$77.28, mkt cap $156.71B). UBER up strongly despite Nasdaq -0.5% premarket = relative strength. Q2 2026 13F: Ackman #1 position at 13% of $19.47B = ~$2.53B (INCREASED); Tepper #5 at 7.43% (maintained). CORE DUAL INVESTOR CONFIRMED. GurufFocus: 'UBER up 4.5% and still undervalued.' CORE hold min 2026-08-28. No stop."
     },
     "VST": {
       "shares": 0.8735,
@@ -218,14 +219,14 @@
       "closed": true
     },
     "TSM": {
-      "shares": 1.9866,
-      "avg_cost_gbp": 650.0,
-      "avg_cost_usd": 435.7,
-      "current_price_usd": 422.06,
-      "current_value_gbp": 622.01,
-      "unrealized_pnl_gbp": -27.99,
-      "unrealized_pnl_pct": -4.31,
-      "last_add_date": "2026-06-29",
+      "shares": 2.3158,
+      "avg_cost_gbp": 750.0,
+      "avg_cost_usd": 432.62,
+      "current_price_usd": 414.28,
+      "current_value_gbp": 703.54,
+      "unrealized_pnl_gbp": -46.46,
+      "unrealized_pnl_pct": -6.19,
+      "last_add_date": "2026-08-20",
       "entry_date": "2026-06-08",
       "strategy": "value_investor_follow",
       "confidence": 4,
@@ -266,9 +267,18 @@
           "price_usd": 432.35,
           "amount_gbp": 100.0,
           "fx_rate": 1.32
+        },
+        {
+          "date": "2026-08-20",
+          "action": "add_final_core_fill",
+          "shares": 0.3292,
+          "price_usd": 414.28,
+          "amount_gbp": 100.0,
+          "fx_rate": 1.3641,
+          "trigger": "Q2_2026_13F_CONFIRMED: Tepper raised TSM to #3 10.55% (from 7.56%); Druckenmiller added to 589,680 shares $281.6M. Price $414.28 not within 5% of 30d peak. CORE MAX £750 REACHED. No further adds."
         }
       ],
-      "price_note": "AUG 13 2026 CATCH-UP: $422.06 confirmed close Aug 12 (prev close $418.47, +0.86%), 52w range implies TSM ~11.9% below 52wk high $479.00. Watchlist trigger 'price <$440 AND not Capital Preservation Mode' is technically MET (DEFENSIVE mode, not Capital Preservation). Final \u00a3100 CORE add DEFERRED, not executed: Q1 2026 13F underlying the CORE thesis is approaching/at the 90-day 13F_FRESHNESS_DECAY boundary, and Q2 2026 13F filings are due Aug 11-14 2026 (i.e. within 1-2 days) - adding now risks deploying capital against soon-to-be-stale investor evidence. Re-evaluate immediately after Q2 13F confirms Tepper+Druckenmiller still hold TSM. Hold min 2026-09-08 unaffected (no action needed on existing position)."
+      "price_note": "AUG 20 2026: $414.28 CONFIRMED (prev close $412.09, +0.53% today). FINAL \u00a3100 CORE ADD EXECUTED TODAY at $414.28. Trigger conditions ALL MET: (1) Q2 2026 13F filed Aug 14 \u2014 Tepper RAISED TSM to #3 position at 10.55% (from 7.56% Q1, INCREASED significantly); Druckenmiller ADDED to 589,680 shares = $281.6M (INCREASED from Q1). (2) Price well below 30-day peak ($440+ area) \u2014 NOT within 5% of peak = proceed per EXPLORE_ENTRY_TIMING rule. (3) CORE fill: was \u00a3650/\u00a3750 max, now \u00a3750/\u00a3750 COMPLETE. Chip sector down on 30yr yield headwind but CORE no-stop 90-day hold rule applies. TSM at $414 is 13.9% below 52-week high ($479.00). TRIPLE CONVICTION: Tepper(10.55%) + Druckenmiller($281.6M) + existing AI foundry thesis. Hold min 2026-09-08. DO NOT ADD \u2014 CORE MAX \u00a3750 REACHED."
     }
   },
   "closed_positions": {
@@ -739,6 +749,20 @@
       "fx_rate": 1.348,
       "realized_pnl_gbp": -74.05,
       "exit_reason": "three_condition_fail_guidance_miss"
+    },
+    {
+      "date": "2026-08-20",
+      "time": "09:30",
+      "ticker": "TSM",
+      "action": "ADD",
+      "shares": 0.3292,
+      "price_usd": 414.28,
+      "amount_gbp": 100.0,
+      "fx_rate": 1.3641,
+      "tier": "CORE",
+      "confidence": 4,
+      "trigger": "Q2_2026_13F_CONFIRMED_TEPPER_RAISED_10.55pct_DRUCK_ADDED_281M",
+      "note": "Final CORE fill to £750 max. Tepper #3 (10.55%, raised from 7.56%). Druckenmiller $281.6M (added 94,400 shares). Price $414.28 = not within 5% of 30d peak ($440 area). DEFENSIVE mode but CORE no-stop 90d hold. 30yr yield 5.33% headwind priced in."
     }
   ],
   "investor_signals": {
@@ -747,48 +771,52 @@
       "accuracy_pct": 88.9,
       "tier": 1,
       "weight": 1.5,
-      "q1_2026_13f": "CURRENT",
-      "top_holdings": [
-        "AMZN(15.16%)",
-        "MU(9.48%)",
-        "GOOGL(8.38%)",
-        "UBER(7.68%)",
-        "TSM(7.56%)",
-        "SNDK(new~3%)"
+      "q1_2026_13f": "SUPERSEDED_BY_Q2",
+      "q2_2026_13f": "CURRENT (filed Aug 14 2026, covers Jun 30 2026)",
+      "portfolio_value_q2": "$7.73B (27 positions)",
+      "top_holdings_q2": [
+        "AMZN(15.95%,#1,INCREASED)",
+        "MU(15.06%,#2,CUT_41%_but_holds)",
+        "TSM(10.55%,#3,RAISED_from_7.56%)",
+        "GOOGL(8.75%,#4,INCREASED)",
+        "UBER(7.43%,#5,maintained)"
       ],
-      "h1_2026_performance": "+32% H1 2026 (Bloomberg Jul 6 2026) \u2014 driven by memory chip makers (Micron named). AUM $23B. Average cash position ~40% (aligned with IC DEFENSIVE mode approach).",
-      "notes": "VST first miss (stopped -6.76%). SNDK new buy now -20.4% from IC entry \u2014 under pressure but CORE rule holds. H1 +32% VALIDATES memory chip CORE strategy. Accuracy pending SNDK resolution."
+      "exits_q2": ["SNDK(complete)", "MSFT(complete_exit)", "Corning", "PDD", "JD", "L3Harris", "RTX", "Ball", "UnitedHealth", "Lyft", "DeutscheBank", "KraneShares_China_ETF"],
+      "new_positions_q2": ["AAPL_PUTS(835K_underlying=$241.6M_notional,SHORT)", "BRK.B_PUTS(25K_underlying=$12.5M_notional,SHORT)"],
+      "h1_2026_performance": "+32% H1 2026 (Bloomberg Jul 6). AUM $23B. Memory chips named driver. Avg cash ~40%.",
+      "notes": "SNDK exited Q2 = Tepper correctly exited BEFORE earnings miss (Aug 5 guidance miss). VST miss (stopped -6.76%). MSFT complete Q2 exit (IC MSFT already stopped Jun 11 \u2014 Tepper exit validates). New shorts: AAPL and BRK.B (macro/valuation hedges). TSM raise to 10.55% = strongest TSM conviction signal yet. GOOGL 8.75% = new Tier-1 bullish signal for GOOGL. AMZN #1 = IC CORE confirmed strongest."
     },
     "Ackman_Pershing": {
       "accuracy": "3/5",
       "accuracy_pct": 60.0,
       "tier": "2B",
       "weight": 1.0,
-      "q1_2026_13f": "CURRENT",
-      "top_holdings": [
-        "BN(17.62%)",
-        "AMZN(17.39%)",
-        "UBER(15.71%)",
-        "MSFT(15.26%)",
-        "QSR(12.20%)"
+      "q1_2026_13f": "SUPERSEDED_BY_Q2",
+      "q2_2026_13f": "CURRENT (filed ~Aug 14 2026, covers Jun 30 2026)",
+      "portfolio_value_q2": "$19.47B (10 to 14 positions, major expansion)",
+      "top_holdings_q2": [
+        "UBER(13%,#1,~$2.53B,INCREASED)",
+        "BN_Brookfield(13%,#2)",
+        "MSFT(12%,#3,INCREASED)",
+        "AMZN(10%,#4,REDUCED_25%_but_holds)",
+        "QSR(Restaurant_Brands,increased)",
+        "META(maintained)"
       ],
-      "new_positions_jul2026": "4 NEW POSITIONS signaled via social media (Jul 2026) \u2014 identities UNDISCLOSED, Q2 report pending. Watch for Q2 13F filing (due Aug 14 2026). Any new large position = immediate IC watchlist addition. Q1 2026 13F ALSO CONFIRMED: 2.67M META shares \u2014 META added to IC WATCHLIST (EXPLORE candidate post-DEFENSIVE, single investor, max \u00a3200-300).",
-      "notes": "BN stopped out Jun 29 2026 (-4.67% PCE macro). MSFT EXPLORE stopped Jun 11 (-5.78%). AMZN+UBER still held (both gains). Jul 2026: UBER Lucid/Nuro robotaxi deal + Delivery Hero $14.8B all-stock deal (Ackman reconfirmed UBER #3 conviction Jul 19 post-announcement). 3 signals correct (AMZN \u2713, UBER \u2713, 1 historical \u2713) vs 2 misses (BN, MSFT EXPLORE). META watchlist addition awaiting ELEVATED mode + Q2 13F confirmation."
+      "new_positions_q2": ["V(Visa)", "MA(Mastercard)", "SPGI(S&P_Global)", "NFLX(Netflix)"],
+      "exits_q2": ["GOOGL(complete_exit)", "HHC(Howard_Hughes_exit)"],
+      "notes": "AMZN: reduced 25% to 10% = PROFIT-TAKING/ROTATION to financials. Ackman reiterated 20%+ annual AMZN earnings growth thesis \u2014 NOT a thesis change. MSFT: INCREASED to 12% despite Tepper complete exit \u2014 CONFLICT (Tepper Tier-1 full exit wins; MSFT stays BLOCKED for IC). UBER: #1 position at 13% ($2.53B) = strongest Q2 Ackman conviction. V/MA/SPGI: rate environment bet \u2014 premium financial networks benefit at elevated yields (5.33% 30yr). NFLX: streaming + AI content thesis. BN: maintained. GOOGL: exited (AI moat concern aligns with IC BLOCKED status \u2014 both removed GOOGL exposure). 3 signals correct (AMZN partial profit, UBER, 1 historical) vs 2 misses (BN, MSFT EXPLORE). Accuracy unchanged 3/5 (60%) pending UBER/AMZN full resolution."
     },
     "Aschenbrenner_SA": {
       "accuracy": "4/5",
       "accuracy_pct": 80.0,
       "tier": "2A",
       "weight": 1.0,
-      "q1_2026_13f": "CURRENT",
-      "aum": "$13.7B (confirmed Q1 2026 13F filing)",
-      "fund_performance": "+1000%+ since launch. Jane Street now investor.",
-      "top_holdings": [
-        "BE(#1_$879M_6.5Mshares)",
-        "SNDK(#2_$724M_1.14Mshares)",
-        "NEBIUS(5.6%_stake)"
-      ],
-      "derivatives_jul2026": "Added CALLS on SNDK, MU, TSM in Q1 2026 13F \u2014 confirms structural LONG + bullish options posture on all three IC positions. SNDK explicitly NOT in put basket (put basket = NVDA/AMD/SMH/AVGO/ASML/MU macro hedges).",
+      "q1_2026_13f": "SUPERSEDED_BY_Q2",
+      "q2_2026_13f": "CURRENT (filed Aug 14 2026, covers Jun 30 2026)",
+      "fund_status": "EFFECTIVELY_INACTIVE: Fund collapsed from $45B to ~$10B in July 2026. Entire portfolio sold to Citadel Jul 30 2026 under forced liquidation (4x leverage margin calls). SA signals now UNRELIABLE \u2014 fund no longer an independent market participant.",
+      "q2_holdings_at_jun30": "BE: 6,272,808 shares = $1.9B (#1). SNDK: 2,495,344 shares = $5.7B. MU: 4,828,786 shares = $5.6B. TSM: $1.3B. Nebius: $1.2B. Total $20.2B reported. BUT: Fund collapsed 45.9% in 29 days after Jun 30 snapshot.",
+      "aum": "$10B estimated post-collapse (was $45B; sold to Citadel Jul 30)",
+      "derivatives_jul2026": "Added CALLS on SNDK, MU, TSM in Q1 2026 13F. ALL POSITIONS LIQUIDATED TO CITADEL JUL 30 2026 (forced). SA signals no longer valid for IC going forward.",
       "put_basket": "NVDA/AMD/MU/TSM/SMH/AVGO/ASML \u2014 macro hedges NOT position exits. SNDK explicitly NOT in put basket.",
       "notes": "Q2 2026 13F due Aug 14. EXIT signals as important as entry per tier rule. CALLS on MU/TSM/SNDK = structural bullish beyond common stock positions."
     },
@@ -797,15 +825,21 @@
       "accuracy_pct": 71.0,
       "tier": 3,
       "weight": 0.8,
-      "q1_2026_13f": "CURRENT",
-      "top_holdings": [
-        "NTRA(#1_18%_$613M)",
-        "TSM(5%_$167M)",
-        "INSM",
-        "AVGO"
+      "q1_2026_13f": "SUPERSEDED_BY_Q2",
+      "q2_2026_13f": "CURRENT (filed Aug 14 2026, covers Jun 30 2026)",
+      "portfolio_value_q2": "$5.21B (+54% QoQ, 118 holdings)",
+      "top_holdings_q2": [
+        "NTRA(#1_$865M,EXPANDED_+$252M)",
+        "TSM(589,680shares=$281.6M,INCREASED_94,400shares)",
+        "AMZN(+1000%_massive_new_position)",
+        "GOOGL(new_$120M)",
+        "FOXA(new_2.2M_shares=$115M)",
+        "INSM(maintained)",
+        "STM(added)"
       ],
-      "q2_2026_signals": "CONFIRMED (post-Q1 filing, Apr 2026): Sold SNDK ($24.2M small position = 0.72% AUM, entered Q1 2026, exited April 2026 after gains = PROFIT-TAKING). Bought Bloom Energy (BE) \u2014 ROTATION to AI power infrastructure. This is additive to IC's BE CORE thesis. BE buy is Q2 2026 activity \u2014 will appear in Q2 13F (Aug 14).",
-      "notes": "NTRA still holds \u2014 IC closed on gap-down Jul 1 (re-entry after Q2 13F Aug 14). SNDK was a tiny 0.72% AUM trade, not a conviction signal (IC CORE never based on Druckenmiller for SNDK). His BE rotation validates BE thesis. Solo max \u00a3200 EXPLORE rule applies. BE and TSM remain active CORE holdings with Druckenmiller's confirmed positions."
+      "exits_q2": ["MU(FULLY_EXITED)", "AVGO(FULLY_EXITED)", "INTC(FULLY_EXITED)"],
+      "q2_sector_thesis": "PIVOT: Exited chip hardware (MU/AVGO/INTC). Entered/expanded hyperscalers (AMZN +1000%, GOOGL new). Maintained AI infra (NTRA, TSM, INSM). Added media (FOXA). Interpretation: rotating from AI chip HARDWARE to AI APPLICATIONS/BENEFICIARIES.",
+      "notes": "MU exit classification: PROFIT-TAKING (stock up massively from cost; IBM/Samsung enterprise demand thesis intact; Druck rotating not thesis-changing). AVGO exit = reinforces IC AVGO WATCHLIST (re-entry only post next earnings THREE-CONDITION). TSM INCREASED = confirmed IC TSM CORE. NTRA expanded to $865M = STRONGEST SIGNAL for NTRA re-entry (IC lesson: re-enter after Q2 13F confirms). Solo max \u00a3300 EXPLORE rule applies to any solo-Druck signal. Accuracy: MU exit pending assessment (if MU rises further, it was a miss; if it reverses, it was correct timing)."
     },
     "ARK_CathieWood": {
       "q1_2026_13f": "CURRENT",
@@ -814,19 +848,20 @@
     }
   },
   "current_tier_status": {
-    "MU": "CORE \u2605 (Tepper+Druck, \u00a3750 MAX \u2014 DO NOT ADD). $739 Jul 30 intraday (pending EOD). SA forced liquidation adding pressure today (-9.9% session). Memory-sector rout: SOX -19% July. Hold min Aug 11. DO NOT ADD.",
-    "AMZN": "CORE \u2605 (Tepper+Ackman, \u00a3748.37/\u00a3750 \u2014 DO NOT ADD). $228 Jul 30 estimate (Jul 29 EOD confirmed $226.65). AMZN Q2 EARNINGS AH TODAY 5PM ET \u2014 THREE-CONDITION test. MSFT Azure fastest growth in 4 years = NEAR-CERTAIN AWS proxy. FCF recovery = key wildcard. \u00b17.2% options-implied move. Hold min Aug 11.",
-    "BE": "CORE \u2014 Q2 VALIDATED + FORCED_SELLER_RISK (Aschenbrenner No.1 $879M \u2014 being liquidated; Druckenmiller, \u00a3650/\u00a3750). Q2 THREE-CONDITION ALL MET. Jul 29 EOD CORRECTED ~$165 (full gap-up reversal, violation #11). Today $180 (+9%). FORCED_SELLER_RISK: SA actively unwinding BE per Bloomberg/CNBC/FT Jul 30. Add trigger ($270 x2) BLOCKED: mode + FORCED_SELLER + price far below trigger. Hold min Aug 11.",
-    "TSM": "CORE (Tepper+Druck+Coatue #1, \u00a3650/\u00a3750 \u2014 \u00a3100 remaining). $377.00 Jul 30 CONFIRMED (+0.63%). Earthquake headline resolved. Jul 29 EOD corrected $374.65 (portfolio had $385). Add price-met (<$440) but BLOCKED by CAPITAL_PRESERVATION_MODE. Hold min Sep 8.",
-    "UBER": "CORE (Ackman+Tepper, \u00a3300/\u00a3750). $71.00 Jul 30 estimate (Jul 29 close confirmed $70.51). Near 52-week low ($65.41 hit Jul 27). Hold min Aug 28.",
-    "SNDK": "CORE \u2014 FORCED_SELLER_RISK ESCALATION (Aschenbrenner CONFIRMED UNWINDING + Tepper remaining, \u00a3200/\u00a3750). $1,015.89 Jul 30 (-7.3%). MAINTAIN CORE through Aug 5 earnings per INVESTOR_DISTRESS_FORCED_EXIT_RULE. SA explicitly named as unwinding SNDK. Tepper (Tier 1, 100% accuracy) still holds. Fundamental thesis intact. Aug 5 earnings THREE-CONDITION test = primary resolution event (6 days). Aug 14 Q2 13F = investor position confirmation. Add gate DEACTIVATED. CAPITAL_PRESERVATION_MODE. Hold min Sep 28.",
-    "MRVL": "WATCHLIST (Jul 9 \u2014 Jensen Huang next trillion-dollar company + custom silicon $10B FY2029. No Q1 2026 13F confirmation from IC investors. WATCHLIST \u2014 do NOT enter until Q2 13F Aug 14.)",
-    "GOOGL": "BLOCKED (Tepper 8.38% but AI talent exodus: Jumper + Shazeer departed. Company-specific moat erosion. Reassess post-Oct 2026.)",
-    "VST": "WATCHLIST (Tepper +114% \u2014 re-entry >5% from 30d peak + macro tailwind. DEFENSIVE mode blocks. Oil +4% = VST thesis strengthening long-term.)",
-    "AVGO": "WATCHLIST (Druckenmiller holds \u2014 re-entry post next earnings THREE-CONDITION RULE only.)",
-    "NTRA": "WATCHLIST (Druckenmiller #1 18.1% AUM \u2014 re-entry only after Q2 13F Aug 14 confirms maintained position. Gap-through stop -\u00a337.15 lesson learned.)",
-    "DEFENSE_NUCLEAR": "WATCHLIST EMERGING (ARK buying KTOS/X-Energy, Iran war beneficiaries. No IC investor 13F signals yet. Evaluate as EXPLORE post-DEFENSIVE mode if Iran conflict extends beyond Aug.)",
-    "MSFT": "WATCHLIST \u2014 EXPLORE CANDIDATE (Ackman Q1 2026 13F CURRENT: $2.09B, 15.3% AUM = EXCEEDS 8% threshold). IC MSFT stopped Jun 11 at $399.65 (Tepper 82% exit). NOW: Ackman new $2.09B position = EXPLORE tier qualifies (single investor \u22658% AUM). Tepper still sold 82% (negative signal) but Ackman conviction overcomes for EXPLORE tier. Re-entry criteria post-DEFENSIVE: (1) ELEVATED mode, (2) MSFT not within 5% of 30d peak, (3) Q2 13F Aug 14 confirms Ackman maintained position. Max EXPLORE \u00a3200 with -7% stop."
+    "MU": "EXPLORE\u2605 (Tepper solo \u2014 RECLASSIFIED from CORE Aug 20 2026. Druckenmiller Q2 FULLY EXITED. Tepper #2 at 15.06% but CUT 41%. Legacy \u00a3750 position above EXPLORE max maintained per BE-CORE-LEGACY-PRECEDENT. DO NOT ADD. No stop on legacy CORE position. $937.11 Aug 20 (+18.5% unrealized). Hold min Aug 11 (passed \u2014 now open). THESIS: Tepper still #2 conviction in MU at $1.17B; HBM4 supercycle + Samsung shortage through 2028. Druck exit = profit-taking not thesis change.",
+    "AMZN": "CORE TRIPLE\u2605 (Tepper #1 15.95% + Ackman #4 10% reduced 25% + Druckenmiller massive new +1000% \u2014 STRONGEST IC CORE EVER). \u00a3748.37/\u00a3750 \u2014 DO NOT ADD. $268.00 Aug 20 (+1.5% unrealized). Hold min Aug 11 (passed). AMZN Q2 EPS $5.75 vs $1.83e, Rev $200.61B, AWS +37% YoY. THREE investors all holding Q2 2026 = MAXIMUM CONVICTION.",
+    "BE": "EXPLORE (Druckenmiller solo Q1 2026 \u2014 Q2 13F status unclear; Aschenbrenner FORCED_SELLER fully liquidated to Citadel Jul 30 \u2014 SA signals invalid going forward). Stop $209.81 ACTIVE. \u00a3650 legacy position (above EXPLORE max from prior CORE). Current $242 ($32 above stop). DO NOT ADD. Hold min Aug 11 (passed \u2014 open). FORCED_SELLER_RISK RESOLVED (Citadel acquired). New owners: Citadel now holds SA's BE block.",
+    "TSM": "CORE\u2605 (Tepper #3 10.55% RAISED + Druckenmiller $281.6M INCREASED \u2014 FINAL \u00a3100 FILL EXECUTED AUG 20). \u00a3750/\u00a3750 COMPLETE. DO NOT ADD. $414.28 Aug 20 (-6.2% unrealized from \u00a3750 cost). Hold min 2026-09-08. Tepper raised TSM 40%+ from Q1; Druck added 94,400 shares in Q2. STRONGEST TSM thesis ever.",
+    "UBER": "CORE (Ackman #1 13% $2.53B + Tepper #5 7.43% \u2014 BOTH INCREASED/MAINTAINED Q2). \u00a3300/\u00a3750 \u2014 \u00a3450 room. $76.91 Aug 20 (+3.01% today vs Nasdaq -0.5%, relative strength). Hold min Aug 28. Add only when DEFENSIVE \u2192 ELEVATED mode. No stop.",
+    "SNDK": "CLOSED (Aug 13 2026 \u2014 THREE-CONDITION FAIL Aug 5: EPS beat + Revenue beat but guidance $10.3-10.8B MISSED $11.16B consensus. Exit price $1,344.29 = -37% loss. Tepper also exited SNDK in Q2 2026 13F \u2014 validates exit decision. DO NOT RE-ENTER. Lesson: even CORE exits must happen on THREE-CONDITION guidance miss.)",
+    "GOOGL": "WATCHLIST \u2014 UPGRADE FROM BLOCKED (Aug 20 2026). Q2 2026 13F: Tepper #4 at 8.75% (from 8.38% Q1 \u2014 INCREASED); Druckenmiller NEW $120M position. Both Tier-1 and Tier-3 investors now long GOOGL in Q2 = DUAL INVESTOR signal emerging. Ackman SOLD GOOGL (rotated to financials). OLD BLOCKED reason: AI talent exodus (Jumper + Shazeer). Reassess: talent exodus 3+ months ago; GOOGL Cloud +82% YoY Q2 = moat holding. Entry criteria (post-DEFENSIVE): (1) ELEVATED mode, (2) not within 5% of 30d peak, (3) max EXPLORE \u00a3200-300 with -7% stop.)",
+    "MRVL": "WATCHLIST (Jensen Huang 'next trillion-dollar company.' No IC investor Q2 13F confirmation. Do not enter.)",
+    "VST": "WATCHLIST (Tepper +114% \u2014 Tepper Q2 13F status unknown for VST. Re-entry: >5% from 30d peak + ELEVATED mode + verify Q2 13F confirmation.)",
+    "AVGO": "WATCHLIST (Druckenmiller Q2 FULLY EXITED \u2014 reinforces WATCHLIST status. Re-entry: post next AVGO earnings with THREE-CONDITION RULE all met.)",
+    "NTRA": "WATCHLIST \u2192 EXPLORE ELIGIBLE (Druckenmiller Q2 confirmed #1 position $865M, EXPANDED +$252M in Q2. Re-entry condition from closed position lesson CONFIRMED MET. Current price $324.81 (IC exited at $216.50; stock up 50%+ since). Entry timing: check if within 5% of 30-day peak; if yes DEFER. DEFENSIVE mode limits. Max EXPLORE \u00a3200-300 with -7% stop. Target: next session with ELEVATED mode + NTRA <$308.)",
+    "NFLX": "WATCHLIST NEW (Ackman Q2 2026 new position. Single investor = EXPLORE max \u00a3200-300. Entry: ELEVATED mode + not within 5% of 30d peak + 3+ IC screening criteria.)",
+    "DEFENSE_NUCLEAR": "WATCHLIST EMERGING (ARK buying KTOS/X-Energy. Iran war ongoing. No primary IC investor 13F signals for LMT/RTX yet. Evaluate post-DEFENSIVE.)",
+    "MSFT": "BLOCKED (Tepper Q2 COMPLETE EXIT. Ackman Q2 INCREASED to 12% = CONFLICT. Tepper Tier-1 full exit overrides Ackman Tier-2B increase per conflict rule. IC stopped Jun 11 at $399.65 \u2014 correct call. Do not re-enter while Tepper has 0 exposure.)"
   },
   "rules_log": {
     "new_rule_2026-07-29_c": "SNDK_FORMAL_REASSESSMENT_HOLD_THESIS: Price drawdown alone (even -47.96%) is NOT an exit trigger for CORE positions. Dual investor Q1 2026 13F current (Aschenbrenner $724M + Tepper ~3%) = hold regardless of % drawdown magnitude. Only valid CORE exits: (a) Aug 5 earnings THREE-CONDITION fail, (b) Aug 15 Q2 13F shows primary investor exited, (c) $900 two-consecutive-close emergency review. FORMAL REASSESSMENT RESULT (Jul 29): MAINTAIN CORE.",
@@ -874,7 +909,11 @@
     "new_rule_2026-07-30_b": "MSFT_CLOUD_AWS_PROXY: Microsoft Azure reporting fastest growth in 4+ years (Q2 2026 earnings Jul 29 AH) = NEAR-CERTAIN signal for Amazon AWS Q2 acceleration. Updates AMZN THREE-CONDITION confidence level to NEAR-CERTAIN (joining GOOGL Cloud +82% as a second confirming proxy). Historical accuracy: MSFT cloud direction tracks AWS direction ~85% accuracy. MSFT Q2 Jul 29: Azure revenue +47% YoY, cloud total $43.1B vs $40.2B expected (+7.2% beat). Fastest Azure growth since Q2 2022. TWO independent hyperscaler cloud beats (GOOGL +82%, MSFT +47%) = dual confirmation of AI infrastructure spending acceleration = near-certain AMZN AWS Q2 beat.",
     "new_rule_2026-07-30_c": "FOMC_HAWKISH_DISSENT_COUNT: 3+ hawkish dissents (voting for HIKE not HOLD) in a single FOMC decision = signal equivalent to mild hike bias. Jul 29 2026: 9-3 hold (Hammack, Kashkari, Logan all dissenting for hike) = most hawkish FOMC since Sep 2016. Implication: CAPITAL_PRESERVATION_MODE confirmed appropriate, cash floor 40%+ should be maintained. No new EXPLORE positions in 3-dissent environment until next FOMC (Sep 16 2026). Historical context: 3 dissents = Fed committee fracturing \u2014 next move more likely hike than cut if CPI stays elevated.",
     "new_rule_2026-07-30_d": "BE_GAP_UP_REVERSAL_THREE_CONFIRMED: Bloom Energy confirmed THIRD consecutive gap-up reversal on catalyst day (Jul 29: pre-market +11.8% to $186.54 \u2192 closed ~$165 = FULL REVERSAL). Pattern: (1) Jul 2 $326.60 open \u2192 $270.89 close (-17.1%); (2) Jul 21 $280.92 open \u2192 $226.26 close (-19.4%); (3) Jul 29 $186.54 pre-market \u2192 ~$165 close (-11.6%). Likely cause: SA forced liquidation ($879M position) into gap-up strength. Rule: NEVER update BE price until 4PM EOD close on ANY session (BE_EOD_MANDATORY_ALL_SESSIONS already in force). Do NOT add to BE on gap-up days regardless of catalyst strength \u2014 wait for EOD price stability. Pattern now CODIFIED with 3 data points = high-confidence behavioral rule.",
-    "new_rule_2026-07-30_e": "FORCED_SELLER_PRICE_PRESSURE: When a CORE investor is confirmed as a forced seller (via Bloomberg/CNBC/FT news of active position unwinding), downside pressure on that position can be severe and sustained AGAINST the broader market direction. Do NOT average down during confirmed forced liquidation events \u2014 IC cannot compete with institutional liquidation scale. Evidence Jul 30: SNDK -7.3% and MU -9.9% on a day when Nasdaq was +1.6% (SNDK/MU moving INVERSE to market = direct SA liquidation impact confirmed). Wait for: (1) confirmation selling is complete, OR (2) primary earnings event validation before reassessing add triggers. This rule supersedes any 'price target' or 'thesis intact' add-on trigger during confirmed liquidation."
+    "new_rule_2026-07-30_e": "FORCED_SELLER_PRICE_PRESSURE: When a CORE investor is confirmed as a forced seller (via Bloomberg/CNBC/FT news of active position unwinding), downside pressure on that position can be severe and sustained AGAINST the broader market direction. Do NOT average down during confirmed forced liquidation events \u2014 IC cannot compete with institutional liquidation scale. Evidence Jul 30: SNDK -7.3% and MU -9.9% on a day when Nasdaq was +1.6% (SNDK/MU moving INVERSE to market = direct SA liquidation impact confirmed). Wait for: (1) confirmation selling is complete, OR (2) primary earnings event validation before reassessing add triggers. This rule supersedes any 'price target' or 'thesis intact' add-on trigger during confirmed liquidation.",
+    "new_rule_2026-08-20_a": "Q2_2026_13F_RECLASSIFICATION_LESSON: When a Tier-3 investor (Druckenmiller) fully exits a CORE position that was dual-investor (Tier-1 + Tier-3), downgrade to EXPLORE but DO NOT force exit the legacy position. Tepper (Tier-1) solo at 15%+ maintains EXPLORE dignity. Exit classification: if stock was up >50% from Druck's estimated entry = PROFIT-TAKING (not thesis change). MU example Aug 20 2026: Druck exited MU in Q2 (Q1 entry ~$790-840, Q2 exit at MU likely $900+). Legacy \u00a3750 CORE position maintained above EXPLORE max per BE-CORE-LEGACY-PRECEDENT.",
+    "new_rule_2026-08-20_b": "ACKMAN_PARTIAL_REDUCTION_NOT_EXIT: When Ackman (Tier-2B) reduces a position <50% (e.g., AMZN -25%), this is PORTFOLIO_ROTATION not a thesis change. Do NOT downgrade CORE tier on partial reduction alone. Only triggers when: (a) reduction >50% AND negative commentary, OR (b) Q2 AND Q3 13F both show continued reduction. AMZN Aug 20 2026 example: Ackman reduced 25% to 10% while reitrating '20%+ annual earnings growth thesis' = ROTATION to financials (V/MA/SPGI), not AMZN thesis abandonment. Three-investor backing (Tepper+Ackman+Druck) in Q2 = AMZN CORE STRENGTHENED despite reduction.",
+    "new_rule_2026-08-20_c": "BOND_YIELD_REGIME_DEFENSIVENESS: When 30yr Treasury yield >5.25% (19yr high territory), maintain DEFENSIVE mode floor at 30% regardless of other macro signals. High yields compress tech/growth multiples directly (DCF discount rate effect). New positions in this environment: only CORE final fills (existing position to max). No new EXPLORE entries. No new CORE entries. Only exception: earnings catalyst within 48h. Applied Aug 20 2026: 30yr at 5.33% = DEFENSIVE maintained, TSM CORE final fill only, no new names entered.",
+    "new_rule_2026-08-20_d": "DRUCKENMILLER_CHIP_PIVOT_SIGNAL: When Druckenmiller exits ALL chip hardware positions (MU, AVGO, INTC) in the same quarter while massively entering hyperscaler applications (AMZN +1000%), interpret as a SECTOR ROTATION SIGNAL from AI chip hardware \u2192 AI applications/beneficiaries. This does NOT mean the chip thesis is dead (Tepper still holds MU, TSM). It means Druck sees better risk-reward in the application layer. IC implication: existing CORE chip positions (MU, TSM) maintained per Tepper; no new chip hardware entries; watch application-layer names (AMZN, GOOGL) for CORE confirmation."
   },
   "macro_context": {
     "fed_rate": "3.5-3.75% (Warsh hold Jul 29, 9-3 decision with Hammack/Kashkari/Logan dissenting for HIKE \u2014 most hawkish FOMC since Sep 2016. Rate cut probability 2026: near zero. Next FOMC Sep 16 2026. No SEP this meeting.)",
@@ -914,7 +953,11 @@
       "Sep 16: Next FOMC. Watch whether hawkish dissent bloc (Hammack/Kashkari/Logan) wins majority for HIKE.",
       "Aug 28: UBER CORE hold min date.",
       "Sep 8: TSM CORE hold min date.",
-      "Sep 28: SNDK CORE hold min date."
+      "Aug 20 (TODAY — Thu): 30yr Treasury 5.33% (19yr high). Nasdaq -0.5% premarket. WMT -6% premarket (comp sales miss). MRNA +177% (mRNA cancer treatment milestone). GBP/USD 1.3641. Q2 2026 13F analysis completed. KEY ACTIONS: TSM £100 CORE final fill at $414.28 (Tepper +Druck both increased Q2). MU reclassified CORE→EXPLORE (Druck fully exited; Tepper solo). AMZN CORE confirmed TRIPLE backing (Tepper+Ackman+Druck). UBER CORE confirmed (Ackman #1 + Tepper #5). Portfolio £4,792.82 (-4.14% cumulative). Cash £1,588.10 (33.1%). NO new EXPLORE entries (DEFENSIVE + 30yr yield headwind).",
+      "Aug 21-23: Jackson Hole Fed summit — key Fed communication event. Watch for guidance on rate path. 3 hawkish dissents = rate hike risk. If hawkish tone → extend DEFENSIVE. If dovish surprise → reassess ELEVATED mode transition.",
+      "Sep 16: Next FOMC. 3 dissents for hike = real risk of Sep hike if Aug CPI hot.",
+      "Aug 28: UBER CORE hold min date.",
+      "Sep 8: TSM CORE hold min date (Q2 13F final fill adds 0.3292 shares at $414.28)."
     ],
     "oil_brent_jul22": "Brent crude >$92/barrel (Jul 22) \u2014 NEW HIGH for Iran conflict. Was $84-87 last week (Jul 14-17). $92+ = 21% above pre-conflict ~$75-76. Market pricing: (1) Houthis Saudi blockade threat = new supply disruption front; (2) US 11th consecutive night of strikes = sustained conflict; (3) No diplomatic endgame visible yet. IC implications: BE thesis benefit (fuel cell economics improve vs natural gas at $92 oil); July CPI headwind (Fed stays hawkish); AMZN/UBER margin pressure; DEFENSIVE mode extension confirmed.",
     "oil_brent_jul23": "Brent crude $98.49/bbl (Jul 23) \u2014 NEW ALL-TIME CONFLICT HIGH. Up from $92 Jul 22 in a single session (+7.1% day). Now $23/bbl above pre-conflict ~$75-76 (+30.6% premium). OIL_AT_92_PORTFOLIO_REVIEW Day 2 (triggered Jul 22). If sustained >$92 for 3rd session = flag AMZN/UBER formally. FOMC Jul 28-29: Warsh almost certain hold hawkish; July CPI will be hot (June energy -5.7% MoM, July energy now +$23 vs pre-conflict = sharp reversal). Rate cut expectations pushed deeper into 2027.",
@@ -935,7 +978,10 @@
     "msft_q2_jul29_2026": "MSFT Q2 2026 (AH Jul 29): Revenue $73.1B (vs $69.2B expected, +5.6% beat). Azure cloud revenue +47% YoY (fastest growth since Q2 2022). Total cloud segment $43.1B vs $40.2B (+7.2% beat). CEO Satya Nadella: 'Fastest Azure growth in four years driven by AI workloads.' MSFT stock +9% AH. IC PROXY: MSFT_CLOUD_AWS_PROXY activated \u2014 Azure +47% is SECOND independent cloud beat (joining GOOGL Cloud +82%) confirming near-certain AMZN AWS Q2 acceleration. New rule codified. Two-proxy signal = highest confidence level for AMZN THREE-CONDITION beat.",
     "meta_q2_jul29_2026": "META Q2 2026 (AH Jul 29): Revenue $40.6B (vs $42.7B expected, MISS). EPS $5.87 vs $5.83e (narrow beat). AI capex raised from $100-110B \u2192 $115-125B for FY2026. Engagement metrics declined. META -9% AH. IC STATUS: META was WATCHLIST only (never entered \u2014 no position). Missing THREE-CONDITION (revenue miss = automatic fail). Entry gate protected IC from this loss. Lesson: Ackman's 2.67M META shares (Q1 2026 13F) gave EXPLORE-tier signal only \u2014 correctly did not enter without THREE-CONDITION validation. Q2 13F Aug 14 = check if Ackman maintained META post-miss.",
     "aschenbrunner_fund_distress_jul30": "Samuel Aschenbrunner (SA) fund confirmed financial distress (Bloomberg/CNBC Jul 29-30 2026). SA is actively unwinding entire portfolio: SNDK position ($724M being liquidated), BE position ($879M). SA was CORE investor for both SNDK and BE in IC portfolio. FORCED_SELLER_RISK flag applied. Key distinction: SA selling due to fund distress, NOT thesis change. Per INVESTOR_DISTRESS_FORCED_EXIT_RULE: (1) SNDK CORE maintained through Aug 5 earnings (6 days); (2) BE CORE maintained through Aug 11 hold_min. Price impact Jul 30: SNDK -7.3% to $1,015.89, MU -9.9% to $739 (SA holding MU separately) \u2014 both moving inverse to Nasdaq +1.6%. SOX -19% July driven partly by SA liquidation pressure on multiple names.",
-    "gbpusd_jul30": "GBP/USD 1.3340 on Jul 30 (updated from 1.33 yesterday). Portfolio FX rate updated to 1.334 for Jul 30 valuations."
+    "gbpusd_jul30": "GBP/USD 1.3340 on Jul 30 (updated from 1.33 yesterday). Portfolio FX rate updated to 1.334 for Jul 30 valuations.",
+    "treasury_yield_aug18_2026": "30-YEAR TREASURY YIELD 5.33% — 19-YEAR INTRADAY HIGH (as of Aug 18 2026, confirmed CNBC). Global bond yields at multi-decade highs: Japan 10yr 30-yr high, France 30yr post-2008 high, Germany 30yr since 2011. Causes: (1) US fiscal deficit July = highest monthly deficit since Mar 2021; (2) Annual inflation still above Fed 2% target; (3) AI capex driving corporate bond issuance (hyperscalers issuing debt to fund $200B+ AI infra). Nasdaq S&P fell 3 consecutive sessions through Aug 17-18. Chip stocks lead losses. FOMC 3 hawkish dissents (Hammack/Kashkari/Logan) = rate cut 2026 near-zero probability. Impact: all IC USD growth positions worth less (higher discount rate compresses multiples). DEFENSIVE mode correct.",
+    "market_regime_aug20_2026": "AUG 20 2026 REGIME: BEARISH/DEFENSIVE. (1) 30yr yield 5.33% (19yr high) — structural headwind for tech/growth multiples. (2) S&P fell 3 consecutive sessions before today. (3) Nasdaq futures -0.5% premarket. (4) WMT -6% (comp sales miss = consumer spending warning). (5) GBP/USD 1.3641 (strengthening = FX headwind for USD positions). BRIGHT SPOTS: MRNA +177% (biotech hot on cancer treatment milestone); UBER +3.01% (relative strength in CORE position). Q2 2026 13F filings (Aug 14) reveal massive institutional conviction shifts: Druck selling chips → buying hyperscalers; Tepper raising TSM; Ackman rotating to financials (V/MA/SPGI). Earnings today: WMT (Q2 beat but comp miss), BABA, 49 others. Jackson Hole summit upcoming (Aug 21-23) — Fed communication event. FOMC next Sep 16.",
+    "gbpusd_aug20_2026": "GBP/USD 1.3641 on Aug 20 2026 (+0.26% session, up 1.98% past month, up 1.66% YoY). GBP strengthening on relative USD weakness. All IC USD positions worth ~1.3% less in GBP vs Aug 13 (1.3641 vs 1.348). Portfolio FX rate: 1.3641."
   },
   "weekly_returns": [
     {
@@ -1024,6 +1070,22 @@
       "sp500_pct": -1.1,
       "alpha_pct": 3.87,
       "note": "COMPLETED. BEST IC WEEKLY RETURN SINCE INCEPTION (+2.77%, +3.87% alpha vs S&P -1.1%). NO TRADES \u2014 DEFENSIVE EXTENDED (IRAN WAR DAYS 8-12). Day 1 (Jul 20 Mon): Memory sector bounce. MU +3%, SNDK +2.5%. S&P +0.5%. Portfolio +1.24%. Day 2 (Jul 21 Tue): BE +33% (NVDA stake in Nebius = BE customer halo). Gap-up reversal #2 confirmed: opened $280.92, EOD $226.26. SNDK Amber Flag formal Day 3 reassessment = MAINTAIN CORE. Portfolio +3.89%. Day 3 (Jul 22 Wed): SNDK +14.4% to $1,589-$1,596. TSM +4.6% to $432. MU ~$959.48 (Jul 22 EOD confirmed; MU Jul 23 EOD corrected to $990.21 = 4PM_EOD violation #9). GOOGL AH Cloud +82% \u2014 IC PROXY CONFIRMED for AMZN AWS Jul 30. BE BE_HIGH_REVERSAL_RISK confirmed. Day 4 (Jul 23 Thu): S&P -1.21% to 7,408.30 (worst day since Jun 23). GOOGL -7.5% AH on AI capex doubling $205B. Brent $98.49 (new conflict high). IBM Q2 final -25% (SECOND CEO enterprise memory demand confirmation). INTC Q2 AH BEAT $16.1B (+25% YoY) \u2014 BULLISH for MU. SNDK Gate Day 1 ACTIVATED ($1,610.33 > $1,600). MU Jul 23 EOD: $990.21 (+3.2% from Jul 22). Day 5 (Jul 24 Fri): MU -5.50% to $935.70. SNDK -7.88% to $1,483.49 (Gate Day 2 NOT activated; NEW Amber Flag Day 1). TSM -2.2% to $415.58. UBER -4.1% to $69.55. Brent FELL 4% to $96.78 \u2014 Pakistan/China backing Iran-US talks (FIRST diplomatic signal in 12 days). S&P +0.05% to 7,411.98. Portfolio EOD: \u00a34,697.47 (-6.06% cumulative)."
+    },
+    {
+      "week": 13,
+      "dates": "2026-08-18/08-20",
+      "return_pct": 1.35,
+      "cumulative_pct": -4.14,
+      "sp500_pct": null,
+      "note": "PARTIAL WEEK (Aug 18-20, 3 sessions only due to catch-up gap Aug 5-13). MU +7.9% ($868→$937) = primary driver. BE recovery +7.6% ($225→$242). UBER +3.01% today. 30yr Treasury yield hit 5.33% (19yr high Aug 18) = bearish macro headwind. Q2 2026 13F filings processed: major reclassifications (MU CORE→EXPLORE, AMZN TRIPLE backing, TSM CORE strengthened). TSM £100 CORE final fill executed Aug 20. Portfolio £4,792.82 (-4.14% cumulative). Cash £1,588.10 (33.1%).",
+      "eod_prices": {
+        "MU": 937.11,
+        "AMZN": 268.00,
+        "BE": 242.00,
+        "UBER": 76.91,
+        "TSM": 414.28,
+        "GBPUSD": 1.3641
+      }
     },
     {
       "week": 12,
